@@ -4,7 +4,7 @@ Single prompt response (batch)
 Chatting with the API (with no memory)
 Chatting with the API (with memory)
 
-Try out these steps in Llamindex or DsPy
+Try out these steps in Llamaindex or DsPy
 
 Look at Policy Pulse Repo 1:
 

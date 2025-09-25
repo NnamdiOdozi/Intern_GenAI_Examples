@@ -47,4 +47,5 @@ dependencies = [
     "langchain>=0.2.11",
     "tqdm>=4.67.1",
     "cachetools>=5.5.2",
+    "openai>=1.107.1",
 ]
