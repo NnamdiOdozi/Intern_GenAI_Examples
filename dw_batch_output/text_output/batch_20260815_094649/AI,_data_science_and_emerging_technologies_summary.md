@@ -1,0 +1,3 @@
+<!-- batch_metadata: {"prompt_hash": "d4ffdb07", "batch_timestamp": "20260815_093638"} -->
+
+{"description": "This document provides an overview of the AI, Data Science and Emerging Technologies Practice Board within the Institute and Faculty of Actuaries (IFoA). It outlines the board's purpose, formation, leadership, and focus on integrating AI and data science into actuarial practice through research, education, and professional development. The document also highlights the board's vision to become a center of excellence in emerging technologies.", "authors": "Not found", "area_of_practice": "Multiple", "dataset": "N/A", "dataset_modality": "N/A", "code_available": "No", "ml_ai_technique": "Not found", "learning_paradigm": "Not found"}

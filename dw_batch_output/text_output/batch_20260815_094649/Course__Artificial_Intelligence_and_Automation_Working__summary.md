@@ -1,0 +1,3 @@
+<!-- batch_metadata: {"prompt_hash": "d4ffdb07", "batch_timestamp": "20260815_093638"} -->
+
+{"description": "The document provides information about the Artificial Intelligence and Automation Working Party established by the IFoA, focusing on how AI and automation will impact the future role of life and health actuaries. It highlights the working party's objectives to explore evolving actuarial practices in areas such as pricing, product design, reserving, ALM, capital management, and investment.", "authors": "Not found", "area_of_practice": "Multiple", "dataset": "N/A", "dataset_modality": "N/A", "code_available": "No", "ml_ai_technique": "Not found", "learning_paradigm": "Not found"}

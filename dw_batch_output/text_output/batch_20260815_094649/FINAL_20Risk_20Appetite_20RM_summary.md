@@ -1,0 +1,3 @@
+<!-- batch_metadata: {"prompt_hash": "d4ffdb07", "batch_timestamp": "20260815_093638"} -->
+
+{"description": "This document is a presentation by Ruth Middleton from EY, discussing risk appetite frameworks in the context of life insurers. It covers definitions, terminology, benefits, challenges, and future considerations for implementing and embedding risk appetite within organizations, with a focus on cyber risk as a case study.", "authors": "Ruth Middleton", "area_of_practice": "Risk Management", "dataset": "N/A", "dataset_modality": "N/A", "code_available": "No", "ml_ai_technique": "N/A", "learning_paradigm": "N/A"}

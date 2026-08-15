@@ -1,0 +1,34 @@
+{
+  "prompt_hash": "d4ffdb07",
+  "timestamp": "20260815_093638",
+  "model": "Qwen/Qwen3-VL-30B-A3B-Instruct-FP8",
+  "files": {
+    "summary-0001__IFoA_DSSCC_Part_1_Green_Bonds__5BNov_2023_5D": {
+      "safe_filename": "0001__IFoA_DSSCC_Part_1_Green_Bonds__5BNov_2023_5D"
+    },
+    "summary-2401.16985v1": {
+      "safe_filename": "2401.16985v1"
+    },
+    "summary-AI,_data_science_and_emerging_technologies": {
+      "safe_filename": "AI,_data_science_and_emerging_technologies"
+    },
+    "summary-AI_Automation_Short_Term_output_-_final": {
+      "safe_filename": "AI_Automation_Short_Term_output_-_final"
+    },
+    "summary-Actuarial_Modelling_in_the_Age_of_AI_Agents": {
+      "safe_filename": "Actuarial_Modelling_in_the_Age_of_AI_Agents"
+    },
+    "summary-C9_From_Spreadsheets_to_Sparks": {
+      "safe_filename": "C9_From_Spreadsheets_to_Sparks"
+    },
+    "summary-Course__Artificial_Intelligence_and_Automation_Working_": {
+      "safe_filename": "Course__Artificial_Intelligence_and_Automation_Working_"
+    },
+    "summary-ErsatzModelTests10_20paper": {
+      "safe_filename": "ErsatzModelTests10_20paper"
+    },
+    "summary-FINAL_20Risk_20Appetite_20RM": {
+      "safe_filename": "FINAL_20Risk_20Appetite_20RM"
+    }
+  }
+}
