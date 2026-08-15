@@ -1,8 +1,8 @@
-Extract the following information from the PDF docs in this folder and place each of them in itw own field in a timestamped csv file called IFOA_AI_Papers_Timestamp 
+Extract the following information from the PDF docs in this folder and place each of them in its own field in a timestamped csv file called IFOA_AI_Papers_Timestamp 
 that you should ouptut to the same folder.  You can find the topic and subtopics in the pdf document called 
 Intern_GenAI_Examples/ifoa_downloads/practical-applications-of-ai-for-investment-actuaries-working-party-terms-of-reference.pdf.  There is a file called urls.txt that has the URLs for all the documents ad you will need to copy these across to the final csv file
 
-My recommendation is that either a Sonnet calibre model or better does the task by itself or if it delegates the task to Haiku and then reviews what Haiku has done thereafter
+My recommendation is that either a Sonnet-calibre model or better does the task by itself or if it delegates the task to Haiku and then reviews what Haiku has done thereafter
 
 To save on tokens you should use your shell and filesystem tools to the greatest extent possible and avoid full document uploads to the LLM.  
 So the efficient version would be to do: for example pdftotext each PDF, grep for cheap fields (DOI, dates, "github.com", "Abstract"), and reserve Read/LLM reasoning only for the fields that need actual comprehension . That would cut page-reads down significantly on the longer docs 

@@ -1,0 +1,53 @@
+PRACTICAL AI FOR ACTUARIES
+WINDOWS COPY-AND-PASTE COMMAND SHEET
+
+IMPORTANT
+Copy and run ONE command at a time.
+In the VS Code terminal, paste with Ctrl+V, right-click > Paste, or Shift+Insert.
+Do not use Ctrl+C to paste. In a terminal, Ctrl+C normally stops a command.
+Wait for each command to finish before starting the next one.
+
+1. CHECK WINDOWS PACKAGE MANAGER
+winget.exe --version
+
+2. INSTALL NODE.JS
+winget.exe install -e --id OpenJS.NodeJS.LTS
+
+3. INSTALL PYTHON 3.12
+winget.exe install -e --id Python.Python.3.12 --scope user
+
+4. INSTALL UV
+winget.exe install -e --id astral-sh.uv
+
+5. INSTALL CLAUDE CODE
+winget.exe install -e --id Anthropic.ClaudeCode
+
+6. CLOSE EVERY VS CODE WINDOW, REOPEN VS CODE, THEN CHECK EACH INSTALLATION
+node --version
+npm --version
+python --version
+py -3.12 --version
+python -m pip --version
+uv --version
+claude --version
+
+7. INSTALL CODEX CLI
+npm install -g @openai/codex@latest
+
+8. CHECK CODEX CLI
+codex --version
+
+9. INSTALL THE VS CODE EXTENSIONS USING THE EXTENSIONS SEARCH SCREEN
+Do not install the extensions from the terminal.
+1. Press Ctrl+Shift+X to open the Extensions view.
+2. Alternatively, select the Extensions icon on the left of VS Code.
+3. Use the search box at the top and search for each extension separately.
+4. Check that the publisher matches the name below, then select Install.
+
+OpenAI Codex - publisher: OpenAI
+Claude Code for VS Code - publisher: Anthropic
+Python - publisher: Microsoft
+Jupyter - publisher: Microsoft
+
+10. FIND THE PYTHON EXECUTABLE IF PYTHON IS NOT FOUND
+py -3.12 -c "import sys; print(sys.executable)"

@@ -9,6 +9,26 @@ There are two notebooks:
 | `main.ipynb` | Working locally in VS Code |
 | `main_colab.ipynb` | Working in Google Colab |
 
+## Learning materials
+
+Beyond the notebooks, this repo has extra training material:
+
+| File | Covers |
+|---|---|
+| [`docs/claude_code_bash_git_commands.md`](docs/claude_code_bash_git_commands.md) (also as [PDF](docs/claude_code_bash_git_commands.pdf)) | Cheat sheet — Claude Code commands, Bash, Git |
+| [`docs/setup_instructions.txt`](docs/setup_instructions.txt) (also as [PDF](docs/setup_instructions.pdf)) | Windows copy-paste setup commands |
+| [`TASKS.md`](TASKS.md) | Daily practice tasks — quiz, Claude Code, Bash, LangChain API |
+
+## Claude Code agents & skills
+
+This repo is also set up to practise Claude Code's project-level automation, in `.claude/`:
+
+| Type | Examples | Purpose |
+|---|---|---|
+| Agents (`.claude/agents/`) | `doc_extract_doer`, `doc_reviewer`, `doc_pipeline`, `oscar_doer`, `oscar_reviewer`, `oscar_pipeline` | Multi-step doer/reviewer/pipeline patterns for PDF metadata extraction and Oscar-winner analysis |
+| Skills (`.claude/skills/`) | `dw_batch`, `actuarial-ml-paper-brief`, `create-practical-ai-slides`, `revise-practical-ai-slides`, `oscars-award-winners`, `ship-learn-next` | Reusable task recipes — `dw_batch` covers async/batch LLM processing |
+| Commands (`.claude/commands/`) | project-specific slash commands | Manual shortcuts invoked with `/` |
+
 ## Option A: Google Colab (no setup)
 
 Open `main_colab.ipynb` in [Google Colab](https://colab.research.google.com/). Add your `OPENAI_API_KEY` under Colab's **Secrets** (key icon in the left sidebar) — the notebook reads it from there. No local install needed.
