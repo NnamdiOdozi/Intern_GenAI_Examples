@@ -16,12 +16,14 @@ Output: oscar_raw.tsv
 """
 
 import urllib.request, urllib.parse, json, csv, time
-from datetime import datetime, timezone
+from datetime import datetime
+from zoneinfo import ZoneInfo
 
 # Sortable, filesystem-safe timestamp (no colons) - shared by the filename
 # of everything this run produces, so it's obvious at a glance which raw
-# pull a given filtered/report/chart file was built from.
-RUN_TS = datetime.now(timezone.utc).strftime("%Y%m%dT%H%M%SZ")
+# pull a given filtered/report/chart file was built from. Local London
+# time (auto BST/GMT), not UTC - matches the user's wall clock.
+RUN_TS = datetime.now(ZoneInfo("Europe/London")).strftime("%Y%m%dT%H%M%S")
 
 PREFIXES = """
 PREFIX wd: <http://www.wikidata.org/entity/>

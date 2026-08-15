@@ -49,7 +49,8 @@ Output: oscar_flags_<timestamp>.tsv
 
 import csv, glob, re
 from collections import defaultdict
-from datetime import datetime, timezone
+from datetime import datetime
+from zoneinfo import ZoneInfo
 
 CUTOFF_YEAR = 1955  # keep in sync with filter_validate.py
 YEAR_FLOOR = 1996  # keep in sync with filter_validate.py
@@ -147,7 +148,7 @@ for (film, award), directors in directors_by_film_award.items():
             "Detail": "Multiple credited directors, birth years span the cutoff - film is included based on whichever director happened to qualify, which may not reflect who was actually recognized for this award",
         })
 
-run_ts = datetime.now(timezone.utc).strftime("%Y%m%dT%H%M%SZ")
+run_ts = datetime.now(ZoneInfo("Europe/London")).strftime("%Y%m%dT%H%M%S")
 out_path = f"oscar_flags_{run_ts}.tsv"
 with open(out_path, "w", newline="", encoding="utf-8") as f:
     fieldnames = ["Flag Type", "Ceremony Year", "Film", "Award", "Director", "Detail"]

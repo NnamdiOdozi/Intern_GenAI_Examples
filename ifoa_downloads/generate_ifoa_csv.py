@@ -12,6 +12,7 @@ Extraction timing log (2026-08-15 session):
 import csv
 import time
 from datetime import datetime
+from zoneinfo import ZoneInfo
 
 HEADER = [
     "S/N",
@@ -196,7 +197,9 @@ ROWS = [
 
 def main() -> None:
     start = time.perf_counter()
-    timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+    # Local London time (auto BST/GMT), not system-implicit - matches
+    # the user's wall clock regardless of the host's own timezone.
+    timestamp = datetime.now(ZoneInfo("Europe/London")).strftime("%Y%m%d_%H%M%S")
     out_path = f"IFOA_AI_Papers_{timestamp}.csv"
 
     with open(out_path, "w", newline="", encoding="utf-8") as f:

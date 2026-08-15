@@ -10,7 +10,8 @@ Output: oscar_wins_by_year.jpg
 
 import csv, glob
 from collections import defaultdict
-from datetime import datetime, timezone
+from datetime import datetime
+from zoneinfo import ZoneInfo
 
 try:
     import matplotlib.pyplot as plt
@@ -42,7 +43,7 @@ years = list(range(min(wins_by_year), max(wins_by_year) + 1))
 wins = [wins_by_year.get(y, 0) for y in years]
 directors = [len(directors_by_year.get(y, set())) for y in years]
 
-run_ts = datetime.now(timezone.utc).strftime("%Y%m%dT%H%M%SZ")
+run_ts = datetime.now(ZoneInfo("Europe/London")).strftime("%Y%m%dT%H%M%S")
 out_path = f"oscar_wins_by_year_{run_ts}.jpg"
 
 if plt is not None:

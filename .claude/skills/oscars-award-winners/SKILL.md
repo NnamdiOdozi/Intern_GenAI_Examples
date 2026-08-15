@@ -47,8 +47,9 @@ its output to a new, timestamped file that the next stage reads, so a
 failed or incorrect later stage doesn't force re-running the expensive
 Wikidata query.
 
-**File naming**: every output file is stamped with the run's UTC time in
-its name, e.g. `oscar_raw_20260813T211700Z.tsv`. Nothing is ever
+**File naming**: every output file is stamped with the run's local
+London time (Europe/London - auto BST/GMT) in its name, e.g.
+`oscar_raw_20260813T211700.tsv`. Nothing is ever
 silently overwritten, so the folder keeps a full history of every run
 and it's always obvious whether a given file is fresh or stale. Each
 stage automatically reads the *most recent* file matching its expected

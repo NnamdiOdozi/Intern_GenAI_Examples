@@ -15,7 +15,8 @@ Output: oscar_filtered.tsv
 """
 
 import csv, glob
-from datetime import datetime, timezone
+from datetime import datetime
+from zoneinfo import ZoneInfo
 
 CUTOFF_YEAR = 1960  # keep films where the director was born before this year
 YEAR_FLOOR = 1996  # keep films whose Oscar ceremony was in this year or later
@@ -63,7 +64,7 @@ print(f"\nDropped (no birth year, can't check cutoff): {dropped_no_birth_year}")
 print(f"Cutoff applied: director born before {CUTOFF_YEAR}")
 print(f"Rows kept: {len(kept)} of {total}")
 
-run_ts = datetime.now(timezone.utc).strftime("%Y%m%dT%H%M%SZ")
+run_ts = datetime.now(ZoneInfo("Europe/London")).strftime("%Y%m%dT%H%M%S")
 out_path = f"oscar_filtered_{run_ts}.tsv"
 with open(out_path, "w", newline="", encoding="utf-8") as f:
     fieldnames = ["Ceremony Year", "Film", "Award", "Director", "Director Birth Year"]
