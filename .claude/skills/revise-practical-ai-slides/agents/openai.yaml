@@ -1,0 +1,4 @@
+interface:
+  display_name: "Revise Practical AI Slides"
+  short_description: "Revise AI decks without losing manual edits"
+  default_prompt: "Use $revise-practical-ai-slides to make focused changes to the latest PowerPoint while preserving manual edits."

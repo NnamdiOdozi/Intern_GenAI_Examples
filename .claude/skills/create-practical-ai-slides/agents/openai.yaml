@@ -1,0 +1,4 @@
+interface:
+  display_name: "Create Practical AI Slides"
+  short_description: "Create clear, sourced Practical AI training decks"
+  default_prompt: "Use $create-practical-ai-slides to turn the source material in this folder into a beginner-friendly AI training deck."
