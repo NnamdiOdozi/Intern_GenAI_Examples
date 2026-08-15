@@ -29,6 +29,11 @@ This repo is also set up to practise Claude Code's project-level automation, in 
 | Skills (`.claude/skills/`) | `dw_batch`, `actuarial-ml-paper-brief`, `create-practical-ai-slides`, `revise-practical-ai-slides`, `oscars-award-winners`, `ship-learn-next` | Reusable task recipes — `dw_batch` covers async/batch LLM processing |
 | Commands (`.claude/commands/`) | project-specific slash commands | Manual shortcuts invoked with `/` |
 
+`dw_batch` and `oscars-award-winners` both ship Python scripts (not just markdown instructions) — worth opening and reading directly:
+
+- `.claude/skills/dw_batch/` — `create_batch.py`, `create_embeddings_batch.py`, `create_image_batch.py`, `create_scanned_pdf_batch.py`, `submit_batch.py`, `poll_and_process.py`, `process_results.py`, `streaming_example.py`
+- `.claude/skills/oscars-award-winners/` — `fetch_query.py`, `filter_validate.py`, `validate.py`, `report.py`, `chart.py`
+
 ## Option A: Google Colab (no setup)
 
 Open `main_colab.ipynb` in [Google Colab](https://colab.research.google.com/). Add your `OPENAI_API_KEY` under Colab's **Secrets** (key icon in the left sidebar) — the notebook reads it from there. No local install needed.
@@ -44,8 +49,7 @@ Open `main_colab.ipynb` in [Google Colab](https://colab.research.google.com/). A
 ### 2. Clone the repo
 
 ```bash
-git clone https://github.com/NnamdiOdozi/Intern_GenAI_Examples.git
-cd Intern_GenAI_Examples
+git clone https://github.com/NnamdiOdozi/Intern_GenAI_Examples.git && cd Intern_GenAI_Examples
 ```
 
 ### 3. Set up the environment
