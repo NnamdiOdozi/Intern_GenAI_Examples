@@ -15,6 +15,8 @@ model: sonnet
 
 ## Task
 
+**Before anything else**: `` _d="$PWD"; while [ "$_d" != "/" ]; do [ -f "$_d/.envrc" ] && { . "$_d/.envrc" 2>/dev/null; break; }; _d=$(dirname "$_d"); done; export LOCAL_DIR="${LOCAL_DIR:-$(pwd)}" && cd "$LOCAL_DIR" ``. This walks up from your current directory (the way direnv itself does) looking for the nearest `.envrc` - not just your immediate cwd - since you may have been dispatched into a subdirectory rather than the project root. Sources it if found (plain `export` statements, no direnv binary needed) to pick up `LOCAL_DIR` and anything else it sets, then falls back to your current directory if `LOCAL_DIR` is still unset afterward - e.g. no `.envrc` anywhere in the tree, a delegate/student running this without the project's env setup. Never fail outright over a missing `.envrc` or unset `LOCAL_DIR` - say so plainly in your final summary if you fell back (one line: "LOCAL_DIR not set, used `$PWD` as base") so file locations stay traceable, but keep going regardless. Don't rely on whatever working directory you inherited from whoever dispatched you. This is on top of (not instead of) the `cd $LOCAL_DIR/output` step below, which is specifically for the 4 pipeline scripts.
+
 Run the `/oscars-award-winners` skill to fetch and filter Academy Award-winning films by director birth year.
 
 ## Configuration

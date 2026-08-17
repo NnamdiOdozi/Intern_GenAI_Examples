@@ -18,6 +18,8 @@ model: opus
 
 ## Task
 
+**Before anything else**: `` _d="$PWD"; while [ "$_d" != "/" ]; do [ -f "$_d/.envrc" ] && { . "$_d/.envrc" 2>/dev/null; break; }; _d=$(dirname "$_d"); done; export LOCAL_DIR="${LOCAL_DIR:-$(pwd)}" && cd "$LOCAL_DIR" ``. This walks up from your current directory (the way direnv itself does) looking for the nearest `.envrc` - not just your immediate cwd - since you may have been dispatched into a subdirectory (e.g. `ifoa_downloads/`) rather than the project root. Sources it if found (plain `export` statements, no direnv binary needed) to pick up `LOCAL_DIR` and anything else it sets, then falls back to your current directory if `LOCAL_DIR` is still unset afterward - e.g. no `.envrc` anywhere in the tree, a delegate/student running this without the project's env setup. Never fail outright over a missing `.envrc` or unset `LOCAL_DIR` - say so plainly in your final summary if you fell back (one line: "LOCAL_DIR not set, used `$PWD` as base") so file locations stay traceable, but keep going regardless. Don't rely on whatever working directory you inherited from whoever dispatched you. All `$LOCAL_DIR/output/...` paths below assume this resolution already happened.
+
 Review the CSV output from `doc_extract_doer` and validate for:
 
 ## Input
@@ -98,10 +100,12 @@ Cross-check extraction against external sources:
    - Action: Quick author/date validation
 
 ### Text validation (grep PDFs)
-- Extract raw text from each PDF using `pdftotext`
+- Extract raw text once per PDF: `mktemp -d`, then `pdftotext <pdf> <tmpdir>/<pdf-name>.txt` — **file-output form only**, never `pdftotext <pdf> -` (stdout form prints the whole doc to you). Same token-cost rule as doc_extract_doer: only what a Bash command prints costs tokens.
+- **This is verification, not comprehension.** You already know the exact term you're checking (an author surname, a year, a DOI) from the CSV row — you're confirming presence/absence, not understanding a passage. Grep **tighter** than doc_extract_doer's extraction grep (which needs 30 lines to read an abstract): `grep -m 4 -A 5 -B 5 -i "<term>" <tmpdir>/<name>.txt`. Narrow further (`-A 2 -B 2`) for a single unambiguous token like a DOI or arXiv ID; only widen toward 5 either side if the term alone is ambiguous (e.g. a common surname) and you need surrounding context to confirm it's the right occurrence, not someone else's citation.
 - Grep extracted author names in raw text — verify they actually appear in the paper
 - Grep extracted publication year in raw text — catch incorrect dates
 - Grep for DOI/arXiv ID in raw text — validate URLs
+- Never `cat`/`head -c <large>` the full temp .txt file — `test -s <file>` to confirm it's non-empty instead. Delete the tmpdir (`rm -rf`) once done with that PDF.
 
 ## Review column, written in place
 

@@ -16,24 +16,42 @@ exact count) is given, stop and ask for one rather than guessing scope.
 
 ## Extraction method - pdftotext + grep first, LLM read only where needed
 
-The point of this method is to avoid burning tokens reading whole PDFs
-through the LLM when most fields can be pulled with cheap shell tools:
+The only thing that actually costs tokens is what a Bash command
+*prints* - not which tool nominally ran it, not "how it's done
+internally." Every step below is built around keeping printed output
+small; these constraints are not optional suggestions.
 
-1. `mktemp -d` once for the batch; convert each PDF with
-   `pdftotext <pdf> <tmpdir>/<pdf_stem>.txt`.
+1. `mktemp -d` once for the batch. Convert each PDF with
+   `pdftotext <pdf> <tmpdir>/<pdf-original-filename-without-extension>.txt`
+   - **name the temp file after the source PDF's own filename**, not a
+   generic name like `tempfile.txt`, so it's traceable which excerpt
+   came from which paper. **Always use the file-output form.** Never
+   `pdftotext <pdf> -` (the dash/stdout form prints the whole document)
+   and never pipe pdftotext's output anywhere that reaches your context.
 2. Pull cheap/structured fields straight from the txt with grep - DOI,
-   date patterns, `github.com`, URL. These rarely need LLM reasoning.
+   date patterns, `github.com`, URL. These rarely need LLM reasoning,
+   and their matches are naturally short (one line each) - no extra
+   bounding needed here.
 3. For fields needing real comprehension (Topic, Sub-topic, Description,
    ML/AI technique, Dataset real/simulated + granularity, Dataset
    modality, Learning paradigm & task): grep-locate the Abstract block
-   (and Methods/Conclusion section if Abstract alone isn't enough) with
-   `-A`/`-B` context, and feed **only that excerpt** to LLM reasoning -
-   never the full pdftotext dump of a long paper. **If those greps come
-   back empty** (no "Abstract" heading found - OCR artifacts, unusual
-   layout), mark the field "N/A" - don't fall back to reading the full
-   dump or the raw PDF "to be sure." That fallback is exactly the
-   token-burning behavior this method exists to avoid.
-4. Delete the tmpdir (`rm -rf`) once done - no stray temp files.
+   (and Methods/Conclusion section if Abstract alone isn't enough),
+   **bounded**: `grep -m 8 -A 30 -B 3 -i "abstract" <tmpdir>/<name>.txt`
+   - cap at 8 matches, 30 lines after / 3 before each, so even a paper
+   that says "Abstract" repeatedly (citation lists, running headers,
+   references) can't balloon into printing most of the document. Feed
+   **only that bounded excerpt** to LLM reasoning - never the full
+   pdftotext dump. **If those greps come back empty, or the capped
+   excerpt genuinely doesn't contain enough signal**, mark the field
+   "N/A" - don't fall back to reading the full dump or the raw PDF "to
+   be sure," and don't re-run with a wider cap to compensate. That
+   fallback is exactly the token-burning behavior this method exists to
+   avoid.
+4. **Never `cat`, `head -c <large>`, or otherwise print the full temp
+   .txt file** - not even "to verify pdftotext worked." Check success
+   with `test -s <file>` (exists and non-empty) instead, which prints
+   nothing.
+5. Delete the tmpdir (`rm -rf`) once done - no stray temp files.
 
 ## Taxonomy
 

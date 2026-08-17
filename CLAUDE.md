@@ -161,36 +161,5 @@ If environment variables appear missing, ensure direnv is properly set up and .e
 - Has access to /home/nodozi/projects directory
 - Successfully tested with seattle-weather.csv file
 
-## SessionStart Hook Configuration
-**IMPORTANT - DO NOT REMOVE THIS HOOK**
-
-The `.claude/settings.local.json` file contains a SessionStart hook that sources `.env.claude`:
-```json
-"hooks": {
-  "SessionStart": [
-    {
-      "hooks": [
-        {
-          "type": "command",
-          "command": "set -a && . /home/nodozi/projects/mlir_wp/.env.claude && set +a"
-        }
-      ]
-    }
-  ]
-}
-```
-
-**Why this is necessary:**
-- direnv does NOT work inside Claude Code shell sessions
-- Claude shells need environment variables (especially GITHUB_PERSONAL_ACCESS_TOKEN) to function properly
-- This hook ensures .env.claude is sourced at the start of every Claude session
-- Without this hook, MCP servers and git operations will fail due to missing environment variables
-
-**Technical notes:**
-- Use `.` (dot) instead of `source` - Claude Code hooks run with POSIX `sh`, not `bash`
-- Use absolute path to `.env.claude` - hooks may run from different working directories
-
-**Never remove or disable this hook** - it's critical for proper environment variable loading in Claude shells.
-
 ## Instructions for end of task
 At the end of task you should reflect on any missteps that were not immaterial and come up with ways of avoiding them in the future eg updating the settings.json or Claude.MD file or installing a package/library, changing a setting etc
