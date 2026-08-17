@@ -86,6 +86,24 @@ printed line if you're ever unsure which run's data you're looking at.
    distinct qualifying directors per ceremony year as a line chart.
    Writes `oscar_wins_by_year_<timestamp>.jpg` - the visual deliverable.
 
+## Process diagram (for non-coders)
+
+Before the reviewer runs, produce a plain-language Mermaid flowchart of
+the pipeline actually run - **no more than 6 boxes** - so someone who
+doesn't code can follow what happened without reading the scripts:
+
+```mermaid
+flowchart LR
+    A[Download raw data<br/>fetch_query.py] --> B[Filter by ceremony year<br/>filter_validate.py]
+    B --> C[Validate: drop rows<br/>missing birth year]
+    C --> D[Apply age cutoff<br/>filter_validate.py]
+    D --> E[Report: group + count<br/>report.py]
+    E --> F[Chart<br/>chart.py]
+```
+
+Adjust the labels if the actual run skipped a stage (e.g. re-used a
+cached raw file and only re-ran stages 2-4).
+
 ## When asked a new/different question about Oscar winners
 
 If the request changes the cutoff year or ceremony-year floor only,

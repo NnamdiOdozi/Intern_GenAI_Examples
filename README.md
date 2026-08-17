@@ -25,7 +25,7 @@ This repo is also set up to practise Claude Code's project-level automation, in 
 
 | Type | Examples | Purpose |
 |---|---|---|
-| Agents (`.claude/agents/`) | `doc_extract_doer`, `doc_reviewer`, `doc_pipeline`, `oscar_doer`, `oscar_reviewer`, `oscar_pipeline` | Multi-step doer/reviewer/pipeline patterns for PDF metadata extraction and Oscar-winner analysis |
+| Agents (`.claude/agents/`) | `doc_extract_doer`, `doc_reviewer`, `doc_pipeline`, `oscar-doer`, `oscar-reviewer`, `oscar-pipeline` | Multi-step doer/reviewer/pipeline patterns for PDF metadata extraction and Oscar-winner analysis |
 | Skills (`.claude/skills/`) | `dw_batch`, `actuarial-ml-paper-brief`, `create-practical-ai-slides`, `revise-practical-ai-slides`, `oscars-award-winners`, `ship-learn-next` | Reusable task recipes — `dw_batch` covers async/batch LLM processing |
 | Commands (`.claude/commands/`) | project-specific slash commands | Manual shortcuts invoked with `/` |
 

@@ -12,6 +12,7 @@ model: opus
 ## Non-negotiable requirements
 
 - **You MUST write the report file** (see ## File location) using the Write tool before finishing. Replying with findings in chat only, without writing the file, is an incomplete task — the file is the deliverable, not the chat summary.
+- **You MUST also add the Review column to the CSV in place** (see ## Review column, written in place) — this is not optional post-hoc cleanup, it's part of the deliverable alongside the report file.
 - **Do not invent metrics.** The only output format is the one defined below: Summary / per-row table / findings / **Critical/Major/Minor/Info** severity levels. Do not produce numeric scores, percentages, letter grades, or any other metric not listed here. If you want to convey "how good" something is, use the defined severity levels and say so in words — do not fabricate a number that implies a precision or a scoring method you don't actually have.
 - Every claim in the report must trace to something you actually checked (a field in the CSV, a line in a PDF, an API response). If you did not check it, say "not checked," don't imply full coverage.
 
@@ -21,7 +22,7 @@ Review the CSV output from `doc_extract_doer` and validate for:
 
 ## Input
 
-Reads: `$LOCAL_DIR/IFOA_AI_Papers_<timestamp>.csv` (from doc_extract_doer)  
+Reads: `$LOCAL_DIR/output/IFOA_AI_Papers_<timestamp>.csv` (from doc_extract_doer)  
 Optional: Can run independently if CSV already exists from a prior extraction
 
 1. **Date accuracy**
@@ -62,7 +63,7 @@ Produce a **Quality Review Report** as a markdown file with:
 
 ## File location
 
-**Mandatory action, not a suggestion:** write the report to `$LOCAL_DIR/IFOA_AI_Papers_REVIEW_<timestamp>.md` (project root) using the Write tool. Before returning your final response, confirm the file exists (e.g. re-read it or `ls` it) and state its exact path in your response.
+**Mandatory action, not a suggestion:** ensure `$LOCAL_DIR/output/` exists (`mkdir -p`), then write the report to `$LOCAL_DIR/output/IFOA_AI_Papers_REVIEW_<timestamp>.md` using the Write tool. Before returning your final response, confirm the file exists (e.g. re-read it or `ls` it) and state its exact path in your response.
 
 ## External data validation
 
@@ -102,6 +103,6 @@ Cross-check extraction against external sources:
 - Grep extracted publication year in raw text — catch incorrect dates
 - Grep for DOI/arXiv ID in raw text — validate URLs
 
-## No modifications to CSV
+## Review column, written in place
 
-Report findings only. Do not edit the CSV. Extraction doer will address issues in a second pass if needed.
+After the markdown report is written, add a `Review` column (15th column) to the CSV you validated: one substantive comment per row (your concerns for that specific row, or "No concerns" if none) — not a numeric score. **Reopen and rewrite the file via Python's `csv` module** (same comma delimiter, RFC 4180 quoting) — never hand-append text with string concatenation, which would break quoting on any field already containing a comma. Overwrite the same file at the same path (in place). The markdown report remains the full-detail deliverable; the Review column is the short per-row companion, not a replacement.

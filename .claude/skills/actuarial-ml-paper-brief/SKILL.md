@@ -62,6 +62,46 @@ Never leave a claim like that unexplained. A vague verb like "checked" is not an
 
 ---
 
+## Process flow diagram (mandatory, persisted as PNG)
+
+**Every brief must include this diagram, regardless of what the request
+wording asks for.** It is a fixed part of this skill's output, not an
+optional extra to include only if the user mentions "diagram" or
+"process flow." A diagram that only exists in your response text is an
+incomplete task - it must be written to disk as an image, not left to
+float in the chat.
+
+Include a Mermaid flowchart of the paper's own method — the process the
+authors used to get from raw input to their reported results. **No more
+than 6 boxes.** Cover, wherever the paper describes them:
+
+- Data source / data transformation steps (cleaning, feature engineering)
+- Any loop or iterative step (training loop, cross-validation, resampling)
+- Model fitting step
+- Output / evaluation step
+
+Collapse minor sub-steps into their nearest box to stay within 6 - this
+is meant to orient the reader, not reproduce the paper's full pipeline.
+If a step is inferred rather than stated, mark it as such in the text
+around the diagram, consistent with the inference-flagging rule above.
+
+```mermaid
+flowchart LR
+    A[Raw data] --> B[Preprocessing]
+    B --> C[Model training loop]
+    C --> D[Evaluation]
+```
+
+Then persist it:
+1. Build a short slug from the paper's title or filename (e.g. `attention-is-all-you-need`)
+2. Write the Mermaid source to `<slug>_process_diagram_<timestamp>.mmd` in the current working directory (no project-specific output folder applies to this skill - if the user has a preferred location, use that instead)
+3. Render it: `mmdc -i <slug>_process_diagram_<timestamp>.mmd -o <slug>_process_diagram_<timestamp>.png -b white`
+4. If `mmdc` isn't installed or the render fails (e.g. no headless browser available in this environment), don't block on it - the `.mmd` file from step 2 is the fallback home. State clearly in your response which one happened.
+5. Confirm the PNG (or, on fallback, the `.mmd`) exists before finishing, and state its path in the brief - e.g. `ls` it.
+6. Surface the PNG inline in the conversation itself (not just on disk) - display the rendered image as part of your response, in addition to persisting the file. Both must happen; neither replaces the other.
+
+---
+
 ## Language rules (this is the part that matters most)
 
 ### Write in plain, short sentences
@@ -84,6 +124,11 @@ Close with:
 
 1. **Five-sentence recap** of the whole paper
 2. **Short list of concepts** the reader should now be able to explain to someone else, in their own words
+
+**Before returning the brief, confirm the process flow diagram PNG (or
+`.mmd` fallback) from the "Process flow diagram" section above actually
+exists on disk** — e.g. `ls` it. If it's missing, produce it before
+finishing — do not submit the brief without it.
 
 ---
 

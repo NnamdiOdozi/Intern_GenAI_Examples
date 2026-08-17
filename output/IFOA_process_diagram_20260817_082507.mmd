@@ -1,0 +1,5 @@
+flowchart LR
+    A[Fan out to 3 batches<br/>7 PDFs] --> B[Extract fields<br/>in parallel]
+    B --> C[Merge to one CSV<br/>renumber S/N]
+    C --> D[Review vs<br/>CrossRef/arXiv/OpenAlex]
+    D --> E[Report verdict]

@@ -1,0 +1,10 @@
+{
+  "prompt_hash": "1e623dd6",
+  "timestamp": "20260816_160943",
+  "model": "Qwen/Qwen3-VL-30B-A3B-Instruct-FP8",
+  "files": {
+    "summary-Modular_Framework_of_Machine_Learning_Pipeline__281_29": {
+      "safe_filename": "Modular_Framework_of_Machine_Learning_Pipeline__281_29"
+    }
+  }
+}

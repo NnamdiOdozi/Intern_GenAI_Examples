@@ -1,0 +1,6 @@
+flowchart LR
+    A[Fan out to 1 batch<br/>N=2 PDFs] --> B[Extract fields<br/>pdftotext + grep-first]
+    B --> C[Write CSV to<br/>output/]
+    C --> D[Review: validate<br/>+ external checks]
+    D --> E[Add Review column<br/>in place]
+    E --> F[Report verdict]
