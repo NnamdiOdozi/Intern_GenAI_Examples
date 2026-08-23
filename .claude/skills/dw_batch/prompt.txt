@@ -5,7 +5,7 @@ REQUIRED FIELDS TO EXTRACT (provide exactly as specified):
 2. Authors: Full author names comma-separated (or "Not found" if not in excerpt)
 3. Area of practice: Select from: Investment, Life, General Insurance, Risk Management, Pension, Multiple
 4. Dataset info: Describe if real/simulated data used, and granularity level (or "N/A" if no dataset)
-5. Dataset modality: Data type (time series, tabular, text, images, mixed, or N/A)
+5. Dataset modality: Data type (time series, tabular, categorical, text, images, mixed, or N/A)
 6. Code available: Yes/No/Unknown, with language and link if found
 7. ML/AI technique: Specific algorithms/techniques mentioned
 8. Learning paradigm: Paradigm (supervised/unsupervised/semi-supervised/reinforcement) and task (classification/regression/forecasting/clustering/etc)

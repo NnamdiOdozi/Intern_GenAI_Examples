@@ -8,7 +8,7 @@ description: Summarize machine-learning or AI research papers for actuaries. Bui
 Use this when asked to summarize a machine-learning or AI research paper for an actuary. 
 
 **Your reader:**
-- Technically strong and knows machine learning well
+- Has good actuarial background and has basic machine learning knowledge
 - Not necessarily an expert in this specific method
 - Not necessarily an expert in the applied field (health claims, telematics, cyber, catastrophe modelling, or anything else)
 
@@ -21,9 +21,17 @@ Use this when asked to summarize a machine-learning or AI research paper for an 
 ### Read the full text of the paper, not just the abstract
 If a number, a name, or a detail isn't actually stated in the paper, don't present it as fact. If you infer something rather than find it stated, say so clearly in the text itself, for example: "Inference flag: the paper doesn't say this, but..."
 
-### Pick the right starting point
+### Pin down the paper's shape before you start writing
+Before choosing a narrative frame, nail down a few facts about the paper: 
+ - what dataset it uses (real or simulated, and at what granularity — or say plainly if there's no dataset at all), 
+ - what modality that data is (time series, tabular, categorical, text, images, or some mix), 
+ - whether the authors released code (yes, no, or unknown, naming the language and a link if you find one), 
+ - which specific ML/AI techniques it actually uses (name the technique, not just the general family), and its learning paradigm and task (supervised, unsupervised, semi-supervised, or reinforcement, paired with the task type — classification, regression, forecasting, clustering, and so on).
+ - how many parameters the model has, if the paper states it or if you estimate it (do say if ythe figure is from the paper or estimated). 
+ 
+These anchor the rest of the brief, so work them out up front rather than piecing them together section by section, and use the same "inference flag" rule above if any of them isn't stated outright.
 
-Open from a familiar modelling baseline:
+### Pick the right starting point
 
 - **Default:** Generalized Linear Model (GLM) — the standard tool for pricing and claims-frequency modelling, since it's the most common shared reference point for actuaries
 - **If more natural:** Compare to tree-based models like GBM, chain-ladder reserving methods, or credibility theory instead
@@ -81,8 +89,7 @@ than 6 boxes.** Cover, wherever the paper describes them:
 - Output / evaluation step
 
 Collapse minor sub-steps into their nearest box to stay within 6 - this
-is meant to orient the reader, not reproduce the paper's full pipeline.
-If a step is inferred rather than stated, mark it as such in the text
+is meant to orient the reader, not reproduce the paper's f in the text
 around the diagram, consistent with the inference-flagging rule above.
 
 ```mermaid
