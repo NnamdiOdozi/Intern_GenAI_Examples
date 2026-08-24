@@ -192,6 +192,7 @@ cython_debug/
 
 
 # logs
+logs/
 embedding_logs/
 embedding_logs
 
