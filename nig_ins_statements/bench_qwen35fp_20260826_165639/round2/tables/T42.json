@@ -1,0 +1,99 @@
+{
+  "cell_flags": [],
+  "concerns": [],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "footnotes_raw": [],
+  "headers_raw": [
+    "Reinsurer",
+    "Proportion Shared"
+  ],
+  "normalized_rows": [
+    [
+      "African Re:",
+      40.0
+    ],
+    [
+      "Continental Re:",
+      10.0
+    ],
+    [
+      "FBS Re:",
+      10.0
+    ],
+    [
+      "Aveni Re:",
+      5.0
+    ],
+    [
+      "WAICA Re:",
+      10.0,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ]
+  ],
+  "pages_seen": [
+    39
+  ],
+  "rows_raw": [
+    [
+      "African Re:",
+      "40%"
+    ],
+    [
+      "Continental Re:",
+      "10%"
+    ],
+    [
+      "FBS Re:",
+      "10%"
+    ],
+    [
+      "Aveni Re:",
+      "5%"
+    ],
+    [
+      "WAI CA Re: ",
+      "10%"
+    ],
+    [
+      "NCA Re: ",
+      "5%"
+    ],
+    [
+      "OMAN Re: ",
+      "5%"
+    ],
+    [
+      "G HANA R e : ",
+      "5%"
+    ],
+    [
+      "A RB /W A I C A R e , S I E R R A L E O N E",
+      "10%"
+    ],
+    [
+      "Total",
+      "100%"
+    ]
+  ],
+  "source_pages": [],
+  "table_complete": true,
+  "table_id": "T42",
+  "table_number_raw": "T42",
+  "title_raw": "O & A Hedge Actuarial Consulting (FRC/2019/0000129) (Consulting Actuaries and Chartered Insurers) Suite24,",
+  "units_raw": "N/A",
+  "_header_width": 2,
+  "_row_width": 2
+}

@@ -1,0 +1,110 @@
+{
+  "cell_flags": [],
+  "concerns": [],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "footnotes_raw": [],
+  "headers_raw": [
+    "Measure of financial strength:",
+    "2019",
+    "2020",
+    "2021",
+    "2022",
+    "2023"
+  ],
+  "normalized_rows": [
+    [
+      "Total Gross written Premium (NGN)",
+      3885447,
+      3949079,
+      4677009,
+      4929908,
+      5735903
+    ],
+    [
+      "Total Reinsurance cost(outward)(NGN)",
+      559732,
+      739964,
+      1272668,
+      1480940,
+      1480940
+    ],
+    [
+      "Total Net Written Premium (NGN)",
+      3325715,
+      3209116,
+      3404340,
+      3448968,
+      4254964
+    ],
+    [
+      "Underwriting Profit",
+      120160,
+      808094,
+      153180,
+      392938,
+      -572454
+    ],
+    [
+      "Insurance Profit",
+      264993,
+      1061787,
+      242982,
+      483457,
+      -324352
+    ]
+  ],
+  "pages_seen": [
+    21
+  ],
+  "rows_raw": [
+    [
+      "Total Gross written Premium (NGN)",
+      "3,885,447",
+      "3,949,079",
+      "4,677,009",
+      "4,929,908",
+      "5,735,903"
+    ],
+    [
+      "Total Reinsurance cost(outward)(NGN)",
+      "559,732",
+      "739,964",
+      "1,272,668",
+      "1,480,940",
+      "1,480,940"
+    ],
+    [
+      "Total Net Written Premium (NGN)",
+      "3,325,715",
+      "3,209,116",
+      "3,404,340",
+      "3,448,968",
+      "4,254,964"
+    ],
+    [
+      "Underwriting Profit",
+      "120,160",
+      "808,094",
+      "153,180",
+      "392,938",
+      "-572,454"
+    ],
+    [
+      "Insurance Profit",
+      "264,993",
+      "1,061,787",
+      "242,982",
+      "483,457",
+      "-324,352"
+    ]
+  ],
+  "source_pages": [],
+  "table_complete": true,
+  "table_id": "T19",
+  "table_number_raw": "Table 12",
+  "title_raw": "Measures of financial strength",
+  "units_raw": "NGN'000",
+  "_header_width": 6,
+  "_row_width": 6
+}

@@ -1,0 +1,169 @@
+{
+  "cell_flags": [],
+  "concerns": [],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "footnotes_raw": [
+    "Treaty required minimum premium deposit of USD286.00mn[2022: USD$213,660].",
+    "The treaty covers both direct and facultative energy business and is operated in US dollars. Total capacity is [USD 2m]US$2.5m.",
+    "The treaty is subject to the law of England and Wales in the United Kingdom even though its effective operational jurisdiction is Nigeria. There is no ceding commission but there is a no claim bonus of 20%, which could be taken upfront but refundable on claiming under the treaty.",
+    "The treaty is provided 100% by WAICA Reinsurance Corporation PLC."
+  ],
+  "headers_raw": [
+    "Largest gross claim (NGN)",
+    "Largest net claims (NGN)",
+    "Proportion recovered",
+    "Net Claims as % of S/H Funds",
+    "Sum of Five Largest Claims (NGN)"
+  ],
+  "normalized_rows": [
+    [
+      14887677,
+      14887677,
+      0,
+      0.005,
+      31399398
+    ],
+    [
+      9003966,
+      9003966,
+      0,
+      0.003,
+      19358896
+    ],
+    [
+      126575000,
+      126575000,
+      0,
+      0.032,
+      197326209
+    ],
+    [
+      664264768,
+      249279794,
+      0.62,
+      0.059,
+      696621315
+    ],
+    [
+      77370465,
+      77370465,
+      0,
+      0.016,
+      155231312
+    ],
+    [
+      226036269,
+      66218320,
+      0.71,
+      0.0131,
+      713047500
+    ],
+    [
+      202548782,
+      202548782,
+      0,
+      0.0375,
+      267917009
+    ],
+    [
+      25431000,
+      25431000,
+      0,
+      0.0043,
+      45499609
+    ],
+    [
+      168264741,
+      96414375,
+      0.17,
+      0.0212,
+      265800156
+    ]
+  ],
+  "pages_seen": [
+    45
+  ],
+  "rows_raw": [
+    [
+      "2015",
+      "14,887,677",
+      "14,887,677",
+      "0%",
+      "0.50%",
+      "31,399,398"
+    ],
+    [
+      "2016",
+      "9,003,966",
+      "9,003,966",
+      "0%",
+      "0.30%",
+      "19,358,896"
+    ],
+    [
+      "2017",
+      "126,575,000",
+      "126,575,000",
+      "0%",
+      "3.20%",
+      "197,326,209"
+    ],
+    [
+      "2018",
+      "664,264,768",
+      "249,279,794",
+      "62%",
+      "5.90%",
+      "696,621,315"
+    ],
+    [
+      "2019",
+      "77,370,465",
+      "77,370,465",
+      "0%",
+      "1.60%",
+      "155,231,312"
+    ],
+    [
+      "2020",
+      "226,036,269",
+      "66,218,320",
+      "71%",
+      "1.31%",
+      "713,047,500"
+    ],
+    [
+      "2021",
+      "202,548,782",
+      "202,548,782",
+      "0%",
+      "3.75%",
+      "267,917,009"
+    ],
+    [
+      "2022",
+      "25,431,000",
+      "25,431,000",
+      "0%",
+      "0.43%",
+      "45,499,609"
+    ],
+    [
+      "Average",
+      "168,264,741",
+      "96,414,375",
+      "17%",
+      "2.12%",
+      "265,800,156"
+    ]
+  ],
+  "source_pages": [],
+  "table_complete": true,
+  "table_id": "T48",
+  "table_number_raw": null,
+  "title_raw": "Excess of Loss treaty",
+  "units_raw": "USD, NGN, %",
+  "_header_width": 5,
+  "_row_width": 6
+}

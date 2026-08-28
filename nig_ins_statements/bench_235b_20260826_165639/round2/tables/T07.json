@@ -1,0 +1,139 @@
+{
+  "cell_flags": [],
+  "concerns": [],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "footnotes_raw": [],
+  "headers_raw": [
+    "(NGN'000)",
+    "General Accident",
+    "Motor",
+    "Marine & Aviation",
+    "Engineering",
+    "Bond",
+    "Fire",
+    "Oil & Gas",
+    "Agriculture",
+    "Aviation",
+    "Total"
+  ],
+  "normalized_rows": [
+    [
+      "Gross earned premiums",
+      442522,
+      623640,
+      299457,
+      302581,
+      225763,
+      740977,
+      1868295,
+      143074,
+      0,
+      4646308
+    ],
+    [
+      "Gross claims incurred",
+      438854,
+      249294,
+      16382,
+      45568,
+      -2974,
+      234852,
+      270157,
+      13417,
+      0,
+      1265550
+    ],
+    [
+      "Claims ratio*",
+      99.2,
+      40.0,
+      5.5,
+      15.1,
+      -1.3,
+      32.0,
+      14.5,
+      9.4,
+      0.0,
+      27.2
+    ],
+    [
+      "Net technical result",
+      -49922,
+      340905,
+      205562,
+      147376,
+      164133,
+      579075,
+      594453,
+      58698,
+      null,
+      2045280
+    ]
+  ],
+  "pages_seen": [
+    14
+  ],
+  "rows_raw": [
+    [
+      "Gross earned premiums",
+      "442.522",
+      "623.640",
+      "299.457",
+      "302.581",
+      "225.763",
+      "740.977",
+      "1.868.295",
+      "143.074",
+      "0",
+      "4.646.308"
+    ],
+    [
+      "Gross claims incurred",
+      "438.854",
+      "249.294",
+      "16.382",
+      "45.568",
+      "(2.974)",
+      "234.852",
+      "270.157",
+      "13.417",
+      "0",
+      "1.265.550"
+    ],
+    [
+      "Claims ratio*",
+      "99,2%",
+      "40,0%",
+      "5,5%",
+      "15,1%",
+      "-1,3%",
+      "32%",
+      "14,5%",
+      "9,4%",
+      "0,0%",
+      "27,2%"
+    ],
+    [
+      "Net technical result",
+      "(44.922)",
+      "340.905",
+      "205.562",
+      "147.376",
+      "164.133",
+      "579.075",
+      "594.453",
+      "58.698",
+      "-",
+      "2.045.280"
+    ]
+  ],
+  "source_pages": [],
+  "table_complete": true,
+  "table_id": "T07",
+  "table_number_raw": "Table 3b",
+  "title_raw": "Key figures by class- General business - 2023",
+  "units_raw": "(NGN'000)",
+  "_header_width": 11,
+  "_row_width": 11
+}

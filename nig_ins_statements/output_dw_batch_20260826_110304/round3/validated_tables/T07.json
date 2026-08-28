@@ -1,0 +1,33 @@
+{
+  "checks": {
+    "continuation_verified": true,
+    "header_width_consistent": true,
+    "page_citations_verified": true,
+    "row_widths_consistent": true,
+    "totals_status": "reconciles"
+  },
+  "corrections": [],
+  "final_headers_raw": [
+    "(NGN'000)",
+    "General Accident",
+    "Motor",
+    "Marine",
+    "Engineering",
+    "Bond",
+    "Fire",
+    "Oil & Gas",
+    "Agriculture",
+    "Aviation",
+    "Total"
+  ],
+  "final_normalized_rows": [],
+  "final_rows_raw": [],
+  "final_title_raw": "Table 3a :- Key figures by class- General business - 2022",
+  "issues": [],
+  "source_pages": [
+    13
+  ],
+  "table_complete": true,
+  "table_id": "T07",
+  "verdict": "rejected_incomplete"
+}

@@ -1,0 +1,229 @@
+{
+  "cell_flags": [
+    {
+      "candidate_readings": [],
+      "column_index": 0,
+      "confidence": "high",
+      "inferred_value": null,
+      "normalized_value": "Other Admissible Liabilities",
+      "printed_value": "Other Admissible Liabilities",
+      "reason": "normal",
+      "row_index": 0,
+      "source_pdf_page": 21,
+      "status": "printed"
+    },
+    {
+      "candidate_readings": [],
+      "column_index": 1,
+      "confidence": "high",
+      "inferred_value": null,
+      "normalized_value": 384384,
+      "printed_value": "384,384",
+      "reason": "normal",
+      "row_index": 0,
+      "source_pdf_page": 21,
+      "status": "printed"
+    },
+    {
+      "candidate_readings": [],
+      "column_index": 2,
+      "confidence": "high",
+      "inferred_value": null,
+      "normalized_value": 422121,
+      "printed_value": "422,121",
+      "reason": "normal",
+      "row_index": 0,
+      "source_pdf_page": 21,
+      "status": "printed"
+    },
+    {
+      "candidate_readings": [],
+      "column_index": 3,
+      "confidence": "high",
+      "inferred_value": null,
+      "normalized_value": 635095,
+      "printed_value": "635,095",
+      "reason": "normal",
+      "row_index": 0,
+      "source_pdf_page": 21,
+      "status": "printed"
+    },
+    {
+      "candidate_readings": [],
+      "column_index": 4,
+      "confidence": "high",
+      "inferred_value": null,
+      "normalized_value": 517849,
+      "printed_value": "517,849",
+      "reason": "normal",
+      "row_index": 0,
+      "source_pdf_page": 21,
+      "status": "printed"
+    },
+    {
+      "candidate_readings": [],
+      "column_index": 5,
+      "confidence": "high",
+      "inferred_value": null,
+      "normalized_value": 585692,
+      "printed_value": "585,692",
+      "reason": "normal",
+      "row_index": 0,
+      "source_pdf_page": 21,
+      "status": "printed"
+    }
+  ],
+  "concerns": [],
+  "continues_from_previous": true,
+  "continues_to_next": false,
+  "footnotes_raw": [],
+  "headers_raw": [],
+  "normalized_rows": [
+    [
+      "Other Admissible Liabilities",
+      384384,
+      422121,
+      635095,
+      517849,
+      585692
+    ],
+    [
+      "Gross Admissible liabilities",
+      1749982,
+      1757545,
+      1417311,
+      1469776,
+      2762292
+    ],
+    [
+      "Admissible Assets",
+      5889750,
+      5745687,
+      4881036,
+      5428290,
+      7109012
+    ],
+    [
+      "Net total Admissible Assets",
+      4139768,
+      3988143,
+      3463725,
+      3958514,
+      4346721
+    ],
+    [
+      "Net written Premium",
+      3325715,
+      3209116,
+      3404340,
+      3448968,
+      4254964
+    ],
+    [
+      "Required Paid-up Capital for Non-life",
+      3000000,
+      3000000,
+      3000000,
+      3000000,
+      3000000
+    ],
+    [
+      "Required minimum solvency margin Capital cover for non-life",
+      3000000,
+      3000000,
+      3000000,
+      3000000,
+      3000000
+    ],
+    [
+      "Solvency margin capital Cover ratio",
+      137.99,
+      132.94,
+      115.46,
+      131.95,
+      144.89
+    ]
+  ],
+  "pages_seen": [
+    21
+  ],
+  "rows_raw": [
+    [
+      "Other Admissible Liabilities",
+      "384,384",
+      "422,121",
+      "635,095",
+      "517,849",
+      "585,692"
+    ],
+    [
+      "Gross Admissible liabilities",
+      "1,749,982",
+      "1,757,545",
+      "1,417,311",
+      "1,469,776",
+      "2,762,292"
+    ],
+    [
+      "Admissible Assets",
+      "5,889,750",
+      "5,745,687",
+      "4,881,036",
+      "5,428,290",
+      "7,109,012"
+    ],
+    [
+      "Net total Admissible Assets",
+      "4,139,768",
+      "3,988,143",
+      "3,463,725",
+      "3,958,514",
+      "4,346,721"
+    ],
+    [
+      "Net written Premium",
+      "3,325,715",
+      "3,209,116",
+      "3,404,340",
+      "3,448,968",
+      "4,254,964"
+    ],
+    [
+      "Required Paid-up Capital for Non-life",
+      "3,000,000",
+      "3,000,000",
+      "3,000,000",
+      "3,000,000",
+      "3,000,000"
+    ],
+    [
+      "Required minimum solvency margin Capital cover for non-life",
+      "3,000,000",
+      "3,000,000",
+      "3,000,000",
+      "3,000,000",
+      "3,000,000"
+    ],
+    [
+      "Solvency margin capital Cover ratio",
+      "137.99%",
+      "132.94%",
+      "115.46%",
+      "131.95%",
+      "144.89%"
+    ]
+  ],
+  "source_pages": [
+    {
+      "pdf_page": 21,
+      "printed_page": "20"
+    }
+  ],
+  "table_complete": true,
+  "table_id": "T17",
+  "table_number_raw": null,
+  "title_raw": null,
+  "units_raw": null,
+  "_header_width": 0,
+  "_row_width": 6
+}

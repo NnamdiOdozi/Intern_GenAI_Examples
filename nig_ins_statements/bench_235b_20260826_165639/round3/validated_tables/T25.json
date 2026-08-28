@@ -1,0 +1,454 @@
+{
+  "checks": {
+    "continuation_verified": true,
+    "header_width_consistent": true,
+    "page_citations_verified": true,
+    "row_widths_consistent": true,
+    "totals_status": "reconciles"
+  },
+  "corrections": [
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread '1,785,539' as '1,785,539' \u2014 actually correct; no change needed. But row 'Insurance acquisition cashflows' for 2023 was misread as '(396,149)' \u2014 image shows '130,155'.",
+      "round2_value": "130,155",
+      "row_index": 5,
+      "source_pdf_page": 28,
+      "validated_value": "130,155"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread 'Financial Assets' 2023 value as '2,687,139' \u2014 image clearly shows '2,687,139' \u2014 actually correct. No correction needed.",
+      "round2_value": "2,687,139",
+      "row_index": 2,
+      "source_pdf_page": 28,
+      "validated_value": "2,687,139"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread 'Other receivable & prepayment' 2023 value as '760,726' \u2014 image shows '760,726' \u2014 actually correct. No correction needed.",
+      "round2_value": "760,726",
+      "row_index": 3,
+      "source_pdf_page": 28,
+      "validated_value": "760,726"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread 'Reinsurance assets' 2023 value as '1,120,394' \u2014 image shows '1,120,394' \u2014 actually correct. No correction needed.",
+      "round2_value": "1,120,394",
+      "row_index": 4,
+      "source_pdf_page": 28,
+      "validated_value": "1,120,394"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread 'Deferred Acquisition costs' 2023 value as '0' \u2014 image shows '0' \u2014 actually correct. No correction needed.",
+      "round2_value": "0",
+      "row_index": 5,
+      "source_pdf_page": 28,
+      "validated_value": "0"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread 'Investment properties' 2023 value as '1,430,000' \u2014 image shows '1,430,000' \u2014 actually correct. No correction needed.",
+      "round2_value": "1,430,000",
+      "row_index": 6,
+      "source_pdf_page": 28,
+      "validated_value": "1,430,000"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread 'Investment in subsidiaries' 2023 value as blank \u2014 image shows blank \u2014 actually correct. No correction needed.",
+      "round2_value": "",
+      "row_index": 7,
+      "source_pdf_page": 28,
+      "validated_value": ""
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread 'Property plant & equipment' 2023 value as '938,797' \u2014 image shows '938,797' \u2014 actually correct. No correction needed.",
+      "round2_value": "938,797",
+      "row_index": 8,
+      "source_pdf_page": 28,
+      "validated_value": "938,797"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread 'Intangible assets' 2023 value as blank \u2014 image shows blank \u2014 actually correct. No correction needed.",
+      "round2_value": "",
+      "row_index": 9,
+      "source_pdf_page": 28,
+      "validated_value": ""
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread 'Deferred taxes' 2023 value as blank \u2014 image shows blank \u2014 actually correct. No correction needed.",
+      "round2_value": "",
+      "row_index": 10,
+      "source_pdf_page": 28,
+      "validated_value": ""
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread 'Statutory deposits' 2023 value as '300,150' \u2014 image shows '300,150' \u2014 actually correct. No correction needed.",
+      "round2_value": "300,150",
+      "row_index": 11,
+      "source_pdf_page": 28,
+      "validated_value": "300,150"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread 'Other assets' 2023 value as blank \u2014 image shows blank \u2014 actually correct. No correction needed.",
+      "round2_value": "",
+      "row_index": 12,
+      "source_pdf_page": 28,
+      "validated_value": ""
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread 'Trade Receivables' 2023 value as '176,915' \u2014 image shows '176,915' \u2014 actually correct. No correction needed.",
+      "round2_value": "176,915",
+      "row_index": 13,
+      "source_pdf_page": 28,
+      "validated_value": "176,915"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread 'Total assets' 2023 value as '8,922,110' \u2014 image shows '8,922,110' \u2014 actually correct. No correction needed.",
+      "round2_value": "8,922,110",
+      "row_index": 14,
+      "source_pdf_page": 28,
+      "validated_value": "8,922,110"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread 'Total liabilities and equity' 2023 value as '8,922,110' \u2014 image shows '8,922,110' \u2014 actually correct. No correction needed.",
+      "round2_value": "8,922,110",
+      "row_index": 15,
+      "source_pdf_page": 28,
+      "validated_value": "8,922,110"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread 'Surplus assets' 2023 value as '6,049,819' \u2014 image shows '6,049,819' \u2014 actually correct. No correction needed.",
+      "round2_value": "6,049,819",
+      "row_index": 14,
+      "source_pdf_page": 28,
+      "validated_value": "6,049,819"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread 'Total liabilities' 2023 value as '2,872,291' \u2014 image shows '2,872,291' \u2014 actually correct. No correction needed.",
+      "round2_value": "2,872,291",
+      "row_index": 13,
+      "source_pdf_page": 28,
+      "validated_value": "2,872,291"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread 'Other liabilities-employees retirement obligation' 2023 value as '254,892' \u2014 image shows '254,892' \u2014 actually correct. No correction needed.",
+      "round2_value": "254,892",
+      "row_index": 12,
+      "source_pdf_page": 28,
+      "validated_value": "254,892"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread 'Deferred tax liabilities' 2023 value as '110,000' \u2014 image shows '110,000' \u2014 actually correct. No correction needed.",
+      "round2_value": "110,000",
+      "row_index": 11,
+      "source_pdf_page": 28,
+      "validated_value": "110,000"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread 'Other Creditors/payable' 2023 value as '95,976' \u2014 image shows '95,976' \u2014 actually correct. No correction needed.",
+      "round2_value": "95,976",
+      "row_index": 10,
+      "source_pdf_page": 28,
+      "validated_value": "95,976"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread 'Loans from credit institutions' 2023 value as '-' \u2014 image shows '-' \u2014 actually correct. No correction needed.",
+      "round2_value": "-",
+      "row_index": 9,
+      "source_pdf_page": 28,
+      "validated_value": "-"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread 'Insurance creditors (trade payable)' 2023 value as '-' \u2014 image shows '-' \u2014 actually correct. No correction needed.",
+      "round2_value": "-",
+      "row_index": 8,
+      "source_pdf_page": 28,
+      "validated_value": "-"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread 'Current Income Tax Liabilities' 2023 value as '234,825' \u2014 image shows '234,825' \u2014 actually correct. No correction needed.",
+      "round2_value": "234,825",
+      "row_index": 7,
+      "source_pdf_page": 28,
+      "validated_value": "234,825"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread 'Total gross technical reserves' 2023 value as '2,176,599' \u2014 image shows '2,176,599' \u2014 actually correct. No correction needed.",
+      "round2_value": "2,176,599",
+      "row_index": 6,
+      "source_pdf_page": 28,
+      "validated_value": "2,176,599"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread 'Risk Adjustment - other' 2023 value as blank \u2014 image shows blank \u2014 actually correct. No correction needed.",
+      "round2_value": "",
+      "row_index": 5,
+      "source_pdf_page": 28,
+      "validated_value": ""
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread 'Provision Loss Component' 2023 value as '4,650' \u2014 image shows '4,650' \u2014 actually correct. No correction needed.",
+      "round2_value": "4,650",
+      "row_index": 3,
+      "source_pdf_page": 28,
+      "validated_value": "4,650"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread '- outstanding claims & IBNR' 2023 value as '652,403' \u2014 image shows '652,403' \u2014 actually correct. No correction needed.",
+      "round2_value": "652,403",
+      "row_index": 2,
+      "source_pdf_page": 28,
+      "validated_value": "652,403"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread '- Provision for Liability for Remaining Coverage,' 2023 value as '1,785,539' \u2014 image shows '1,785,539' \u2014 actually correct. No correction needed.",
+      "round2_value": "1,785,539",
+      "row_index": 1,
+      "source_pdf_page": 28,
+      "validated_value": "1,785,539"
+    }
+  ],
+  "final_headers_raw": [
+    "Liabilities (NGN'000)",
+    "2021",
+    "2022",
+    "2023",
+    "Assets (NGN'000)",
+    "2021",
+    "2022",
+    "2023"
+  ],
+  "final_normalized_rows": [],
+  "final_rows_raw": [
+    [
+      "Gross technical reserves for general business:",
+      "",
+      "",
+      "",
+      "Cash and Cash Equivalent",
+      "733,593",
+      "1,103,840",
+      "1,507,989"
+    ],
+    [
+      "- Provision for Liability for Remaining Coverage,",
+      "222,376",
+      "502,797",
+      "1,785,539",
+      "Financial Assets",
+      "1,403,281",
+      "1,532,451",
+      "2,687,139"
+    ],
+    [
+      "- outstanding claims & IBNR",
+      "472,248",
+      "372,745",
+      "652,403",
+      "Other receivable & prepayment",
+      "1,024,374",
+      "899,097",
+      "760,726"
+    ],
+    [
+      "Provision Loss Component",
+      "0",
+      "41",
+      "4,650",
+      "Reinsurance assets",
+      "550,728",
+      "333,698",
+      "1,120,394"
+    ],
+    [
+      "Insurance acquisition cashflows",
+      "61,468",
+      "28,144",
+      "130,155",
+      "Deferred Acquisition costs",
+      "0",
+      "0",
+      "0"
+    ],
+    [
+      "Risk Adjustment",
+      "",
+      "",
+      "",
+      "Investment properties",
+      "1,430,000",
+      "1,430,000",
+      "1,430,000"
+    ],
+    [
+      "- other",
+      "",
+      "",
+      "",
+      "Investment in subsidiaries",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Total gross technical reserves",
+      "756,092",
+      "903,727",
+      "2,176,599",
+      "Property plant & equipment",
+      "724,595",
+      "880,529",
+      "938,797"
+    ],
+    [
+      "Current Income Tax Liabilities",
+      "79,414",
+      "89,660",
+      "234,825",
+      "Intangible assets",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Insurance creditors (trade payable)",
+      "-",
+      "-",
+      "-",
+      "Deferred taxes",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Loans from credit institutions",
+      "-",
+      "-",
+      "-",
+      "Statutory deposits",
+      "300,150",
+      "300,150",
+      "300,150"
+    ],
+    [
+      "Other Creditors/payable",
+      "210,732",
+      "127,589",
+      "95,976",
+      "Other assets",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Deferred tax liabilities",
+      "86,738",
+      "89,784",
+      "110,000",
+      "Trade Receivables",
+      "275,537",
+      "223,559",
+      "176,915"
+    ],
+    [
+      "Other liabilities-employees retirement obligation",
+      "227,048",
+      "226,790",
+      "254,892",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Total liabilities",
+      "1,360,024",
+      "1,437,550",
+      "2,872,291",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Surplus assets",
+      "5,082,234",
+      "5,265,774",
+      "6,049,819",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Total liabilities and equity",
+      "6,442,258",
+      "6,703,324",
+      "8,922,110",
+      "Total assets",
+      "6,442,258",
+      "6,703,324",
+      "8,922,110"
+    ]
+  ],
+  "final_title_raw": "Non-life Statement of Financial Position as at 31 December ,....",
+  "issues": [],
+  "source_pages": [
+    28
+  ],
+  "table_complete": true,
+  "table_id": "T25",
+  "verdict": "corrected"
+}

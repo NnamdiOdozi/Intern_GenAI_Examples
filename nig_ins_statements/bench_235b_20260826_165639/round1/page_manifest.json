@@ -1,0 +1,1359 @@
+{
+  "expected_pages": 52,
+  "accepted": 51,
+  "missing": [
+    9
+  ],
+  "pages": [
+    {
+      "document_id": "sterling_fcr_2023",
+      "page_complete": true,
+      "page_legibility": "good",
+      "page_seen": true,
+      "page_status": "no_table",
+      "pdf_page": 1,
+      "printed_page": null,
+      "tables": []
+    },
+    {
+      "document_id": "sterling_fcr_2023",
+      "page_complete": true,
+      "page_legibility": "good",
+      "page_seen": true,
+      "page_status": "no_table",
+      "pdf_page": 2,
+      "printed_page": null,
+      "tables": []
+    },
+    {
+      "document_id": "sterling_fcr_2023",
+      "page_complete": true,
+      "page_legibility": "good",
+      "page_seen": true,
+      "page_status": "table_detected",
+      "pdf_page": 3,
+      "printed_page": null,
+      "tables": [
+        {
+          "appearance_id": "table1",
+          "complexity": "high",
+          "concerns": [],
+          "continues_from_previous": false,
+          "continues_to_next": false,
+          "possible_repeat_of": null,
+          "table_number_raw": "Table 1",
+          "title_raw": "Non-life Life insurance contract liabilities and net asset value",
+          "units_raw": "In NGN'000",
+          "visible_column_count": 4,
+          "visible_row_count": 35
+        }
+      ]
+    },
+    {
+      "document_id": "sterling_fcr_2023",
+      "page_complete": true,
+      "page_legibility": "good",
+      "page_seen": true,
+      "page_status": "no_table",
+      "pdf_page": 4,
+      "printed_page": null,
+      "tables": []
+    },
+    {
+      "document_id": "sterling_fcr_2023",
+      "page_complete": true,
+      "page_legibility": "good",
+      "page_seen": true,
+      "page_status": "no_table",
+      "pdf_page": 5,
+      "printed_page": null,
+      "tables": []
+    },
+    {
+      "document_id": "sterling_fcr_2023",
+      "page_complete": true,
+      "page_legibility": "good",
+      "page_seen": true,
+      "page_status": "no_table",
+      "pdf_page": 6,
+      "printed_page": "",
+      "tables": []
+    },
+    {
+      "document_id": "sterling_fcr_2023",
+      "page_complete": true,
+      "page_legibility": "good",
+      "page_seen": true,
+      "page_status": "no_table",
+      "pdf_page": 7,
+      "printed_page": null,
+      "tables": []
+    },
+    {
+      "document_id": "sterling_fcr_2023",
+      "page_complete": true,
+      "page_legibility": "good",
+      "page_seen": true,
+      "page_status": "table_detected",
+      "pdf_page": 8,
+      "printed_page": null,
+      "tables": [
+        {
+          "appearance_id": "table_1",
+          "complexity": "medium",
+          "concerns": [],
+          "continues_from_previous": false,
+          "continues_to_next": false,
+          "possible_repeat_of": null,
+          "table_number_raw": "Table 2",
+          "title_raw": "Trend of Key Non-life written Business Statistics\nGeneral Insurance business \u2013 direct",
+          "units_raw": "Number of policies written; Gross written premiums (NGN'000)",
+          "visible_column_count": 5,
+          "visible_row_count": 24
+        }
+      ]
+    },
+    {
+      "document_id": "sterling_fcr_2023",
+      "page_complete": true,
+      "page_legibility": "good",
+      "page_seen": true,
+      "page_status": "no_table",
+      "pdf_page": 10,
+      "printed_page": "9",
+      "tables": []
+    },
+    {
+      "document_id": "sterling_fcr_2023",
+      "page_complete": true,
+      "page_legibility": "good",
+      "page_seen": true,
+      "page_status": "table_detected",
+      "pdf_page": 11,
+      "printed_page": "10",
+      "tables": [
+        {
+          "appearance_id": "table_1",
+          "complexity": "medium",
+          "concerns": [],
+          "continues_from_previous": false,
+          "continues_to_next": true,
+          "possible_repeat_of": null,
+          "table_number_raw": "Table 3",
+          "title_raw": "General business revenue account",
+          "units_raw": "NGN'000",
+          "visible_column_count": 5,
+          "visible_row_count": 2
+        }
+      ]
+    },
+    {
+      "document_id": "sterling_fcr_2023",
+      "page_complete": true,
+      "page_legibility": "good",
+      "page_seen": true,
+      "page_status": "table_detected",
+      "pdf_page": 12,
+      "printed_page": "11",
+      "tables": [
+        {
+          "appearance_id": "table_1",
+          "complexity": "high",
+          "concerns": [
+            {
+              "category": "layout_ambiguity",
+              "confidence": "medium",
+              "location": "header",
+              "observation": "Table title is not explicitly printed; inferred from content as 'Statement of Comprehensive Income / Financial Performance'."
+            },
+            {
+              "category": "continuation_uncertainty",
+              "confidence": "low",
+              "location": "top",
+              "observation": "No explicit 'Continued from previous page' or table number. Appears to be a standalone table."
+            }
+          ],
+          "continues_from_previous": false,
+          "continues_to_next": false,
+          "possible_repeat_of": null,
+          "table_number_raw": null,
+          "title_raw": "Statement of Comprehensive Income (Inferred)",
+          "units_raw": "Nigerian Naira (NGN) - values appear to be in thousands or millions, but unit is not explicitly stated.",
+          "visible_column_count": 4,
+          "visible_row_count": 35
+        }
+      ]
+    },
+    {
+      "document_id": "sterling_fcr_2023",
+      "page_complete": true,
+      "page_legibility": "good",
+      "page_seen": true,
+      "page_status": "table_detected",
+      "pdf_page": 13,
+      "printed_page": "},\n    \"tables\": [\n        {\n            \"table_number\": \"Table 3a\",\n            \"title\": \"Key figures by class- General business - 2023\",\n            \"units\": \"(NGN'000)\",\n            \"rows\": 6,\n            \"columns\": 11,\n            ",
+      "tables": [
+        {
+          "appearance_id": "Table 3a",
+          "complexity": "medium",
+          "concerns": [],
+          "continues_from_previous": false,
+          "continues_to_next": false,
+          "possible_repeat_of": null,
+          "table_number_raw": "Table 3a",
+          "title_raw": "Key figures by class- General business - 2023",
+          "units_raw": "(NGN'000)",
+          "visible_column_count": 11,
+          "visible_row_count": 6
+        },
+        {
+          "appearance_id": "Table 3a (2022)",
+          "complexity": "medium",
+          "concerns": [],
+          "continues_from_previous": false,
+          "continues_to_next": false,
+          "possible_repeat_of": "Table 3a",
+          "table_number_raw": "Table 3a",
+          "title_raw": "Key figures by class- General business - 2022",
+          "units_raw": "(NGN'000)",
+          "visible_column_count": 11,
+          "visible_row_count": 1
+        }
+      ]
+    },
+    {
+      "document_id": "sterling_fcr_2023",
+      "page_complete": true,
+      "page_legibility": "good",
+      "page_seen": true,
+      "page_status": "table_detected",
+      "pdf_page": 14,
+      "printed_page": "},\n    \"tables\": [\n        {\n            \"table_number\": \"Table 3b\",\n            \"title\": \"Key figures by class- General business - 2023\",\n            \"units\": \"(NGN'000)\",\n            \"rows\": 5,\n            \"columns\": 11,\n            ",
+      "tables": [
+        {
+          "appearance_id": "table_1",
+          "complexity": "medium",
+          "concerns": [],
+          "continues_from_previous": false,
+          "continues_to_next": false,
+          "possible_repeat_of": null,
+          "table_number_raw": "Table 3b",
+          "title_raw": "Key figures by class- General business - 2023",
+          "units_raw": "(NGN'000)",
+          "visible_column_count": 11,
+          "visible_row_count": 5
+        }
+      ]
+    },
+    {
+      "document_id": "sterling_fcr_2023",
+      "page_complete": true,
+      "page_legibility": "good",
+      "page_seen": true,
+      "page_status": "table_detected",
+      "pdf_page": 15,
+      "printed_page": "tables_found_count",
+      "tables": [
+        {
+          "appearance_id": "table_5",
+          "complexity": "medium",
+          "concerns": [],
+          "continues_from_previous": false,
+          "continues_to_next": false,
+          "possible_repeat_of": null,
+          "table_number_raw": "Table 5",
+          "title_raw": "Proportion of ultimate claims paid as at 31 December 2023",
+          "units_raw": "(NGN'000)",
+          "visible_column_count": 9,
+          "visible_row_count": 12
+        }
+      ]
+    },
+    {
+      "document_id": "sterling_fcr_2023",
+      "page_complete": true,
+      "page_legibility": "good",
+      "page_seen": true,
+      "page_status": "table_detected",
+      "pdf_page": 16,
+      "printed_page": null,
+      "tables": [
+        {
+          "appearance_id": "Table 6a",
+          "complexity": "medium",
+          "concerns": [],
+          "continues_from_previous": false,
+          "continues_to_next": false,
+          "possible_repeat_of": null,
+          "table_number_raw": "Table 6a",
+          "title_raw": "Retention by class- General business 2023",
+          "units_raw": "(NGN'000)",
+          "visible_column_count": 11,
+          "visible_row_count": 5
+        },
+        {
+          "appearance_id": "Table 6b",
+          "complexity": "medium",
+          "concerns": [],
+          "continues_from_previous": false,
+          "continues_to_next": false,
+          "possible_repeat_of": "Table 6a",
+          "table_number_raw": "Table 6b",
+          "title_raw": "Retention by class- General business 2022",
+          "units_raw": "(NGN'000)",
+          "visible_column_count": 11,
+          "visible_row_count": 5
+        },
+        {
+          "appearance_id": "Table 6c",
+          "complexity": "medium",
+          "concerns": [],
+          "continues_from_previous": false,
+          "continues_to_next": false,
+          "possible_repeat_of": "Table 6a",
+          "table_number_raw": "Table 6c",
+          "title_raw": "Retention by class- General business 2021",
+          "units_raw": "(NGN'000)",
+          "visible_column_count": 11,
+          "visible_row_count": 5
+        },
+        {
+          "appearance_id": "Table 7",
+          "complexity": "low",
+          "concerns": [],
+          "continues_from_previous": false,
+          "continues_to_next": true,
+          "possible_repeat_of": null,
+          "table_number_raw": "Table 7",
+          "title_raw": "General insurance claims paid",
+          "units_raw": "(NGN'000)",
+          "visible_column_count": 6,
+          "visible_row_count": 2
+        }
+      ]
+    },
+    {
+      "document_id": "sterling_fcr_2023",
+      "page_complete": true,
+      "page_legibility": "good",
+      "page_seen": true,
+      "page_status": "table_detected",
+      "pdf_page": 17,
+      "printed_page": "}",
+      "tables": [
+        {
+          "appearance_id": "table_1",
+          "complexity": "medium",
+          "concerns": [
+            {
+              "category": "layout_ambiguity",
+              "confidence": "low",
+              "location": "header",
+              "observation": "Table title is not explicitly labeled as 'Table X' but appears to be a summary table of claims by class. The header row lacks column titles, making interpretation dependent on context."
+            },
+            {
+              "category": "continuation_uncertainty",
+              "confidence": "medium",
+              "location": "top",
+              "observation": "No explicit 'continued from previous page' or 'continued on next page' indicator. However, the structure suggests it may be a continuation of a larger table from prior pages due to the presence of multiple columns without headers."
+            }
+          ],
+          "continues_from_previous": false,
+          "continues_to_next": true,
+          "possible_repeat_of": null,
+          "table_number_raw": null,
+          "title_raw": "General Accident, Motor, Marine, Engineering, Bond, Fire, Oil & Gas, AGRIC, Aviation, Total gross*, Less reinsurance recoveries, Total net claims paid, Reinsurer's share of paid claims",
+          "units_raw": "NGN'000 (implied by context and source note)",
+          "visible_column_count": 6,
+          "visible_row_count": 14
+        },
+        {
+          "appearance_id": "table_2",
+          "complexity": "high",
+          "concerns": [
+            {
+              "category": "ocr_uncertainty",
+              "confidence": "medium",
+              "location": "column_headers",
+              "observation": "Column headers are dense and may be misread by OCR; e.g., 'IBNR (NGN'000)' and 'Incurred Claims (N'00)' could be confused if spacing is poor."
+            },
+            {
+              "category": "layout_ambiguity",
+              "confidence": "low",
+              "location": "footer",
+              "observation": "The footer text 'Source: Sterling accounts' applies to the first table only; no clear attribution for Table 8 is visible on this page."
+            }
+          ],
+          "continues_from_previous": false,
+          "continues_to_next": true,
+          "possible_repeat_of": null,
+          "table_number_raw": "Table 8",
+          "title_raw": "Ultimate Loss Ratio by class of General Insurance Business",
+          "units_raw": "NGN'000, N'00, %",
+          "visible_column_count": 9,
+          "visible_row_count": 2
+        }
+      ]
+    },
+    {
+      "document_id": "sterling_fcr_2023",
+      "page_complete": true,
+      "page_legibility": "good",
+      "page_seen": true,
+      "page_status": "table_detected",
+      "pdf_page": 18,
+      "printed_page": "17",
+      "tables": [
+        {
+          "appearance_id": "table_1",
+          "complexity": "medium",
+          "concerns": [],
+          "continues_from_previous": false,
+          "continues_to_next": false,
+          "possible_repeat_of": null,
+          "table_number_raw": "Table 9",
+          "title_raw": "Historical Combined ratio in each accident year",
+          "units_raw": "%",
+          "visible_column_count": 6,
+          "visible_row_count": 9
+        }
+      ]
+    },
+    {
+      "document_id": "sterling_fcr_2023",
+      "page_complete": true,
+      "page_legibility": "good",
+      "page_seen": true,
+      "page_status": "no_table",
+      "pdf_page": 19,
+      "printed_page": null,
+      "tables": []
+    },
+    {
+      "document_id": "sterling_fcr_2023",
+      "page_complete": true,
+      "page_legibility": "good",
+      "page_seen": true,
+      "page_status": "table_detected",
+      "pdf_page": 20,
+      "printed_page": "},\n    \"tables\": [\n        {\n            \"table_number\": \"Table 10\",\n            \"title\": \"Accident Year 2023 as reported\",\n            \"source\": \"Valuation Report\",\n            \"units\": \"NGN'000\",\n            \"rows\": 11,\n            \"columns\": 6,\n            ",
+      "tables": [
+        {
+          "appearance_id": "Table 10",
+          "complexity": "medium",
+          "concerns": [],
+          "continues_from_previous": false,
+          "continues_to_next": false,
+          "possible_repeat_of": null,
+          "table_number_raw": "Table 10",
+          "title_raw": "Accident Year 2023 as reported",
+          "units_raw": "NGN'000",
+          "visible_column_count": 6,
+          "visible_row_count": 11
+        },
+        {
+          "appearance_id": "Table 11",
+          "complexity": "low",
+          "concerns": [],
+          "continues_from_previous": false,
+          "continues_to_next": true,
+          "possible_repeat_of": null,
+          "table_number_raw": "Table 11",
+          "title_raw": "Solvency level on Balance sheet basis",
+          "units_raw": "NGN'000",
+          "visible_column_count": 6,
+          "visible_row_count": 2
+        }
+      ]
+    },
+    {
+      "document_id": "sterling_fcr_2023",
+      "page_complete": true,
+      "page_legibility": "good",
+      "page_seen": true,
+      "page_status": "table_detected",
+      "pdf_page": 21,
+      "printed_page": null,
+      "tables": [
+        {
+          "appearance_id": "table_top_unlabeled",
+          "complexity": "medium",
+          "concerns": [
+            {
+              "category": "continuation_uncertainty",
+              "confidence": "low",
+              "location": "top_table",
+              "observation": "No explicit 'continued from previous page' or 'continued on next page' indicator. Appears to be a continuation of a larger table, possibly Table 11 or similar, given the context of solvency metrics."
+            },
+            {
+              "category": "layout_ambiguity",
+              "confidence": "medium",
+              "location": "top_table",
+              "observation": "The table lacks a formal title or number in the visible portion. Its content (admissible liabilities, assets, solvency ratios) suggests it is part of a financial condition summary, but its exact identity is unclear without preceding context."
+            }
+          ],
+          "continues_from_previous": false,
+          "continues_to_next": false,
+          "possible_repeat_of": null,
+          "table_number_raw": "",
+          "title_raw": "Unlabeled table showing Admissible Liabilities, Assets, Net Written Premium, Required Capital, and Solvency Margin Ratio for multiple years.",
+          "units_raw": "NGN",
+          "visible_column_count": 6,
+          "visible_row_count": 9
+        },
+        {
+          "appearance_id": "table_12",
+          "complexity": "medium",
+          "concerns": [],
+          "continues_from_previous": false,
+          "continues_to_next": false,
+          "possible_repeat_of": null,
+          "table_number_raw": "Table 12",
+          "title_raw": "Measures of financial strength",
+          "units_raw": "NGN'000",
+          "visible_column_count": 6,
+          "visible_row_count": 7
+        }
+      ]
+    },
+    {
+      "document_id": "sterling_fcr_2023",
+      "page_complete": true,
+      "page_legibility": "good",
+      "page_seen": true,
+      "page_status": "table_detected",
+      "pdf_page": 22,
+      "printed_page": null,
+      "tables": [
+        {
+          "appearance_id": "table_1",
+          "complexity": "medium",
+          "concerns": [],
+          "continues_from_previous": false,
+          "continues_to_next": false,
+          "possible_repeat_of": null,
+          "table_number_raw": null,
+          "title_raw": "Financial and Ratio Summary (implied by context)",
+          "units_raw": "NGN, %",
+          "visible_column_count": 6,
+          "visible_row_count": 14
+        }
+      ]
+    },
+    {
+      "document_id": "sterling_fcr_2023",
+      "page_complete": true,
+      "page_legibility": "good",
+      "page_seen": true,
+      "page_status": "table_detected",
+      "pdf_page": 23,
+      "printed_page": ",",
+      "tables": [
+        {
+          "appearance_id": "table1",
+          "complexity": "high",
+          "concerns": [],
+          "continues_from_previous": false,
+          "continues_to_next": false,
+          "possible_repeat_of": null,
+          "table_number_raw": "Table 1",
+          "title_raw": "Non-life Life insurance contract liabilities and net asset value",
+          "units_raw": "In NGN'000",
+          "visible_column_count": 6,
+          "visible_row_count": 34
+        },
+        {
+          "appearance_id": "table9",
+          "complexity": "low",
+          "concerns": [],
+          "continues_from_previous": false,
+          "continues_to_next": true,
+          "possible_repeat_of": null,
+          "table_number_raw": "Table 9",
+          "title_raw": "Historical Combined ratio in each accident year",
+          "units_raw": "",
+          "visible_column_count": 6,
+          "visible_row_count": 2
+        }
+      ]
+    },
+    {
+      "document_id": "sterling_fcr_2023",
+      "page_complete": true,
+      "page_legibility": "good",
+      "page_seen": true,
+      "page_status": "table_detected",
+      "pdf_page": 24,
+      "printed_page": null,
+      "tables": [
+        {
+          "appearance_id": "table_1",
+          "complexity": "medium",
+          "concerns": [],
+          "continues_from_previous": false,
+          "continues_to_next": false,
+          "possible_repeat_of": null,
+          "table_number_raw": null,
+          "title_raw": "General Accident, Motor, Marine, Engineering, Bond, Fire, Oil & Gas, Agriculture, Aviation",
+          "units_raw": "%",
+          "visible_column_count": 6,
+          "visible_row_count": 9
+        }
+      ]
+    },
+    {
+      "document_id": "sterling_fcr_2023",
+      "page_complete": true,
+      "page_legibility": "good",
+      "page_seen": true,
+      "page_status": "no_table",
+      "pdf_page": 25,
+      "printed_page": null,
+      "tables": []
+    },
+    {
+      "document_id": "sterling_fcr_2023",
+      "page_complete": true,
+      "page_legibility": "good",
+      "page_seen": true,
+      "page_status": "no_table",
+      "pdf_page": 26,
+      "printed_page": null,
+      "tables": []
+    },
+    {
+      "document_id": "sterling_fcr_2023",
+      "page_complete": true,
+      "page_legibility": "good",
+      "page_seen": true,
+      "page_status": "table_detected",
+      "pdf_page": 27,
+      "printed_page": "26",
+      "tables": [
+        {
+          "appearance_id": "table_1",
+          "complexity": "low",
+          "concerns": [],
+          "continues_from_previous": false,
+          "continues_to_next": false,
+          "possible_repeat_of": null,
+          "table_number_raw": null,
+          "title_raw": "Scenario 1: NPV, Duration, Convexity",
+          "units_raw": "Naira (implied by context)",
+          "visible_column_count": 5,
+          "visible_row_count": 3
+        }
+      ]
+    },
+    {
+      "document_id": "sterling_fcr_2023",
+      "page_complete": true,
+      "page_legibility": "good",
+      "page_seen": true,
+      "page_status": "table_detected",
+      "pdf_page": 28,
+      "printed_page": ">>> 27 <<<",
+      "tables": [
+        {
+          "appearance_id": "table_14",
+          "complexity": "high",
+          "concerns": [
+            {
+              "category": "layout_ambiguity",
+              "confidence": "medium",
+              "location": "header",
+              "observation": "Table title is truncated ('as at 31 December .....') suggesting continuation from prior page or incomplete OCR."
+            },
+            {
+              "category": "continuation_uncertainty",
+              "confidence": "high",
+              "location": "footer",
+              "observation": "Page number '27' printed at bottom conflicts with PDF page 28, indicating possible pagination error or misalignment in source document."
+            }
+          ],
+          "continues_from_previous": true,
+          "continues_to_next": false,
+          "possible_repeat_of": null,
+          "table_number_raw": "Table 14",
+          "title_raw": "Non-life Statement of Financial Position as at 31 December .....",
+          "units_raw": "NGN'000",
+          "visible_column_count": 7,
+          "visible_row_count": 25
+        }
+      ]
+    },
+    {
+      "document_id": "sterling_fcr_2023",
+      "page_complete": true,
+      "page_legibility": "good",
+      "page_seen": true,
+      "page_status": "table_detected",
+      "pdf_page": 29,
+      "printed_page": null,
+      "tables": [
+        {
+          "appearance_id": "table_15_or_17",
+          "complexity": "medium",
+          "concerns": [
+            {
+              "category": "layout_ambiguity",
+              "confidence": "high",
+              "location": "header",
+              "observation": "Table title appears as both 'Table 15' and 'Table 17' on the same line, suggesting a possible typo or mislabeling in source document."
+            },
+            {
+              "category": "continuation_uncertainty",
+              "confidence": "medium",
+              "location": "table_body",
+              "observation": "No explicit continuation markers (e.g., 'continued from previous page', 'to next page') are visible. Table appears self-contained but may be part of a larger set not shown."
+            }
+          ],
+          "continues_from_previous": false,
+          "continues_to_next": false,
+          "possible_repeat_of": null,
+          "table_number_raw": "Table 15 / Table 17",
+          "title_raw": "Estimated yield on non-life fund assets / Estimated yield on Non - life fund assets",
+          "units_raw": "NGN (implied by context, not explicitly stated in header)",
+          "visible_column_count": 4,
+          "visible_row_count": 8
+        },
+        {
+          "appearance_id": "asset_composition_table",
+          "complexity": "low",
+          "concerns": [
+            {
+              "category": "layout_ambiguity",
+              "confidence": "medium",
+              "location": "column_headers",
+              "observation": "Column headers 'NGN'000' and 'Proportion invested' are not clearly aligned with row labels; slight misalignment may affect OCR parsing accuracy."
+            }
+          ],
+          "continues_from_previous": false,
+          "continues_to_next": false,
+          "possible_repeat_of": null,
+          "table_number_raw": "none",
+          "title_raw": "Quality of assets backing the general business fund (implied by section heading)",
+          "units_raw": "NGN'000, Proportion invested (%)",
+          "visible_column_count": 3,
+          "visible_row_count": 11
+        }
+      ]
+    },
+    {
+      "document_id": "sterling_fcr_2023",
+      "page_complete": true,
+      "page_legibility": "good",
+      "page_seen": true,
+      "page_status": "no_table",
+      "pdf_page": 30,
+      "printed_page": null,
+      "tables": []
+    },
+    {
+      "document_id": "sterling_fcr_2023",
+      "page_complete": true,
+      "page_legibility": "good",
+      "page_seen": true,
+      "page_status": "table_detected",
+      "pdf_page": 31,
+      "printed_page": "",
+      "tables": [
+        {
+          "appearance_id": "table_1",
+          "complexity": "medium",
+          "concerns": [],
+          "continues_from_previous": false,
+          "continues_to_next": false,
+          "possible_repeat_of": null,
+          "table_number_raw": null,
+          "title_raw": "Reinsurance Documents Provided",
+          "units_raw": null,
+          "visible_column_count": 2,
+          "visible_row_count": 11
+        },
+        {
+          "appearance_id": "table_2",
+          "complexity": "high",
+          "concerns": [
+            {
+              "category": "layout_ambiguity",
+              "confidence": "medium",
+              "location": "row_grouping",
+              "observation": "Row groupings (e.g., 'Surplus', 'Excess of Loss') are visually indicated by background shading but lack explicit table structure or subheaders, which may affect parsing."
+            }
+          ],
+          "continues_from_previous": false,
+          "continues_to_next": false,
+          "possible_repeat_of": null,
+          "table_number_raw": null,
+          "title_raw": "Analysis",
+          "units_raw": "NGN'000",
+          "visible_column_count": 4,
+          "visible_row_count": 25
+        }
+      ]
+    },
+    {
+      "document_id": "sterling_fcr_2023",
+      "page_complete": true,
+      "page_legibility": "good",
+      "page_seen": true,
+      "page_status": "table_detected",
+      "pdf_page": 32,
+      "printed_page": null,
+      "tables": [
+        {
+          "appearance_id": "t1",
+          "complexity": "medium",
+          "concerns": [],
+          "continues_from_previous": false,
+          "continues_to_next": false,
+          "possible_repeat_of": null,
+          "table_number_raw": null,
+          "title_raw": "Treaty retention and capacity per risk",
+          "units_raw": "NGN",
+          "visible_column_count": 3,
+          "visible_row_count": 5
+        }
+      ]
+    },
+    {
+      "document_id": "sterling_fcr_2023",
+      "page_complete": true,
+      "page_legibility": "good",
+      "page_seen": true,
+      "page_status": "no_table",
+      "pdf_page": 33,
+      "printed_page": null,
+      "tables": []
+    },
+    {
+      "document_id": "sterling_fcr_2023",
+      "page_complete": true,
+      "page_legibility": "good",
+      "page_seen": true,
+      "page_status": "table_detected",
+      "pdf_page": 34,
+      "printed_page": ",",
+      "tables": [
+        {
+          "appearance_id": "t1",
+          "complexity": "medium",
+          "concerns": [],
+          "continues_from_previous": false,
+          "continues_to_next": false,
+          "possible_repeat_of": null,
+          "table_number_raw": null,
+          "title_raw": "The Fire and Property reinsurance Treaty is provided by the following:",
+          "units_raw": "%",
+          "visible_column_count": 2,
+          "visible_row_count": 7
+        },
+        {
+          "appearance_id": "t2",
+          "complexity": "high",
+          "concerns": [],
+          "continues_from_previous": false,
+          "continues_to_next": false,
+          "possible_repeat_of": null,
+          "table_number_raw": null,
+          "title_raw": "The treaty has two layers:",
+          "units_raw": "NGN, lines, %",
+          "visible_column_count": 3,
+          "visible_row_count": 9
+        }
+      ]
+    },
+    {
+      "document_id": "sterling_fcr_2023",
+      "page_complete": true,
+      "page_legibility": "good",
+      "page_seen": true,
+      "page_status": "no_table",
+      "pdf_page": 35,
+      "printed_page": "}",
+      "tables": []
+    },
+    {
+      "document_id": "sterling_fcr_2023",
+      "page_complete": true,
+      "page_legibility": "good",
+      "page_seen": true,
+      "page_status": "table_detected",
+      "pdf_page": 36,
+      "printed_page": null,
+      "tables": [
+        {
+          "appearance_id": "T1",
+          "complexity": "medium",
+          "concerns": [],
+          "continues_from_previous": false,
+          "continues_to_next": false,
+          "possible_repeat_of": null,
+          "table_number_raw": "none",
+          "title_raw": "Reinsurer Proportion Shared Rating",
+          "units_raw": "percent, rating scale",
+          "visible_column_count": 3,
+          "visible_row_count": 11
+        },
+        {
+          "appearance_id": "T2",
+          "complexity": "high",
+          "concerns": [],
+          "continues_from_previous": false,
+          "continues_to_next": false,
+          "possible_repeat_of": null,
+          "table_number_raw": "none",
+          "title_raw": "ENGINEERING",
+          "units_raw": "NGN, percent",
+          "visible_column_count": 7,
+          "visible_row_count": 14
+        }
+      ]
+    },
+    {
+      "document_id": "sterling_fcr_2023",
+      "page_complete": true,
+      "page_legibility": "good",
+      "page_seen": true,
+      "page_status": "table_detected",
+      "pdf_page": 37,
+      "printed_page": null,
+      "tables": [
+        {
+          "appearance_id": "table_1",
+          "complexity": "medium",
+          "concerns": [],
+          "continues_from_previous": false,
+          "continues_to_next": false,
+          "possible_repeat_of": null,
+          "table_number_raw": "none",
+          "title_raw": "Excess of Loss (XL) Treaty",
+          "units_raw": "NGN",
+          "visible_column_count": 4,
+          "visible_row_count": 4
+        }
+      ]
+    },
+    {
+      "document_id": "sterling_fcr_2023",
+      "page_complete": true,
+      "page_legibility": "good",
+      "page_seen": true,
+      "page_status": "table_detected",
+      "pdf_page": 38,
+      "printed_page": "},\n    \"tables\": [\n        {\n            \"table_number\": null,\n            \"title\": \"Reinsurer Proportion Shared\",\n            \"units\": \"%\",\n            \"rows\": 7,\n            \"columns\": 2,\n            ",
+      "tables": [
+        {
+          "appearance_id": "reinsurer_proportion_table",
+          "complexity": "low",
+          "concerns": [],
+          "continues_from_previous": false,
+          "continues_to_next": false,
+          "possible_repeat_of": null,
+          "table_number_raw": null,
+          "title_raw": "Reinsurer Proportion Shared",
+          "units_raw": "%",
+          "visible_column_count": 2,
+          "visible_row_count": 7
+        },
+        {
+          "appearance_id": "general_accident_claims_table",
+          "complexity": "medium",
+          "concerns": [],
+          "continues_from_previous": false,
+          "continues_to_next": false,
+          "possible_repeat_of": null,
+          "table_number_raw": null,
+          "title_raw": "General Accident",
+          "units_raw": "NGN",
+          "visible_column_count": 6,
+          "visible_row_count": 14
+        },
+        {
+          "appearance_id": "treaty_retention_table",
+          "complexity": "low",
+          "concerns": [],
+          "continues_from_previous": false,
+          "continues_to_next": true,
+          "possible_repeat_of": null,
+          "table_number_raw": null,
+          "title_raw": "Treaty retention andcapacity",
+          "units_raw": null,
+          "visible_column_count": 3,
+          "visible_row_count": 1
+        }
+      ]
+    },
+    {
+      "document_id": "sterling_fcr_2023",
+      "page_complete": true,
+      "page_legibility": "good",
+      "page_seen": true,
+      "page_status": "table_detected",
+      "pdf_page": 39,
+      "printed_page": ",",
+      "tables": [
+        {
+          "appearance_id": "t1",
+          "complexity": "low",
+          "concerns": [],
+          "continues_from_previous": false,
+          "continues_to_next": false,
+          "possible_repeat_of": null,
+          "table_number_raw": null,
+          "title_raw": "The reinsurers take 100% share of the treaty, as follows:",
+          "units_raw": "%",
+          "visible_column_count": 2,
+          "visible_row_count": 12
+        }
+      ]
+    },
+    {
+      "document_id": "sterling_fcr_2023",
+      "page_complete": true,
+      "page_legibility": "good",
+      "page_seen": true,
+      "page_status": "table_detected",
+      "pdf_page": 40,
+      "printed_page": "",
+      "tables": [
+        {
+          "appearance_id": "marine_hull_surplus_treaty_table",
+          "complexity": "low",
+          "concerns": [],
+          "continues_from_previous": false,
+          "continues_to_next": false,
+          "possible_repeat_of": null,
+          "table_number_raw": null,
+          "title_raw": "Marine Hull Surplus Treaty",
+          "units_raw": null,
+          "visible_column_count": 3,
+          "visible_row_count": 2
+        }
+      ]
+    },
+    {
+      "document_id": "sterling_fcr_2023",
+      "page_complete": true,
+      "page_legibility": "good",
+      "page_seen": true,
+      "page_status": "table_detected",
+      "pdf_page": 41,
+      "printed_page": null,
+      "tables": [
+        {
+          "appearance_id": "t1",
+          "complexity": "medium",
+          "concerns": [],
+          "continues_from_previous": false,
+          "continues_to_next": false,
+          "possible_repeat_of": null,
+          "table_number_raw": "Table 1",
+          "title_raw": "The reinsurers take 65% share of the Marine Hull treaty, as follows:",
+          "units_raw": "Percentage (%)",
+          "visible_column_count": 2,
+          "visible_row_count": 12
+        },
+        {
+          "appearance_id": "t2",
+          "complexity": "medium",
+          "concerns": [],
+          "continues_from_previous": false,
+          "continues_to_next": false,
+          "possible_repeat_of": null,
+          "table_number_raw": "Table 2",
+          "title_raw": "Marine Cargo Insurance\nMarine Cargo Surplus Treaty",
+          "units_raw": "NGN (Naira)",
+          "visible_column_count": 3,
+          "visible_row_count": 3
+        },
+        {
+          "appearance_id": "t3",
+          "complexity": "medium",
+          "concerns": [],
+          "continues_from_previous": false,
+          "continues_to_next": false,
+          "possible_repeat_of": null,
+          "table_number_raw": "Table 3",
+          "title_raw": "The reinsurers take 100% share of the Marine Cargo treaty, as follows:",
+          "units_raw": "Percentage (%)",
+          "visible_column_count": 2,
+          "visible_row_count": 12
+        }
+      ]
+    },
+    {
+      "document_id": "sterling_fcr_2023",
+      "page_complete": false,
+      "page_legibility": "good",
+      "page_seen": true,
+      "page_status": "table_detected",
+      "pdf_page": 42,
+      "printed_page": null,
+      "tables": [
+        {
+          "appearance_id": "t1",
+          "complexity": "low",
+          "concerns": [],
+          "continues_from_previous": false,
+          "continues_to_next": false,
+          "possible_repeat_of": null,
+          "table_number_raw": "none",
+          "title_raw": "Motor and Liability Insurance - Excess of Loss (Motor and Liability) treaty layers",
+          "units_raw": "NGN",
+          "visible_column_count": 4,
+          "visible_row_count": 2
+        }
+      ]
+    },
+    {
+      "document_id": "sterling_fcr_2023",
+      "page_complete": true,
+      "page_legibility": "good",
+      "page_seen": true,
+      "page_status": "table_detected",
+      "pdf_page": 43,
+      "printed_page": ">>42<<",
+      "tables": [
+        {
+          "appearance_id": "t1",
+          "complexity": "medium",
+          "concerns": [
+            {
+              "category": "layout_ambiguity",
+              "confidence": "low",
+              "location": "top_table",
+              "observation": "Table appears to be a continuation from previous page; no table number or title visible. Layout suggests it is part of a larger treaty schedule."
+            },
+            {
+              "category": "continuation_uncertainty",
+              "confidence": "medium",
+              "location": "top_table",
+              "observation": "No explicit 'continued from' or 'continued to' indicator. May be Table 1 or 2 from prior page."
+            }
+          ],
+          "continues_from_previous": true,
+          "continues_to_next": false,
+          "possible_repeat_of": null,
+          "table_number_raw": "",
+          "title_raw": "Layer 2 Treaty Details (Unnumbered)",
+          "units_raw": "NGNmn",
+          "visible_column_count": 4,
+          "visible_row_count": 3
+        },
+        {
+          "appearance_id": "t2",
+          "complexity": "low",
+          "concerns": [],
+          "continues_from_previous": false,
+          "continues_to_next": false,
+          "possible_repeat_of": null,
+          "table_number_raw": "",
+          "title_raw": "Reinsurer Proportion Shared",
+          "units_raw": "%",
+          "visible_column_count": 2,
+          "visible_row_count": 7
+        },
+        {
+          "appearance_id": "t3",
+          "complexity": "high",
+          "concerns": [
+            {
+              "category": "layout_ambiguity",
+              "confidence": "medium",
+              "location": "bottom_table",
+              "observation": "Table spans full width and contains multiple numeric columns with mixed units (NGN, %). Header row is clear but may be misaligned in OCR due to shading."
+            },
+            {
+              "category": "ocr_uncertainty",
+              "confidence": "low",
+              "location": "bottom_table",
+              "observation": "Shaded rows may cause OCR errors in cell boundaries or values, especially for large numbers like '42,811,129'."
+            }
+          ],
+          "continues_from_previous": false,
+          "continues_to_next": false,
+          "possible_repeat_of": null,
+          "table_number_raw": "",
+          "title_raw": "Largest Claims in MOTOR branch since 2015",
+          "units_raw": "NGN, %",
+          "visible_column_count": 6,
+          "visible_row_count": 10
+        }
+      ]
+    },
+    {
+      "document_id": "sterling_fcr_2023",
+      "page_complete": true,
+      "page_legibility": "good",
+      "page_seen": true,
+      "page_status": "table_detected",
+      "pdf_page": 44,
+      "printed_page": "",
+      "tables": [
+        {
+          "appearance_id": "table_1",
+          "complexity": "medium",
+          "concerns": [],
+          "continues_from_previous": false,
+          "continues_to_next": false,
+          "possible_repeat_of": null,
+          "table_number_raw": null,
+          "title_raw": "Operational Risks: Construction Premium",
+          "units_raw": null,
+          "visible_column_count": 5,
+          "visible_row_count": 3
+        }
+      ]
+    },
+    {
+      "document_id": "sterling_fcr_2023",
+      "page_complete": true,
+      "page_legibility": "good",
+      "page_seen": true,
+      "page_status": "table_detected",
+      "pdf_page": 45,
+      "printed_page": null,
+      "tables": [
+        {
+          "appearance_id": "T1",
+          "complexity": "medium",
+          "concerns": [],
+          "continues_from_previous": false,
+          "continues_to_next": false,
+          "possible_repeat_of": null,
+          "table_number_raw": "none",
+          "title_raw": "Excess of Losstreaty",
+          "units_raw": "USD, NGN, %",
+          "visible_column_count": 5,
+          "visible_row_count": 9
+        },
+        {
+          "appearance_id": "T2",
+          "complexity": "medium",
+          "concerns": [],
+          "continues_from_previous": false,
+          "continues_to_next": false,
+          "possible_repeat_of": null,
+          "table_number_raw": "none",
+          "title_raw": "From the data on the largest claims in the Oil& Gas branch since 2015, the following can be seen:",
+          "units_raw": "NGN, %",
+          "visible_column_count": 5,
+          "visible_row_count": 10
+        }
+      ]
+    },
+    {
+      "document_id": "sterling_fcr_2023",
+      "page_complete": true,
+      "page_legibility": "good",
+      "page_seen": true,
+      "page_status": "table_detected",
+      "pdf_page": 46,
+      "printed_page": null,
+      "tables": [
+        {
+          "appearance_id": "table_1",
+          "complexity": "medium",
+          "concerns": [],
+          "continues_from_previous": false,
+          "continues_to_next": false,
+          "possible_repeat_of": null,
+          "table_number_raw": "1.",
+          "title_raw": "Surplus/XL Treaty Reinsurers",
+          "units_raw": null,
+          "visible_column_count": 4,
+          "visible_row_count": 10
+        },
+        {
+          "appearance_id": "table_2",
+          "complexity": "medium",
+          "concerns": [],
+          "continues_from_previous": false,
+          "continues_to_next": false,
+          "possible_repeat_of": null,
+          "table_number_raw": "2.",
+          "title_raw": "Facultative Obligatory Treaty Reinsurers",
+          "units_raw": null,
+          "visible_column_count": 4,
+          "visible_row_count": 5
+        }
+      ]
+    },
+    {
+      "document_id": "sterling_fcr_2023",
+      "page_complete": true,
+      "page_legibility": "good",
+      "page_seen": true,
+      "page_status": "no_table",
+      "pdf_page": 47,
+      "printed_page": "46",
+      "tables": []
+    },
+    {
+      "document_id": "sterling_fcr_2023",
+      "page_complete": true,
+      "page_legibility": "good",
+      "page_seen": true,
+      "page_status": "table_detected",
+      "pdf_page": 48,
+      "printed_page": null,
+      "tables": [
+        {
+          "appearance_id": "t1",
+          "complexity": "medium",
+          "concerns": [],
+          "continues_from_previous": false,
+          "continues_to_next": false,
+          "possible_repeat_of": null,
+          "table_number_raw": "none",
+          "title_raw": "Agriculture class",
+          "units_raw": "percentages",
+          "visible_column_count": 3,
+          "visible_row_count": 4
+        }
+      ]
+    },
+    {
+      "document_id": "sterling_fcr_2023",
+      "page_complete": true,
+      "page_legibility": "good",
+      "page_seen": true,
+      "page_status": "no_table",
+      "pdf_page": 49,
+      "printed_page": "48",
+      "tables": []
+    },
+    {
+      "document_id": "sterling_fcr_2023",
+      "page_complete": true,
+      "page_legibility": "good",
+      "page_seen": true,
+      "page_status": "no_table",
+      "pdf_page": 50,
+      "printed_page": ">49",
+      "tables": []
+    },
+    {
+      "document_id": "sterling_fcr_2023",
+      "page_complete": true,
+      "page_legibility": "good",
+      "page_seen": true,
+      "page_status": "no_table",
+      "pdf_page": 51,
+      "printed_page": null,
+      "tables": []
+    },
+    {
+      "document_id": "sterling_fcr_2023",
+      "page_complete": true,
+      "page_legibility": "good",
+      "page_seen": true,
+      "page_status": "no_table",
+      "pdf_page": 52,
+      "printed_page": "51",
+      "tables": []
+    }
+  ]
+}

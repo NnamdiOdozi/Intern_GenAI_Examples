@@ -1,0 +1,206 @@
+{
+  "cell_flags": [],
+  "concerns": [],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "footnotes_raw": [
+    "Source: Company\u2019s management account",
+    "9.1 The assets shown in the table are assets reported in the company's accounts and include assets held to cover the insurance contract liabilities and other assets identified as general insurance business assets as at end of year 2023.The shareholders fund (Surplus)is about NGN6.045bn [ 2022: NGN5.27bn].",
+    "9.2 The assets include the sum of NGN300.15mn in statutory deposit. Cash and Cash equivalent of NGN 1.51bn [2022: NGN1.51bn], which in combination with the Statutory deposit would be available to meet about 71% [2022: 88%] of the total gross technical and other liabilities. This would suggest that the company is relatively very liquid with considerable level of confidence and certainty that policyholders\u2019 reasonable expectations can be met. However, the change in coverage appears not to consistent with change in the growth in insurance revenue which increased slightly by 1.5% in production, which would have yielded an offsetting liability effect from liability for remaining coverage. The assets for reinsurance coverage remain high as well at NGN 1.33bn [2022: NGN1.81bn], which is about NGN0.4bn more than its end of year 2021 amount.",
+    "9.3 The financial assets NGN2.70bn [2022: NGN1.84bn] consist of mainly Federal Government bonds (NGN287.36mn:15.59%), Quoted equities (NGN312.26mn: 16.94%), loans and receivables (578.08: 31.37%), and unquoted companies: NGN665.95mn (36.2%). Trade receivables in Premium Debtors was NGN223.56 [2021: NGN275.54mn]. Of the investment in properties of NGN 1.43bn, land, plant and equipment of NGN938.80mn [2021: NGN724.60bn]. The total of NGN2.31bn assets in investment properties and plant and equipment and land constitute 26.31% of the total general business assets."
+  ],
+  "headers_raw": [
+    "Liabilities (NGN'000)",
+    "2021",
+    "2022",
+    "2023",
+    "Assets (NGN'000)",
+    "2021",
+    "2022",
+    "2023"
+  ],
+  "normalized_rows": [],
+  "pages_seen": [
+    28
+  ],
+  "rows_raw": [
+    [
+      "Gross technical reserves for general business:",
+      "",
+      "",
+      "",
+      "Cash and Cash Equivalent",
+      "733,593",
+      "1,103,840",
+      "1,507,989"
+    ],
+    [
+      "- Provision for Liability for Remaining Coverage,",
+      "222,376",
+      "502,797",
+      "1,785,539",
+      "Financial Assets",
+      "1,403,281",
+      "1,532,451",
+      "2,687,139"
+    ],
+    [
+      "- outstanding claims & IBNR",
+      "472,248",
+      "372,745",
+      "652,403",
+      "Other receivable & prepayment",
+      "1,024,374",
+      "899,097",
+      "760,726"
+    ],
+    [
+      "Provision Loss Component",
+      "0",
+      "41",
+      "4,650",
+      "Reinsurance assets",
+      "550,728",
+      "333,698",
+      "1,120,394"
+    ],
+    [
+      "Insurance acquisition cashflows",
+      "61468",
+      "28,144",
+      "(396,149)",
+      "Deferred Acquisition costs",
+      "0",
+      "0",
+      "0"
+    ],
+    [
+      "Risk Adjustment",
+      "",
+      "",
+      "",
+      "Investment properties",
+      "1,430,000",
+      "1,430,000",
+      "1,430,000"
+    ],
+    [
+      "- other",
+      "",
+      "",
+      "",
+      "Investment in subsidiaries",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Total gross technical reserves",
+      "756,092",
+      "903,727",
+      "2,176,599",
+      "Property plant & equipment",
+      "724,595",
+      "880,529",
+      "938,797"
+    ],
+    [
+      "Current Income Tax Liabilities",
+      "79,414",
+      "89,660",
+      "234,825",
+      "Intangible assets",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Insurance creditors (trade payable)",
+      "-",
+      "-",
+      "-",
+      "Deferred taxes",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Loans from credit institutions",
+      "-",
+      "-",
+      "-",
+      "Statutory deposits",
+      "300,150",
+      "300,150",
+      "300,150"
+    ],
+    [
+      "Other Creditors/payable",
+      "210,732",
+      "127,589",
+      "95,976",
+      "Other assets",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Deferred tax liabilities",
+      "86,738",
+      "89,784",
+      "110,000",
+      "Trade Receivables",
+      "275,537",
+      "223,559",
+      "176,915"
+    ],
+    [
+      "Other liabilities-employees retirement obligation",
+      "227,048",
+      "226,790",
+      "254,892",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Total liabilities",
+      "1,360,024",
+      "1,437,550",
+      "2,872,291",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Surplus assets",
+      "5,082,234",
+      "5,265,774",
+      "6,049,819",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Total liabilities and equity",
+      "6,442,258",
+      "6,703,324",
+      "8,922,110",
+      "Total assets",
+      "6,442,258",
+      "6,703,324",
+      "8,922,110"
+    ]
+  ],
+  "source_pages": [],
+  "table_complete": true,
+  "table_id": "T27",
+  "table_number_raw": "Table 14",
+  "title_raw": "Non-life Statement of Financial Position as at 31 December ,....",
+  "units_raw": "(NGN'000)",
+  "_header_width": 8,
+  "_row_width": 8
+}

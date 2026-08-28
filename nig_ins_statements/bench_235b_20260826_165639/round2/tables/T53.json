@@ -1,0 +1,27 @@
+{
+  "cell_flags": [],
+  "concerns": [],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "footnotes_raw": [],
+  "headers_raw": [
+    "Loss Ratio",
+    "Expense Ratio",
+    "Combined Ratio"
+  ],
+  "normalized_rows": [],
+  "pages_seen": [
+    47,
+    48,
+    49
+  ],
+  "rows_raw": [],
+  "source_pages": [],
+  "table_complete": true,
+  "table_id": "T53",
+  "table_number_raw": "",
+  "title_raw": "Agriculture class",
+  "units_raw": "percentages",
+  "_header_width": 3,
+  "_row_width": 0
+}

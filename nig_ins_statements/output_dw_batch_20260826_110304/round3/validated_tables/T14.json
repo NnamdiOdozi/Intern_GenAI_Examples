@@ -1,0 +1,30 @@
+{
+  "checks": {
+    "continuation_verified": true,
+    "header_width_consistent": false,
+    "page_citations_verified": true,
+    "row_widths_consistent": false,
+    "totals_status": "not_applicable"
+  },
+  "corrections": [],
+  "final_headers_raw": [],
+  "final_normalized_rows": [],
+  "final_rows_raw": [],
+  "final_title_raw": "",
+  "issues": [
+    {
+      "category": "layout_ambiguity",
+      "confidence": "high",
+      "location": "table_structure",
+      "materiality": "material",
+      "observation": "The table on page 17 is not fully visible. The top portion of the table (including headers and first few rows) is cut off, making it impossible to validate the structure or content of the table. The provisional extraction has empty arrays for all data fields, which correctly reflects that no usable table was extracted from this image.",
+      "recommended_action": "Request a complete scan of the page including the full table."
+    }
+  ],
+  "source_pages": [
+    17
+  ],
+  "table_complete": false,
+  "table_id": "T14",
+  "verdict": "rejected_incomplete"
+}

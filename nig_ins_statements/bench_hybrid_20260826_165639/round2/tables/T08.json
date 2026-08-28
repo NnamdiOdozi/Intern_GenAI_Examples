@@ -1,0 +1,35 @@
+{
+  "cell_flags": [],
+  "concerns": [],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "footnotes_raw": [],
+  "headers_raw": [
+    "(NGN'000)",
+    "General Accident",
+    "Motor",
+    "Marine",
+    "Engineering",
+    "Bond",
+    "Fire",
+    "Oil & Gas",
+    "Agriculture",
+    "Aviation",
+    "Total"
+  ],
+  "normalized_rows": [],
+  "pages_seen": [
+    12,
+    13,
+    14
+  ],
+  "rows_raw": [],
+  "source_pages": [],
+  "table_complete": true,
+  "table_id": "T08",
+  "table_number_raw": "Table 3a :- Key figures by class- General business - 2022",
+  "title_raw": "Key figures by class- General business \u2013 2022 (inferred from heading)",
+  "units_raw": "(NGN'000) (inferred from header row)",
+  "_header_width": 11,
+  "_row_width": 0
+}

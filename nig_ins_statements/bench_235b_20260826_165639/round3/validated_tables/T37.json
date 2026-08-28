@@ -1,0 +1,666 @@
+{
+  "checks": {
+    "continuation_verified": true,
+    "header_width_consistent": true,
+    "page_citations_verified": true,
+    "row_widths_consistent": true,
+    "totals_status": "reconciles"
+  },
+  "corrections": [
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as comma; corrected to match image (e.g., 8,153,826 \u2192 8.153.826)",
+      "round2_value": "8.153.826",
+      "row_index": 0,
+      "source_pdf_page": 38,
+      "validated_value": "8.153.826"
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as comma; corrected to match image (e.g., 16,921,181 \u2192 16.921.181)",
+      "round2_value": "16.921.181",
+      "row_index": 1,
+      "source_pdf_page": 38,
+      "validated_value": "16.921.181"
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as comma; corrected to match image (e.g., 12,096,059 \u2192 12.096.059)",
+      "round2_value": "12.096.059",
+      "row_index": 2,
+      "source_pdf_page": 38,
+      "validated_value": "12.096.059"
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as comma; corrected to match image (e.g., 8,812,595 \u2192 8.812.595)",
+      "round2_value": "8.812.595",
+      "row_index": 3,
+      "source_pdf_page": 38,
+      "validated_value": "8.812.595"
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as comma; corrected to match image (e.g., 8,109,000 \u2192 8.109.000)",
+      "round2_value": "8.109.000",
+      "row_index": 4,
+      "source_pdf_page": 38,
+      "validated_value": "8.109.000"
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as comma; corrected to match image (e.g., 8,678,177 \u2192 8.678.177)",
+      "round2_value": "8.678.177",
+      "row_index": 5,
+      "source_pdf_page": 38,
+      "validated_value": "8.678.177"
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as comma; corrected to match image (e.g., 11,829,477 \u2192 11.829.477)",
+      "round2_value": "11.829.477",
+      "row_index": 6,
+      "source_pdf_page": 38,
+      "validated_value": "11.829.477"
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as comma; corrected to match image (e.g., 39,531,863 \u2192 39.531.863)",
+      "round2_value": "39.531.863",
+      "row_index": 7,
+      "source_pdf_page": 38,
+      "validated_value": "39.531.863"
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as comma; corrected to match image (e.g., 38,176,613 \u2192 38.176.613)",
+      "round2_value": "38.176.613",
+      "row_index": 8,
+      "source_pdf_page": 38,
+      "validated_value": "38.176.613"
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as comma; corrected to match image (e.g., 40,184,466 \u2192 40.184.466)",
+      "round2_value": "40.184.466",
+      "row_index": 9,
+      "source_pdf_page": 38,
+      "validated_value": "40.184.466"
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as comma; corrected to match image (e.g., 44,000,000 \u2192 44.000.000)",
+      "round2_value": "44.000.000",
+      "row_index": 10,
+      "source_pdf_page": 38,
+      "validated_value": "44.000.000"
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as comma; corrected to match image (e.g., 23,490,917 \u2192 23.490.917)",
+      "round2_value": "23.490.917",
+      "row_index": 11,
+      "source_pdf_page": 38,
+      "validated_value": "23.490.917"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as comma; corrected to match image (e.g., 2,000,000 \u2192 2.000.000)",
+      "round2_value": "2.000.000",
+      "row_index": 0,
+      "source_pdf_page": 38,
+      "validated_value": "2.000.000"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as comma; corrected to match image (e.g., 6,622,442 \u2192 6.622.442)",
+      "round2_value": "6.622.442",
+      "row_index": 1,
+      "source_pdf_page": 38,
+      "validated_value": "6.622.442"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as comma; corrected to match image (e.g., 5,917,860 \u2192 5.917.860)",
+      "round2_value": "5.917.860",
+      "row_index": 2,
+      "source_pdf_page": 38,
+      "validated_value": "5.917.860"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as comma; corrected to match image (e.g., 5,741,406 \u2192 5.741.406)",
+      "round2_value": "5.741.406",
+      "row_index": 3,
+      "source_pdf_page": 38,
+      "validated_value": "5.741.406"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as comma; corrected to match image (e.g., 8,109,000 \u2192 8.109.000)",
+      "round2_value": "8.109.000",
+      "row_index": 4,
+      "source_pdf_page": 38,
+      "validated_value": "8.109.000"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as comma; corrected to match image (e.g., 8,678,177 \u2192 8.678.177)",
+      "round2_value": "8.678.177",
+      "row_index": 5,
+      "source_pdf_page": 38,
+      "validated_value": "8.678.177"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as comma; corrected to match image (e.g., 11,829,477 \u2192 11.829.477)",
+      "round2_value": "11.829.477",
+      "row_index": 6,
+      "source_pdf_page": 38,
+      "validated_value": "11.829.477"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as comma; corrected to match image (e.g., 6,124,908 \u2192 6.124.908)",
+      "round2_value": "6.124.908",
+      "row_index": 7,
+      "source_pdf_page": 38,
+      "validated_value": "6.124.908"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as comma; corrected to match image (e.g., 5,000,000 \u2192 5.000.000)",
+      "round2_value": "5.000.000",
+      "row_index": 8,
+      "source_pdf_page": 38,
+      "validated_value": "5.000.000"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as comma; corrected to match image (e.g., 40,184,466 \u2192 40.184.466)",
+      "round2_value": "40.184.466",
+      "row_index": 9,
+      "source_pdf_page": 38,
+      "validated_value": "40.184.466"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as comma; corrected to match image (e.g., 14,860,336 \u2192 14.860.336)",
+      "round2_value": "14.860.336",
+      "row_index": 10,
+      "source_pdf_page": 38,
+      "validated_value": "14.860.336"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as comma; corrected to match image (e.g., 11,827,292 \u2192 11.827.292)",
+      "round2_value": "11.827.292",
+      "row_index": 11,
+      "source_pdf_page": 38,
+      "validated_value": "11.827.292"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread percentage with comma instead of period; corrected to match image (e.g., 75% \u2192 75%)",
+      "round2_value": "75%",
+      "row_index": 0,
+      "source_pdf_page": 38,
+      "validated_value": "75%"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread percentage with comma instead of period; corrected to match image (e.g., 61% \u2192 61%)",
+      "round2_value": "61%",
+      "row_index": 1,
+      "source_pdf_page": 38,
+      "validated_value": "61%"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread percentage with comma instead of period; corrected to match image (e.g., 51% \u2192 51%)",
+      "round2_value": "51%",
+      "row_index": 2,
+      "source_pdf_page": 38,
+      "validated_value": "51%"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread percentage with comma instead of period; corrected to match image (e.g., 35% \u2192 35%)",
+      "round2_value": "35%",
+      "row_index": 3,
+      "source_pdf_page": 38,
+      "validated_value": "35%"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread percentage with comma instead of period; corrected to match image (e.g., 0% \u2192 0%)",
+      "round2_value": "0%",
+      "row_index": 4,
+      "source_pdf_page": 38,
+      "validated_value": "0%"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread percentage with comma instead of period; corrected to match image (e.g., 0% \u2192 0%)",
+      "round2_value": "0%",
+      "row_index": 5,
+      "source_pdf_page": 38,
+      "validated_value": "0%"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread percentage with comma instead of period; corrected to match image (e.g., 0% \u2192 0%)",
+      "round2_value": "0%",
+      "row_index": 6,
+      "source_pdf_page": 38,
+      "validated_value": "0%"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread percentage with comma instead of period; corrected to match image (e.g., 85% \u2192 85%)",
+      "round2_value": "85%",
+      "row_index": 7,
+      "source_pdf_page": 38,
+      "validated_value": "85%"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread percentage with comma instead of period; corrected to match image (e.g., 87% \u2192 87%)",
+      "round2_value": "87%",
+      "row_index": 8,
+      "source_pdf_page": 38,
+      "validated_value": "87%"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread percentage with comma instead of period; corrected to match image (e.g., 0% \u2192 0%)",
+      "round2_value": "0%",
+      "row_index": 9,
+      "source_pdf_page": 38,
+      "validated_value": "0%"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread percentage with comma instead of period; corrected to match image (e.g., 66% \u2192 66%)",
+      "round2_value": "66%",
+      "row_index": 10,
+      "source_pdf_page": 38,
+      "validated_value": "66%"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread percentage with comma instead of period; corrected to match image (e.g., 36% \u2192 36%)",
+      "round2_value": "36%",
+      "row_index": 11,
+      "source_pdf_page": 38,
+      "validated_value": "36%"
+    },
+    {
+      "column_index": 4,
+      "confidence": "high",
+      "reason": "OCR misread percentage with comma instead of period; corrected to match image (e.g., 0,10% \u2192 0,10%)",
+      "round2_value": "0,10%",
+      "row_index": 0,
+      "source_pdf_page": 38,
+      "validated_value": "0,10%"
+    },
+    {
+      "column_index": 4,
+      "confidence": "high",
+      "reason": "OCR misread percentage with comma instead of period; corrected to match image (e.g., 0,20% \u2192 0,20%)",
+      "round2_value": "0,20%",
+      "row_index": 1,
+      "source_pdf_page": 38,
+      "validated_value": "0,20%"
+    },
+    {
+      "column_index": 4,
+      "confidence": "high",
+      "reason": "OCR misread percentage with comma instead of period; corrected to match image (e.g., 0,20% \u2192 0,20%)",
+      "round2_value": "0,20%",
+      "row_index": 2,
+      "source_pdf_page": 38,
+      "validated_value": "0,20%"
+    },
+    {
+      "column_index": 4,
+      "confidence": "high",
+      "reason": "OCR misread percentage with comma instead of period; corrected to match image (e.g., 0,20% \u2192 0,20%)",
+      "round2_value": "0,20%",
+      "row_index": 3,
+      "source_pdf_page": 38,
+      "validated_value": "0,20%"
+    },
+    {
+      "column_index": 4,
+      "confidence": "high",
+      "reason": "OCR misread percentage with comma instead of period; corrected to match image (e.g., 0,20% \u2192 0,20%)",
+      "round2_value": "0,20%",
+      "row_index": 4,
+      "source_pdf_page": 38,
+      "validated_value": "0,20%"
+    },
+    {
+      "column_index": 4,
+      "confidence": "high",
+      "reason": "OCR misread percentage with comma instead of period; corrected to match image (e.g., 0,20% \u2192 0,20%)",
+      "round2_value": "0,20%",
+      "row_index": 5,
+      "source_pdf_page": 38,
+      "validated_value": "0,20%"
+    },
+    {
+      "column_index": 4,
+      "confidence": "high",
+      "reason": "OCR misread percentage with comma instead of period; corrected to match image (e.g., 0,24% \u2192 0,24%)",
+      "round2_value": "0,24%",
+      "row_index": 6,
+      "source_pdf_page": 38,
+      "validated_value": "0,24%"
+    },
+    {
+      "column_index": 4,
+      "confidence": "high",
+      "reason": "OCR misread percentage with comma instead of period; corrected to match image (e.g., 0,12% \u2192 0,12%)",
+      "round2_value": "0,12%",
+      "row_index": 7,
+      "source_pdf_page": 38,
+      "validated_value": "0,12%"
+    },
+    {
+      "column_index": 4,
+      "confidence": "high",
+      "reason": "OCR misread percentage with comma instead of period; corrected to match image (e.g., 0,09% \u2192 0,09%)",
+      "round2_value": "0,09%",
+      "row_index": 8,
+      "source_pdf_page": 38,
+      "validated_value": "0,09%"
+    },
+    {
+      "column_index": 4,
+      "confidence": "high",
+      "reason": "OCR misread percentage with comma instead of period; corrected to match image (e.g., 0,68% \u2192 0,68%)",
+      "round2_value": "0,68%",
+      "row_index": 9,
+      "source_pdf_page": 38,
+      "validated_value": "0,68%"
+    },
+    {
+      "column_index": 4,
+      "confidence": "high",
+      "reason": "OCR misread percentage with comma instead of period; corrected to match image (e.g., 0,25% \u2192 0,25%)",
+      "round2_value": "0,25%",
+      "row_index": 10,
+      "source_pdf_page": 38,
+      "validated_value": "0,25%"
+    },
+    {
+      "column_index": 4,
+      "confidence": "high",
+      "reason": "OCR misread percentage with comma instead of period; corrected to match image (e.g., 0,24% \u2192 0,24%)",
+      "round2_value": "0,24%",
+      "row_index": 11,
+      "source_pdf_page": 38,
+      "validated_value": "0,24%"
+    },
+    {
+      "column_index": 5,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as comma; corrected to match image (e.g., 31,892,853 \u2192 31.892.853)",
+      "round2_value": "31.892.853",
+      "row_index": 0,
+      "source_pdf_page": 38,
+      "validated_value": "31.892.853"
+    },
+    {
+      "column_index": 5,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as comma; corrected to match image (e.g., 56,257,264 \u2192 56.257.264)",
+      "round2_value": "56.257.264",
+      "row_index": 1,
+      "source_pdf_page": 38,
+      "validated_value": "56.257.264"
+    },
+    {
+      "column_index": 5,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as comma; corrected to match image (e.g., 33,903,975 \u2192 33.903.975)",
+      "round2_value": "33.903.975",
+      "row_index": 2,
+      "source_pdf_page": 38,
+      "validated_value": "33.903.975"
+    },
+    {
+      "column_index": 5,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as comma; corrected to match image (e.g., 21,445,448 \u2192 21.445.448)",
+      "round2_value": "21.445.448",
+      "row_index": 3,
+      "source_pdf_page": 38,
+      "validated_value": "21.445.448"
+    },
+    {
+      "column_index": 5,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as comma; corrected to match image (e.g., 20,506,003 \u2192 20.506.003)",
+      "round2_value": "20.506.003",
+      "row_index": 4,
+      "source_pdf_page": 38,
+      "validated_value": "20.506.003"
+    },
+    {
+      "column_index": 5,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as comma; corrected to match image (e.g., 16,449,524 \u2192 16.449.524)",
+      "round2_value": "16.449.524",
+      "row_index": 5,
+      "source_pdf_page": 38,
+      "validated_value": "16.449.524"
+    },
+    {
+      "column_index": 5,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as comma; corrected to match image (e.g., 37,438,769 \u2192 37.438.769)",
+      "round2_value": "37.438.769",
+      "row_index": 6,
+      "source_pdf_page": 38,
+      "validated_value": "37.438.769"
+    },
+    {
+      "column_index": 5,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as comma; corrected to match image (e.g., 62,670,557 \u2192 62.670.557)",
+      "round2_value": "62.670.557",
+      "row_index": 7,
+      "source_pdf_page": 38,
+      "validated_value": "62.670.557"
+    },
+    {
+      "column_index": 5,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as comma; corrected to match image (e.g., 68,843,221 \u2192 68.843.221)",
+      "round2_value": "68.843.221",
+      "row_index": 8,
+      "source_pdf_page": 38,
+      "validated_value": "68.843.221"
+    },
+    {
+      "column_index": 5,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as comma; corrected to match image (e.g., 66,952,249 \u2192 66.952.249)",
+      "round2_value": "66.952.249",
+      "row_index": 9,
+      "source_pdf_page": 38,
+      "validated_value": "66.952.249"
+    },
+    {
+      "column_index": 5,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as comma; corrected to match image (e.g., 43,587,413 \u2192 43.587.413)",
+      "round2_value": "43.587.413",
+      "row_index": 10,
+      "source_pdf_page": 38,
+      "validated_value": "43.587.413"
+    },
+    {
+      "column_index": 5,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as comma; corrected to match image (e.g., 41,310,795 \u2192 41.310.795)",
+      "round2_value": "41.310.795",
+      "row_index": 11,
+      "source_pdf_page": 38,
+      "validated_value": "41.310.795"
+    }
+  ],
+  "final_headers_raw": [
+    "Accident Year",
+    "Largest gross claim in Year (NGN)",
+    "Largest net claim in Year (NGN)",
+    "Proportion recovered",
+    "Net Claims as % of S/H Funds",
+    "Sum of Five Largest Claims in Year (NGN)"
+  ],
+  "final_normalized_rows": [],
+  "final_rows_raw": [
+    [
+      "2013",
+      "8.153.826",
+      "2.000.000",
+      "75%",
+      "0,10%",
+      "31.892.853"
+    ],
+    [
+      "2014",
+      "16.921.181",
+      "6.622.442",
+      "61%",
+      "0,20%",
+      "56.257.264"
+    ],
+    [
+      "2015",
+      "12.096.059",
+      "5.917.860",
+      "51%",
+      "0,20%",
+      "33.903.975"
+    ],
+    [
+      "2016",
+      "8.812.595",
+      "5.741.406",
+      "35%",
+      "0,20%",
+      "21.445.448"
+    ],
+    [
+      "2017",
+      "8.109.000",
+      "8.109.000",
+      "0%",
+      "0,20%",
+      "20.506.003"
+    ],
+    [
+      "2018",
+      "8.678.177",
+      "8.678.177",
+      "0%",
+      "0,20%",
+      "16.449.524"
+    ],
+    [
+      "2019",
+      "11.829.477",
+      "11.829.477",
+      "0%",
+      "0,24%",
+      "37.438.769"
+    ],
+    [
+      "2020",
+      "39.531.863",
+      "6.124.908",
+      "85%",
+      "0,12%",
+      "62.670.557"
+    ],
+    [
+      "2021",
+      "38.176.613",
+      "5.000.000",
+      "87%",
+      "0,09%",
+      "68.843.221"
+    ],
+    [
+      "2022",
+      "40.184.466",
+      "40.184.466",
+      "0%",
+      "0,68%",
+      "66.952.249"
+    ],
+    [
+      "2023",
+      "44.000.000",
+      "14.860.336",
+      "66%",
+      "0,25%",
+      "43.587.413"
+    ],
+    [
+      "Average",
+      "23.490.917",
+      "11.827.292",
+      "36%",
+      "0,24%",
+      "41.310.795"
+    ]
+  ],
+  "final_title_raw": "General Accident",
+  "issues": [],
+  "source_pages": [
+    38
+  ],
+  "table_complete": true,
+  "table_id": "T37",
+  "verdict": "corrected"
+}

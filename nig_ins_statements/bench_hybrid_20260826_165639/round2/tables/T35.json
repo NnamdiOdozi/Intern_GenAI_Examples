@@ -1,0 +1,97 @@
+{
+  "cell_flags": [],
+  "concerns": [],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "footnotes_raw": [],
+  "headers_raw": [
+    "Class of Business",
+    "Retention",
+    "Treaty Capacity"
+  ],
+  "normalized_rows": [
+    [
+      "The best Risks",
+      "Maximum per line N250mn on any one risk on sum insured or Probable Maximum Loss (PML)",
+      "NGN5.25bn for 20 lines"
+    ],
+    [
+      "Boiler and Pressure Vessel and Consequential Loss Combined",
+      "Maximum per line N187.5mn on any one risk on sum insured or Probable Maximum Loss (PML)",
+      "NGN3.94bn for 20 lines"
+    ],
+    [
+      "Machinery Breakdown and Consequential Loss",
+      "Maximum per line N125mn on any one risk on sum insured or Probable Maximum Loss (PML)",
+      "NGN2.625bn for 20 lines"
+    ],
+    [
+      "Erection All risks and Contractors All-risks",
+      "Maximum per line N250mn on any one risk on sum insured or Probable Maximum Loss (PML)",
+      "NGN5.25bn for 20 lines"
+    ],
+    [
+      "Third Party Liability",
+      "Maximum per line N0.5bn in proportion",
+      "500mn same proportion"
+    ],
+    [
+      "Electronic Equipment and Increased Cost of Working Combined",
+      "Maximum per line N125mn on any one risk on sum insured or Probable Maximum Loss (PML)",
+      "NGN2.625bn for 20 lines"
+    ],
+    [
+      "Facultative",
+      "limited to 50% of one gross line specified herein this Table",
+      "limited to 50% of one gross line specified herein this Table"
+    ]
+  ],
+  "pages_seen": [
+    34
+  ],
+  "rows_raw": [
+    [
+      "The best Risks",
+      "Maximum per line N250mn on any one risk on sum insured or Probable Maximum Loss (PML)",
+      "NGN5.25bn for 20 lines"
+    ],
+    [
+      "Boiler and Pressure Vessel and Consequential Loss Combined",
+      "Maximum per line N187.5mn on any one risk on sum insured or Probable Maximum Loss (PML)",
+      "NGN3.94bn for 20 lines"
+    ],
+    [
+      "Machinery Breakdown and Consequential Loss",
+      "Maximum per line N125mn on any one risk on sum insured or Probable Maximum Loss (PML)",
+      "NGN2.625bn for 20 lines"
+    ],
+    [
+      "Erection All risks and Contractors All-risks",
+      "Maximum per line N250mn on any one risk on sum insured or Probable Maximum Loss (PML)",
+      "NGN5.25bn for 20 lines"
+    ],
+    [
+      "Third Party Liability",
+      "Maximum per line N0.5bn in proportion",
+      "500mn same proportion"
+    ],
+    [
+      "Electronic Equipment and Increased Cost of Working Combined",
+      "Maximum per line N125mn on any one risk on sum insured or Probable Maximum Loss (PML)",
+      "NGN2.625bn for 20 lines"
+    ],
+    [
+      "Facultative",
+      "limited to 50% of one gross line specified herein this Table",
+      "limited to 50% of one gross line specified herein this Table"
+    ]
+  ],
+  "source_pages": [],
+  "table_complete": true,
+  "table_id": "T35",
+  "table_number_raw": "The treaty has two layers:",
+  "title_raw": "The treaty has two layers:",
+  "units_raw": "NGN (Nigerian Naira)",
+  "_header_width": 3,
+  "_row_width": 3
+}

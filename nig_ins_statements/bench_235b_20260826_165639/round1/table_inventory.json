@@ -1,0 +1,1339 @@
+[
+  {
+    "table_id": "T01",
+    "title_raw": "Non-life Life insurance contract liabilities and net asset value",
+    "table_number_raw": "Table 1",
+    "units_raw": "In NGN'000",
+    "source_pages": [
+      3
+    ],
+    "printed_pages": [
+      null
+    ],
+    "complexity": "high",
+    "possible_repeat_of": null,
+    "appearances": [
+      {
+        "pdf_page": 3,
+        "appearance_id": "table1",
+        "visible_row_count": 35,
+        "visible_column_count": 4,
+        "concerns": []
+      }
+    ]
+  },
+  {
+    "table_id": "T02",
+    "title_raw": "Trend of Key Non-life written Business Statistics\nGeneral Insurance business \u2013 direct",
+    "table_number_raw": "Table 2",
+    "units_raw": "Number of policies written; Gross written premiums (NGN'000)",
+    "source_pages": [
+      8
+    ],
+    "printed_pages": [
+      null
+    ],
+    "complexity": "medium",
+    "possible_repeat_of": null,
+    "appearances": [
+      {
+        "pdf_page": 8,
+        "appearance_id": "table_1",
+        "visible_row_count": 24,
+        "visible_column_count": 5,
+        "concerns": []
+      }
+    ]
+  },
+  {
+    "table_id": "T03",
+    "title_raw": "General business revenue account",
+    "table_number_raw": "Table 3",
+    "units_raw": "NGN'000",
+    "source_pages": [
+      11
+    ],
+    "printed_pages": [
+      "10"
+    ],
+    "complexity": "medium",
+    "possible_repeat_of": null,
+    "appearances": [
+      {
+        "pdf_page": 11,
+        "appearance_id": "table_1",
+        "visible_row_count": 2,
+        "visible_column_count": 5,
+        "concerns": []
+      }
+    ]
+  },
+  {
+    "table_id": "T04",
+    "title_raw": "Statement of Comprehensive Income (Inferred)",
+    "table_number_raw": null,
+    "units_raw": "Nigerian Naira (NGN) - values appear to be in thousands or millions, but unit is not explicitly stated.",
+    "source_pages": [
+      12
+    ],
+    "printed_pages": [
+      "11"
+    ],
+    "complexity": "high",
+    "possible_repeat_of": null,
+    "appearances": [
+      {
+        "pdf_page": 12,
+        "appearance_id": "table_1",
+        "visible_row_count": 35,
+        "visible_column_count": 4,
+        "concerns": [
+          {
+            "category": "layout_ambiguity",
+            "confidence": "medium",
+            "location": "header",
+            "observation": "Table title is not explicitly printed; inferred from content as 'Statement of Comprehensive Income / Financial Performance'."
+          },
+          {
+            "category": "continuation_uncertainty",
+            "confidence": "low",
+            "location": "top",
+            "observation": "No explicit 'Continued from previous page' or table number. Appears to be a standalone table."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "table_id": "T05",
+    "title_raw": "Key figures by class- General business - 2023",
+    "table_number_raw": "Table 3a",
+    "units_raw": "(NGN'000)",
+    "source_pages": [
+      13
+    ],
+    "printed_pages": [
+      "},\n    \"tables\": [\n        {\n            \"table_number\": \"Table 3a\",\n            \"title\": \"Key figures by class- General business - 2023\",\n            \"units\": \"(NGN'000)\",\n            \"rows\": 6,\n            \"columns\": 11,\n            "
+    ],
+    "complexity": "medium",
+    "possible_repeat_of": null,
+    "appearances": [
+      {
+        "pdf_page": 13,
+        "appearance_id": "Table 3a",
+        "visible_row_count": 6,
+        "visible_column_count": 11,
+        "concerns": []
+      }
+    ]
+  },
+  {
+    "table_id": "T06",
+    "title_raw": "Key figures by class- General business - 2022",
+    "table_number_raw": "Table 3a",
+    "units_raw": "(NGN'000)",
+    "source_pages": [
+      13
+    ],
+    "printed_pages": [
+      "},\n    \"tables\": [\n        {\n            \"table_number\": \"Table 3a\",\n            \"title\": \"Key figures by class- General business - 2023\",\n            \"units\": \"(NGN'000)\",\n            \"rows\": 6,\n            \"columns\": 11,\n            "
+    ],
+    "complexity": "medium",
+    "possible_repeat_of": "Table 3a",
+    "appearances": [
+      {
+        "pdf_page": 13,
+        "appearance_id": "Table 3a (2022)",
+        "visible_row_count": 1,
+        "visible_column_count": 11,
+        "concerns": []
+      }
+    ]
+  },
+  {
+    "table_id": "T07",
+    "title_raw": "Key figures by class- General business - 2023",
+    "table_number_raw": "Table 3b",
+    "units_raw": "(NGN'000)",
+    "source_pages": [
+      14
+    ],
+    "printed_pages": [
+      "},\n    \"tables\": [\n        {\n            \"table_number\": \"Table 3b\",\n            \"title\": \"Key figures by class- General business - 2023\",\n            \"units\": \"(NGN'000)\",\n            \"rows\": 5,\n            \"columns\": 11,\n            "
+    ],
+    "complexity": "medium",
+    "possible_repeat_of": null,
+    "appearances": [
+      {
+        "pdf_page": 14,
+        "appearance_id": "table_1",
+        "visible_row_count": 5,
+        "visible_column_count": 11,
+        "concerns": []
+      }
+    ]
+  },
+  {
+    "table_id": "T08",
+    "title_raw": "Proportion of ultimate claims paid as at 31 December 2023",
+    "table_number_raw": "Table 5",
+    "units_raw": "(NGN'000)",
+    "source_pages": [
+      15
+    ],
+    "printed_pages": [
+      "tables_found_count"
+    ],
+    "complexity": "medium",
+    "possible_repeat_of": null,
+    "appearances": [
+      {
+        "pdf_page": 15,
+        "appearance_id": "table_5",
+        "visible_row_count": 12,
+        "visible_column_count": 9,
+        "concerns": []
+      }
+    ]
+  },
+  {
+    "table_id": "T09",
+    "title_raw": "Retention by class- General business 2023",
+    "table_number_raw": "Table 6a",
+    "units_raw": "(NGN'000)",
+    "source_pages": [
+      16
+    ],
+    "printed_pages": [
+      null
+    ],
+    "complexity": "medium",
+    "possible_repeat_of": null,
+    "appearances": [
+      {
+        "pdf_page": 16,
+        "appearance_id": "Table 6a",
+        "visible_row_count": 5,
+        "visible_column_count": 11,
+        "concerns": []
+      }
+    ]
+  },
+  {
+    "table_id": "T10",
+    "title_raw": "Retention by class- General business 2022",
+    "table_number_raw": "Table 6b",
+    "units_raw": "(NGN'000)",
+    "source_pages": [
+      16
+    ],
+    "printed_pages": [
+      null
+    ],
+    "complexity": "medium",
+    "possible_repeat_of": "Table 6a",
+    "appearances": [
+      {
+        "pdf_page": 16,
+        "appearance_id": "Table 6b",
+        "visible_row_count": 5,
+        "visible_column_count": 11,
+        "concerns": []
+      }
+    ]
+  },
+  {
+    "table_id": "T11",
+    "title_raw": "Retention by class- General business 2021",
+    "table_number_raw": "Table 6c",
+    "units_raw": "(NGN'000)",
+    "source_pages": [
+      16
+    ],
+    "printed_pages": [
+      null
+    ],
+    "complexity": "medium",
+    "possible_repeat_of": "Table 6a",
+    "appearances": [
+      {
+        "pdf_page": 16,
+        "appearance_id": "Table 6c",
+        "visible_row_count": 5,
+        "visible_column_count": 11,
+        "concerns": []
+      }
+    ]
+  },
+  {
+    "table_id": "T12",
+    "title_raw": "General insurance claims paid",
+    "table_number_raw": "Table 7",
+    "units_raw": "(NGN'000)",
+    "source_pages": [
+      16
+    ],
+    "printed_pages": [
+      null
+    ],
+    "complexity": "low",
+    "possible_repeat_of": null,
+    "appearances": [
+      {
+        "pdf_page": 16,
+        "appearance_id": "Table 7",
+        "visible_row_count": 2,
+        "visible_column_count": 6,
+        "concerns": []
+      }
+    ]
+  },
+  {
+    "table_id": "T13",
+    "title_raw": "General Accident, Motor, Marine, Engineering, Bond, Fire, Oil & Gas, AGRIC, Aviation, Total gross*, Less reinsurance recoveries, Total net claims paid, Reinsurer's share of paid claims",
+    "table_number_raw": null,
+    "units_raw": "NGN'000 (implied by context and source note)",
+    "source_pages": [
+      17
+    ],
+    "printed_pages": [
+      "}"
+    ],
+    "complexity": "medium",
+    "possible_repeat_of": null,
+    "appearances": [
+      {
+        "pdf_page": 17,
+        "appearance_id": "table_1",
+        "visible_row_count": 14,
+        "visible_column_count": 6,
+        "concerns": [
+          {
+            "category": "layout_ambiguity",
+            "confidence": "low",
+            "location": "header",
+            "observation": "Table title is not explicitly labeled as 'Table X' but appears to be a summary table of claims by class. The header row lacks column titles, making interpretation dependent on context."
+          },
+          {
+            "category": "continuation_uncertainty",
+            "confidence": "medium",
+            "location": "top",
+            "observation": "No explicit 'continued from previous page' or 'continued on next page' indicator. However, the structure suggests it may be a continuation of a larger table from prior pages due to the presence of multiple columns without headers."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "table_id": "T14",
+    "title_raw": "Ultimate Loss Ratio by class of General Insurance Business",
+    "table_number_raw": "Table 8",
+    "units_raw": "NGN'000, N'00, %",
+    "source_pages": [
+      17
+    ],
+    "printed_pages": [
+      "}"
+    ],
+    "complexity": "high",
+    "possible_repeat_of": null,
+    "appearances": [
+      {
+        "pdf_page": 17,
+        "appearance_id": "table_2",
+        "visible_row_count": 2,
+        "visible_column_count": 9,
+        "concerns": [
+          {
+            "category": "ocr_uncertainty",
+            "confidence": "medium",
+            "location": "column_headers",
+            "observation": "Column headers are dense and may be misread by OCR; e.g., 'IBNR (NGN'000)' and 'Incurred Claims (N'00)' could be confused if spacing is poor."
+          },
+          {
+            "category": "layout_ambiguity",
+            "confidence": "low",
+            "location": "footer",
+            "observation": "The footer text 'Source: Sterling accounts' applies to the first table only; no clear attribution for Table 8 is visible on this page."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "table_id": "T15",
+    "title_raw": "Historical Combined ratio in each accident year",
+    "table_number_raw": "Table 9",
+    "units_raw": "%",
+    "source_pages": [
+      18
+    ],
+    "printed_pages": [
+      "17"
+    ],
+    "complexity": "medium",
+    "possible_repeat_of": null,
+    "appearances": [
+      {
+        "pdf_page": 18,
+        "appearance_id": "table_1",
+        "visible_row_count": 9,
+        "visible_column_count": 6,
+        "concerns": []
+      }
+    ]
+  },
+  {
+    "table_id": "T16",
+    "title_raw": "Accident Year 2023 as reported",
+    "table_number_raw": "Table 10",
+    "units_raw": "NGN'000",
+    "source_pages": [
+      20
+    ],
+    "printed_pages": [
+      "},\n    \"tables\": [\n        {\n            \"table_number\": \"Table 10\",\n            \"title\": \"Accident Year 2023 as reported\",\n            \"source\": \"Valuation Report\",\n            \"units\": \"NGN'000\",\n            \"rows\": 11,\n            \"columns\": 6,\n            "
+    ],
+    "complexity": "medium",
+    "possible_repeat_of": null,
+    "appearances": [
+      {
+        "pdf_page": 20,
+        "appearance_id": "Table 10",
+        "visible_row_count": 11,
+        "visible_column_count": 6,
+        "concerns": []
+      }
+    ]
+  },
+  {
+    "table_id": "T17",
+    "title_raw": "Solvency level on Balance sheet basis",
+    "table_number_raw": "Table 11",
+    "units_raw": "NGN'000",
+    "source_pages": [
+      20
+    ],
+    "printed_pages": [
+      "},\n    \"tables\": [\n        {\n            \"table_number\": \"Table 10\",\n            \"title\": \"Accident Year 2023 as reported\",\n            \"source\": \"Valuation Report\",\n            \"units\": \"NGN'000\",\n            \"rows\": 11,\n            \"columns\": 6,\n            "
+    ],
+    "complexity": "low",
+    "possible_repeat_of": null,
+    "appearances": [
+      {
+        "pdf_page": 20,
+        "appearance_id": "Table 11",
+        "visible_row_count": 2,
+        "visible_column_count": 6,
+        "concerns": []
+      }
+    ]
+  },
+  {
+    "table_id": "T18",
+    "title_raw": "Unlabeled table showing Admissible Liabilities, Assets, Net Written Premium, Required Capital, and Solvency Margin Ratio for multiple years.",
+    "table_number_raw": "",
+    "units_raw": "NGN",
+    "source_pages": [
+      21
+    ],
+    "printed_pages": [
+      null
+    ],
+    "complexity": "medium",
+    "possible_repeat_of": null,
+    "appearances": [
+      {
+        "pdf_page": 21,
+        "appearance_id": "table_top_unlabeled",
+        "visible_row_count": 9,
+        "visible_column_count": 6,
+        "concerns": [
+          {
+            "category": "continuation_uncertainty",
+            "confidence": "low",
+            "location": "top_table",
+            "observation": "No explicit 'continued from previous page' or 'continued on next page' indicator. Appears to be a continuation of a larger table, possibly Table 11 or similar, given the context of solvency metrics."
+          },
+          {
+            "category": "layout_ambiguity",
+            "confidence": "medium",
+            "location": "top_table",
+            "observation": "The table lacks a formal title or number in the visible portion. Its content (admissible liabilities, assets, solvency ratios) suggests it is part of a financial condition summary, but its exact identity is unclear without preceding context."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "table_id": "T19",
+    "title_raw": "Measures of financial strength",
+    "table_number_raw": "Table 12",
+    "units_raw": "NGN'000",
+    "source_pages": [
+      21
+    ],
+    "printed_pages": [
+      null
+    ],
+    "complexity": "medium",
+    "possible_repeat_of": null,
+    "appearances": [
+      {
+        "pdf_page": 21,
+        "appearance_id": "table_12",
+        "visible_row_count": 7,
+        "visible_column_count": 6,
+        "concerns": []
+      }
+    ]
+  },
+  {
+    "table_id": "T20",
+    "title_raw": "Financial and Ratio Summary (implied by context)",
+    "table_number_raw": null,
+    "units_raw": "NGN, %",
+    "source_pages": [
+      22
+    ],
+    "printed_pages": [
+      null
+    ],
+    "complexity": "medium",
+    "possible_repeat_of": null,
+    "appearances": [
+      {
+        "pdf_page": 22,
+        "appearance_id": "table_1",
+        "visible_row_count": 14,
+        "visible_column_count": 6,
+        "concerns": []
+      }
+    ]
+  },
+  {
+    "table_id": "T21",
+    "title_raw": "Non-life Life insurance contract liabilities and net asset value",
+    "table_number_raw": "Table 1",
+    "units_raw": "In NGN'000",
+    "source_pages": [
+      23
+    ],
+    "printed_pages": [
+      ","
+    ],
+    "complexity": "high",
+    "possible_repeat_of": null,
+    "appearances": [
+      {
+        "pdf_page": 23,
+        "appearance_id": "table1",
+        "visible_row_count": 34,
+        "visible_column_count": 6,
+        "concerns": []
+      }
+    ]
+  },
+  {
+    "table_id": "T22",
+    "title_raw": "Historical Combined ratio in each accident year",
+    "table_number_raw": "Table 9",
+    "units_raw": "",
+    "source_pages": [
+      23
+    ],
+    "printed_pages": [
+      ","
+    ],
+    "complexity": "low",
+    "possible_repeat_of": null,
+    "appearances": [
+      {
+        "pdf_page": 23,
+        "appearance_id": "table9",
+        "visible_row_count": 2,
+        "visible_column_count": 6,
+        "concerns": []
+      }
+    ]
+  },
+  {
+    "table_id": "T23",
+    "title_raw": "General Accident, Motor, Marine, Engineering, Bond, Fire, Oil & Gas, Agriculture, Aviation",
+    "table_number_raw": null,
+    "units_raw": "%",
+    "source_pages": [
+      24
+    ],
+    "printed_pages": [
+      null
+    ],
+    "complexity": "medium",
+    "possible_repeat_of": null,
+    "appearances": [
+      {
+        "pdf_page": 24,
+        "appearance_id": "table_1",
+        "visible_row_count": 9,
+        "visible_column_count": 6,
+        "concerns": []
+      }
+    ]
+  },
+  {
+    "table_id": "T24",
+    "title_raw": "Scenario 1: NPV, Duration, Convexity",
+    "table_number_raw": null,
+    "units_raw": "Naira (implied by context)",
+    "source_pages": [
+      27
+    ],
+    "printed_pages": [
+      "26"
+    ],
+    "complexity": "low",
+    "possible_repeat_of": null,
+    "appearances": [
+      {
+        "pdf_page": 27,
+        "appearance_id": "table_1",
+        "visible_row_count": 3,
+        "visible_column_count": 5,
+        "concerns": []
+      }
+    ]
+  },
+  {
+    "table_id": "T25",
+    "title_raw": "Non-life Statement of Financial Position as at 31 December .....",
+    "table_number_raw": "Table 14",
+    "units_raw": "NGN'000",
+    "source_pages": [
+      28
+    ],
+    "printed_pages": [
+      ">>> 27 <<<"
+    ],
+    "complexity": "high",
+    "possible_repeat_of": null,
+    "appearances": [
+      {
+        "pdf_page": 28,
+        "appearance_id": "table_14",
+        "visible_row_count": 25,
+        "visible_column_count": 7,
+        "concerns": [
+          {
+            "category": "layout_ambiguity",
+            "confidence": "medium",
+            "location": "header",
+            "observation": "Table title is truncated ('as at 31 December .....') suggesting continuation from prior page or incomplete OCR."
+          },
+          {
+            "category": "continuation_uncertainty",
+            "confidence": "high",
+            "location": "footer",
+            "observation": "Page number '27' printed at bottom conflicts with PDF page 28, indicating possible pagination error or misalignment in source document."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "table_id": "T26",
+    "title_raw": "Estimated yield on non-life fund assets / Estimated yield on Non - life fund assets",
+    "table_number_raw": "Table 15 / Table 17",
+    "units_raw": "NGN (implied by context, not explicitly stated in header)",
+    "source_pages": [
+      29
+    ],
+    "printed_pages": [
+      null
+    ],
+    "complexity": "medium",
+    "possible_repeat_of": null,
+    "appearances": [
+      {
+        "pdf_page": 29,
+        "appearance_id": "table_15_or_17",
+        "visible_row_count": 8,
+        "visible_column_count": 4,
+        "concerns": [
+          {
+            "category": "layout_ambiguity",
+            "confidence": "high",
+            "location": "header",
+            "observation": "Table title appears as both 'Table 15' and 'Table 17' on the same line, suggesting a possible typo or mislabeling in source document."
+          },
+          {
+            "category": "continuation_uncertainty",
+            "confidence": "medium",
+            "location": "table_body",
+            "observation": "No explicit continuation markers (e.g., 'continued from previous page', 'to next page') are visible. Table appears self-contained but may be part of a larger set not shown."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "table_id": "T27",
+    "title_raw": "Quality of assets backing the general business fund (implied by section heading)",
+    "table_number_raw": "none",
+    "units_raw": "NGN'000, Proportion invested (%)",
+    "source_pages": [
+      29
+    ],
+    "printed_pages": [
+      null
+    ],
+    "complexity": "low",
+    "possible_repeat_of": null,
+    "appearances": [
+      {
+        "pdf_page": 29,
+        "appearance_id": "asset_composition_table",
+        "visible_row_count": 11,
+        "visible_column_count": 3,
+        "concerns": [
+          {
+            "category": "layout_ambiguity",
+            "confidence": "medium",
+            "location": "column_headers",
+            "observation": "Column headers 'NGN'000' and 'Proportion invested' are not clearly aligned with row labels; slight misalignment may affect OCR parsing accuracy."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "table_id": "T28",
+    "title_raw": "Reinsurance Documents Provided",
+    "table_number_raw": null,
+    "units_raw": null,
+    "source_pages": [
+      31
+    ],
+    "printed_pages": [
+      ""
+    ],
+    "complexity": "medium",
+    "possible_repeat_of": null,
+    "appearances": [
+      {
+        "pdf_page": 31,
+        "appearance_id": "table_1",
+        "visible_row_count": 11,
+        "visible_column_count": 2,
+        "concerns": []
+      }
+    ]
+  },
+  {
+    "table_id": "T29",
+    "title_raw": "Analysis",
+    "table_number_raw": null,
+    "units_raw": "NGN'000",
+    "source_pages": [
+      31
+    ],
+    "printed_pages": [
+      ""
+    ],
+    "complexity": "high",
+    "possible_repeat_of": null,
+    "appearances": [
+      {
+        "pdf_page": 31,
+        "appearance_id": "table_2",
+        "visible_row_count": 25,
+        "visible_column_count": 4,
+        "concerns": [
+          {
+            "category": "layout_ambiguity",
+            "confidence": "medium",
+            "location": "row_grouping",
+            "observation": "Row groupings (e.g., 'Surplus', 'Excess of Loss') are visually indicated by background shading but lack explicit table structure or subheaders, which may affect parsing."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "table_id": "T30",
+    "title_raw": "Treaty retention and capacity per risk",
+    "table_number_raw": null,
+    "units_raw": "NGN",
+    "source_pages": [
+      32
+    ],
+    "printed_pages": [
+      null
+    ],
+    "complexity": "medium",
+    "possible_repeat_of": null,
+    "appearances": [
+      {
+        "pdf_page": 32,
+        "appearance_id": "t1",
+        "visible_row_count": 5,
+        "visible_column_count": 3,
+        "concerns": []
+      }
+    ]
+  },
+  {
+    "table_id": "T31",
+    "title_raw": "The Fire and Property reinsurance Treaty is provided by the following:",
+    "table_number_raw": null,
+    "units_raw": "%",
+    "source_pages": [
+      34
+    ],
+    "printed_pages": [
+      ","
+    ],
+    "complexity": "medium",
+    "possible_repeat_of": null,
+    "appearances": [
+      {
+        "pdf_page": 34,
+        "appearance_id": "t1",
+        "visible_row_count": 7,
+        "visible_column_count": 2,
+        "concerns": []
+      }
+    ]
+  },
+  {
+    "table_id": "T32",
+    "title_raw": "The treaty has two layers:",
+    "table_number_raw": null,
+    "units_raw": "NGN, lines, %",
+    "source_pages": [
+      34
+    ],
+    "printed_pages": [
+      ","
+    ],
+    "complexity": "high",
+    "possible_repeat_of": null,
+    "appearances": [
+      {
+        "pdf_page": 34,
+        "appearance_id": "t2",
+        "visible_row_count": 9,
+        "visible_column_count": 3,
+        "concerns": []
+      }
+    ]
+  },
+  {
+    "table_id": "T33",
+    "title_raw": "Reinsurer Proportion Shared Rating",
+    "table_number_raw": "none",
+    "units_raw": "percent, rating scale",
+    "source_pages": [
+      36
+    ],
+    "printed_pages": [
+      null
+    ],
+    "complexity": "medium",
+    "possible_repeat_of": null,
+    "appearances": [
+      {
+        "pdf_page": 36,
+        "appearance_id": "T1",
+        "visible_row_count": 11,
+        "visible_column_count": 3,
+        "concerns": []
+      }
+    ]
+  },
+  {
+    "table_id": "T34",
+    "title_raw": "ENGINEERING",
+    "table_number_raw": "none",
+    "units_raw": "NGN, percent",
+    "source_pages": [
+      36
+    ],
+    "printed_pages": [
+      null
+    ],
+    "complexity": "high",
+    "possible_repeat_of": null,
+    "appearances": [
+      {
+        "pdf_page": 36,
+        "appearance_id": "T2",
+        "visible_row_count": 14,
+        "visible_column_count": 7,
+        "concerns": []
+      }
+    ]
+  },
+  {
+    "table_id": "T35",
+    "title_raw": "Excess of Loss (XL) Treaty",
+    "table_number_raw": "none",
+    "units_raw": "NGN",
+    "source_pages": [
+      37
+    ],
+    "printed_pages": [
+      null
+    ],
+    "complexity": "medium",
+    "possible_repeat_of": null,
+    "appearances": [
+      {
+        "pdf_page": 37,
+        "appearance_id": "table_1",
+        "visible_row_count": 4,
+        "visible_column_count": 4,
+        "concerns": []
+      }
+    ]
+  },
+  {
+    "table_id": "T36",
+    "title_raw": "Reinsurer Proportion Shared",
+    "table_number_raw": null,
+    "units_raw": "%",
+    "source_pages": [
+      38
+    ],
+    "printed_pages": [
+      "},\n    \"tables\": [\n        {\n            \"table_number\": null,\n            \"title\": \"Reinsurer Proportion Shared\",\n            \"units\": \"%\",\n            \"rows\": 7,\n            \"columns\": 2,\n            "
+    ],
+    "complexity": "low",
+    "possible_repeat_of": null,
+    "appearances": [
+      {
+        "pdf_page": 38,
+        "appearance_id": "reinsurer_proportion_table",
+        "visible_row_count": 7,
+        "visible_column_count": 2,
+        "concerns": []
+      }
+    ]
+  },
+  {
+    "table_id": "T37",
+    "title_raw": "General Accident",
+    "table_number_raw": null,
+    "units_raw": "NGN",
+    "source_pages": [
+      38
+    ],
+    "printed_pages": [
+      "},\n    \"tables\": [\n        {\n            \"table_number\": null,\n            \"title\": \"Reinsurer Proportion Shared\",\n            \"units\": \"%\",\n            \"rows\": 7,\n            \"columns\": 2,\n            "
+    ],
+    "complexity": "medium",
+    "possible_repeat_of": null,
+    "appearances": [
+      {
+        "pdf_page": 38,
+        "appearance_id": "general_accident_claims_table",
+        "visible_row_count": 14,
+        "visible_column_count": 6,
+        "concerns": []
+      }
+    ]
+  },
+  {
+    "table_id": "T38",
+    "title_raw": "Treaty retention andcapacity",
+    "table_number_raw": null,
+    "units_raw": null,
+    "source_pages": [
+      38
+    ],
+    "printed_pages": [
+      "},\n    \"tables\": [\n        {\n            \"table_number\": null,\n            \"title\": \"Reinsurer Proportion Shared\",\n            \"units\": \"%\",\n            \"rows\": 7,\n            \"columns\": 2,\n            "
+    ],
+    "complexity": "low",
+    "possible_repeat_of": null,
+    "appearances": [
+      {
+        "pdf_page": 38,
+        "appearance_id": "treaty_retention_table",
+        "visible_row_count": 1,
+        "visible_column_count": 3,
+        "concerns": []
+      }
+    ]
+  },
+  {
+    "table_id": "T39",
+    "title_raw": "The reinsurers take 100% share of the treaty, as follows:",
+    "table_number_raw": null,
+    "units_raw": "%",
+    "source_pages": [
+      39
+    ],
+    "printed_pages": [
+      ","
+    ],
+    "complexity": "low",
+    "possible_repeat_of": null,
+    "appearances": [
+      {
+        "pdf_page": 39,
+        "appearance_id": "t1",
+        "visible_row_count": 12,
+        "visible_column_count": 2,
+        "concerns": []
+      }
+    ]
+  },
+  {
+    "table_id": "T40",
+    "title_raw": "Marine Hull Surplus Treaty",
+    "table_number_raw": null,
+    "units_raw": null,
+    "source_pages": [
+      40
+    ],
+    "printed_pages": [
+      ""
+    ],
+    "complexity": "low",
+    "possible_repeat_of": null,
+    "appearances": [
+      {
+        "pdf_page": 40,
+        "appearance_id": "marine_hull_surplus_treaty_table",
+        "visible_row_count": 2,
+        "visible_column_count": 3,
+        "concerns": []
+      }
+    ]
+  },
+  {
+    "table_id": "T41",
+    "title_raw": "The reinsurers take 65% share of the Marine Hull treaty, as follows:",
+    "table_number_raw": "Table 1",
+    "units_raw": "Percentage (%)",
+    "source_pages": [
+      41
+    ],
+    "printed_pages": [
+      null
+    ],
+    "complexity": "medium",
+    "possible_repeat_of": null,
+    "appearances": [
+      {
+        "pdf_page": 41,
+        "appearance_id": "t1",
+        "visible_row_count": 12,
+        "visible_column_count": 2,
+        "concerns": []
+      }
+    ]
+  },
+  {
+    "table_id": "T42",
+    "title_raw": "Marine Cargo Insurance\nMarine Cargo Surplus Treaty",
+    "table_number_raw": "Table 2",
+    "units_raw": "NGN (Naira)",
+    "source_pages": [
+      41
+    ],
+    "printed_pages": [
+      null
+    ],
+    "complexity": "medium",
+    "possible_repeat_of": null,
+    "appearances": [
+      {
+        "pdf_page": 41,
+        "appearance_id": "t2",
+        "visible_row_count": 3,
+        "visible_column_count": 3,
+        "concerns": []
+      }
+    ]
+  },
+  {
+    "table_id": "T43",
+    "title_raw": "The reinsurers take 100% share of the Marine Cargo treaty, as follows:",
+    "table_number_raw": "Table 3",
+    "units_raw": "Percentage (%)",
+    "source_pages": [
+      41
+    ],
+    "printed_pages": [
+      null
+    ],
+    "complexity": "medium",
+    "possible_repeat_of": null,
+    "appearances": [
+      {
+        "pdf_page": 41,
+        "appearance_id": "t3",
+        "visible_row_count": 12,
+        "visible_column_count": 2,
+        "concerns": []
+      }
+    ]
+  },
+  {
+    "table_id": "T44",
+    "title_raw": "Motor and Liability Insurance - Excess of Loss (Motor and Liability) treaty layers",
+    "table_number_raw": "none",
+    "units_raw": "NGN",
+    "source_pages": [
+      42
+    ],
+    "printed_pages": [
+      null
+    ],
+    "complexity": "low",
+    "possible_repeat_of": null,
+    "appearances": [
+      {
+        "pdf_page": 42,
+        "appearance_id": "t1",
+        "visible_row_count": 2,
+        "visible_column_count": 4,
+        "concerns": []
+      }
+    ]
+  },
+  {
+    "table_id": "T45",
+    "title_raw": "Layer 2 Treaty Details (Unnumbered)",
+    "table_number_raw": "",
+    "units_raw": "NGNmn",
+    "source_pages": [
+      43
+    ],
+    "printed_pages": [
+      ">>42<<"
+    ],
+    "complexity": "medium",
+    "possible_repeat_of": null,
+    "appearances": [
+      {
+        "pdf_page": 43,
+        "appearance_id": "t1",
+        "visible_row_count": 3,
+        "visible_column_count": 4,
+        "concerns": [
+          {
+            "category": "layout_ambiguity",
+            "confidence": "low",
+            "location": "top_table",
+            "observation": "Table appears to be a continuation from previous page; no table number or title visible. Layout suggests it is part of a larger treaty schedule."
+          },
+          {
+            "category": "continuation_uncertainty",
+            "confidence": "medium",
+            "location": "top_table",
+            "observation": "No explicit 'continued from' or 'continued to' indicator. May be Table 1 or 2 from prior page."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "table_id": "T46",
+    "title_raw": "Reinsurer Proportion Shared",
+    "table_number_raw": "",
+    "units_raw": "%",
+    "source_pages": [
+      43
+    ],
+    "printed_pages": [
+      ">>42<<"
+    ],
+    "complexity": "low",
+    "possible_repeat_of": null,
+    "appearances": [
+      {
+        "pdf_page": 43,
+        "appearance_id": "t2",
+        "visible_row_count": 7,
+        "visible_column_count": 2,
+        "concerns": []
+      }
+    ]
+  },
+  {
+    "table_id": "T47",
+    "title_raw": "Largest Claims in MOTOR branch since 2015",
+    "table_number_raw": "",
+    "units_raw": "NGN, %",
+    "source_pages": [
+      43
+    ],
+    "printed_pages": [
+      ">>42<<"
+    ],
+    "complexity": "high",
+    "possible_repeat_of": null,
+    "appearances": [
+      {
+        "pdf_page": 43,
+        "appearance_id": "t3",
+        "visible_row_count": 10,
+        "visible_column_count": 6,
+        "concerns": [
+          {
+            "category": "layout_ambiguity",
+            "confidence": "medium",
+            "location": "bottom_table",
+            "observation": "Table spans full width and contains multiple numeric columns with mixed units (NGN, %). Header row is clear but may be misaligned in OCR due to shading."
+          },
+          {
+            "category": "ocr_uncertainty",
+            "confidence": "low",
+            "location": "bottom_table",
+            "observation": "Shaded rows may cause OCR errors in cell boundaries or values, especially for large numbers like '42,811,129'."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "table_id": "T48",
+    "title_raw": "Operational Risks: Construction Premium",
+    "table_number_raw": null,
+    "units_raw": null,
+    "source_pages": [
+      44
+    ],
+    "printed_pages": [
+      ""
+    ],
+    "complexity": "medium",
+    "possible_repeat_of": null,
+    "appearances": [
+      {
+        "pdf_page": 44,
+        "appearance_id": "table_1",
+        "visible_row_count": 3,
+        "visible_column_count": 5,
+        "concerns": []
+      }
+    ]
+  },
+  {
+    "table_id": "T49",
+    "title_raw": "Excess of Losstreaty",
+    "table_number_raw": "none",
+    "units_raw": "USD, NGN, %",
+    "source_pages": [
+      45
+    ],
+    "printed_pages": [
+      null
+    ],
+    "complexity": "medium",
+    "possible_repeat_of": null,
+    "appearances": [
+      {
+        "pdf_page": 45,
+        "appearance_id": "T1",
+        "visible_row_count": 9,
+        "visible_column_count": 5,
+        "concerns": []
+      }
+    ]
+  },
+  {
+    "table_id": "T50",
+    "title_raw": "From the data on the largest claims in the Oil& Gas branch since 2015, the following can be seen:",
+    "table_number_raw": "none",
+    "units_raw": "NGN, %",
+    "source_pages": [
+      45
+    ],
+    "printed_pages": [
+      null
+    ],
+    "complexity": "medium",
+    "possible_repeat_of": null,
+    "appearances": [
+      {
+        "pdf_page": 45,
+        "appearance_id": "T2",
+        "visible_row_count": 10,
+        "visible_column_count": 5,
+        "concerns": []
+      }
+    ]
+  },
+  {
+    "table_id": "T51",
+    "title_raw": "Surplus/XL Treaty Reinsurers",
+    "table_number_raw": "1.",
+    "units_raw": null,
+    "source_pages": [
+      46
+    ],
+    "printed_pages": [
+      null
+    ],
+    "complexity": "medium",
+    "possible_repeat_of": null,
+    "appearances": [
+      {
+        "pdf_page": 46,
+        "appearance_id": "table_1",
+        "visible_row_count": 10,
+        "visible_column_count": 4,
+        "concerns": []
+      }
+    ]
+  },
+  {
+    "table_id": "T52",
+    "title_raw": "Facultative Obligatory Treaty Reinsurers",
+    "table_number_raw": "2.",
+    "units_raw": null,
+    "source_pages": [
+      46
+    ],
+    "printed_pages": [
+      null
+    ],
+    "complexity": "medium",
+    "possible_repeat_of": null,
+    "appearances": [
+      {
+        "pdf_page": 46,
+        "appearance_id": "table_2",
+        "visible_row_count": 5,
+        "visible_column_count": 4,
+        "concerns": []
+      }
+    ]
+  },
+  {
+    "table_id": "T53",
+    "title_raw": "Agriculture class",
+    "table_number_raw": "none",
+    "units_raw": "percentages",
+    "source_pages": [
+      48
+    ],
+    "printed_pages": [
+      null
+    ],
+    "complexity": "medium",
+    "possible_repeat_of": null,
+    "appearances": [
+      {
+        "pdf_page": 48,
+        "appearance_id": "t1",
+        "visible_row_count": 4,
+        "visible_column_count": 3,
+        "concerns": []
+      }
+    ]
+  }
+]

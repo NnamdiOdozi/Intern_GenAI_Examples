@@ -1,0 +1,892 @@
+{
+  "checks": {
+    "continuation_verified": true,
+    "header_width_consistent": true,
+    "page_citations_verified": true,
+    "row_widths_consistent": true,
+    "totals_status": "reconciles"
+  },
+  "corrections": [
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as comma in '1.263' \u2192 should be '1,263' per image (European format)",
+      "round2_value": "1,263",
+      "row_index": 1,
+      "source_pdf_page": 8,
+      "validated_value": "1,263"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as comma in '1.251' \u2192 should be '1,251' per image",
+      "round2_value": "1,251",
+      "row_index": 1,
+      "source_pdf_page": 8,
+      "validated_value": "1,251"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as comma in '1.163' \u2192 should be '1,163' per image",
+      "round2_value": "1,163",
+      "row_index": 1,
+      "source_pdf_page": 8,
+      "validated_value": "1,163"
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as comma in '3.320' \u2192 should be '3,320' per image",
+      "round2_value": "3,320",
+      "row_index": 2,
+      "source_pdf_page": 8,
+      "validated_value": "3,320"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as comma in '3.065' \u2192 should be '3,065' per image",
+      "round2_value": "3,065",
+      "row_index": 2,
+      "source_pdf_page": 8,
+      "validated_value": "3,065"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as comma in '3.009' \u2192 should be '3,009' per image",
+      "round2_value": "3,009",
+      "row_index": 2,
+      "source_pdf_page": 8,
+      "validated_value": "3,009"
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as comma in '662' \u2192 should be '662' (no change needed, but OCR had '662' correctly; correction was for consistency with other rows)",
+      "round2_value": "662",
+      "row_index": 3,
+      "source_pdf_page": 8,
+      "validated_value": "662"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as comma in '718' \u2192 should be '718' (no change needed, but OCR had '718' correctly; correction was for consistency with other rows)",
+      "round2_value": "718",
+      "row_index": 3,
+      "source_pdf_page": 8,
+      "validated_value": "718"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as comma in '681' \u2192 should be '681' (no change needed, but OCR had '681' correctly; correction was for consistency with other rows)",
+      "round2_value": "681",
+      "row_index": 3,
+      "source_pdf_page": 8,
+      "validated_value": "681"
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as comma in '356' \u2192 should be '356' (no change needed, but OCR had '356' correctly; correction was for consistency with other rows)",
+      "round2_value": "356",
+      "row_index": 4,
+      "source_pdf_page": 8,
+      "validated_value": "356"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as comma in '353' \u2192 should be '353' (no change needed, but OCR had '353' correctly; correction was for consistency with other rows)",
+      "round2_value": "353",
+      "row_index": 4,
+      "source_pdf_page": 8,
+      "validated_value": "353"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as comma in '305' \u2192 should be '305' (no change needed, but OCR had '305' correctly; correction was for consistency with other rows)",
+      "round2_value": "305",
+      "row_index": 4,
+      "source_pdf_page": 8,
+      "validated_value": "305"
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as comma in '2.520' \u2192 should be '2,520' per image",
+      "round2_value": "2,520",
+      "row_index": 5,
+      "source_pdf_page": 8,
+      "validated_value": "2,520"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as comma in '2.635' \u2192 should be '2,635' per image",
+      "round2_value": "2,635",
+      "row_index": 5,
+      "source_pdf_page": 8,
+      "validated_value": "2,635"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as comma in '1.767' \u2192 should be '1,767' per image",
+      "round2_value": "1,767",
+      "row_index": 5,
+      "source_pdf_page": 8,
+      "validated_value": "1,767"
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as comma in '1.670' \u2192 should be '1,670' per image",
+      "round2_value": "1,670",
+      "row_index": 6,
+      "source_pdf_page": 8,
+      "validated_value": "1,670"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as comma in '1.500' \u2192 should be '1,500' per image",
+      "round2_value": "1,500",
+      "row_index": 6,
+      "source_pdf_page": 8,
+      "validated_value": "1,500"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as comma in '1.390' \u2192 should be '1,390' per image",
+      "round2_value": "1,390",
+      "row_index": 6,
+      "source_pdf_page": 8,
+      "validated_value": "1,390"
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as comma in '137' \u2192 should be '137' (no change needed, but OCR had '137' correctly; correction was for consistency with other rows)",
+      "round2_value": "137",
+      "row_index": 7,
+      "source_pdf_page": 8,
+      "validated_value": "137"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as comma in '123' \u2192 should be '123' (no change needed, but OCR had '123' correctly; correction was for consistency with other rows)",
+      "round2_value": "123",
+      "row_index": 7,
+      "source_pdf_page": 8,
+      "validated_value": "123"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as comma in '123' \u2192 should be '123' (no change needed, but OCR had '123' correctly; correction was for consistency with other rows)",
+      "round2_value": "123",
+      "row_index": 7,
+      "source_pdf_page": 8,
+      "validated_value": "123"
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as comma in '7' \u2192 should be '7' (no change needed, but OCR had '7' correctly; correction was for consistency with other rows)",
+      "round2_value": "7",
+      "row_index": 8,
+      "source_pdf_page": 8,
+      "validated_value": "7"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as comma in '11' \u2192 should be '11' (no change needed, but OCR had '11' correctly; correction was for consistency with other rows)",
+      "round2_value": "11",
+      "row_index": 8,
+      "source_pdf_page": 8,
+      "validated_value": "11"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as comma in '2' \u2192 should be '2' (no change needed, but OCR had '2' correctly; correction was for consistency with other rows)",
+      "round2_value": "2",
+      "row_index": 8,
+      "source_pdf_page": 8,
+      "validated_value": "2"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as comma in '8,00' \u2192 should be '8,00' (no change needed, but OCR had '8,00' correctly; correction was for consistency with other rows)",
+      "round2_value": "8,00",
+      "row_index": 9,
+      "source_pdf_page": 8,
+      "validated_value": "8,00"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as comma in '1,00' \u2192 should be '1,00' (no change needed, but OCR had '1,00' correctly; correction was for consistency with other rows)",
+      "round2_value": "1,00",
+      "row_index": 9,
+      "source_pdf_page": 8,
+      "validated_value": "1,00"
+    },
+    {
+      "column_index": 0,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as comma in '6.138' \u2192 should be '6,138' per image",
+      "round2_value": "6,138",
+      "row_index": 10,
+      "source_pdf_page": 8,
+      "validated_value": "6,138"
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as comma in '9.935' \u2192 should be '9,935' per image",
+      "round2_value": "9,935",
+      "row_index": 10,
+      "source_pdf_page": 8,
+      "validated_value": "9,935"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as comma in '9.664' \u2192 should be '9,664' per image",
+      "round2_value": "9,664",
+      "row_index": 10,
+      "source_pdf_page": 8,
+      "validated_value": "9,664"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as comma in '8.441' \u2192 should be '8,441' per image",
+      "round2_value": "8,441",
+      "row_index": 10,
+      "source_pdf_page": 8,
+      "validated_value": "8,441"
+    },
+    {
+      "column_index": 0,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as comma in '-39,41%' \u2192 should be '-39,41%' (no change needed, but OCR had '-39,41%' correctly; correction was for consistency with other rows)",
+      "round2_value": "-39,41%",
+      "row_index": 11,
+      "source_pdf_page": 8,
+      "validated_value": "-39,41%"
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as comma in '61,86%' \u2192 should be '61,86%' (no change needed, but OCR had '61,86%' correctly; correction was for consistency with other rows)",
+      "round2_value": "61,86%",
+      "row_index": 11,
+      "source_pdf_page": 8,
+      "validated_value": "61,86%"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as comma in '-2,73%' \u2192 should be '-2,73%' (no change needed, but OCR had '-2,73%' correctly; correction was for consistency with other rows)",
+      "round2_value": "-2,73%",
+      "row_index": 11,
+      "source_pdf_page": 8,
+      "validated_value": "-2,73%"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as comma in '-12,66%' \u2192 should be '-12,66%' (no change needed, but OCR had '-12,66%' correctly; correction was for consistency with other rows)",
+      "round2_value": "-12,66%",
+      "row_index": 11,
+      "source_pdf_page": 8,
+      "validated_value": "-12,66%"
+    },
+    {
+      "column_index": 0,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as comma in '339.992' \u2192 should be '339,992' per image",
+      "round2_value": "339,992",
+      "row_index": 12,
+      "source_pdf_page": 8,
+      "validated_value": "339,992"
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as comma in '446.166' \u2192 should be '446,166' per image",
+      "round2_value": "446,166",
+      "row_index": 12,
+      "source_pdf_page": 8,
+      "validated_value": "446,166"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as comma in '394.577' \u2192 should be '394,577' per image",
+      "round2_value": "394,577",
+      "row_index": 12,
+      "source_pdf_page": 8,
+      "validated_value": "394,577"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as comma in '438.670' \u2192 should be '438,670' per image",
+      "round2_value": "438,670",
+      "row_index": 12,
+      "source_pdf_page": 8,
+      "validated_value": "438,670"
+    },
+    {
+      "column_index": 0,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as comma in '715.321' \u2192 should be '715,321' per image",
+      "round2_value": "715,321",
+      "row_index": 13,
+      "source_pdf_page": 8,
+      "validated_value": "715,321"
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as comma in '620.395' \u2192 should be '620,395' per image",
+      "round2_value": "620,395",
+      "row_index": 13,
+      "source_pdf_page": 8,
+      "validated_value": "620,395"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as comma in '687.248' \u2192 should be '687,248' per image",
+      "round2_value": "687,248",
+      "row_index": 13,
+      "source_pdf_page": 8,
+      "validated_value": "687,248"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as comma in '906.943' \u2192 should be '906,943' per image",
+      "round2_value": "906,943",
+      "row_index": 13,
+      "source_pdf_page": 8,
+      "validated_value": "906,943"
+    },
+    {
+      "column_index": 0,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as comma in '276.428' \u2192 should be '276,428' per image",
+      "round2_value": "276,428",
+      "row_index": 14,
+      "source_pdf_page": 8,
+      "validated_value": "276,428"
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as comma in '296.746' \u2192 should be '296,746' per image",
+      "round2_value": "296,746",
+      "row_index": 14,
+      "source_pdf_page": 8,
+      "validated_value": "296,746"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as comma in '262.270' \u2192 should be '262,270' per image",
+      "round2_value": "262,270",
+      "row_index": 14,
+      "source_pdf_page": 8,
+      "validated_value": "262,270"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as comma in '231.167' \u2192 should be '231,167' per image",
+      "round2_value": "231,167",
+      "row_index": 14,
+      "source_pdf_page": 8,
+      "validated_value": "231,167"
+    },
+    {
+      "column_index": 0,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as comma in '305.639' \u2192 should be '305,639' per image",
+      "round2_value": "305,639",
+      "row_index": 15,
+      "source_pdf_page": 8,
+      "validated_value": "305,639"
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as comma in '322.522' \u2192 should be '322,522' per image",
+      "round2_value": "322,522",
+      "row_index": 15,
+      "source_pdf_page": 8,
+      "validated_value": "322,522"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as comma in '355.014' \u2192 should be '355,014' per image",
+      "round2_value": "355,014",
+      "row_index": 15,
+      "source_pdf_page": 8,
+      "validated_value": "355,014"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as comma in '433.715' \u2192 should be '433,715' per image",
+      "round2_value": "433,715",
+      "row_index": 15,
+      "source_pdf_page": 8,
+      "validated_value": "433,715"
+    },
+    {
+      "column_index": 0,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as comma in '142.648' \u2192 should be '142,648' per image",
+      "round2_value": "142,648",
+      "row_index": 16,
+      "source_pdf_page": 8,
+      "validated_value": "142,648"
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as comma in '221.421' \u2192 should be '221,421' per image",
+      "round2_value": "221,421",
+      "row_index": 16,
+      "source_pdf_page": 8,
+      "validated_value": "221,421"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as comma in '352.399' \u2192 should be '352,399' per image",
+      "round2_value": "352,399",
+      "row_index": 16,
+      "source_pdf_page": 8,
+      "validated_value": "352,399"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as comma in '387.111' \u2192 should be '387,111' per image",
+      "round2_value": "387,111",
+      "row_index": 16,
+      "source_pdf_page": 8,
+      "validated_value": "387,111"
+    },
+    {
+      "column_index": 0,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as comma in '597.512' \u2192 should be '597,512' per image",
+      "round2_value": "597,512",
+      "row_index": 17,
+      "source_pdf_page": 8,
+      "validated_value": "597,512"
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as comma in '732.991' \u2192 should be '732,991' per image",
+      "round2_value": "732,991",
+      "row_index": 17,
+      "source_pdf_page": 8,
+      "validated_value": "732,991"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as comma in '767.655' \u2192 should be '767,655' per image",
+      "round2_value": "767,655",
+      "row_index": 17,
+      "source_pdf_page": 8,
+      "validated_value": "767,655"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as comma in '819.265' \u2192 should be '819,265' per image",
+      "round2_value": "819,265",
+      "row_index": 17,
+      "source_pdf_page": 8,
+      "validated_value": "819,265"
+    },
+    {
+      "column_index": 0,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as comma in '1.571.539' \u2192 should be '1,571,539' per image",
+      "round2_value": "1,571,539",
+      "row_index": 18,
+      "source_pdf_page": 8,
+      "validated_value": "1,571,539"
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as comma in '1.888.875' \u2192 should be '1,888,875' per image",
+      "round2_value": "1,888,875",
+      "row_index": 18,
+      "source_pdf_page": 8,
+      "validated_value": "1,888,875"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as comma in '2.049.113' \u2192 should be '2,049,113' per image",
+      "round2_value": "2,049,113",
+      "row_index": 18,
+      "source_pdf_page": 8,
+      "validated_value": "2,049,113"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as comma in '2.516.607' \u2192 should be '2,516,607' per image",
+      "round2_value": "2,516,607",
+      "row_index": 18,
+      "source_pdf_page": 8,
+      "validated_value": "2,516,607"
+    },
+    {
+      "column_index": 0,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as comma in '-' \u2192 should be '-' (no change needed, but OCR had '-' correctly; correction was for consistency with other rows)",
+      "round2_value": "-",
+      "row_index": 19,
+      "source_pdf_page": 8,
+      "validated_value": "-"
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as comma in '147.892' \u2192 should be '147,892' per image",
+      "round2_value": "147,892",
+      "row_index": 19,
+      "source_pdf_page": 8,
+      "validated_value": "147,892"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as comma in '59.817' \u2192 should be '59,817' per image",
+      "round2_value": "59,817",
+      "row_index": 19,
+      "source_pdf_page": 8,
+      "validated_value": "59,817"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as comma in '1.827' \u2192 should be '1,827' per image",
+      "round2_value": "1,827",
+      "row_index": 19,
+      "source_pdf_page": 8,
+      "validated_value": "1,827"
+    },
+    {
+      "column_index": 0,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as comma in '-' \u2192 should be '-' (no change needed, but OCR had '-' correctly; correction was for consistency with other rows)",
+      "round2_value": "-",
+      "row_index": 20,
+      "source_pdf_page": 8,
+      "validated_value": "-"
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as comma in '-' \u2192 should be '-' (no change needed, but OCR had '-' correctly; correction was for consistency with other rows)",
+      "round2_value": "-",
+      "row_index": 20,
+      "source_pdf_page": 8,
+      "validated_value": "-"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as comma in '1.815' \u2192 should be '1,815' per image",
+      "round2_value": "1,815",
+      "row_index": 20,
+      "source_pdf_page": 8,
+      "validated_value": "1,815"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as comma in '599' \u2192 should be '599' (no change needed, but OCR had '599' correctly; correction was for consistency with other rows)",
+      "round2_value": "599",
+      "row_index": 20,
+      "source_pdf_page": 8,
+      "validated_value": "599"
+    },
+    {
+      "column_index": 0,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as comma in '3.949.079' \u2192 should be '3,949,079' per image",
+      "round2_value": "3,949,079",
+      "row_index": 21,
+      "source_pdf_page": 8,
+      "validated_value": "3,949,079"
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as comma in '4.677.009' \u2192 should be '4,677,009' per image",
+      "round2_value": "4,677,009",
+      "row_index": 21,
+      "source_pdf_page": 8,
+      "validated_value": "4,677,009"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as comma in '4.929.908' \u2192 should be '4,929,908' per image",
+      "round2_value": "4,929,908",
+      "row_index": 21,
+      "source_pdf_page": 8,
+      "validated_value": "4,929,908"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as comma in '5.735.903' \u2192 should be '5,735,903' per image",
+      "round2_value": "5,735,903",
+      "row_index": 21,
+      "source_pdf_page": 8,
+      "validated_value": "5,735,903"
+    },
+    {
+      "column_index": 0,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as comma in '2%' \u2192 should be '2%' (no change needed, but OCR had '2%' correctly; correction was for consistency with other rows)",
+      "round2_value": "2%",
+      "row_index": 22,
+      "source_pdf_page": 8,
+      "validated_value": "2%"
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as comma in '18%' \u2192 should be '18%' (no change needed, but OCR had '18%' correctly; correction was for consistency with other rows)",
+      "round2_value": "18%",
+      "row_index": 22,
+      "source_pdf_page": 8,
+      "validated_value": "18%"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as comma in '5%' \u2192 should be '5%' (no change needed, but OCR had '5%' correctly; correction was for consistency with other rows)",
+      "round2_value": "5%",
+      "row_index": 22,
+      "source_pdf_page": 8,
+      "validated_value": "5%"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as comma in '16%' \u2192 should be '16%' (no change needed, but OCR had '16%' correctly; correction was for consistency with other rows)",
+      "round2_value": "16%",
+      "row_index": 22,
+      "source_pdf_page": 8,
+      "validated_value": "16%"
+    }
+  ],
+  "final_headers_raw": [
+    "Number of policies written",
+    "2020",
+    "2021",
+    "2022",
+    "2023"
+  ],
+  "final_normalized_rows": [],
+  "final_rows_raw": [
+    [
+      "General Accident",
+      "877",
+      "1,263",
+      "1,251",
+      "1,163"
+    ],
+    [
+      "Motor",
+      "2,403",
+      "3,320",
+      "3,065",
+      "3,009"
+    ],
+    [
+      "Marine",
+      "419",
+      "662",
+      "718",
+      "681"
+    ],
+    [
+      "Engineering",
+      "176",
+      "356",
+      "353",
+      "305"
+    ],
+    [
+      "Bond",
+      "1,249",
+      "2,520",
+      "2,635",
+      "1,767"
+    ],
+    [
+      "Fire",
+      "963",
+      "1,670",
+      "1,500",
+      "1,390"
+    ],
+    [
+      "Oil & Gas",
+      "51",
+      "137",
+      "123",
+      "123"
+    ],
+    [
+      "Agriculture",
+      "-",
+      "7",
+      "11",
+      "2"
+    ],
+    [
+      "Aviation",
+      "-",
+      "-",
+      "8,00",
+      "1,00"
+    ],
+    [
+      "Total",
+      "6,138",
+      "9,935",
+      "9,664",
+      "8,441"
+    ],
+    [
+      "Year on year % increase",
+      "-39,41%",
+      "61,86%",
+      "-2,73%",
+      "-12,66%"
+    ],
+    [
+      "Gross written premiums (NGN'000)",
+      "2020",
+      "2021",
+      "2022",
+      "2023"
+    ],
+    [
+      "General Accident",
+      "339,992",
+      "446,166",
+      "394,577",
+      "438,670"
+    ],
+    [
+      "Motor",
+      "715,321",
+      "620,395",
+      "687,248",
+      "906,943"
+    ],
+    [
+      "Marine",
+      "276,428",
+      "296,746",
+      "262,270",
+      "231,167"
+    ],
+    [
+      "Engineering",
+      "305,639",
+      "322,522",
+      "355,014",
+      "433,715"
+    ],
+    [
+      "Bonds",
+      "142,648",
+      "221,421",
+      "352,399",
+      "387,111"
+    ],
+    [
+      "Fire",
+      "597,512",
+      "732,991",
+      "767,655",
+      "819,265"
+    ],
+    [
+      "Oil & Gas",
+      "1,571,539",
+      "1,888,875",
+      "2,049,113",
+      "2,516,607"
+    ],
+    [
+      "Agriculture",
+      "-",
+      "147,892",
+      "59,817",
+      "1,827"
+    ],
+    [
+      "Aviation",
+      "-",
+      "-",
+      "1,815",
+      "599"
+    ],
+    [
+      "Total",
+      "3,949,079",
+      "4,677,009",
+      "4,929,908",
+      "5,735,903"
+    ],
+    [
+      "Year on year % increase",
+      "2%",
+      "18%",
+      "5%",
+      "16%"
+    ]
+  ],
+  "final_title_raw": "Trend of Key Non-life written Business Statistics\nGeneral Insurance business \u2013 direct",
+  "issues": [],
+  "source_pages": [
+    8
+  ],
+  "table_complete": true,
+  "table_id": "T02",
+  "verdict": "corrected"
+}

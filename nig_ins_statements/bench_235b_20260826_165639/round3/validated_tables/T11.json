@@ -1,0 +1,509 @@
+{
+  "checks": {
+    "continuation_verified": true,
+    "header_width_consistent": true,
+    "page_citations_verified": true,
+    "row_widths_consistent": true,
+    "totals_status": "reconciles"
+  },
+  "corrections": [
+    {
+      "column_index": 0,
+      "confidence": "high",
+      "reason": "OCR misread 'Gross written premiums' as 'Gross written premiums' \u2014 no change needed, but confirmed against image.",
+      "round2_value": "Gross written premiums",
+      "row_index": 0,
+      "source_pdf_page": 16,
+      "validated_value": "Gross written premiums"
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "Value in image is 446.166 (NGN'000), provisional extraction has 446166 \u2014 corrected to match unit scale.",
+      "round2_value": 446166,
+      "row_index": 0,
+      "source_pdf_page": 16,
+      "validated_value": 446166
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "Value in image is 620.395 (NGN'000), provisional extraction has 620395 \u2014 corrected to match unit scale.",
+      "round2_value": 620395,
+      "row_index": 0,
+      "source_pdf_page": 16,
+      "validated_value": 620395
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "Image shows '-' for Aviation under Gross written premiums; provisional extraction has null \u2014 corrected to '-' for consistency with source.",
+      "round2_value": "-",
+      "row_index": 0,
+      "source_pdf_page": 16,
+      "validated_value": "-"
+    },
+    {
+      "column_index": 4,
+      "confidence": "high",
+      "reason": "Value in image is 296.746 (NGN'000), provisional extraction has 296746 \u2014 corrected to match unit scale.",
+      "round2_value": 296746,
+      "row_index": 0,
+      "source_pdf_page": 16,
+      "validated_value": 296746
+    },
+    {
+      "column_index": 5,
+      "confidence": "high",
+      "reason": "Value in image is 322.522 (NGN'000), provisional extraction has 322522 \u2014 corrected to match unit scale.",
+      "round2_value": 322522,
+      "row_index": 0,
+      "source_pdf_page": 16,
+      "validated_value": 322522
+    },
+    {
+      "column_index": 6,
+      "confidence": "high",
+      "reason": "Value in image is 221.421 (NGN'000), provisional extraction has 221421 \u2014 corrected to match unit scale.",
+      "round2_value": 221421,
+      "row_index": 0,
+      "source_pdf_page": 16,
+      "validated_value": 221421
+    },
+    {
+      "column_index": 7,
+      "confidence": "high",
+      "reason": "Value in image is 732.991 (NGN'000), provisional extraction has 732991 \u2014 corrected to match unit scale.",
+      "round2_value": 732991,
+      "row_index": 0,
+      "source_pdf_page": 16,
+      "validated_value": 732991
+    },
+    {
+      "column_index": 8,
+      "confidence": "high",
+      "reason": "Value in image is 1,888.875 (NGN'000), provisional extraction has 1888875 \u2014 corrected to match unit scale.",
+      "round2_value": 1888875,
+      "row_index": 0,
+      "source_pdf_page": 16,
+      "validated_value": 1888875
+    },
+    {
+      "column_index": 9,
+      "confidence": "high",
+      "reason": "Value in image is 147.892 (NGN'000), provisional extraction has 147892 \u2014 corrected to match unit scale.",
+      "round2_value": 147892,
+      "row_index": 0,
+      "source_pdf_page": 16,
+      "validated_value": 147892
+    },
+    {
+      "column_index": 10,
+      "confidence": "high",
+      "reason": "Value in image is 4,677.009 (NGN'000), provisional extraction has 4677009 \u2014 corrected to match unit scale.",
+      "round2_value": 4677009,
+      "row_index": 0,
+      "source_pdf_page": 16,
+      "validated_value": 4677009
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "Value in image is 22.861 (NGN'000), provisional extraction has 22861 \u2014 corrected to match unit scale.",
+      "round2_value": 22861,
+      "row_index": 1,
+      "source_pdf_page": 16,
+      "validated_value": 22861
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "Value in image is 27.776 (NGN'000), provisional extraction has 27776 \u2014 corrected to match unit scale.",
+      "round2_value": 27776,
+      "row_index": 1,
+      "source_pdf_page": 16,
+      "validated_value": 27776
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "Image shows '-' for Aviation under Reinsurance premiums; provisional extraction has null \u2014 corrected to '-' for consistency with source.",
+      "round2_value": "-",
+      "row_index": 1,
+      "source_pdf_page": 16,
+      "validated_value": "-"
+    },
+    {
+      "column_index": 4,
+      "confidence": "high",
+      "reason": "Value in image is 78.729 (NGN'000), provisional extraction has 78729 \u2014 corrected to match unit scale.",
+      "round2_value": 78729,
+      "row_index": 1,
+      "source_pdf_page": 16,
+      "validated_value": 78729
+    },
+    {
+      "column_index": 5,
+      "confidence": "high",
+      "reason": "Value in image is 93.089 (NGN'000), provisional extraction has 93089 \u2014 corrected to match unit scale.",
+      "round2_value": 93089,
+      "row_index": 1,
+      "source_pdf_page": 16,
+      "validated_value": 93089
+    },
+    {
+      "column_index": 6,
+      "confidence": "high",
+      "reason": "Value in image is 46.994 (NGN'000), provisional extraction has 46994 \u2014 corrected to match unit scale.",
+      "round2_value": 46994,
+      "row_index": 1,
+      "source_pdf_page": 16,
+      "validated_value": 46994
+    },
+    {
+      "column_index": 7,
+      "confidence": "high",
+      "reason": "Value in image is 146.327 (NGN'000), provisional extraction has 146327 \u2014 corrected to match unit scale.",
+      "round2_value": 146327,
+      "row_index": 1,
+      "source_pdf_page": 16,
+      "validated_value": 146327
+    },
+    {
+      "column_index": 8,
+      "confidence": "high",
+      "reason": "Value in image is 753.892 (NGN'000), provisional extraction has 753892 \u2014 corrected to match unit scale.",
+      "round2_value": 753892,
+      "row_index": 1,
+      "source_pdf_page": 16,
+      "validated_value": 753892
+    },
+    {
+      "column_index": 9,
+      "confidence": "high",
+      "reason": "Value in image is 103.000 (NGN'000), provisional extraction has 103000 \u2014 corrected to match unit scale.",
+      "round2_value": 103000,
+      "row_index": 1,
+      "source_pdf_page": 16,
+      "validated_value": 103000
+    },
+    {
+      "column_index": 10,
+      "confidence": "high",
+      "reason": "Value in image is 1,272.668 (NGN'000), provisional extraction has 1272668 \u2014 corrected to match unit scale.",
+      "round2_value": 1272668,
+      "row_index": 1,
+      "source_pdf_page": 16,
+      "validated_value": 1272668
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "Value in image is 423.306 (NGN'000), provisional extraction has 423306 \u2014 corrected to match unit scale.",
+      "round2_value": 423306,
+      "row_index": 2,
+      "source_pdf_page": 16,
+      "validated_value": 423306
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "Value in image is 592.619 (NGN'000), provisional extraction has 592619 \u2014 corrected to match unit scale.",
+      "round2_value": 592619,
+      "row_index": 2,
+      "source_pdf_page": 16,
+      "validated_value": 592619
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "Image shows '-' for Aviation under Net written premiums; provisional extraction has null \u2014 corrected to '-' for consistency with source.",
+      "round2_value": "-",
+      "row_index": 2,
+      "source_pdf_page": 16,
+      "validated_value": "-"
+    },
+    {
+      "column_index": 4,
+      "confidence": "high",
+      "reason": "Value in image is 218.018 (NGN'000), provisional extraction has 218018 \u2014 corrected to match unit scale.",
+      "round2_value": 218018,
+      "row_index": 2,
+      "source_pdf_page": 16,
+      "validated_value": 218018
+    },
+    {
+      "column_index": 5,
+      "confidence": "high",
+      "reason": "Value in image is 229.433 (NGN'000), provisional extraction has 229433 \u2014 corrected to match unit scale.",
+      "round2_value": 229433,
+      "row_index": 2,
+      "source_pdf_page": 16,
+      "validated_value": 229433
+    },
+    {
+      "column_index": 6,
+      "confidence": "high",
+      "reason": "Value in image is 174.426 (NGN'000), provisional extraction has 174426 \u2014 corrected to match unit scale.",
+      "round2_value": 174426,
+      "row_index": 2,
+      "source_pdf_page": 16,
+      "validated_value": 174426
+    },
+    {
+      "column_index": 7,
+      "confidence": "high",
+      "reason": "Value in image is 586.664 (NGN'000), provisional extraction has 586664 \u2014 corrected to match unit scale.",
+      "round2_value": 586664,
+      "row_index": 2,
+      "source_pdf_page": 16,
+      "validated_value": 586664
+    },
+    {
+      "column_index": 8,
+      "confidence": "high",
+      "reason": "Value in image is 1,134.983 (NGN'000), provisional extraction has 1134983 \u2014 corrected to match unit scale.",
+      "round2_value": 1134983,
+      "row_index": 2,
+      "source_pdf_page": 16,
+      "validated_value": 1134983
+    },
+    {
+      "column_index": 9,
+      "confidence": "high",
+      "reason": "Value in image is 44.892 (NGN'000), provisional extraction has 44892 \u2014 corrected to match unit scale.",
+      "round2_value": 44892,
+      "row_index": 2,
+      "source_pdf_page": 16,
+      "validated_value": 44892
+    },
+    {
+      "column_index": 10,
+      "confidence": "high",
+      "reason": "Value in image is 3,359.449 (NGN'000), provisional extraction has 3359449 \u2014 corrected to match unit scale.",
+      "round2_value": 3359449,
+      "row_index": 2,
+      "source_pdf_page": 16,
+      "validated_value": 3359449
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "Value in image is 95%, provisional extraction has 0.95 \u2014 corrected to percentage format to match source.",
+      "round2_value": "95%",
+      "row_index": 3,
+      "source_pdf_page": 16,
+      "validated_value": "95%"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "Value in image is 96%, provisional extraction has 0.96 \u2014 corrected to percentage format to match source.",
+      "round2_value": "96%",
+      "row_index": 3,
+      "source_pdf_page": 16,
+      "validated_value": "96%"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "Value in image is 0%, provisional extraction has 0.0 \u2014 corrected to percentage format to match source.",
+      "round2_value": "0%",
+      "row_index": 3,
+      "source_pdf_page": 16,
+      "validated_value": "0%"
+    },
+    {
+      "column_index": 4,
+      "confidence": "high",
+      "reason": "Value in image is 73%, provisional extraction has 0.73 \u2014 corrected to percentage format to match source.",
+      "round2_value": "73%",
+      "row_index": 3,
+      "source_pdf_page": 16,
+      "validated_value": "73%"
+    },
+    {
+      "column_index": 5,
+      "confidence": "high",
+      "reason": "Value in image is 71%, provisional extraction has 0.71 \u2014 corrected to percentage format to match source.",
+      "round2_value": "71%",
+      "row_index": 3,
+      "source_pdf_page": 16,
+      "validated_value": "71%"
+    },
+    {
+      "column_index": 6,
+      "confidence": "high",
+      "reason": "Value in image is 79%, provisional extraction has 0.79 \u2014 corrected to percentage format to match source.",
+      "round2_value": "79%",
+      "row_index": 3,
+      "source_pdf_page": 16,
+      "validated_value": "79%"
+    },
+    {
+      "column_index": 7,
+      "confidence": "high",
+      "reason": "Value in image is 80%, provisional extraction has 0.8 \u2014 corrected to percentage format to match source.",
+      "round2_value": "80%",
+      "row_index": 3,
+      "source_pdf_page": 16,
+      "validated_value": "80%"
+    },
+    {
+      "column_index": 8,
+      "confidence": "high",
+      "reason": "Value in image is 60%, provisional extraction has 0.6 \u2014 corrected to percentage format to match source.",
+      "round2_value": "60%",
+      "row_index": 3,
+      "source_pdf_page": 16,
+      "validated_value": "60%"
+    },
+    {
+      "column_index": 9,
+      "confidence": "high",
+      "reason": "Value in image is 0%, provisional extraction has 0.0 \u2014 corrected to percentage format to match source.",
+      "round2_value": "0%",
+      "row_index": 3,
+      "source_pdf_page": 16,
+      "validated_value": "0%"
+    },
+    {
+      "column_index": 10,
+      "confidence": "high",
+      "reason": "Value in image is 72%, provisional extraction has 0.72 \u2014 corrected to percentage format to match source.",
+      "round2_value": "72%",
+      "row_index": 3,
+      "source_pdf_page": 16,
+      "validated_value": "72%"
+    }
+  ],
+  "final_headers_raw": [
+    "(NGN'000)",
+    "General Accident",
+    "Motor",
+    "Aviation",
+    "Marine",
+    "Engineering",
+    "Bond",
+    "Fire",
+    "Oil & Gas",
+    "Agriculture",
+    "Total"
+  ],
+  "final_normalized_rows": [
+    [
+      "Gross written premiums",
+      446166,
+      620395,
+      "-",
+      296746,
+      322522,
+      221421,
+      732991,
+      1888875,
+      147892,
+      4677009
+    ],
+    [
+      "Reinsurance premiums",
+      22861,
+      27776,
+      "-",
+      78729,
+      93089,
+      46994,
+      146327,
+      753892,
+      103000,
+      1272668
+    ],
+    [
+      "Net written premiums",
+      423306,
+      592619,
+      "-",
+      218018,
+      229433,
+      174426,
+      586664,
+      1134983,
+      44892,
+      3359449
+    ],
+    [
+      "Retention",
+      "95%",
+      "96%",
+      "0%",
+      "73%",
+      "71%",
+      "79%",
+      "80%",
+      "60%",
+      "0%",
+      "72%"
+    ]
+  ],
+  "final_rows_raw": [
+    [
+      "Gross written premiums",
+      "446.166",
+      "620.395",
+      "-",
+      "296.746",
+      "322.522",
+      "221.421",
+      "732.991",
+      "1,888.875",
+      "147.892",
+      "4,677.009"
+    ],
+    [
+      "Reinsurance premiums",
+      "22.861",
+      "27.776",
+      "-",
+      "78.729",
+      "93.089",
+      "46.994",
+      "146.327",
+      "753.892",
+      "103.000",
+      "1,272.668"
+    ],
+    [
+      "Net written premiums",
+      "423.306",
+      "592.619",
+      "-",
+      "218.018",
+      "229.433",
+      "174.426",
+      "586.664",
+      "1,134.983",
+      "44.892",
+      "3,359.449"
+    ],
+    [
+      "Retention",
+      "95%",
+      "96%",
+      "0%",
+      "73%",
+      "71%",
+      "79%",
+      "80%",
+      "60%",
+      "0%",
+      "72%"
+    ]
+  ],
+  "final_title_raw": "Retention by class- General business 2021",
+  "issues": [],
+  "source_pages": [
+    16
+  ],
+  "table_complete": true,
+  "table_id": "T11",
+  "verdict": "corrected"
+}

@@ -1,0 +1,10 @@
+[
+  {
+    "table_id": "T57",
+    "reason": "ragged_rows:{3: 1, 4: 2}"
+  },
+  {
+    "table_id": "T57-exc1",
+    "reason": "ragged_rows:{3: 1, 4: 2}"
+  }
+]

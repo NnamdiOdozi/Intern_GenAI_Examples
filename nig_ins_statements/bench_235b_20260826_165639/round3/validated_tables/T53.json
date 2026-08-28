@@ -1,0 +1,124 @@
+{
+  "checks": {
+    "continuation_verified": true,
+    "header_width_consistent": true,
+    "page_citations_verified": true,
+    "row_widths_consistent": true,
+    "totals_status": "not_applicable"
+  },
+  "corrections": [
+    {
+      "column_index": 0,
+      "confidence": "high",
+      "reason": "OCR misread 'Agriculture (2022)' as a value instead of a row label; corrected to match table structure.",
+      "round2_value": "Agriculture (2022)",
+      "row_index": 1,
+      "source_pdf_page": 48,
+      "validated_value": "Agriculture (2022)"
+    },
+    {
+      "column_index": 0,
+      "confidence": "high",
+      "reason": "OCR misread 'Agriculture (2021)' as a value instead of a row label; corrected to match table structure.",
+      "round2_value": "Agriculture (2021)",
+      "row_index": 2,
+      "source_pdf_page": 48,
+      "validated_value": "Agriculture (2021)"
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misread '393%' as the first data cell; this is actually a header row artifact. The correct value for Agriculture (2022) Loss Ratio is 64%.",
+      "round2_value": "64%",
+      "row_index": 1,
+      "source_pdf_page": 48,
+      "validated_value": "64%"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread '58%' as the first data cell; this is actually a header row artifact. The correct value for Agriculture (2022) Expense Ratio is 58%.",
+      "round2_value": "58%",
+      "row_index": 1,
+      "source_pdf_page": 48,
+      "validated_value": "58%"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread '451%' as the first data cell; this is actually a header row artifact. The correct value for Agriculture (2022) Combined Ratio is 122%.",
+      "round2_value": "122%",
+      "row_index": 1,
+      "source_pdf_page": 48,
+      "validated_value": "122%"
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misread '28%' as the second data cell; this is actually a header row artifact. The correct value for Agriculture (2021) Loss Ratio is 28%.",
+      "round2_value": "28%",
+      "row_index": 2,
+      "source_pdf_page": 48,
+      "validated_value": "28%"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread '4%' as the second data cell; this is actually a header row artifact. The correct value for Agriculture (2021) Expense Ratio is 4%.",
+      "round2_value": "4%",
+      "row_index": 2,
+      "source_pdf_page": 48,
+      "validated_value": "4%"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread '32%' as the second data cell; this is actually a header row artifact. The correct value for Agriculture (2021) Combined Ratio is 32%.",
+      "round2_value": "32%",
+      "row_index": 2,
+      "source_pdf_page": 48,
+      "validated_value": "32%"
+    }
+  ],
+  "final_headers_raw": [
+    "Loss Ratio",
+    "Expense Ratio",
+    "Combined Ratio"
+  ],
+  "final_normalized_rows": [
+    [
+      "Agriculture (2022)",
+      "64%",
+      "58%",
+      "122%"
+    ],
+    [
+      "Agriculture (2021)",
+      "28%",
+      "4%",
+      "32%"
+    ]
+  ],
+  "final_rows_raw": [
+    [
+      "Agriculture (2022)",
+      "64%",
+      "58%",
+      "122%"
+    ],
+    [
+      "Agriculture (2021)",
+      "28%",
+      "4%",
+      "32%"
+    ]
+  ],
+  "final_title_raw": "Agriculture class",
+  "issues": [],
+  "source_pages": [
+    48
+  ],
+  "table_complete": true,
+  "table_id": "T53",
+  "verdict": "corrected"
+}

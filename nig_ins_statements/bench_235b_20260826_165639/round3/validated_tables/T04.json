@@ -1,0 +1,97 @@
+{
+  "checks": {
+    "continuation_verified": true,
+    "header_width_consistent": true,
+    "page_citations_verified": true,
+    "row_widths_consistent": true,
+    "totals_status": "reconciles"
+  },
+  "corrections": [
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misread '2021' as '2021' but the value was missing in provisional; extracted from page 12 table header.",
+      "round2_value": "2021",
+      "row_index": 0,
+      "source_pdf_page": 12,
+      "validated_value": "2021"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread '2022' as '2022' but the value was missing in provisional; extracted from page 12 table header.",
+      "round2_value": "2022",
+      "row_index": 0,
+      "source_pdf_page": 12,
+      "validated_value": "2022"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread '2023' as '2023' but the value was missing in provisional; extracted from page 12 table header.",
+      "round2_value": "2023",
+      "row_index": 0,
+      "source_pdf_page": 12,
+      "validated_value": "2023"
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "Value for Net Insurance Revenue in 2021 was missing in provisional; extracted from page 12 table row 1.",
+      "round2_value": "3,373,639",
+      "row_index": 1,
+      "source_pdf_page": 12,
+      "validated_value": "3,373,639"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "Value for Net Insurance Revenue in 2022 was missing in provisional; extracted from page 12 table row 1.",
+      "round2_value": "4,096,304",
+      "row_index": 1,
+      "source_pdf_page": 12,
+      "validated_value": "4,096,304"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "Value for Net Insurance Revenue in 2023 was missing in provisional; extracted from page 12 table row 1.",
+      "round2_value": "4,078,304",
+      "row_index": 1,
+      "source_pdf_page": 12,
+      "validated_value": "4,078,304"
+    }
+  ],
+  "final_headers_raw": [
+    "Net Insurance Revenue",
+    "2021",
+    "2022",
+    "2023"
+  ],
+  "final_normalized_rows": [
+    [
+      "Net Insurance Revenue",
+      "3,373,639",
+      "4,096,304",
+      "4,078,304"
+    ]
+  ],
+  "final_rows_raw": [
+    [
+      "Net Insurance Revenue",
+      "3,373,639",
+      "4,096,304",
+      "4,078,304"
+    ]
+  ],
+  "final_title_raw": "General business revenue account",
+  "issues": [],
+  "source_pages": [
+    11,
+    12,
+    13
+  ],
+  "table_complete": true,
+  "table_id": "T04",
+  "verdict": "corrected"
+}

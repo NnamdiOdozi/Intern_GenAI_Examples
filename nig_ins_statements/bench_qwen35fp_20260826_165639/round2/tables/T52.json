@@ -1,0 +1,59 @@
+{
+  "cell_flags": [],
+  "concerns": [],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "footnotes_raw": [
+    "Maximum exposure for Esso E& A USAN 100% USD5.0mn."
+  ],
+  "headers_raw": [
+    "Operational Risks:",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "normalized_rows": [
+    [
+      null,
+      null,
+      null,
+      null,
+      null
+    ]
+  ],
+  "pages_seen": [
+    44
+  ],
+  "rows_raw": [
+    [
+      "Operational Risks:",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Multi-line package",
+      "Retention",
+      "Coverage",
+      "Retention",
+      ""
+    ],
+    [
+      "Maximum exposure Insured USD350mn each and every loss or 7%, whichever is the lesser",
+      "USD0.5mn each and every loss, subject to maximum of 5% of shareholder's funds.",
+      "Total Sum Insured USD355.0mn per event",
+      "USD0.25m each and every loss, subject to maximum of 2.5% of shareholder's funds.",
+      "-63% of original net premiums on risks of"
+    ]
+  ],
+  "source_pages": [],
+  "table_complete": true,
+  "table_id": "T52",
+  "table_number_raw": "T52",
+  "title_raw": "Operational Risks: Construction Premium Multi-line package Retention Coverage Retention Maximum exposure Insured USD350mn each and every loss or 7%, whichever is the lesser USD0.5mn each and every loss, subject to maximum of 5% of shareholder's funds. Total Sum Insured USD355.0mn per event USD0.25m each and every loss, subject to maximum of 2.5% of shareholder's funds. -63% of original net premiums on risks of Maximum exposure for Esso E&A USAN100%USD5.0mn.",
+  "units_raw": "null",
+  "_header_width": 5,
+  "_row_width": 5
+}

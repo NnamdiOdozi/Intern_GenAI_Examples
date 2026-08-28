@@ -1,0 +1,226 @@
+{
+  "cell_flags": [],
+  "concerns": [],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "footnotes_raw": [
+    "The table shows the maximum gross and net claims paid in each year and the possible proportion recovered on the largest claims.",
+    "The Company\u2019s historical financial data supplied for the years 2013 to 2023 show the General Accident class has significant variability in gross claims incurred with combined ratio consistently above 81% over the last four years to end of 2023. The high ratio is however consistent with the experience in the insurance industry for this class.",
+    "All the General Accident claims were settled within 4 years with only some exception that still are outstanding after 6 years."
+  ],
+  "headers_raw": [
+    "Accident Year",
+    "Largest gross claim in Year (NGN)",
+    "Largest net claim in Year (NGN)",
+    "Proportion recovered",
+    "Net Claims as % of S/H Funds",
+    "Sum of Five Largest Claims in Year (NGN)"
+  ],
+  "normalized_rows": [
+    [
+      2013,
+      8153826,
+      2000000,
+      0.75,
+      0.001,
+      31892853
+    ],
+    [
+      2014,
+      16921181,
+      6622442,
+      0.61,
+      0.002,
+      56257264
+    ],
+    [
+      2015,
+      12096059,
+      5917860,
+      0.51,
+      0.002,
+      33903975
+    ],
+    [
+      2016,
+      8812595,
+      5741406,
+      0.35,
+      0.002,
+      21445448
+    ],
+    [
+      2017,
+      8109000,
+      8109000,
+      0,
+      0.002,
+      20506003
+    ],
+    [
+      2018,
+      8678177,
+      8678177,
+      0,
+      0.002,
+      16449524
+    ],
+    [
+      2019,
+      11829477,
+      11829477,
+      0,
+      0.0024,
+      37438769
+    ],
+    [
+      2020,
+      39531863,
+      6124908,
+      0.85,
+      0.0012,
+      62670557
+    ],
+    [
+      2021,
+      38176613,
+      5000000,
+      0.87,
+      0.0009,
+      68843221
+    ],
+    [
+      2022,
+      40184466,
+      40184466,
+      0,
+      0.0068,
+      66952249
+    ],
+    [
+      2023,
+      44000000,
+      14860336,
+      0.66,
+      0.0025,
+      43587413
+    ],
+    [
+      "Average",
+      23490917,
+      11827292,
+      0.36,
+      0.0024,
+      41310795
+    ]
+  ],
+  "pages_seen": [
+    38
+  ],
+  "rows_raw": [
+    [
+      "2013",
+      "8,153,826",
+      "2,000,000",
+      "75%",
+      "0,10%",
+      "31.892.853"
+    ],
+    [
+      "2014",
+      "16,921,181",
+      "6,622,442",
+      "61%",
+      "0,20%",
+      "56.257.264"
+    ],
+    [
+      "2015",
+      "12,096,059",
+      "5,917,860",
+      "51%",
+      "0,20%",
+      "33.903.975"
+    ],
+    [
+      "2016",
+      "8,812,595",
+      "5,741,406",
+      "35%",
+      "0,20%",
+      "21.445.448"
+    ],
+    [
+      "2017",
+      "8,109,000",
+      "8,109,000",
+      "0%",
+      "0,20%",
+      "20.506.003"
+    ],
+    [
+      "2018",
+      "8,678,177",
+      "8,678,177",
+      "0%",
+      "0,20%",
+      "16.449.524"
+    ],
+    [
+      "2019",
+      "11,829,477",
+      "11,829,477",
+      "0%",
+      "0,24%",
+      "37.438.769"
+    ],
+    [
+      "2020",
+      "39,531,863",
+      "6,124,908",
+      "85%",
+      "0,12%",
+      "62.670.557"
+    ],
+    [
+      "2021",
+      "38,176,613",
+      "5,000,000",
+      "87%",
+      "0,09%",
+      "68.843.221"
+    ],
+    [
+      "2022",
+      "40,184,466",
+      "40,184,466",
+      "0%",
+      "0,68%",
+      "66.952.249"
+    ],
+    [
+      "2023",
+      "44,000,000",
+      "14,860,336",
+      "66%",
+      "0,25%",
+      "43.587.413"
+    ],
+    [
+      "Average",
+      "23,490,917",
+      "11,827,292",
+      "36%",
+      "0,24%",
+      "41.310.795"
+    ]
+  ],
+  "source_pages": [],
+  "table_complete": true,
+  "table_id": "T37",
+  "table_number_raw": "",
+  "title_raw": "From the data on the largest claims in the General Accident branch since 2015, the following can be seen: General Accident",
+  "units_raw": "NGN",
+  "_header_width": 6,
+  "_row_width": 6
+}

@@ -1,0 +1,64 @@
+{
+  "checks": {
+    "continuation_verified": true,
+    "header_width_consistent": true,
+    "page_citations_verified": true,
+    "row_widths_consistent": true,
+    "totals_status": "not_applicable"
+  },
+  "corrections": [],
+  "final_headers_raw": [
+    "",
+    "Coverage",
+    "Deductible",
+    "Treaty Capacity"
+  ],
+  "final_normalized_rows": [
+    [
+      "Layer 1 Per risk",
+      "NGN5mn ultimate net loss any one loss",
+      "NGN5mn ultimate net loss any one loss",
+      "NGN10mn; (Annual Aggregate Limit: NGN25mn)"
+    ],
+    [
+      "Layer 2 Per risk",
+      "NGN40mn ultimate net loss any one loss",
+      "NGN10mn ultimate net loss any one loss",
+      "NGN40mn; (Annual Aggregate Limit: NGN60mn)"
+    ],
+    [
+      "Layer 3",
+      "NGN80mn ultimate net loss any one loss",
+      "NGN50mn ultimate net loss any one loss",
+      "NGN30mn; (Annual Aggregate Limit: NGN100mn)"
+    ]
+  ],
+  "final_rows_raw": [
+    [
+      "Layer 1 Per risk",
+      "NGN5mn ultimate net loss any one loss",
+      "NGN5mn ultimate net loss any one loss",
+      "NGN10mn; (Annual Aggregate Limit: NGN25mn)"
+    ],
+    [
+      "Layer 2 Per risk",
+      "NGN40mn ultimate net loss any one loss",
+      "NGN10mn ultimate net loss any one loss",
+      "NGN40mn; (Annual Aggregate Limit: NGN60mn)"
+    ],
+    [
+      "Layer 3",
+      "NGN80mn ultimate net loss any one loss",
+      "NGN50mn ultimate net loss any one loss",
+      "NGN30mn; (Annual Aggregate Limit: NGN100mn)"
+    ]
+  ],
+  "final_title_raw": "Excess of Loss (XL) Treaty",
+  "issues": [],
+  "source_pages": [
+    37
+  ],
+  "table_complete": true,
+  "table_id": "T28",
+  "verdict": "accepted"
+}

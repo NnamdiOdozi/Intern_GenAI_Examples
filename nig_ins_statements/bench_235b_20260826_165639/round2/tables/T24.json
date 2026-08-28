@@ -1,0 +1,57 @@
+{
+  "cell_flags": [],
+  "concerns": [],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "footnotes_raw": [],
+  "headers_raw": [
+    "Scenario 1:",
+    "NPV",
+    "",
+    "Duration:",
+    "Convexity:"
+  ],
+  "normalized_rows": [
+    [
+      "All Assets",
+      2396820.061,
+      null,
+      2.05,
+      5.79
+    ],
+    [
+      "All Liabilities",
+      744834.892,
+      null,
+      1.48,
+      5.49
+    ]
+  ],
+  "pages_seen": [
+    27
+  ],
+  "rows_raw": [
+    [
+      "All Assets",
+      "2.396.820.061",
+      "",
+      "2,05",
+      "5,79"
+    ],
+    [
+      "All Liabilities",
+      "744.834.892",
+      "",
+      "1,48",
+      "5,49"
+    ]
+  ],
+  "source_pages": [],
+  "table_complete": true,
+  "table_id": "T24",
+  "table_number_raw": "",
+  "title_raw": "Scenario 1: NPV, Duration, Convexity",
+  "units_raw": "Naira (implied by context)",
+  "_header_width": 5,
+  "_row_width": 5
+}

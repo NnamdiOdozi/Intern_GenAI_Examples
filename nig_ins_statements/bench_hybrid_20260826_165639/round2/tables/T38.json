@@ -1,0 +1,63 @@
+{
+  "cell_flags": [],
+  "concerns": [],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "footnotes_raw": [],
+  "headers_raw": [
+    "Coverage",
+    "Deductible",
+    "Treaty Capacity"
+  ],
+  "normalized_rows": [
+    [
+      "Layer 1 Per risk",
+      "NGN5mn ultimate net loss any one loss",
+      "NGN5mn ultimate net loss any one loss",
+      "NGN10mn; (Annual Aggregate Limit: NGN25mn)"
+    ],
+    [
+      "Layer 2 Per risk",
+      "NGN40mn ultimate net loss any one loss",
+      "NGN10mn ultimate net loss any one loss",
+      "NGN40mn; (Annual Aggregate Limit: NGN60mn)"
+    ],
+    [
+      "Layer 3",
+      "NGN80mn ultimate net loss any one loss",
+      "NGN50mn ultimate net loss any one loss",
+      "NGN30mn; (Annual Aggregate Limit: NGN100mn)"
+    ]
+  ],
+  "pages_seen": [
+    37
+  ],
+  "rows_raw": [
+    [
+      "Layer 1 Per risk",
+      "NGN5mn ultimate net loss any one loss",
+      "NGN5mn ultimate net loss any one loss",
+      "NGN10mn; (Annual Aggregate Limit: NGN25mn)"
+    ],
+    [
+      "Layer 2 Per risk",
+      "NGN40mn ultimate net loss any one loss",
+      "NGN10mn ultimate net loss any one loss",
+      "NGN40mn; (Annual Aggregate Limit: NGN60mn)"
+    ],
+    [
+      "Layer 3",
+      "NGN80mn ultimate net loss any one loss",
+      "NGN50mn ultimate net loss any one loss",
+      "NGN30mn; (Annual Aggregate Limit: NGN100mn)"
+    ]
+  ],
+  "source_pages": [],
+  "table_complete": true,
+  "table_id": "T38",
+  "table_number_raw": "",
+  "title_raw": "A summary of the overall one-layer XL cover is set out below:",
+  "units_raw": "NGNmn (Nigerian Naira million)",
+  "_header_width": 3,
+  "_row_width": 4
+}

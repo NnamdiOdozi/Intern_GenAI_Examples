@@ -1,0 +1,285 @@
+{
+  "cell_flags": [
+    {
+      "candidate_readings": [
+        "General Accident",
+        "119.088",
+        "114.540",
+        "172.171",
+        "50%",
+        "Deterioration"
+      ],
+      "column_index": 0,
+      "confidence": "high",
+      "inferred_value": null,
+      "normalized_value": "General Accident",
+      "printed_value": "General Accident",
+      "reason": "Clear text",
+      "row_index": 0,
+      "source_pdf_page": 20,
+      "status": "printed"
+    },
+    {
+      "candidate_readings": [
+        "119.088"
+      ],
+      "column_index": 1,
+      "confidence": "high",
+      "inferred_value": null,
+      "normalized_value": 119.088,
+      "printed_value": "119.088",
+      "reason": "Clear number",
+      "row_index": 0,
+      "source_pdf_page": 20,
+      "status": "printed"
+    },
+    {
+      "candidate_readings": [
+        "114.540"
+      ],
+      "column_index": 2,
+      "confidence": "high",
+      "inferred_value": null,
+      "normalized_value": 114.54,
+      "printed_value": "114.540",
+      "reason": "Clear number",
+      "row_index": 0,
+      "source_pdf_page": 20,
+      "status": "printed"
+    },
+    {
+      "candidate_readings": [
+        "172.171"
+      ],
+      "column_index": 3,
+      "confidence": "high",
+      "inferred_value": null,
+      "normalized_value": 172.171,
+      "printed_value": "172.171",
+      "reason": "Clear number",
+      "row_index": 0,
+      "source_pdf_page": 20,
+      "status": "printed"
+    },
+    {
+      "candidate_readings": [
+        "50%"
+      ],
+      "column_index": 4,
+      "confidence": "high",
+      "inferred_value": null,
+      "normalized_value": "50%",
+      "printed_value": "50%",
+      "reason": "Clear percentage",
+      "row_index": 0,
+      "source_pdf_page": 20,
+      "status": "printed"
+    },
+    {
+      "candidate_readings": [
+        "Deterioration"
+      ],
+      "column_index": 5,
+      "confidence": "high",
+      "inferred_value": null,
+      "normalized_value": "Deterioration",
+      "printed_value": "Deterioration",
+      "reason": "Clear text",
+      "row_index": 0,
+      "source_pdf_page": 20,
+      "status": "printed"
+    }
+  ],
+  "concerns": [],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "footnotes_raw": [],
+  "headers_raw": [
+    "NGN'000",
+    "2021",
+    "2022",
+    "2023",
+    "Percentage change",
+    "Change in total incurred claims."
+  ],
+  "normalized_rows": [
+    [
+      "General Accident",
+      119.088,
+      114.54,
+      172.171,
+      "50%",
+      "Deterioration"
+    ],
+    [
+      "Motor",
+      87.593,
+      37.811,
+      99.856,
+      "164%",
+      "Deterioration"
+    ],
+    [
+      "Marine",
+      24.049,
+      96.23,
+      14.699,
+      "-85%",
+      "Improvement"
+    ],
+    [
+      "Engineering",
+      18.477,
+      12.02,
+      111.445,
+      "827%",
+      "Deterioration"
+    ],
+    [
+      "Bond",
+      11.038,
+      4.423,
+      16.295,
+      "268%",
+      "Deterioration"
+    ],
+    [
+      "Fire",
+      185.678,
+      58.22,
+      173.315,
+      "198%",
+      "Deterioration"
+    ],
+    [
+      "Oil & Gas",
+      17.683,
+      15.608,
+      18.11,
+      "16%",
+      "Deterioration"
+    ],
+    [
+      "Agriculture",
+      6.363,
+      21.529,
+      46.456,
+      "116%",
+      "Deterioration"
+    ],
+    [
+      "Aviation",
+      0,
+      59,
+      56,
+      null,
+      "Deterioration"
+    ],
+    [
+      "Total Outstanding Claims",
+      469.968,
+      360.44,
+      652.403,
+      "81%",
+      "Deterioration"
+    ]
+  ],
+  "pages_seen": [
+    20
+  ],
+  "rows_raw": [
+    [
+      "General Accident",
+      "119.088",
+      "114.540",
+      "172.171",
+      "50%",
+      "Deterioration"
+    ],
+    [
+      "Motor",
+      "87.593",
+      "37.811",
+      "99.856",
+      "164%",
+      "Deterioration"
+    ],
+    [
+      "Marine",
+      "24.049",
+      "96.230",
+      "14.699",
+      "-85%",
+      "Improvement"
+    ],
+    [
+      "Engineering",
+      "18.477",
+      "12.020",
+      "111.445",
+      "827%",
+      "Deterioration"
+    ],
+    [
+      "Bond",
+      "11.038",
+      "4.423",
+      "16.295",
+      "268%",
+      "Deterioration"
+    ],
+    [
+      "Fire",
+      "185.678",
+      "58.220",
+      "173.315",
+      "198%",
+      "Deterioration"
+    ],
+    [
+      "Oil & Gas",
+      "17.683",
+      "15.608",
+      "18.110",
+      "16%",
+      "Deterioration"
+    ],
+    [
+      "Agriculture",
+      "6.363",
+      "21.529",
+      "46.456",
+      "116%",
+      "Deterioration"
+    ],
+    [
+      "Aviation",
+      "0",
+      "59",
+      "56",
+      "",
+      "Deterioration"
+    ],
+    [
+      "Total Outstanding Claims",
+      "469.968",
+      "360.440",
+      "652.403",
+      "81%",
+      "Deterioration"
+    ]
+  ],
+  "source_pages": [
+    {
+      "pdf_page": 20,
+      "printed_page": "19"
+    }
+  ],
+  "table_complete": true,
+  "table_id": "T15",
+  "table_number_raw": "Table 10",
+  "title_raw": "Table 10: Accident Year 2023 as reported",
+  "units_raw": "NGN'000",
+  "_header_width": 6,
+  "_row_width": 6
+}

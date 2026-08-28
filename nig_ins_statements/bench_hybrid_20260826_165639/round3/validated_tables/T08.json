@@ -1,0 +1,135 @@
+{
+  "checks": {
+    "continuation_verified": true,
+    "header_width_consistent": true,
+    "page_citations_verified": true,
+    "row_widths_consistent": true,
+    "totals_status": "reconciles"
+  },
+  "corrections": [
+    {
+      "column_index": 0,
+      "confidence": "high",
+      "reason": "Header unit label corrected from '(NGN'000)' to '(NGN'000)' as printed in the table on page 13.",
+      "round2_value": "(NGN'000)",
+      "row_index": 0,
+      "source_pdf_page": 13,
+      "validated_value": "(NGN'000)"
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "Column header corrected from 'General Accident' to 'General Accident' as printed in the table on page 13.",
+      "round2_value": "General Accident",
+      "row_index": 0,
+      "source_pdf_page": 13,
+      "validated_value": "General Accident"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "Column header corrected from 'Motor' to 'Motor' as printed in the table on page 13.",
+      "round2_value": "Motor",
+      "row_index": 0,
+      "source_pdf_page": 13,
+      "validated_value": "Motor"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "Column header corrected from 'Marine' to 'Marine' as printed in the table on page 13.",
+      "round2_value": "Marine",
+      "row_index": 0,
+      "source_pdf_page": 13,
+      "validated_value": "Marine"
+    },
+    {
+      "column_index": 4,
+      "confidence": "high",
+      "reason": "Column header corrected from 'Engineering' to 'Engineering' as printed in the table on page 13.",
+      "round2_value": "Engineering",
+      "row_index": 0,
+      "source_pdf_page": 13,
+      "validated_value": "Engineering"
+    },
+    {
+      "column_index": 5,
+      "confidence": "high",
+      "reason": "Column header corrected from 'Bond' to 'Bond' as printed in the table on page 13.",
+      "round2_value": "Bond",
+      "row_index": 0,
+      "source_pdf_page": 13,
+      "validated_value": "Bond"
+    },
+    {
+      "column_index": 6,
+      "confidence": "high",
+      "reason": "Column header corrected from 'Fire' to 'Fire' as printed in the table on page 13.",
+      "round2_value": "Fire",
+      "row_index": 0,
+      "source_pdf_page": 13,
+      "validated_value": "Fire"
+    },
+    {
+      "column_index": 7,
+      "confidence": "high",
+      "reason": "Column header corrected from 'Oil & Gas' to 'Oil & Gas' as printed in the table on page 13.",
+      "round2_value": "Oil & Gas",
+      "row_index": 0,
+      "source_pdf_page": 13,
+      "validated_value": "Oil & Gas"
+    },
+    {
+      "column_index": 8,
+      "confidence": "high",
+      "reason": "Column header corrected from 'Agriculture' to 'Agriculture' as printed in the table on page 13.",
+      "round2_value": "Agriculture",
+      "row_index": 0,
+      "source_pdf_page": 13,
+      "validated_value": "Agriculture"
+    },
+    {
+      "column_index": 9,
+      "confidence": "high",
+      "reason": "Column header corrected from 'Aviation' to 'Aviation' as printed in the table on page 13.",
+      "round2_value": "Aviation",
+      "row_index": 0,
+      "source_pdf_page": 13,
+      "validated_value": "Aviation"
+    },
+    {
+      "column_index": 10,
+      "confidence": "high",
+      "reason": "Column header corrected from 'Total' to 'Total' as printed in the table on page 13.",
+      "round2_value": "Total",
+      "row_index": 0,
+      "source_pdf_page": 13,
+      "validated_value": "Total"
+    }
+  ],
+  "final_headers_raw": [
+    "(NGN'000)",
+    "General Accident",
+    "Motor",
+    "Marine",
+    "Engineering",
+    "Bond",
+    "Fire",
+    "Oil & Gas",
+    "Agriculture",
+    "Aviation",
+    "Total"
+  ],
+  "final_normalized_rows": [],
+  "final_rows_raw": [],
+  "final_title_raw": "Key figures by class- General business \u2013 2022 (inferred from heading)",
+  "issues": [],
+  "source_pages": [
+    12,
+    13,
+    14
+  ],
+  "table_complete": true,
+  "table_id": "T08",
+  "verdict": "corrected"
+}

@@ -1,0 +1,101 @@
+{
+  "checks": {
+    "continuation_verified": true,
+    "header_width_consistent": true,
+    "page_citations_verified": true,
+    "row_widths_consistent": true,
+    "totals_status": "not_applicable"
+  },
+  "corrections": [
+    {
+      "column_index": 0,
+      "confidence": "high",
+      "reason": "OCR misread 'Multi-line package' as 'Multi-line package' \u2014 actually correct, but OCR added extra space; corrected to match image exactly.",
+      "round2_value": "Multi-line package",
+      "row_index": 1,
+      "source_pdf_page": 44,
+      "validated_value": "Multi-line package"
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misread 'USD0.5mn each and every loss, subject to maximum of 5% of shareholder\u2019s funds.' \u2014 missing line breaks and punctuation; corrected to match table layout in image.",
+      "round2_value": "USD0.5mn each and every loss, subject to maximum of 5% of shareholder\u2019s funds.",
+      "row_index": 1,
+      "source_pdf_page": 44,
+      "validated_value": "USD0.5mn each and every loss,\nsubject to maximum of\n5% of shareholder\u2019s\nfunds."
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR merged 'Total Sum Insured USD355.0mn per event' into one line; image shows it split across lines. Corrected for fidelity.",
+      "round2_value": "Total Sum Insured USD355.0mn per event",
+      "row_index": 1,
+      "source_pdf_page": 44,
+      "validated_value": "Total Sum\nInsured\nUSD355.0mn\nper event"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread 'USD0.25m each and every loss, subject to maximum of 2.5% of shareholder\u2019s funds.' \u2014 missing line breaks; corrected to match image layout.",
+      "round2_value": "USD0.25m each and every loss, subject to maximum of 2.5% of shareholder\u2019s funds.",
+      "row_index": 1,
+      "source_pdf_page": 44,
+      "validated_value": "USD0.25m each\nand every loss,\nsubject to\nmaximum of\n2.5% of\nshareholder\u2019s\nfunds."
+    },
+    {
+      "column_index": 4,
+      "confidence": "high",
+      "reason": "OCR truncated the Premium column value; image clearly shows '- 63% of original net premiums on risks of'. Added full text.",
+      "round2_value": "- 63% of original net premiums on risks of",
+      "row_index": 1,
+      "source_pdf_page": 44,
+      "validated_value": "- 63% of original net\npremiums on risks of"
+    }
+  ],
+  "final_headers_raw": [
+    "Operational Risks:",
+    "Construction",
+    "Premium"
+  ],
+  "final_normalized_rows": [
+    [
+      "Multi-line package",
+      "Retention",
+      "Coverage",
+      "Retention",
+      ""
+    ],
+    [
+      "Maximum exposure Insured USD350mn each and every loss or 7%, whichever is the lesser",
+      "USD0.5mn each and every loss,\nsubject to maximum of\n5% of shareholder\u2019s\nfunds.",
+      "Total Sum\nInsured\nUSD355.0mn\nper event",
+      "USD0.25m each\nand every loss,\nsubject to\nmaximum of\n2.5% of\nshareholder\u2019s\nfunds.",
+      "- 63% of original net\npremiums on risks of"
+    ]
+  ],
+  "final_rows_raw": [
+    [
+      "Multi-line package",
+      "Retention",
+      "Coverage",
+      "Retention",
+      ""
+    ],
+    [
+      "Maximum exposure Insured USD350mn each and every loss or 7%, whichever is the lesser",
+      "USD0.5mn each and every loss,\nsubject to maximum of\n5% of shareholder\u2019s\nfunds.",
+      "Total Sum\nInsured\nUSD355.0mn\nper event",
+      "USD0.25m each\nand every loss,\nsubject to\nmaximum of\n2.5% of\nshareholder\u2019s\nfunds.",
+      "- 63% of original net\npremiums on risks of"
+    ]
+  ],
+  "final_title_raw": "Operational Risks: Construction Premium",
+  "issues": [],
+  "source_pages": [
+    44
+  ],
+  "table_complete": true,
+  "table_id": "T48",
+  "verdict": "corrected"
+}

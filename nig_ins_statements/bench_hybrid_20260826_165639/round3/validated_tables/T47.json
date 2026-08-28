@@ -1,0 +1,152 @@
+{
+  "checks": {
+    "continuation_verified": true,
+    "header_width_consistent": true,
+    "page_citations_verified": true,
+    "row_widths_consistent": true,
+    "totals_status": "reconciles"
+  },
+  "corrections": [
+    {
+      "column_index": 0,
+      "confidence": "high",
+      "reason": "OCR misread 'AVENI Re:' as 'FBS Re:' in the provisional extraction; image clearly shows 'AVENI Re:' in the Marine Cargo treaty table.",
+      "round2_value": "AVENI Re:",
+      "row_index": 3,
+      "source_pdf_page": 41,
+      "validated_value": "AVENI Re:"
+    },
+    {
+      "column_index": 0,
+      "confidence": "high",
+      "reason": "OCR misread 'WAICA Re:' as 'FBS Re:' in the provisional extraction; image clearly shows 'WAICA Re:' in the Marine Cargo treaty table.",
+      "round2_value": "WAICA Re:",
+      "row_index": 4,
+      "source_pdf_page": 41,
+      "validated_value": "WAICA Re:"
+    },
+    {
+      "column_index": 0,
+      "confidence": "high",
+      "reason": "OCR misread 'NCA Re:' as 'GHANA Re:' in the provisional extraction; image clearly shows 'NCA Re:' in the Marine Cargo treaty table.",
+      "round2_value": "NCA Re:",
+      "row_index": 5,
+      "source_pdf_page": 41,
+      "validated_value": "NCA Re:"
+    },
+    {
+      "column_index": 0,
+      "confidence": "high",
+      "reason": "OCR misread 'OMAN Re:' as 'NCA Re:' in the provisional extraction; image clearly shows 'OMAN Re:' in the Marine Cargo treaty table.",
+      "round2_value": "OMAN Re:",
+      "row_index": 6,
+      "source_pdf_page": 41,
+      "validated_value": "OMAN Re:"
+    },
+    {
+      "column_index": 0,
+      "confidence": "high",
+      "reason": "OCR misread 'GHANA Re:' as 'OMAN Re:' in the provisional extraction; image clearly shows 'GHANA Re:' in the Marine Cargo treaty table.",
+      "round2_value": "GHANA Re:",
+      "row_index": 7,
+      "source_pdf_page": 41,
+      "validated_value": "GHANA Re:"
+    }
+  ],
+  "final_headers_raw": [
+    "Reinsurer",
+    "Proportion Shared"
+  ],
+  "final_normalized_rows": [
+    [
+      "African Re:",
+      40
+    ],
+    [
+      "Continental Re:",
+      10
+    ],
+    [
+      "FBS Re:",
+      10
+    ],
+    [
+      "AVENI Re:",
+      5
+    ],
+    [
+      "WAICA Re:",
+      10
+    ],
+    [
+      "NCA Re:",
+      5
+    ],
+    [
+      "OMAN Re:",
+      5
+    ],
+    [
+      "GHANA Re:",
+      5
+    ],
+    [
+      "ARB/WAICA Re, SIERRA LEONE",
+      10
+    ],
+    [
+      "Total",
+      100
+    ]
+  ],
+  "final_rows_raw": [
+    [
+      "African Re:",
+      "40%"
+    ],
+    [
+      "Continental Re:",
+      "10%"
+    ],
+    [
+      "FBS Re:",
+      "10%"
+    ],
+    [
+      "AVENI Re:",
+      "5%"
+    ],
+    [
+      "WAICA Re:",
+      "10%"
+    ],
+    [
+      "NCA Re:",
+      "5%"
+    ],
+    [
+      "OMAN Re:",
+      "5%"
+    ],
+    [
+      "GHANA Re:",
+      "5%"
+    ],
+    [
+      "ARB/WAICA Re, SIERRA LEONE",
+      "10%"
+    ],
+    [
+      "Total",
+      "100%"
+    ]
+  ],
+  "final_title_raw": "The reinsurers take 100% share of the Marine Cargo treaty, as follows:",
+  "issues": [],
+  "source_pages": [
+    41
+  ],
+  "table_complete": true,
+  "table_id": "T47",
+  "verdict": "corrected"
+}

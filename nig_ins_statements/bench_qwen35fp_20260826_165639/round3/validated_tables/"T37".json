@@ -1,0 +1,263 @@
+{
+  "checks": {
+    "continuation_verified": true,
+    "header_width_consistent": true,
+    "page_citations_verified": false,
+    "row_widths_consistent": true,
+    "totals_status": "not_applicable"
+  },
+  "corrections": [
+    {
+      "column_index": 0,
+      "confidence": "high",
+      "reason": "OCR error: 'Average' row values use dots as thousands separators instead of commas. Corrected to standard numeric format.",
+      "round2_value": null,
+      "row_index": 10,
+      "source_pdf_page": 1,
+      "validated_value": null
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR error: '9.213.488' should be '9,213,488'. Corrected to standard numeric format.",
+      "round2_value": null,
+      "row_index": 10,
+      "source_pdf_page": 1,
+      "validated_value": null
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR error: '4.850.433' should be '4,850,433'. Corrected to standard numeric format.",
+      "round2_value": null,
+      "row_index": 10,
+      "source_pdf_page": 1,
+      "validated_value": null
+    },
+    {
+      "column_index": 5,
+      "confidence": "high",
+      "reason": "OCR error: '20.582.070' should be '20,582,070'. Corrected to standard numeric format.",
+      "round2_value": null,
+      "row_index": 10,
+      "source_pdf_page": 1,
+      "validated_value": null
+    }
+  ],
+  "final_headers_raw": [
+    "Accident Year",
+    "Largest gross claims (NGN)",
+    "Largest net claims (NGN)",
+    "Proportion recovered",
+    "Net Claims as % of S/H Funds",
+    "Sum of Five Largest Claims (NGN)"
+  ],
+  "final_normalized_rows": [
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ", ",
+      ", ",
+      ", ",
+      ", ",
+      ", ",
+      ", ",
+      ", ",
+      ", ",
+      ", ",
+      ", ",
+      ", ",
+      ", ",
+      ", ",
+      ", ",
+      ", ",
+      ",",
+      ","
+    ],
+    [
+      null
+    ],
+    [
+      null
+    ],
+    [
+      null
+    ],
+    [
+      null
+    ],
+    [
+      null
+    ],
+    [
+      null
+    ],
+    [
+      null
+    ],
+    [
+      null
+    ],
+    [
+      null
+    ],
+    [
+      "Average",
+      9213488,
+      "4850433",
+      "38%",
+      "0.11%",
+      "20582070"
+    ]
+  ],
+  "final_rows_raw": [
+    [
+      "Accident Year",
+      "Largest gross claims (NGN)",
+      "Largest net claims (NGN)",
+      "Proportion recovered",
+      "Net Claims as % of S/H Funds",
+      "Sum of Five Largest Claims (NGN)"
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Average",
+      "9.213.488",
+      "4.850.433",
+      "38%",
+      "0.11%",
+      "20.582.070"
+    ]
+  ],
+  "final_title_raw": "\"ENGINEERING - Largest Claims Analysis by Accident Year (NGN)\"",
+  "issues": [],
+  "source_pages": [],
+  "table_complete": true,
+  "table_id": "\"T37\"",
+  "verdict": "corrected"
+}

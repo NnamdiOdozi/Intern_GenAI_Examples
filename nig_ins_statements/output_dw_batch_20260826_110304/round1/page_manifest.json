@@ -1,0 +1,2016 @@
+{
+  "expected_pages": 52,
+  "accepted": 52,
+  "missing": [],
+  "pages": [
+    {
+      "document_id": "sterling_fcr_2023",
+      "page_complete": true,
+      "page_legibility": "good",
+      "page_seen": true,
+      "page_status": "no_table",
+      "pdf_page": 1,
+      "printed_page": null,
+      "tables": []
+    },
+    {
+      "document_id": "sterling_fcr_2023",
+      "page_complete": true,
+      "page_legibility": "good",
+      "page_seen": true,
+      "page_status": "no_table",
+      "pdf_page": 2,
+      "printed_page": "1",
+      "tables": []
+    },
+    {
+      "document_id": "sterling_fcr_2023",
+      "page_complete": true,
+      "page_legibility": "good",
+      "page_seen": true,
+      "page_status": "table_detected",
+      "pdf_page": 3,
+      "printed_page": "2",
+      "tables": [
+        {
+          "appearance_id": "",
+          "complexity": "high",
+          "concerns": [
+            {
+              "category": "layout_ambiguity",
+              "confidence": "medium",
+              "location": "header",
+              "observation": "The table title 'Table 1: Non-life Life insurance contract liabilities and net asset value' is ambiguous as it refers to 'Life insurance' while the report is for 'Non-life insurance'."
+            },
+            {
+              "category": "continuation_uncertainty",
+              "confidence": "medium",
+              "location": "header",
+              "observation": "The table is labeled as 'Table 1' and appears to be a continuation of a table from the previous page, as the 'Key Features' section is at the top of the page."
+            },
+            {
+              "category": "continuation_uncertainty",
+              "confidence": "medium",
+              "location": "footer",
+              "observation": "The table appears to continue to the next page, as the 'Conclusions' section starts immediately after the table."
+            }
+          ],
+          "continues_from_previous": true,
+          "continues_to_next": true,
+          "possible_repeat_of": "Table 1",
+          "table_number_raw": "Table 1",
+          "title_raw": "Table 1: Non-life Life insurance contract liabilities and net asset value",
+          "units_raw": "In NGN'000",
+          "visible_column_count": 4,
+          "visible_row_count": 20
+        }
+      ]
+    },
+    {
+      "document_id": "sterling_fcr_2023",
+      "page_complete": true,
+      "page_legibility": "good",
+      "page_seen": true,
+      "page_status": "no_table",
+      "pdf_page": 4,
+      "printed_page": null,
+      "tables": []
+    },
+    {
+      "document_id": "sterling_fcr_2023",
+      "page_complete": true,
+      "page_legibility": "good",
+      "page_seen": true,
+      "page_status": "no_table",
+      "pdf_page": 5,
+      "printed_page": null,
+      "tables": []
+    },
+    {
+      "document_id": "sterling_fcr_2023",
+      "page_complete": true,
+      "page_legibility": "good",
+      "page_seen": true,
+      "page_status": "no_table",
+      "pdf_page": 6,
+      "printed_page": "5",
+      "tables": []
+    },
+    {
+      "document_id": "sterling_fcr_2023",
+      "page_complete": true,
+      "page_legibility": "good",
+      "page_seen": true,
+      "page_status": "no_table",
+      "pdf_page": 7,
+      "printed_page": "6",
+      "tables": []
+    },
+    {
+      "document_id": "sterling_fcr_2023",
+      "page_complete": true,
+      "page_legibility": "good",
+      "page_seen": true,
+      "page_status": "table_detected",
+      "pdf_page": 8,
+      "printed_page": null,
+      "tables": [
+        {
+          "appearance_id": "",
+          "complexity": "high",
+          "concerns": [
+            {
+              "category": "layout_ambiguity",
+              "confidence": "medium",
+              "location": "top of the page",
+              "observation": "The header contains a logo and multiple lines of text, which may be misinterpreted as part of a table."
+            },
+            {
+              "category": "ocr_uncertainty",
+              "confidence": "low",
+              "location": "bottom right corner",
+              "observation": "The number '7' at the bottom center is likely the page number, but it's not clearly separated from the table below."
+            }
+          ],
+          "continues_from_previous": false,
+          "continues_to_next": false,
+          "possible_repeat_of": null,
+          "table_number_raw": "Table 2",
+          "title_raw": "Trend of Key Non-life written Business Statistics\nGeneral Insurance business - direct",
+          "units_raw": "Number of policies written\nGross written premiums (NGN'000)",
+          "visible_column_count": 5,
+          "visible_row_count": 19
+        }
+      ]
+    },
+    {
+      "document_id": "sterling_fcr_2023",
+      "page_complete": true,
+      "page_legibility": "good",
+      "page_seen": true,
+      "page_status": "table_detected",
+      "pdf_page": 9,
+      "printed_page": "",
+      "tables": [
+        {
+          "appearance_id": "",
+          "complexity": "medium",
+          "concerns": [
+            {
+              "category": "layout_ambiguity",
+              "confidence": "medium",
+              "location": "table header",
+              "observation": "The table title 'Average Premium (NGN'000)' is partially cut off at the top edge of the page."
+            },
+            {
+              "category": "continuation_uncertainty",
+              "confidence": "medium",
+              "location": "table footer",
+              "observation": "The table appears to end at the bottom of the page, but the 'Source' note is below the table, which is unusual. The table may have continued from the previous page or the source note may be a continuation of a previous section."
+            }
+          ],
+          "continues_from_previous": false,
+          "continues_to_next": false,
+          "possible_repeat_of": null,
+          "table_number_raw": "Average Premium (NGN'000)",
+          "title_raw": "Average Premium (NGN'000)",
+          "units_raw": "NGN'000",
+          "visible_column_count": 4,
+          "visible_row_count": 11
+        }
+      ]
+    },
+    {
+      "document_id": "sterling_fcr_2023",
+      "page_complete": false,
+      "page_legibility": "good",
+      "page_seen": true,
+      "page_status": "no_table",
+      "pdf_page": 10,
+      "printed_page": null,
+      "tables": []
+    },
+    {
+      "document_id": "sterling_fcr_2023",
+      "page_complete": true,
+      "page_legibility": "good",
+      "page_seen": true,
+      "page_status": "table_detected",
+      "pdf_page": 11,
+      "printed_page": "10",
+      "tables": [
+        {
+          "appearance_id": "Table 3",
+          "complexity": "low",
+          "concerns": [
+            {
+              "category": "layout_ambiguity",
+              "confidence": "medium",
+              "location": "top of table",
+              "observation": "The text 'The table below shows the revenue generated by Sterling in the last four years' is positioned directly above the table, but there are no visible columns or rows for the years 2020-2023. The table header only shows 2021, 2022, and 2023."
+            }
+          ],
+          "continues_from_previous": false,
+          "continues_to_next": false,
+          "possible_repeat_of": null,
+          "table_number_raw": "Table 3",
+          "title_raw": "General business revenue account",
+          "units_raw": "NGN'000",
+          "visible_column_count": 4,
+          "visible_row_count": 2
+        }
+      ]
+    },
+    {
+      "document_id": "sterling_fcr_2023",
+      "page_complete": true,
+      "page_legibility": "good",
+      "page_seen": true,
+      "page_status": "table_detected",
+      "pdf_page": 12,
+      "printed_page": null,
+      "tables": [
+        {
+          "appearance_id": "",
+          "complexity": "high",
+          "concerns": [
+            {
+              "category": "layout_ambiguity",
+              "confidence": "medium",
+              "location": "header",
+              "observation": "The table header spans multiple lines with a complex structure, including a main title and sub-headers that are not clearly delineated."
+            },
+            {
+              "category": "continuation_uncertainty",
+              "confidence": "low",
+              "location": "top",
+              "observation": "The table appears to start mid-page, but there is no clear indication of whether it continues from the previous page or if this is the first page of the table."
+            }
+          ],
+          "continues_from_previous": false,
+          "continues_to_next": false,
+          "possible_repeat_of": null,
+          "table_number_raw": "Table 5.3",
+          "title_raw": "Net Insurance Revenue",
+          "units_raw": "NGN (in millions)",
+          "visible_column_count": 4,
+          "visible_row_count": 28
+        }
+      ]
+    },
+    {
+      "document_id": "sterling_fcr_2023",
+      "page_complete": true,
+      "page_legibility": "good",
+      "page_seen": true,
+      "page_status": "table_detected",
+      "pdf_page": 13,
+      "printed_page": null,
+      "tables": [
+        {
+          "appearance_id": "",
+          "complexity": "high",
+          "concerns": [
+            {
+              "category": "layout_ambiguity",
+              "confidence": "medium",
+              "location": "top of the page",
+              "observation": "The page contains a header with a logo, company name, and contact details, which is not part of the table structure."
+            },
+            {
+              "category": "continuation_uncertainty",
+              "confidence": "high",
+              "location": "bottom of the page",
+              "observation": "The table is clearly marked as 'Table 3a - Key figures by class - General business - 2022', but the data presented above it is for 2023. This suggests the table is a repeat or alternate version of a table that appears earlier in the document, or there is a typo in the table title."
+            },
+            {
+              "category": "continuation_uncertainty",
+              "confidence": "high",
+              "location": "bottom of the page",
+              "observation": "The table is labeled as 'Table 3a' and is followed by a title '3a Table b: Key figures by class- General business - 2022', which is a different table. This suggests the table is not continued on this page, but the layout is confusing."
+            }
+          ],
+          "continues_from_previous": false,
+          "continues_to_next": false,
+          "possible_repeat_of": "Table 3a - Key figures by class - General business - 2023",
+          "table_number_raw": "Table 3a",
+          "title_raw": "Table 3a : - Key figures by class- General business - 2023",
+          "units_raw": "NGN'000",
+          "visible_column_count": 8,
+          "visible_row_count": 6
+        },
+        {
+          "appearance_id": "",
+          "complexity": "high",
+          "concerns": [
+            {
+              "category": "continuation_uncertainty",
+              "confidence": "high",
+              "location": "bottom of the page",
+              "observation": "The table is labeled as 'Table 3a' and is followed by a title '3a Table b: Key figures by class- General business - 2022', which is a different table. This suggests the table is not continued on this page, but the layout is confusing."
+            },
+            {
+              "category": "layout_ambiguity",
+              "confidence": "medium",
+              "location": "bottom of the page",
+              "observation": "The table is labeled as 'Table 3a' and is followed by a title '3a Table b: Key figures by class- General business - 2022', which is a different table. This suggests the table is not continued on this page, but the layout is confusing."
+            }
+          ],
+          "continues_from_previous": false,
+          "continues_to_next": false,
+          "possible_repeat_of": "Table 3a - Key figures by class - General business - 2022",
+          "table_number_raw": "Table 3a",
+          "title_raw": "Table 3a : - Key figures by class- General business - 2022",
+          "units_raw": "NGN'000",
+          "visible_column_count": 8,
+          "visible_row_count": 6
+        }
+      ]
+    },
+    {
+      "document_id": "sterling_fcr_2023",
+      "page_complete": true,
+      "page_legibility": "good",
+      "page_seen": true,
+      "page_status": "table_detected",
+      "pdf_page": 14,
+      "printed_page": "13",
+      "tables": [
+        {
+          "appearance_id": "table_1",
+          "complexity": "medium",
+          "concerns": [
+            {
+              "category": "continuation_uncertainty",
+              "confidence": "high",
+              "location": "header",
+              "observation": "Table 4b title references 2021, but table body is labeled Table 3b for 2023 \u2014 likely a mislabeling or continuation from prior page."
+            },
+            {
+              "category": "layout_ambiguity",
+              "confidence": "medium",
+              "location": "header",
+              "observation": "Two tables appear stacked: one unlabeled above Table 4b and another labeled Table 3b below it. Relationship unclear."
+            }
+          ],
+          "continues_from_previous": false,
+          "continues_to_next": false,
+          "possible_repeat_of": null,
+          "table_number_raw": "Table 3b",
+          "title_raw": "Key figures by class- General business - 2023",
+          "units_raw": "(NGN'000)",
+          "visible_column_count": 11,
+          "visible_row_count": 5
+        }
+      ]
+    },
+    {
+      "document_id": "sterling_fcr_2023",
+      "page_complete": true,
+      "page_legibility": "good",
+      "page_seen": true,
+      "page_status": "table_detected",
+      "pdf_page": 15,
+      "printed_page": "14",
+      "tables": [
+        {
+          "appearance_id": "Table 5",
+          "complexity": "high",
+          "concerns": [
+            {
+              "category": "layout_ambiguity",
+              "confidence": "medium",
+              "location": "header row",
+              "observation": "The header row has multiple sub-headers (e.g., 'Average', 'Maximum') that span across columns, making it ambiguous whether the data is per column or per sub-column."
+            },
+            {
+              "category": "continuation_uncertainty",
+              "confidence": "low",
+              "location": "bottom of table",
+              "observation": "The table ends at the bottom of the page. There is no visual indicator (like a continuation note) to confirm if this is the end of the table or if it continues on the next page."
+            }
+          ],
+          "continues_from_previous": false,
+          "continues_to_next": false,
+          "possible_repeat_of": null,
+          "table_number_raw": "Table 5",
+          "title_raw": "Proportion of ultimate claims paid as at 31 December 2023",
+          "units_raw": "NGN'000 and days/years",
+          "visible_column_count": 8,
+          "visible_row_count": 12
+        }
+      ]
+    },
+    {
+      "document_id": "sterling_fcr_2023",
+      "page_complete": true,
+      "page_legibility": "good",
+      "page_seen": true,
+      "page_status": "table_detected",
+      "pdf_page": 16,
+      "printed_page": null,
+      "tables": [
+        {
+          "appearance_id": "",
+          "complexity": "high",
+          "concerns": [
+            {
+              "category": "layout_ambiguity",
+              "confidence": "medium",
+              "location": "top of page",
+              "observation": "The table titles are not clearly separated from the header text, making it difficult to determine the exact start and end of the table."
+            },
+            {
+              "category": "continuation_uncertainty",
+              "confidence": "high",
+              "location": "top of page",
+              "observation": "The table appears to be a continuation from the previous page, but there is no clear indication of this in the document."
+            }
+          ],
+          "continues_from_previous": true,
+          "continues_to_next": false,
+          "possible_repeat_of": "Table 6a",
+          "table_number_raw": "Table 6a: Retention by class- General business 2023",
+          "title_raw": "Table 6a: Retention by class- General business 2023",
+          "units_raw": "NGN'000",
+          "visible_column_count": 9,
+          "visible_row_count": 7
+        },
+        {
+          "appearance_id": "",
+          "complexity": "high",
+          "concerns": [
+            {
+              "category": "layout_ambiguity",
+              "confidence": "medium",
+              "location": "middle of page",
+              "observation": "The table title is not clearly separated from the previous table, making it difficult to determine the exact start and end of the table."
+            },
+            {
+              "category": "continuation_uncertainty",
+              "confidence": "high",
+              "location": "middle of page",
+              "observation": "The table appears to be a continuation from the previous page, but there is no clear indication of this in the document."
+            }
+          ],
+          "continues_from_previous": true,
+          "continues_to_next": false,
+          "possible_repeat_of": "Table 6b",
+          "table_number_raw": "Table 6b: Retention by class- General business 2022",
+          "title_raw": "Table 6b: Retention by class- General business 2022",
+          "units_raw": "NGN'000",
+          "visible_column_count": 9,
+          "visible_row_count": 7
+        },
+        {
+          "appearance_id": "",
+          "complexity": "high",
+          "concerns": [
+            {
+              "category": "layout_ambiguity",
+              "confidence": "medium",
+              "location": "middle of page",
+              "observation": "The table title is not clearly separated from the previous table, making it difficult to determine the exact start and end of the table."
+            },
+            {
+              "category": "continuation_uncertainty",
+              "confidence": "high",
+              "location": "middle of page",
+              "observation": "The table appears to be a continuation from the previous page, but there is no clear indication of this in the document."
+            }
+          ],
+          "continues_from_previous": true,
+          "continues_to_next": false,
+          "possible_repeat_of": "Table 6c",
+          "table_number_raw": "Table 6c: Retention by class- General business 2021",
+          "title_raw": "Table 6c: Retention by class- General business 2021",
+          "units_raw": "NGN'000",
+          "visible_column_count": 9,
+          "visible_row_count": 7
+        },
+        {
+          "appearance_id": "",
+          "complexity": "high",
+          "concerns": [
+            {
+              "category": "layout_ambiguity",
+              "confidence": "medium",
+              "location": "bottom of page",
+              "observation": "The table title is not clearly separated from the previous text, making it difficult to determine the exact start and end of the table."
+            },
+            {
+              "category": "continuation_uncertainty",
+              "confidence": "high",
+              "location": "bottom of page",
+              "observation": "The table appears to be a continuation from the previous page, but there is no clear indication of this in the document."
+            }
+          ],
+          "continues_from_previous": true,
+          "continues_to_next": false,
+          "possible_repeat_of": "Table 7",
+          "table_number_raw": "Table 7: General insurance claims paid",
+          "title_raw": "Table 7: General insurance claims paid",
+          "units_raw": "NGN'000",
+          "visible_column_count": 6,
+          "visible_row_count": 2
+        }
+      ]
+    },
+    {
+      "document_id": "sterling_fcr_2023",
+      "page_complete": true,
+      "page_legibility": "good",
+      "page_seen": true,
+      "page_status": "table_detected",
+      "pdf_page": 17,
+      "printed_page": "16",
+      "tables": [
+        {
+          "appearance_id": "",
+          "complexity": "high",
+          "concerns": [
+            {
+              "category": "layout_ambiguity",
+              "confidence": "medium",
+              "location": "top of page",
+              "observation": "The table at the top of the page is a large, multi-column grid with a header row and a footer row. The header row contains the company name, registration number, and contact details. The footer row contains the source and a section of text. The main body of the table is a grid of numbers with row labels (e.g., General Accident, Motor, Marine) and column labels (e.g., 164.197, 141.124, 446.475). The table is not clearly labeled with a title or number, but it is a table of financial data."
+            },
+            {
+              "category": "continuation_uncertainty",
+              "confidence": "high",
+              "location": "top of page",
+              "observation": "The table at the top of the page appears to be a continuation from the previous page, as it is not clearly labeled with a title or number. The table is a grid of numbers with row labels and column labels, and it is not clear if it is a repeat or alternate version of a table appearing elsewhere."
+            },
+            {
+              "category": "ocr_uncertainty",
+              "confidence": "low",
+              "location": "top of page",
+              "observation": "The text in the table is clear and legible, but the numbers are not clearly labeled with units. The table is a grid of numbers with row labels and column labels, and it is not clear if the numbers are in NGN or another currency."
+            }
+          ],
+          "continues_from_previous": true,
+          "continues_to_next": false,
+          "possible_repeat_of": "Table 8",
+          "table_number_raw": "Table 8",
+          "title_raw": "Ultimate Loss Ratio by class of General Insurance Business",
+          "units_raw": "NGN'000",
+          "visible_column_count": 8,
+          "visible_row_count": 10
+        },
+        {
+          "appearance_id": "",
+          "complexity": "high",
+          "concerns": [
+            {
+              "category": "layout_ambiguity",
+              "confidence": "medium",
+              "location": "bottom of page",
+              "observation": "The table at the bottom of the page is a grid of numbers with row labels and column labels. The table is not clearly labeled with a title or number, but it is a table of financial data. The table is a grid of numbers with row labels and column labels, and it is not clear if the numbers are in NGN or another currency."
+            },
+            {
+              "category": "continuation_uncertainty",
+              "confidence": "high",
+              "location": "bottom of page",
+              "observation": "The table at the bottom of the page appears to be a continuation to the next page, as it is not clearly labeled with a title or number. The table is a grid of numbers with row labels and column labels, and it is not clear if it is a repeat or alternate version of a table appearing elsewhere."
+            },
+            {
+              "category": "ocr_uncertainty",
+              "confidence": "low",
+              "location": "bottom of page",
+              "observation": "The text in the table is clear and legible, but the numbers are not clearly labeled with units. The table is a grid of numbers with row labels and column labels, and it is not clear if the numbers are in NGN or another currency."
+            }
+          ],
+          "continues_from_previous": false,
+          "continues_to_next": true,
+          "possible_repeat_of": "Table 8",
+          "table_number_raw": "Table 8",
+          "title_raw": "Gross loss ratio by class of general insurance business: 2023 Accident Year",
+          "units_raw": "NGN'000",
+          "visible_column_count": 8,
+          "visible_row_count": 10
+        }
+      ]
+    },
+    {
+      "document_id": "sterling_fcr_2023",
+      "page_complete": true,
+      "page_legibility": "good",
+      "page_seen": true,
+      "page_status": "table_detected",
+      "pdf_page": 18,
+      "printed_page": null,
+      "tables": [
+        {
+          "appearance_id": "",
+          "complexity": "high",
+          "concerns": [
+            {
+              "category": "layout_ambiguity",
+              "confidence": "medium",
+              "location": "top of page",
+              "observation": "The table at the top of the page is a continuation from the previous page, as indicated by the header row (General Accident, Motor, Aviation, etc.) and the presence of a 'Total business' row. The table is not fully visible on this page, suggesting it continues from page 17."
+            },
+            {
+              "category": "continuation_uncertainty",
+              "confidence": "low",
+              "location": "top of page",
+              "observation": "The table at the top of the page is a continuation from the previous page, as indicated by the header row (General Accident, Motor, Aviation, etc.) and the presence of a 'Total business' row. The table is not fully visible on this page, suggesting it continues from page 17."
+            },
+            {
+              "category": "ocr_uncertainty",
+              "confidence": "low",
+              "location": "top of page",
+              "observation": "The table at the top of the page is a continuation from the previous page, as indicated by the header row (General Accident, Motor, Aviation, etc.) and the presence of a 'Total business' row. The table is not fully visible on this page, suggesting it continues from page 17."
+            }
+          ],
+          "continues_from_previous": true,
+          "continues_to_next": false,
+          "possible_repeat_of": "Table 8",
+          "table_number_raw": "Table 9",
+          "title_raw": "Table 9: Historical Combined ratio in each accident year",
+          "units_raw": "percent",
+          "visible_column_count": 5,
+          "visible_row_count": 10
+        },
+        {
+          "appearance_id": "",
+          "complexity": "high",
+          "concerns": [
+            {
+              "category": "layout_ambiguity",
+              "confidence": "medium",
+              "location": "top of page",
+              "observation": "The table at the top of the page is a continuation from the previous page, as indicated by the header row (General Accident, Motor, Aviation, etc.) and the presence of a 'Total business' row. The table is not fully visible on this page, suggesting it continues from page 17."
+            },
+            {
+              "category": "continuation_uncertainty",
+              "confidence": "low",
+              "location": "top of page",
+              "observation": "The table at the top of the page is a continuation from the previous page, as indicated by the header row (General Accident, Motor, Aviation, etc.) and the presence of a 'Total business' row. The table is not fully visible on this page, suggesting it continues from page 17."
+            },
+            {
+              "category": "ocr_uncertainty",
+              "confidence": "low",
+              "location": "top of page",
+              "observation": "The table at the top of the page is a continuation from the previous page, as indicated by the header row (General Accident, Motor, Aviation, etc.) and the presence of a 'Total business' row. The table is not fully visible on this page, suggesting it continues from page 17."
+            }
+          ],
+          "continues_from_previous": true,
+          "continues_to_next": false,
+          "possible_repeat_of": "Table 8",
+          "table_number_raw": "Table 9",
+          "title_raw": "Table 9: Historical Combined ratio in each accident year",
+          "units_raw": "percent",
+          "visible_column_count": 5,
+          "visible_row_count": 10
+        }
+      ]
+    },
+    {
+      "document_id": "sterling_fcr_2023",
+      "page_complete": true,
+      "page_legibility": "good",
+      "page_seen": true,
+      "page_status": "no_table",
+      "pdf_page": 19,
+      "printed_page": null,
+      "tables": []
+    },
+    {
+      "document_id": "sterling_fcr_2023",
+      "page_complete": true,
+      "page_legibility": "good",
+      "page_seen": true,
+      "page_status": "table_detected",
+      "pdf_page": 20,
+      "printed_page": "19",
+      "tables": [
+        {
+          "appearance_id": "table_1",
+          "complexity": "medium",
+          "concerns": [
+            {
+              "category": "layout_ambiguity",
+              "confidence": "medium",
+              "location": "top-right of table 10",
+              "observation": "The 'Change in total incurred claims' column header is partially obscured by a watermark and appears to be split across two lines, making the full label hard to read."
+            },
+            {
+              "category": "continuation_uncertainty",
+              "confidence": "high",
+              "location": "bottom of table 10",
+              "observation": "Table 10 ends at the bottom of the page. There is no visual indication (like a continuation note or row break) whether it continues on the next page or if this is the final row."
+            }
+          ],
+          "continues_from_previous": false,
+          "continues_to_next": false,
+          "possible_repeat_of": null,
+          "table_number_raw": "Table 10",
+          "title_raw": "Table 10: Accident Year 2023 as reported",
+          "units_raw": "NGN'000",
+          "visible_column_count": 6,
+          "visible_row_count": 14
+        },
+        {
+          "appearance_id": "table_2",
+          "complexity": "low",
+          "concerns": [
+            {
+              "category": "layout_ambiguity",
+              "confidence": "medium",
+              "location": "top-left of table 11",
+              "observation": "The title 'Table 11: Solvency level on Balance sheet basis' is printed directly above the table but is not part of the table structure itself. The table's actual title is 'Table 11: Trend in Solvency cover in each year 2019 to 2023 statements', which is embedded within the table's header."
+            }
+          ],
+          "continues_from_previous": false,
+          "continues_to_next": false,
+          "possible_repeat_of": null,
+          "table_number_raw": "Table 11",
+          "title_raw": "Table 11: Trend in Solvency cover in each year 2019 to 2023 statements",
+          "units_raw": "NGN'000",
+          "visible_column_count": 6,
+          "visible_row_count": 3
+        }
+      ]
+    },
+    {
+      "document_id": "sterling_fcr_2023",
+      "page_complete": true,
+      "page_legibility": "good",
+      "page_seen": true,
+      "page_status": "table_detected",
+      "pdf_page": 21,
+      "printed_page": "20",
+      "tables": [
+        {
+          "appearance_id": "table_1",
+          "complexity": "high",
+          "concerns": [
+            {
+              "category": "layout_ambiguity",
+              "confidence": "medium",
+              "location": "top of page",
+              "observation": "The table title 'Other Admissible Liabilities' is ambiguous; the header row appears to be a list of line items, while the columns appear to represent different years or scenarios. The table lacks a clear column header for the first data column."
+            },
+            {
+              "category": "continuation_uncertainty",
+              "confidence": "medium",
+              "location": "top of page",
+              "observation": "It is unclear if this table continues from the previous page or is a new table. The table spans the top half of the page and is followed by text sections (6.2-6.5)."
+            }
+          ],
+          "continues_from_previous": false,
+          "continues_to_next": false,
+          "possible_repeat_of": null,
+          "table_number_raw": "Table 12: Measures of financial strength",
+          "title_raw": "Table 12: Measures of financial strength",
+          "units_raw": "NGN'000",
+          "visible_column_count": 6,
+          "visible_row_count": 9
+        },
+        {
+          "appearance_id": "table_2",
+          "complexity": "high",
+          "concerns": [
+            {
+              "category": "layout_ambiguity",
+              "confidence": "medium",
+              "location": "bottom of page",
+              "observation": "The table has a title 'Table 12: Measures of financial strength', but it appears to be a repeat of the table above, with the same title and structure. This suggests a potential source issue where the table is duplicated on the page."
+            },
+            {
+              "category": "continuation_uncertainty",
+              "confidence": "low",
+              "location": "bottom of page",
+              "observation": "This table appears to be a continuation of the table above, but it is clearly a separate instance with its own title. It is possible that the table was incorrectly split or repeated."
+            }
+          ],
+          "continues_from_previous": false,
+          "continues_to_next": false,
+          "possible_repeat_of": "table_1",
+          "table_number_raw": "Table 12: Measures of financial strength",
+          "title_raw": "Table 12: Measures of financial strength",
+          "units_raw": "NGN'000",
+          "visible_column_count": 6,
+          "visible_row_count": 9
+        }
+      ]
+    },
+    {
+      "document_id": "sterling_fcr_2023",
+      "page_complete": true,
+      "page_legibility": "good",
+      "page_seen": true,
+      "page_status": "table_detected",
+      "pdf_page": 22,
+      "printed_page": "21",
+      "tables": [
+        {
+          "appearance_id": "Table 6.6",
+          "complexity": "high",
+          "concerns": [
+            {
+              "category": "layout_ambiguity",
+              "confidence": "medium",
+              "location": "header",
+              "observation": "The table header contains a mix of numerical values and labels that are not clearly separated, suggesting potential OCR confusion or formatting issues."
+            },
+            {
+              "category": "continuation_uncertainty",
+              "confidence": "medium",
+              "location": "top",
+              "observation": "The table is labeled as '6.6' and the text below it refers to this table, but there is no clear indication if this is a continuation from the previous page or if it continues to the next."
+            }
+          ],
+          "continues_from_previous": false,
+          "continues_to_next": false,
+          "possible_repeat_of": null,
+          "table_number_raw": "6.6",
+          "title_raw": "The table above shows return on capital deployed may have been stable over the last 3 recent years remaining around average of 10% after falling to a negative of 176% in 2020. A reduction in return on capital would be expected to cause some corresponding effect on the company's retained earnings. However, the cover provided by the shareholders fund on the company's net premiums as a measure of financial strength show some protection for policyholders with a ratio of around 2.07 multiple in 2022 and 1.44 multiple in 2023.",
+          "units_raw": "Percentages and currency (NGN)",
+          "visible_column_count": 6,
+          "visible_row_count": 15
+        },
+        {
+          "appearance_id": "Table 6.7",
+          "complexity": "low",
+          "concerns": [
+            {
+              "category": "continuation_uncertainty",
+              "confidence": "medium",
+              "location": "bottom",
+              "observation": "The section begins with '6.7' and describes data for 2019-2023, but the actual table of data is not present on this page. The table appears to be missing or located on the next page."
+            }
+          ],
+          "continues_from_previous": false,
+          "continues_to_next": true,
+          "possible_repeat_of": null,
+          "table_number_raw": "6.7",
+          "title_raw": "Recent history of non-Life insurance contract liabilities",
+          "units_raw": "Currency (NGN)",
+          "visible_column_count": 0,
+          "visible_row_count": 0
+        }
+      ]
+    },
+    {
+      "document_id": "sterling_fcr_2023",
+      "page_complete": true,
+      "page_legibility": "good",
+      "page_seen": true,
+      "page_status": "table_detected",
+      "pdf_page": 23,
+      "printed_page": "22",
+      "tables": [
+        {
+          "appearance_id": "",
+          "complexity": "high",
+          "concerns": [
+            {
+              "category": "layout_ambiguity",
+              "confidence": "medium",
+              "location": "header",
+              "observation": "The table title 'Table 1: Non-life Life insurance contract liabilities and net asset value' is printed in a blue box, but the table itself starts below it. The table number '1' is not clearly associated with the table, and the table continues from the previous page."
+            },
+            {
+              "category": "continuation_uncertainty",
+              "confidence": "low",
+              "location": "table body",
+              "observation": "The table appears to continue from the previous page, as the 'Total Liability for Remaining Coverage' row is cut off at the top of the page. The table continues to the next page, as indicated by the 'Table 9' heading at the bottom."
+            },
+            {
+              "category": "ocr_uncertainty",
+              "confidence": "low",
+              "location": "table body",
+              "observation": "The table is legible, but some numbers are slightly blurry, which could affect OCR accuracy. The 'Solvency Capital Ratio*' row has a percentage symbol, which might be misinterpreted by OCR."
+            }
+          ],
+          "continues_from_previous": true,
+          "continues_to_next": true,
+          "possible_repeat_of": "Table 1",
+          "table_number_raw": "1",
+          "title_raw": "Table 1: Non-life Life insurance contract liabilities and net asset value",
+          "units_raw": "In NGN'000",
+          "visible_column_count": 6,
+          "visible_row_count": 20
+        },
+        {
+          "appearance_id": "",
+          "complexity": "medium",
+          "concerns": [
+            {
+              "category": "layout_ambiguity",
+              "confidence": "low",
+              "location": "header",
+              "observation": "The table title 'Table 9: Historical Combined ratio in each accident year' is printed at the bottom of the page, but the table itself is not fully visible. The table continues from the previous page."
+            },
+            {
+              "category": "continuation_uncertainty",
+              "confidence": "low",
+              "location": "table body",
+              "observation": "The table continues from the previous page, as indicated by the 'Table 9' heading at the bottom of the page. The table is not fully visible, so the number of rows and columns cannot be determined."
+            }
+          ],
+          "continues_from_previous": true,
+          "continues_to_next": false,
+          "possible_repeat_of": "Table 9",
+          "table_number_raw": "9",
+          "title_raw": "Table 9: Historical Combined ratio in each accident year",
+          "units_raw": "Class",
+          "visible_column_count": 5,
+          "visible_row_count": 2
+        }
+      ]
+    },
+    {
+      "document_id": "sterling_fcr_2023",
+      "page_complete": true,
+      "page_legibility": "good",
+      "page_seen": true,
+      "page_status": "table_detected",
+      "pdf_page": 24,
+      "printed_page": null,
+      "tables": [
+        {
+          "appearance_id": "",
+          "complexity": "high",
+          "concerns": [
+            {
+              "category": "layout_ambiguity",
+              "confidence": "medium",
+              "location": "top of page",
+              "observation": "The table appears to be a continuation from the previous page, as the header row is partially visible at the top of the page. The table is not clearly labeled with a table number or title, but it is a structured grid of percentages."
+            },
+            {
+              "category": "continuation_uncertainty",
+              "confidence": "medium",
+              "location": "top of page",
+              "observation": "The table continues from the previous page, as indicated by the partial header row at the top of this page. The table is not clearly labeled with a table number or title."
+            }
+          ],
+          "continues_from_previous": true,
+          "continues_to_next": false,
+          "possible_repeat_of": "Table 6.10",
+          "table_number_raw": "6.10",
+          "title_raw": "General Accident:",
+          "units_raw": "Percentages",
+          "visible_column_count": 5,
+          "visible_row_count": 10
+        }
+      ]
+    },
+    {
+      "document_id": "sterling_fcr_2023",
+      "page_complete": true,
+      "page_legibility": "good",
+      "page_seen": true,
+      "page_status": "no_table",
+      "pdf_page": 25,
+      "printed_page": "24",
+      "tables": []
+    },
+    {
+      "document_id": "sterling_fcr_2023",
+      "page_complete": true,
+      "page_legibility": "good",
+      "page_seen": true,
+      "page_status": "no_table",
+      "pdf_page": 26,
+      "printed_page": "25",
+      "tables": []
+    },
+    {
+      "document_id": "sterling_fcr_2023",
+      "page_complete": true,
+      "page_legibility": "good",
+      "page_seen": true,
+      "page_status": "table_detected",
+      "pdf_page": 27,
+      "printed_page": "26",
+      "tables": [
+        {
+          "appearance_id": "",
+          "complexity": "medium",
+          "concerns": [
+            {
+              "category": "layout_ambiguity",
+              "confidence": "medium",
+              "location": "top",
+              "observation": "The chart 'Projected Cashflows' is a bar chart with a line graph overlay, which is not a standard table but a graphical representation of data. It is included as a table due to its structured data presentation."
+            },
+            {
+              "category": "continuation_uncertainty",
+              "confidence": "high",
+              "location": "bottom",
+              "observation": "The text at the bottom indicates 'The table below sets out the assets and liabilities...' but no table is visible on this page. The table may be on the next page or the reference is incorrect."
+            }
+          ],
+          "continues_from_previous": false,
+          "continues_to_next": false,
+          "possible_repeat_of": "Table 9",
+          "table_number_raw": "9",
+          "title_raw": "Capital Management and capital adequacy",
+          "units_raw": "Naira",
+          "visible_column_count": 4,
+          "visible_row_count": 2
+        },
+        {
+          "appearance_id": "",
+          "complexity": "medium",
+          "concerns": [
+            {
+              "category": "layout_ambiguity",
+              "confidence": "high",
+              "location": "top",
+              "observation": "The 'Projected Cashflows' is a chart, not a table. It is included as a table due to its structured data presentation."
+            },
+            {
+              "category": "continuation_uncertainty",
+              "confidence": "high",
+              "location": "top",
+              "observation": "The chart is labeled 'Projected Cashflows' and shows data for years 2024-2029. It is unclear if this is a continuation of a table from the previous page or a standalone chart."
+            }
+          ],
+          "continues_from_previous": false,
+          "continues_to_next": false,
+          "possible_repeat_of": "None",
+          "table_number_raw": "None",
+          "title_raw": "Projected Cashflows",
+          "units_raw": "Naira",
+          "visible_column_count": 5,
+          "visible_row_count": 1
+        }
+      ]
+    },
+    {
+      "document_id": "sterling_fcr_2023",
+      "page_complete": true,
+      "page_legibility": "good",
+      "page_seen": true,
+      "page_status": "table_detected",
+      "pdf_page": 28,
+      "printed_page": null,
+      "tables": [
+        {
+          "appearance_id": "",
+          "complexity": "high",
+          "concerns": [
+            {
+              "category": "layout_ambiguity",
+              "confidence": "medium",
+              "location": "header",
+              "observation": "The table title 'Table 14: Non-life Statement of Financial Position as at 31 December ....' is cut off at the end, suggesting it may be a continuation from a previous page."
+            },
+            {
+              "category": "continuation_uncertainty",
+              "confidence": "medium",
+              "location": "footer",
+              "observation": "The table appears to end at the bottom of the page, but the last row 'Total assets' has values in the 2023 column, which might indicate it continues to the next page. However, the table is visually complete on this page."
+            }
+          ],
+          "continues_from_previous": true,
+          "continues_to_next": false,
+          "possible_repeat_of": "Table 14",
+          "table_number_raw": "14",
+          "title_raw": "Table 14: Non-life Statement of Financial Position as at 31 December ....",
+          "units_raw": "NGN'000",
+          "visible_column_count": 7,
+          "visible_row_count": 18
+        }
+      ]
+    },
+    {
+      "document_id": "sterling_fcr_2023",
+      "page_complete": true,
+      "page_legibility": "good",
+      "page_seen": true,
+      "page_status": "table_detected",
+      "pdf_page": 29,
+      "printed_page": null,
+      "tables": [
+        {
+          "appearance_id": "",
+          "complexity": "high",
+          "concerns": [
+            {
+              "category": "layout_ambiguity",
+              "confidence": "medium",
+              "location": "Table 15 header",
+              "observation": "The table title 'Table 15: Estimated yield on non-life fund assets' is printed, but the text immediately below it reads 'Table 17: Estimated yield on Non - life fund assets', suggesting a possible typo or misnumbering in the document."
+            },
+            {
+              "category": "continuation_uncertainty",
+              "confidence": "low",
+              "location": "Table 15/17",
+              "observation": "The table appears to be a continuation of a previous page's content, as indicated by the text 'The table below set out the results of our analysis.' However, there is no clear indication that this table continues onto the next page. The table ends with a complete set of data for 2021-2023."
+            }
+          ],
+          "continues_from_previous": false,
+          "continues_to_next": false,
+          "possible_repeat_of": null,
+          "table_number_raw": "Table 15: Estimated yield on non-life fund assets\nTable 17: Estimated yield on Non - life fund assets",
+          "title_raw": "Table 15: Estimated yield on non-life fund assets\nTable 17: Estimated yield on Non - life fund assets",
+          "units_raw": "NGN'000",
+          "visible_column_count": 4,
+          "visible_row_count": 10
+        },
+        {
+          "appearance_id": "",
+          "complexity": "medium",
+          "concerns": [
+            {
+              "category": "continuation_uncertainty",
+              "confidence": "low",
+              "location": "Table 9.8",
+              "observation": "The table appears to be a continuation of a previous page's content, as indicated by the text 'The total assets are as stated below:'. There is no clear indication that this table continues onto the next page. The table ends with a complete set of data and a total row."
+            }
+          ],
+          "continues_from_previous": false,
+          "continues_to_next": false,
+          "possible_repeat_of": null,
+          "table_number_raw": "9.8",
+          "title_raw": "Quality of assets backing the general business fund",
+          "units_raw": "NGN'000",
+          "visible_column_count": 3,
+          "visible_row_count": 12
+        }
+      ]
+    },
+    {
+      "document_id": "sterling_fcr_2023",
+      "page_complete": true,
+      "page_legibility": "good",
+      "page_seen": true,
+      "page_status": "table_detected",
+      "pdf_page": 30,
+      "printed_page": "29",
+      "tables": [
+        {
+          "appearance_id": "",
+          "complexity": "medium",
+          "concerns": [
+            {
+              "category": "layout_ambiguity",
+              "confidence": "medium",
+              "location": "top",
+              "observation": "The table is a pie chart with a legend, which is a non-traditional tabular format. The chart title is 'Sterling Assurance Nigeria General Business Assets Grouping as at December 2023'."
+            },
+            {
+              "category": "continuation_uncertainty",
+              "confidence": "high",
+              "location": "top",
+              "observation": "The table is a pie chart and does not have a continuation marker. It is not clear if this table continues from the previous page or continues to the next."
+            },
+            {
+              "category": "ocr_uncertainty",
+              "confidence": "low",
+              "location": "top",
+              "observation": "The text in the legend is legible and can be read. The percentages on the pie chart are also legible."
+            }
+          ],
+          "continues_from_previous": false,
+          "continues_to_next": false,
+          "possible_repeat_of": "None",
+          "table_number_raw": "None",
+          "title_raw": "Sterling Assurance Nigeria General Business Assets Grouping as at December 2023",
+          "units_raw": "Percentages",
+          "visible_column_count": 1,
+          "visible_row_count": 7
+        }
+      ]
+    },
+    {
+      "document_id": "sterling_fcr_2023",
+      "page_complete": true,
+      "page_legibility": "good",
+      "page_seen": true,
+      "page_status": "table_detected",
+      "pdf_page": 31,
+      "printed_page": "30",
+      "tables": [
+        {
+          "appearance_id": "table_1",
+          "complexity": "medium",
+          "concerns": [
+            {
+              "category": "layout_ambiguity",
+              "confidence": "medium",
+              "location": "top-left",
+              "observation": "The table is partially obscured by a watermark and has a header that is not fully visible."
+            },
+            {
+              "category": "continuation_uncertainty",
+              "confidence": "medium",
+              "location": "bottom",
+              "observation": "The table appears to continue from the previous page, as the header is not fully visible and the data seems to be a continuation of a larger table."
+            }
+          ],
+          "continues_from_previous": true,
+          "continues_to_next": false,
+          "possible_repeat_of": "table_1",
+          "table_number_raw": "10.1",
+          "title_raw": "Reinsurance Documents Provided",
+          "units_raw": "NGN'000",
+          "visible_column_count": 2,
+          "visible_row_count": 10
+        },
+        {
+          "appearance_id": "table_2",
+          "complexity": "high",
+          "concerns": [
+            {
+              "category": "layout_ambiguity",
+              "confidence": "medium",
+              "location": "top",
+              "observation": "The table has a complex structure with merged cells and a header that is not fully visible."
+            },
+            {
+              "category": "continuation_uncertainty",
+              "confidence": "medium",
+              "location": "bottom",
+              "observation": "The table appears to continue from the previous page, as the header is not fully visible and the data seems to be a continuation of a larger table."
+            }
+          ],
+          "continues_from_previous": true,
+          "continues_to_next": false,
+          "possible_repeat_of": "table_2",
+          "table_number_raw": "10.2",
+          "title_raw": "Analysis",
+          "units_raw": "NGN'000",
+          "visible_column_count": 3,
+          "visible_row_count": 15
+        }
+      ]
+    },
+    {
+      "document_id": "sterling_fcr_2023",
+      "page_complete": true,
+      "page_legibility": "good",
+      "page_seen": true,
+      "page_status": "table_detected",
+      "pdf_page": 32,
+      "printed_page": null,
+      "tables": [
+        {
+          "appearance_id": "f8195d6e",
+          "complexity": "medium",
+          "concerns": [
+            {
+              "category": "layout_ambiguity",
+              "confidence": "high",
+              "location": "bottom of table, 'Gross Total' row",
+              "observation": "The 'Gross Total' row spans multiple columns but the values are not clearly aligned to their respective columns. The total for 'Total Capacity' appears to be NGN4.475bn, which is inconsistent with the sum of the individual totals in the column (NGN5.25bn + NGN300m + NGN825mn). This suggests a possible data entry or formatting error."
+            },
+            {
+              "category": "continuation_uncertainty",
+              "confidence": "high",
+              "location": "top of table",
+              "observation": "The table header 'Treaty retention and capacity per risk' is positioned above the table, but the content seems to continue from the previous page as the first data row ('Maximum per line N250m') refers to '[2022: NGN150m]'."
+            }
+          ],
+          "continues_from_previous": true,
+          "continues_to_next": false,
+          "possible_repeat_of": null,
+          "table_number_raw": "Table 1",
+          "title_raw": "Treaty retention and capacity per risk",
+          "units_raw": "NGN (billion) and NGN (million)",
+          "visible_column_count": 3,
+          "visible_row_count": 8
+        }
+      ]
+    },
+    {
+      "document_id": "sterling_fcr_2023",
+      "page_complete": true,
+      "page_legibility": "good",
+      "page_seen": true,
+      "page_status": "no_table",
+      "pdf_page": 33,
+      "printed_page": null,
+      "tables": []
+    },
+    {
+      "document_id": "sterling_fcr_2023",
+      "page_complete": true,
+      "page_legibility": "good",
+      "page_seen": true,
+      "page_status": "table_detected",
+      "pdf_page": 34,
+      "printed_page": "33",
+      "tables": [
+        {
+          "appearance_id": "",
+          "complexity": "medium",
+          "concerns": [
+            {
+              "category": "layout_ambiguity",
+              "confidence": "medium",
+              "location": "top of page",
+              "observation": "The table titled 'Reinsurer' appears to be a continuation from the previous page, as the header row is partially visible and the table is not fully contained on this page."
+            },
+            {
+              "category": "layout_ambiguity",
+              "confidence": "medium",
+              "location": "bottom of page",
+              "observation": "The table titled 'The treaty has two layers:' appears to continue to the next page, as the last row is cut off and the table structure suggests more content."
+            }
+          ],
+          "continues_from_previous": true,
+          "continues_to_next": true,
+          "possible_repeat_of": "The table 'Reinsurer' appears to be a continuation of a table from the previous page, likely detailing the same treaty reinsurance arrangement.",
+          "table_number_raw": "The table 'Reinsurer' does not have a number, but the table 'The treaty has two layers:' is the second table on the page.",
+          "title_raw": "Reinsurer",
+          "units_raw": "Proportion Shared (percentage)",
+          "visible_column_count": 2,
+          "visible_row_count": 6
+        },
+        {
+          "appearance_id": "",
+          "complexity": "medium",
+          "concerns": [
+            {
+              "category": "layout_ambiguity",
+              "confidence": "medium",
+              "location": "bottom of page",
+              "observation": "The table titled 'The treaty has two layers:' appears to continue to the next page, as the last row is cut off and the table structure suggests more content."
+            }
+          ],
+          "continues_from_previous": false,
+          "continues_to_next": true,
+          "possible_repeat_of": "The table 'The treaty has two layers:' is a new table and does not appear to be a repeat of any other table on the page.",
+          "table_number_raw": "The table 'The treaty has two layers:' is the second table on the page.",
+          "title_raw": "The treaty has two layers:",
+          "units_raw": "Nigerian Naira (NGN) and lines",
+          "visible_column_count": 3,
+          "visible_row_count": 6
+        }
+      ]
+    },
+    {
+      "document_id": "sterling_fcr_2023",
+      "page_complete": true,
+      "page_legibility": "good",
+      "page_seen": true,
+      "page_status": "no_table",
+      "pdf_page": 35,
+      "printed_page": "34",
+      "tables": []
+    },
+    {
+      "document_id": "sterling_fcr_2023",
+      "page_complete": true,
+      "page_legibility": "good",
+      "page_seen": true,
+      "page_status": "table_detected",
+      "pdf_page": 36,
+      "printed_page": null,
+      "tables": [
+        {
+          "appearance_id": "",
+          "complexity": "high",
+          "concerns": [
+            {
+              "category": "layout_ambiguity",
+              "confidence": "medium",
+              "location": "header",
+              "observation": "The header contains a logo, company name, and registration details, which may be part of a letterhead rather than a table title."
+            },
+            {
+              "category": "continuation_uncertainty",
+              "confidence": "medium",
+              "location": "top",
+              "observation": "The table at the top appears to be a continuation from the previous page, as it starts mid-sentence and the table title is not clearly visible."
+            },
+            {
+              "category": "continuation_uncertainty",
+              "confidence": "medium",
+              "location": "bottom",
+              "observation": "The table at the bottom appears to be a continuation to the next page, as it is cut off at the bottom of the page."
+            }
+          ],
+          "continues_from_previous": true,
+          "continues_to_next": false,
+          "possible_repeat_of": "Table 1",
+          "table_number_raw": "Table 1",
+          "title_raw": "Reinsurer Proportion Shared Rating",
+          "units_raw": "Proportion Shared: %, Rating: A by A.M Best and A- by S&P, B+ by A.M Best, B by A.M Best",
+          "visible_column_count": 3,
+          "visible_row_count": 10
+        },
+        {
+          "appearance_id": "",
+          "complexity": "high",
+          "concerns": [
+            {
+              "category": "continuation_uncertainty",
+              "confidence": "medium",
+              "location": "top",
+              "observation": "The table at the top appears to be a continuation from the previous page, as it starts mid-sentence and the table title is not clearly visible."
+            },
+            {
+              "category": "continuation_uncertainty",
+              "confidence": "medium",
+              "location": "bottom",
+              "observation": "The table at the bottom appears to be a continuation to the next page, as it is cut off at the bottom of the page."
+            }
+          ],
+          "continues_from_previous": true,
+          "continues_to_next": false,
+          "possible_repeat_of": "Table 2",
+          "table_number_raw": "Table 2",
+          "title_raw": "ENGINEERING",
+          "units_raw": "Largest gross claims (NGN), Largest net claims (NGN), Proportion recovered: %, Net Claims as % of S/H Funds: %, Sum of Five Largest Claims (NGN)",
+          "visible_column_count": 6,
+          "visible_row_count": 10
+        }
+      ]
+    },
+    {
+      "document_id": "sterling_fcr_2023",
+      "page_complete": true,
+      "page_legibility": "good",
+      "page_seen": true,
+      "page_status": "table_detected",
+      "pdf_page": 37,
+      "printed_page": ">> 36 <<",
+      "tables": [
+        {
+          "appearance_id": "table_1",
+          "complexity": "medium",
+          "concerns": [
+            {
+              "category": "layout_ambiguity",
+              "confidence": "high",
+              "location": "header",
+              "observation": "Column headers 'Coverage', 'Deductible', 'Treaty Capacity' are not clearly separated from row labels; may cause misalignment during parsing."
+            },
+            {
+              "category": "continuation_uncertainty",
+              "confidence": "medium",
+              "location": "footer",
+              "observation": "No explicit continuation marker, but table ends abruptly before page bottom; possible continuation on next page."
+            }
+          ],
+          "continues_from_previous": false,
+          "continues_to_next": true,
+          "possible_repeat_of": null,
+          "table_number_raw": null,
+          "title_raw": "Excess of Loss (XL) Treaty - A summary of the overall one-layer XL cover is set out below:",
+          "units_raw": "NGNmn",
+          "visible_column_count": 4,
+          "visible_row_count": 4
+        }
+      ]
+    },
+    {
+      "document_id": "sterling_fcr_2023",
+      "page_complete": true,
+      "page_legibility": "good",
+      "page_seen": true,
+      "page_status": "table_detected",
+      "pdf_page": 38,
+      "printed_page": "37",
+      "tables": [
+        {
+          "appearance_id": "reinsurer_proportion_table",
+          "complexity": "low",
+          "concerns": [],
+          "continues_from_previous": false,
+          "continues_to_next": false,
+          "possible_repeat_of": null,
+          "table_number_raw": null,
+          "title_raw": "The reinsurers take 100% of this treaty, as follows:",
+          "units_raw": "%",
+          "visible_column_count": 2,
+          "visible_row_count": 7
+        },
+        {
+          "appearance_id": "general_accident_claims_table",
+          "complexity": "medium",
+          "concerns": [],
+          "continues_from_previous": false,
+          "continues_to_next": false,
+          "possible_repeat_of": null,
+          "table_number_raw": null,
+          "title_raw": "From the data on the largest claims in the General Accident branch since 2015, the following can be seen: General Accident",
+          "units_raw": "NGN",
+          "visible_column_count": 6,
+          "visible_row_count": 14
+        },
+        {
+          "appearance_id": "bond_treaty_retention_table",
+          "complexity": "low",
+          "concerns": [],
+          "continues_from_previous": false,
+          "continues_to_next": false,
+          "possible_repeat_of": null,
+          "table_number_raw": null,
+          "title_raw": "Treaty retention and capacity",
+          "units_raw": null,
+          "visible_column_count": 3,
+          "visible_row_count": 2
+        }
+      ]
+    },
+    {
+      "document_id": "sterling_fcr_2023",
+      "page_complete": true,
+      "page_legibility": "good",
+      "page_seen": false,
+      "page_status": "table_detected",
+      "pdf_page": 39,
+      "printed_page": "",
+      "tables": [
+        {
+          "appearance_id": "",
+          "complexity": "high",
+          "concerns": [
+            {
+              "category": "layout_ambiguity",
+              "confidence": "medium",
+              "location": "header",
+              "observation": "The header contains a logo, company name, registration numbers, and phone number. The layout is complex with multiple lines of text in different fonts and sizes."
+            },
+            {
+              "category": "continuation_uncertainty",
+              "confidence": "low",
+              "location": "top",
+              "observation": "There are three distinct sections in the header that might be related to different financial ratios or limits, but their exact relationship is unclear."
+            }
+          ],
+          "continues_from_previous": false,
+          "continues_to_next": false,
+          "possible_repeat_of": null,
+          "table_number_raw": "Table 1",
+          "title_raw": "Reinsurer Proportion Shared",
+          "units_raw": "%",
+          "visible_column_count": 2,
+          "visible_row_count": 11
+        }
+      ]
+    },
+    {
+      "document_id": "sterling_fcr_2023",
+      "page_complete": true,
+      "page_legibility": "good",
+      "page_seen": true,
+      "page_status": "table_detected",
+      "pdf_page": 40,
+      "printed_page": null,
+      "tables": [
+        {
+          "appearance_id": "",
+          "complexity": "high",
+          "concerns": [
+            {
+              "category": "layout_ambiguity",
+              "confidence": "medium",
+              "location": "header",
+              "observation": "The table header appears to be a continuation from the previous page, as the title 'Marine Hull Surplus Treaty' is not part of the table itself but a section heading."
+            },
+            {
+              "category": "continuation_uncertainty",
+              "confidence": "medium",
+              "location": "footer",
+              "observation": "The page number '39' at the bottom suggests this is page 39, but the document_id indicates this is page 40, which is a discrepancy."
+            }
+          ],
+          "continues_from_previous": true,
+          "continues_to_next": false,
+          "possible_repeat_of": null,
+          "table_number_raw": "1",
+          "title_raw": "Marine Hull Surplus Treaty",
+          "units_raw": "NGN",
+          "visible_column_count": 3,
+          "visible_row_count": 2
+        }
+      ]
+    },
+    {
+      "document_id": "sterling_fcr_2023",
+      "page_complete": true,
+      "page_legibility": "good",
+      "page_seen": false,
+      "page_status": "table_detected",
+      "pdf_page": 41,
+      "printed_page": "",
+      "tables": [
+        {
+          "appearance_id": "table_1",
+          "complexity": "medium",
+          "concerns": [
+            {
+              "category": "layout_ambiguity",
+              "confidence": "high",
+              "location": "top of the page",
+              "observation": "The table is part of a larger structure with a title and header that spans multiple lines. The layout is not perfectly aligned, which may affect readability."
+            }
+          ],
+          "continues_from_previous": false,
+          "continues_to_next": false,
+          "possible_repeat_of": null,
+          "table_number_raw": "Table 1",
+          "title_raw": "Reinsurer\nProportion Shared",
+          "units_raw": "%",
+          "visible_column_count": 2,
+          "visible_row_count": 11
+        },
+        {
+          "appearance_id": "table_2",
+          "complexity": "medium",
+          "concerns": [
+            {
+              "category": "layout_ambiguity",
+              "confidence": "medium",
+              "location": "middle of the page",
+              "observation": "The table has a header row with three columns, but the content is split into two rows under 'Retention'. This might cause confusion in interpretation."
+            }
+          ],
+          "continues_from_previous": false,
+          "continues_to_next": false,
+          "possible_repeat_of": null,
+          "table_number_raw": "Table 2",
+          "title_raw": "Marine Cargo Insurance\nMarine Cargo Surplus Treaty",
+          "units_raw": "NGN",
+          "visible_column_count": 3,
+          "visible_row_count": 5
+        },
+        {
+          "appearance_id": "table_3",
+          "complexity": "medium",
+          "concerns": [
+            {
+              "category": "layout_ambiguity",
+              "confidence": "high",
+              "location": "bottom of the page",
+              "observation": "The table appears to be a repeat of Table 1 but with different text. It's unclear if it's a separate table or a continuation."
+            }
+          ],
+          "continues_from_previous": false,
+          "continues_to_next": false,
+          "possible_repeat_of": "table_1",
+          "table_number_raw": "Table 3",
+          "title_raw": "Reinsurer\nProportion Shared",
+          "units_raw": "%",
+          "visible_column_count": 2,
+          "visible_row_count": 11
+        }
+      ]
+    },
+    {
+      "document_id": "sterling_fcr_2023",
+      "page_complete": true,
+      "page_legibility": "good",
+      "page_seen": true,
+      "page_status": "table_detected",
+      "pdf_page": 42,
+      "printed_page": null,
+      "tables": [
+        {
+          "appearance_id": "",
+          "complexity": "medium",
+          "concerns": [
+            {
+              "category": "layout_ambiguity",
+              "confidence": "medium",
+              "location": "bottom of page",
+              "observation": "The table appears to be a continuation of a table from the previous page, as the header row is partially visible and the table is cut off at the bottom."
+            },
+            {
+              "category": "continuation_uncertainty",
+              "confidence": "medium",
+              "location": "bottom of page",
+              "observation": "The table is cut off at the bottom, and it is unclear if it continues to the next page or if this is the final row."
+            }
+          ],
+          "continues_from_previous": true,
+          "continues_to_next": false,
+          "possible_repeat_of": "Table 10.1",
+          "table_number_raw": "10.1",
+          "title_raw": "Motor XL treaty has two layers, as follows:",
+          "units_raw": "NGN",
+          "visible_column_count": 3,
+          "visible_row_count": 2
+        }
+      ]
+    },
+    {
+      "document_id": "sterling_fcr_2023",
+      "page_complete": true,
+      "page_legibility": "good",
+      "page_seen": true,
+      "page_status": "table_detected",
+      "pdf_page": 43,
+      "printed_page": "42",
+      "tables": [
+        {
+          "appearance_id": "",
+          "complexity": "high",
+          "concerns": [
+            {
+              "category": "layout_ambiguity",
+              "confidence": "medium",
+              "location": "top of the page",
+              "observation": "The table at the top appears to be a treaty structure with two layers, but the column headers are not clearly defined, and the table seems to be a continuation from the previous page."
+            },
+            {
+              "category": "continuation_uncertainty",
+              "confidence": "medium",
+              "location": "top of the page",
+              "observation": "The table at the top of the page is likely a continuation from the previous page, as it is cut off on the left side."
+            },
+            {
+              "category": "continuation_uncertainty",
+              "confidence": "medium",
+              "location": "middle of the page",
+              "observation": "The table in the middle of the page appears to be a continuation of the table above it, as the data is related to the same topic."
+            },
+            {
+              "category": "continuation_uncertainty",
+              "confidence": "medium",
+              "location": "bottom of the page",
+              "observation": "The table at the bottom of the page is likely a continuation from the previous page, as it is cut off on the left side."
+            }
+          ],
+          "continues_from_previous": true,
+          "continues_to_next": false,
+          "possible_repeat_of": "Table 1",
+          "table_number_raw": "Table 1",
+          "title_raw": "Layer 2",
+          "units_raw": "NGN",
+          "visible_column_count": 3,
+          "visible_row_count": 2
+        },
+        {
+          "appearance_id": "",
+          "complexity": "medium",
+          "concerns": [
+            {
+              "category": "layout_ambiguity",
+              "confidence": "medium",
+              "location": "middle of the page",
+              "observation": "The table in the middle of the page is a continuation of the table above it, as the data is related to the same topic."
+            },
+            {
+              "category": "continuation_uncertainty",
+              "confidence": "medium",
+              "location": "middle of the page",
+              "observation": "The table in the middle of the page is likely a continuation from the previous page, as it is cut off on the left side."
+            }
+          ],
+          "continues_from_previous": true,
+          "continues_to_next": false,
+          "possible_repeat_of": "Table 2",
+          "table_number_raw": "Table 2",
+          "title_raw": "Reinsurer Proportion shared",
+          "units_raw": "%",
+          "visible_column_count": 2,
+          "visible_row_count": 6
+        },
+        {
+          "appearance_id": "",
+          "complexity": "high",
+          "concerns": [
+            {
+              "category": "layout_ambiguity",
+              "confidence": "medium",
+              "location": "bottom of the page",
+              "observation": "The table at the bottom of the page is a continuation of the table above it, as the data is related to the same topic."
+            },
+            {
+              "category": "continuation_uncertainty",
+              "confidence": "medium",
+              "location": "bottom of the page",
+              "observation": "The table at the bottom of the page is likely a continuation from the previous page, as it is cut off on the left side."
+            }
+          ],
+          "continues_from_previous": true,
+          "continues_to_next": false,
+          "possible_repeat_of": "Table 3",
+          "table_number_raw": "Table 3",
+          "title_raw": "From the data on the largest claims in the MOTOR branch since 2015, the following can be seen:",
+          "units_raw": "NGN",
+          "visible_column_count": 5,
+          "visible_row_count": 8
+        }
+      ]
+    },
+    {
+      "document_id": "sterling_fcr_2023",
+      "page_complete": true,
+      "page_legibility": "good",
+      "page_seen": false,
+      "page_status": "no_table",
+      "pdf_page": 44,
+      "printed_page": null,
+      "tables": []
+    },
+    {
+      "document_id": "sterling_fcr_2023",
+      "page_complete": true,
+      "page_legibility": "good",
+      "page_seen": true,
+      "page_status": "table_detected",
+      "pdf_page": 45,
+      "printed_page": "44",
+      "tables": [
+        {
+          "appearance_id": "",
+          "complexity": "high",
+          "concerns": [
+            {
+              "category": "layout_ambiguity",
+              "confidence": "medium",
+              "location": "top of the page",
+              "observation": "The table is split into two sections: a header table with 'Coverage', 'Excess of', and 'Reinstatements' columns, and a data table below it. The header table is not clearly connected to the data table, and the data table has a different structure."
+            },
+            {
+              "category": "continuation_uncertainty",
+              "confidence": "low",
+              "location": "top of the page",
+              "observation": "The header table appears to be a continuation from the previous page, as it is not fully visible at the top of this page."
+            },
+            {
+              "category": "continuation_uncertainty",
+              "confidence": "low",
+              "location": "bottom of the page",
+              "observation": "The data table at the bottom of the page appears to be a continuation of a table from the previous page, as it is not fully visible at the top of this page."
+            }
+          ],
+          "continues_from_previous": true,
+          "continues_to_next": false,
+          "possible_repeat_of": "table_1",
+          "table_number_raw": "5.2",
+          "title_raw": "Excess of Loss treaty",
+          "units_raw": "USD, NGN, %",
+          "visible_column_count": 4,
+          "visible_row_count": 10
+        },
+        {
+          "appearance_id": "",
+          "complexity": "high",
+          "concerns": [
+            {
+              "category": "layout_ambiguity",
+              "confidence": "medium",
+              "location": "bottom of the page",
+              "observation": "The table is split into two sections: a header table with 'Coverage', 'Excess of', and 'Reinstatements' columns, and a data table below it. The header table is not clearly connected to the data table, and the data table has a different structure."
+            },
+            {
+              "category": "continuation_uncertainty",
+              "confidence": "low",
+              "location": "bottom of the page",
+              "observation": "The data table at the bottom of the page appears to be a continuation of a table from the previous page, as it is not fully visible at the top of this page."
+            }
+          ],
+          "continues_from_previous": false,
+          "continues_to_next": true,
+          "possible_repeat_of": "table_1",
+          "table_number_raw": "5.2",
+          "title_raw": "Excess of Loss treaty",
+          "units_raw": "USD, NGN, %",
+          "visible_column_count": 5,
+          "visible_row_count": 10
+        }
+      ]
+    },
+    {
+      "document_id": "sterling_fcr_2023",
+      "page_complete": true,
+      "page_legibility": "good",
+      "page_seen": true,
+      "page_status": "table_detected",
+      "pdf_page": 46,
+      "printed_page": "45",
+      "tables": [
+        {
+          "appearance_id": "",
+          "complexity": "high",
+          "concerns": [
+            {
+              "category": "layout_ambiguity",
+              "confidence": "medium",
+              "location": "top of page",
+              "observation": "The header contains a logo and contact information, which may be part of a repeating header, but it is not part of the table data."
+            },
+            {
+              "category": "continuation_uncertainty",
+              "confidence": "high",
+              "location": "bottom of page",
+              "observation": "The page ends with a section titled '11. Conclusions and Recommendation' and a paragraph. There is no clear indication of whether this is a continuation of a table or if the table data ends here."
+            }
+          ],
+          "continues_from_previous": false,
+          "continues_to_next": false,
+          "possible_repeat_of": "Table 1",
+          "table_number_raw": "1",
+          "title_raw": "Panel of Reinsurer",
+          "units_raw": "N/A",
+          "visible_column_count": 3,
+          "visible_row_count": 10
+        },
+        {
+          "appearance_id": "",
+          "complexity": "high",
+          "concerns": [
+            {
+              "category": "continuation_uncertainty",
+              "confidence": "high",
+              "location": "bottom of page",
+              "observation": "The page ends with a section titled '11. Conclusions and Recommendation' and a paragraph. There is no clear indication of whether this is a continuation of a table or if the table data ends here."
+            }
+          ],
+          "continues_from_previous": false,
+          "continues_to_next": false,
+          "possible_repeat_of": "Table 2",
+          "table_number_raw": "2",
+          "title_raw": "Facultative Obligatory Treaty Reinsurers",
+          "units_raw": "N/A",
+          "visible_column_count": 3,
+          "visible_row_count": 5
+        }
+      ]
+    },
+    {
+      "document_id": "sterling_fcr_2023",
+      "page_complete": true,
+      "page_legibility": "good",
+      "page_seen": false,
+      "page_status": "no_table",
+      "pdf_page": 47,
+      "printed_page": "",
+      "tables": []
+    },
+    {
+      "document_id": "sterling_fcr_2023",
+      "page_complete": true,
+      "page_legibility": "good",
+      "page_seen": false,
+      "page_status": "table_detected",
+      "pdf_page": 48,
+      "printed_page": "",
+      "tables": [
+        {
+          "appearance_id": "1",
+          "complexity": "medium",
+          "concerns": [
+            {
+              "category": "layout_ambiguity",
+              "confidence": "high",
+              "location": "header of the table under 'Agriculture class'",
+              "observation": "The header row appears to be split, with 'Loss Ratio', 'Expense Ratio', and 'Combined Ratio' listed as column headers. However, the first data row above the actual data shows values (393%, 58%, 451%) that are not aligned with any specific row, suggesting a possible layout issue or misalignment."
+            }
+          ],
+          "continues_from_previous": false,
+          "continues_to_next": false,
+          "possible_repeat_of": null,
+          "table_number_raw": null,
+          "title_raw": "Agriculture class",
+          "units_raw": "Percentages (%)",
+          "visible_column_count": 3,
+          "visible_row_count": 6
+        }
+      ]
+    },
+    {
+      "document_id": "sterling_fcr_2023",
+      "page_complete": true,
+      "page_legibility": "good",
+      "page_seen": true,
+      "page_status": "no_table",
+      "pdf_page": 49,
+      "printed_page": "48",
+      "tables": []
+    },
+    {
+      "document_id": "sterling_fcr_2023",
+      "page_complete": true,
+      "page_legibility": "good",
+      "page_seen": true,
+      "page_status": "no_table",
+      "pdf_page": 50,
+      "printed_page": "49",
+      "tables": []
+    },
+    {
+      "document_id": "sterling_fcr_2023",
+      "page_complete": true,
+      "page_legibility": "good",
+      "page_seen": true,
+      "page_status": "no_table",
+      "pdf_page": 51,
+      "printed_page": "50",
+      "tables": []
+    },
+    {
+      "document_id": "sterling_fcr_2023",
+      "page_complete": true,
+      "page_legibility": "good",
+      "page_seen": true,
+      "page_status": "no_table",
+      "pdf_page": 52,
+      "printed_page": null,
+      "tables": []
+    }
+  ]
+}

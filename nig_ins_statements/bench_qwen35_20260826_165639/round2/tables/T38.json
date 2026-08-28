@@ -1,0 +1,94 @@
+{
+  "cell_flags": [
+    {
+      "candidate_readings": [],
+      "column_index": 0,
+      "confidence": "high",
+      "inferred_value": null,
+      "normalized_value": null,
+      "printed_value": "",
+      "reason": "Blank cell in header row for first column",
+      "row_index": 0,
+      "source_pdf_page": 48,
+      "status": "blank"
+    },
+    {
+      "candidate_readings": [],
+      "column_index": 0,
+      "confidence": "high",
+      "inferred_value": null,
+      "normalized_value": null,
+      "printed_value": "",
+      "reason": "Blank cell in first data row",
+      "row_index": 1,
+      "source_pdf_page": 48,
+      "status": "blank"
+    }
+  ],
+  "concerns": [],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "footnotes_raw": [],
+  "headers_raw": [
+    "",
+    "Loss Ratio",
+    "Expense Ratio",
+    "Combined Ratio"
+  ],
+  "normalized_rows": [
+    [
+      null,
+      393,
+      58,
+      451
+    ],
+    [
+      "Agriculture (2022)",
+      64,
+      58,
+      122
+    ],
+    [
+      "Agriculture (2021)",
+      28,
+      4,
+      32
+    ]
+  ],
+  "pages_seen": [
+    48
+  ],
+  "rows_raw": [
+    [
+      "",
+      "393%",
+      "58%",
+      "451%"
+    ],
+    [
+      "Agriculture (2022)",
+      "64%",
+      "58%",
+      "122%"
+    ],
+    [
+      "Agriculture (2021)",
+      "28%",
+      "4%",
+      "32%"
+    ]
+  ],
+  "source_pages": [
+    {
+      "pdf_page": 48,
+      "printed_page": null
+    }
+  ],
+  "table_complete": true,
+  "table_id": "T38",
+  "table_number_raw": "T38",
+  "title_raw": "Agriculture class",
+  "units_raw": "Percentages (%)",
+  "_header_width": 4,
+  "_row_width": 4
+}

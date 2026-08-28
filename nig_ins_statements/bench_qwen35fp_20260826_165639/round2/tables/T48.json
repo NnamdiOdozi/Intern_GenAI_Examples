@@ -1,0 +1,52 @@
+{
+  "cell_flags": [],
+  "concerns": [],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "footnotes_raw": [],
+  "headers_raw": [
+    "",
+    "Coverage",
+    "Excess of loss",
+    "Annual Aggregate Limit"
+  ],
+  "normalized_rows": [
+    [
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Layer 1",
+      null,
+      null,
+      null
+    ]
+  ],
+  "pages_seen": [
+    42
+  ],
+  "rows_raw": [
+    [
+      null,
+      "Coverage",
+      "Excess of loss",
+      "Annual Aggregate Limit"
+    ],
+    [
+      "Layer 1",
+      "NGN10mn for motor, including RIOT General Third-Party Liability/ Public Liability, Workmen\u2019s Compensation/Employer\u2019s Liability",
+      "NGN5mn",
+      "NGN100mn"
+    ]
+  ],
+  "source_pages": [],
+  "table_complete": true,
+  "table_id": "T48",
+  "table_number_raw": "T48",
+  "title_raw": "None",
+  "units_raw": "None",
+  "_header_width": 4,
+  "_row_width": 4
+}

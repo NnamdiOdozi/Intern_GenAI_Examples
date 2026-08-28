@@ -1,0 +1,46 @@
+{
+  "cell_flags": [],
+  "concerns": [],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "footnotes_raw": [],
+  "headers_raw": [
+    "NGN'000",
+    "2019",
+    "2020",
+    "2021",
+    "2022",
+    "2023"
+  ],
+  "normalized_rows": [
+    [
+      "Gross Technical Best Estimate Liabilities (BEL)",
+      1365598,
+      1335423,
+      782216,
+      951927,
+      2176599
+    ]
+  ],
+  "pages_seen": [
+    20
+  ],
+  "rows_raw": [
+    [
+      "Gross Technical Best Estimate Liabilities (BEL)",
+      "1,365,598",
+      "1,335,423",
+      "782,216",
+      "951,927",
+      "2,176,599"
+    ]
+  ],
+  "source_pages": [],
+  "table_complete": true,
+  "table_id": "T17",
+  "table_number_raw": "Table 11",
+  "title_raw": "Trend in Solvency cover in each year 2019 to 2023 statements",
+  "units_raw": "NGN'000",
+  "_header_width": 6,
+  "_row_width": 6
+}

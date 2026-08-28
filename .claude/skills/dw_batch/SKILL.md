@@ -16,7 +16,36 @@ A Claude Code skill for async batch processing using the Doubleword API. Process
 
 ---
 
+## Model reference (read before choosing a model)
+
+**`doubleword-models.md`** in this folder is the dated list of every Doubleword model — id, reasoning
+flag, context window, max output tokens, modality, and known access caveats. The raw
+`doubleword-models.json` beside it is a dated COPY of `~/.pi/agent/doubleword-models.json` (a plain file,
+not a symlink, so it shows up in the repo); re-copy + regenerate if Doubleword's model set changes.
+**Consult it instead of guessing model ids or running a live `/v1/models` call.** Note the caveats it
+records: the source JSON mislabels every model `input:text` (the VL/OCR models take images) and marks all
+`authReady:true` even for models that are actually 403-blocked on this account — so **probe a new model
+with one request before committing a large batch.**
+
+**Before starting a run, do these three things:**
+1. **Know the model.** From `doubleword-models.md`: its context limit, max new tokens, and capabilities
+   (reasoning? vision? OCR?). Capabilities drive request shape (images need a vision model; strict JSON
+   needs a schema-following model; reasoning models need their reasoning budget managed — see below).
+2. **Read the model's Doubleword docs page** at `https://docs.doubleword.ai/inference-api/models/<model>`
+   for the *correct* request details — supported tiers/SLA (real-time vs async vs batch-24h), required
+   prompt format, structured-output support, image sizing, and pricing. This is authoritative and has
+   caught things the metadata missed (e.g. the OCR models are 24h-batch-only and emit markdown, not JSON).
+3. **Check `model-tuning-notes.md`** in this folder for per-model, per-stage params that already work
+   (e.g. `reasoning_effort` and `frequency_penalty` for `Qwen3.5-35B-dottxt`), so you don't rediscover
+   them. Reasoning tokens count against `max_tokens`, and some `-dottxt`/small models degenerate into
+   whitespace loops — the notes record the fixes.
+
 ## Agent Checklist (Read Before Execution)
+
+0. **Read ALL THREE skill files IN FULL before starting: this `SKILL.md`, its `GUIDE.md`, AND — when the
+   task is scanned-table extraction — `dw_async_scanned_tables/SKILL.md` with its references/schemas.**
+   Most "do I need to ask the user?" questions are already answered in these files. Reading them fully up
+   front prevents avoidable questions and rework. Also glance at `doubleword-models.md` (above).
 
 1. **STOP and read SKILL.md fully** before ANY batch operations.
 

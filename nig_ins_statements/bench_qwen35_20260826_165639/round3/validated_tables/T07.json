@@ -1,0 +1,140 @@
+{
+  "checks": {
+    "continuation_verified": true,
+    "header_width_consistent": true,
+    "page_citations_verified": true,
+    "row_widths_consistent": true,
+    "totals_status": "reconciles"
+  },
+  "corrections": [],
+  "final_headers_raw": [
+    "(NGN'000)",
+    "General Accident",
+    "Motor",
+    "Marine",
+    "Engineering",
+    "Bond",
+    "Fire",
+    "Oil & Gas",
+    "Agriculture",
+    "Aviation",
+    "Total"
+  ],
+  "final_normalized_rows": [
+    [
+      "Gross earned premiums",
+      397511,
+      692358,
+      266050,
+      357654,
+      355019,
+      773363,
+      2064349,
+      60262,
+      0,
+      4966566
+    ],
+    [
+      "Gross claims incurred",
+      112203,
+      233726,
+      177922,
+      -20507,
+      5616,
+      259480,
+      31560,
+      116417,
+      0,
+      916415
+    ],
+    [
+      "Claims ratio*",
+      28,
+      34,
+      67,
+      -6,
+      2,
+      34,
+      2,
+      193,
+      0,
+      18.45
+    ],
+    [
+      "Net technical result",
+      253045,
+      277249,
+      95963,
+      197627,
+      239063,
+      369944,
+      672253,
+      -54626,
+      null,
+      2050518
+    ]
+  ],
+  "final_rows_raw": [
+    [
+      "Gross earned premiums",
+      "397.511",
+      "692.358",
+      "266.050",
+      "357.654",
+      "355.019",
+      "773.363",
+      "2.064.349",
+      "60.262",
+      "0",
+      "4.966.566"
+    ],
+    [
+      "Gross claims incurred",
+      "112.203",
+      "233.726",
+      "177.922",
+      "(20.507)",
+      "5.616",
+      "259.480",
+      "31.560",
+      "116.417",
+      "0",
+      "916.415"
+    ],
+    [
+      "Claims ratio*",
+      "28%",
+      "34%",
+      "67%",
+      "-6%",
+      "2%",
+      "34%",
+      "2%",
+      "193%",
+      "0%",
+      "18,45%"
+    ],
+    [
+      "Net technical result",
+      "253.045",
+      "277.249",
+      "95.963",
+      "197.627",
+      "239.063",
+      "369.944",
+      "672.253",
+      "(54.626)",
+      "-",
+      "2.050.518"
+    ]
+  ],
+  "final_title_raw": "Table 3a :- Key figures by class- General business - 2022",
+  "issues": [],
+  "source_pages": [
+    13,
+    14
+  ],
+  "table_complete": true,
+  "table_id": "T07",
+  "verdict": "accepted"
+}

@@ -1,0 +1,217 @@
+{
+  "cell_flags": [],
+  "concerns": [],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "footnotes_raw": [
+    "Source: Company's accounts",
+    "Note: - Return on capital = post -tax profits /net assets value at year end",
+    " - Solvency ratio = Net assets value / net written premium"
+  ],
+  "headers_raw": [],
+  "normalized_rows": [
+    [
+      "profit before tax",
+      419046,
+      1128728,
+      332473,
+      1076552,
+      1007254
+    ],
+    [
+      "Post -tax profit (NGN)",
+      504911,
+      -61042762,
+      446858,
+      535165,
+      794305
+    ],
+    [
+      "Total Net admissible asset value (NGN)",
+      4139768,
+      3988143,
+      3463725,
+      3958514,
+      4346721
+    ],
+    [
+      "Growth in Net Premiums",
+      "79%",
+      "-4%",
+      "6%",
+      "1%",
+      "23%"
+    ],
+    [
+      "Net Claim Ratio",
+      "24%",
+      "31%",
+      "27%",
+      "43%",
+      "44%"
+    ],
+    [
+      "Net Expense Ratio",
+      "75%",
+      "49%",
+      "45%",
+      "47%",
+      "69%"
+    ],
+    [
+      "Combined Ratio",
+      "99%",
+      "80%",
+      "73%",
+      "90%",
+      "113%"
+    ],
+    [
+      "Proportion reinsured",
+      "14%",
+      "19%",
+      "27%",
+      "30%",
+      "26%"
+    ],
+    [
+      "Return on Capital",
+      "15%",
+      "-176%",
+      "13%",
+      "16%",
+      "21%"
+    ],
+    [
+      "Net Profit Margin",
+      "15%",
+      "35%",
+      "10%",
+      "15%",
+      "19%"
+    ],
+    [
+      "Statutory Solvency Ratio",
+      "138%",
+      "133%",
+      "115%",
+      "132%",
+      "145%"
+    ],
+    [
+      "Assets to Liabilities",
+      "298%",
+      "316%",
+      "474%",
+      "466%",
+      "311%"
+    ]
+  ],
+  "pages_seen": [],
+  "rows_raw": [
+    [
+      "profit before tax",
+      "419,046",
+      "1,128,728",
+      "332,473",
+      "1,076,552",
+      "1,007,254"
+    ],
+    [
+      "Post -tax profit (NGN)",
+      "504,911",
+      "-61,042,762",
+      "446,858",
+      "535,165",
+      "794,305"
+    ],
+    [
+      "Total Net admissible asset value (NGN)",
+      "4,139,768",
+      "3,988,143",
+      "3,463,725",
+      "3,958,514",
+      "4,346,721"
+    ],
+    [
+      "Growth in Net Premiums",
+      "79%",
+      "-4%",
+      "6%",
+      "1%",
+      "23%"
+    ],
+    [
+      "Net Claim Ratio",
+      "24%",
+      "31%",
+      "27%",
+      "43%",
+      "44%"
+    ],
+    [
+      "Net Expense Ratio",
+      "75%",
+      "49%",
+      "45%",
+      "47%",
+      "69%"
+    ],
+    [
+      "Combined Ratio",
+      "99%",
+      "80%",
+      "73%",
+      "90%",
+      "113%"
+    ],
+    [
+      "Proportion reinsured",
+      "14%",
+      "19%",
+      "27%",
+      "30%",
+      "26%"
+    ],
+    [
+      "Return on Capital",
+      "15%",
+      "-176%",
+      "13%",
+      "16%",
+      "21%"
+    ],
+    [
+      "Net Profit Margin",
+      "15%",
+      "35%",
+      "10%",
+      "15%",
+      "19%"
+    ],
+    [
+      "Statutory Solvency Ratio",
+      "138%",
+      "133%",
+      "115%",
+      "132%",
+      "145%"
+    ],
+    [
+      "Assets to Liabilities",
+      "298%",
+      "316%",
+      "474%",
+      "466%",
+      "311%"
+    ]
+  ],
+  "source_pages": [],
+  "table_complete": true,
+  "table_id": "T19",
+  "table_number_raw": "T19",
+  "title_raw": "",
+  "units_raw": "",
+  "_header_width": 0,
+  "_row_width": 6
+}

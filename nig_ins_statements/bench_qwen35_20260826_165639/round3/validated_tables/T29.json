@@ -1,0 +1,74 @@
+{
+  "checks": {
+    "continuation_verified": true,
+    "header_width_consistent": true,
+    "page_citations_verified": true,
+    "row_widths_consistent": true,
+    "totals_status": "reconciles"
+  },
+  "corrections": [],
+  "final_headers_raw": [
+    "Reinsurer",
+    "Proportion Shared"
+  ],
+  "final_normalized_rows": [
+    [
+      "African Re:",
+      45
+    ],
+    [
+      "Continental Re:",
+      25
+    ],
+    [
+      "WAICA Re:",
+      10
+    ],
+    [
+      "Nigeria Reinsurance Corporation:",
+      10
+    ],
+    [
+      "FBS Re:",
+      10
+    ],
+    [
+      "Total",
+      100
+    ]
+  ],
+  "final_rows_raw": [
+    [
+      "African Re:",
+      "45%"
+    ],
+    [
+      "Continental Re:",
+      "25%"
+    ],
+    [
+      "WAICA Re:",
+      "10%"
+    ],
+    [
+      "Nigeria Reinsurance Corporation:",
+      "10%"
+    ],
+    [
+      "FBS Re:",
+      "10%"
+    ],
+    [
+      "Total",
+      "100%"
+    ]
+  ],
+  "final_title_raw": "Reinsurer / Proportion Shared",
+  "issues": [],
+  "source_pages": [
+    38
+  ],
+  "table_complete": true,
+  "table_id": "T29",
+  "verdict": "accepted"
+}

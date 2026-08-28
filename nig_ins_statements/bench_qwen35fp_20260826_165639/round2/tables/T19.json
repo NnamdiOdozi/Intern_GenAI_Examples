@@ -1,0 +1,78 @@
+{
+  "cell_flags": [],
+  "concerns": [],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "footnotes_raw": [],
+  "headers_raw": [
+    "NGN'000",
+    "2019",
+    "2020",
+    "2021",
+    "2022",
+    "2023"
+  ],
+  "normalized_rows": [
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Gross Technical Best Estimate Liabilities (BEL)",
+      1365598.0,
+      1335423.0,
+      782216.0,
+      951927.0,
+      2176599.0
+    ]
+  ],
+  "pages_seen": [
+    1
+  ],
+  "rows_raw": [
+    [
+      "NGN'000",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Table 11: Trend in Solvency cover in each year 2019 to 2023 statements",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Gross Technical Best Estimate Liabilities (BEL)",
+      "1,365,598",
+      "1,335,423",
+      "782,216",
+      "951,927",
+      "2,176,599"
+    ]
+  ],
+  "source_pages": [],
+  "table_complete": true,
+  "table_id": "T19",
+  "table_number_raw": "Table",
+  "title_raw": "Table",
+  "units_raw": "",
+  "_header_width": 6,
+  "_row_width": 6
+}

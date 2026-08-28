@@ -1,0 +1,336 @@
+{
+  "checks": {
+    "continuation_verified": true,
+    "header_width_consistent": true,
+    "page_citations_verified": true,
+    "row_widths_consistent": true,
+    "totals_status": "not_applicable"
+  },
+  "corrections": [
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misread '3,885,447' as '3885447' \u2014 missing commas and trailing digit discrepancy.",
+      "round2_value": "3,885,447",
+      "row_index": 0,
+      "source_pdf_page": 21,
+      "validated_value": "3,885,447"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread '3,949,079' as '3949079' \u2014 missing commas and trailing digit discrepancy.",
+      "round2_value": "3,949,079",
+      "row_index": 0,
+      "source_pdf_page": 21,
+      "validated_value": "3,949,079"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread '4,677,009' as '4677009' \u2014 missing commas and trailing digit discrepancy.",
+      "round2_value": "4,677,009",
+      "row_index": 0,
+      "source_pdf_page": 21,
+      "validated_value": "4,677,009"
+    },
+    {
+      "column_index": 4,
+      "confidence": "high",
+      "reason": "OCR misread '4,929,908' as '4929908' \u2014 missing commas and trailing digit discrepancy.",
+      "round2_value": "4,929,908",
+      "row_index": 0,
+      "source_pdf_page": 21,
+      "validated_value": "4,929,908"
+    },
+    {
+      "column_index": 5,
+      "confidence": "high",
+      "reason": "OCR misread '5,735,903' as '5735903' \u2014 missing commas and trailing digit discrepancy.",
+      "round2_value": "5,735,903",
+      "row_index": 0,
+      "source_pdf_page": 21,
+      "validated_value": "5,735,903"
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misread '559,732' as '559732' \u2014 missing comma.",
+      "round2_value": "559,732",
+      "row_index": 1,
+      "source_pdf_page": 21,
+      "validated_value": "559,732"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread '739,964' as '739964' \u2014 missing comma.",
+      "round2_value": "739,964",
+      "row_index": 1,
+      "source_pdf_page": 21,
+      "validated_value": "739,964"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread '1,272,668' as '1272668' \u2014 missing commas.",
+      "round2_value": "1,272,668",
+      "row_index": 1,
+      "source_pdf_page": 21,
+      "validated_value": "1,272,668"
+    },
+    {
+      "column_index": 4,
+      "confidence": "high",
+      "reason": "OCR misread '1,480,940' as '1480940' \u2014 missing commas.",
+      "round2_value": "1,480,940",
+      "row_index": 1,
+      "source_pdf_page": 21,
+      "validated_value": "1,480,940"
+    },
+    {
+      "column_index": 5,
+      "confidence": "high",
+      "reason": "OCR misread '1,480,940' as '1480940' \u2014 missing commas.",
+      "round2_value": "1,480,940",
+      "row_index": 1,
+      "source_pdf_page": 21,
+      "validated_value": "1,480,940"
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misread '3,325,715' as '3325715' \u2014 missing commas.",
+      "round2_value": "3,325,715",
+      "row_index": 2,
+      "source_pdf_page": 21,
+      "validated_value": "3,325,715"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread '3,209,116' as '3209116' \u2014 missing commas.",
+      "round2_value": "3,209,116",
+      "row_index": 2,
+      "source_pdf_page": 21,
+      "validated_value": "3,209,116"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread '3,404,340' as '3404340' \u2014 missing commas.",
+      "round2_value": "3,404,340",
+      "row_index": 2,
+      "source_pdf_page": 21,
+      "validated_value": "3,404,340"
+    },
+    {
+      "column_index": 4,
+      "confidence": "high",
+      "reason": "OCR misread '3,448,968' as '3448968' \u2014 missing commas.",
+      "round2_value": "3,448,968",
+      "row_index": 2,
+      "source_pdf_page": 21,
+      "validated_value": "3,448,968"
+    },
+    {
+      "column_index": 5,
+      "confidence": "high",
+      "reason": "OCR misread '4,254,964' as '4254964' \u2014 missing commas.",
+      "round2_value": "4,254,964",
+      "row_index": 2,
+      "source_pdf_page": 21,
+      "validated_value": "4,254,964"
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misread '120,160' as '120160' \u2014 missing comma.",
+      "round2_value": "120,160",
+      "row_index": 3,
+      "source_pdf_page": 21,
+      "validated_value": "120,160"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread '808,094' as '808094' \u2014 missing comma.",
+      "round2_value": "808,094",
+      "row_index": 3,
+      "source_pdf_page": 21,
+      "validated_value": "808,094"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread '153,180' as '153180' \u2014 missing comma.",
+      "round2_value": "153,180",
+      "row_index": 3,
+      "source_pdf_page": 21,
+      "validated_value": "153,180"
+    },
+    {
+      "column_index": 4,
+      "confidence": "high",
+      "reason": "OCR misread '392,938' as '392938' \u2014 missing comma.",
+      "round2_value": "392,938",
+      "row_index": 3,
+      "source_pdf_page": 21,
+      "validated_value": "392,938"
+    },
+    {
+      "column_index": 5,
+      "confidence": "high",
+      "reason": "OCR misread '-572,454' as '-572454' \u2014 missing comma.",
+      "round2_value": "-572,454",
+      "row_index": 3,
+      "source_pdf_page": 21,
+      "validated_value": "-572,454"
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misread '264,993' as '264993' \u2014 missing comma.",
+      "round2_value": "264,993",
+      "row_index": 4,
+      "source_pdf_page": 21,
+      "validated_value": "264,993"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread '1,061,787' as '1061787' \u2014 missing commas.",
+      "round2_value": "1,061,787",
+      "row_index": 4,
+      "source_pdf_page": 21,
+      "validated_value": "1,061,787"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread '242,982' as '242982' \u2014 missing comma.",
+      "round2_value": "242,982",
+      "row_index": 4,
+      "source_pdf_page": 21,
+      "validated_value": "242,982"
+    },
+    {
+      "column_index": 4,
+      "confidence": "high",
+      "reason": "OCR misread '483,457' as '483457' \u2014 missing comma.",
+      "round2_value": "483,457",
+      "row_index": 4,
+      "source_pdf_page": 21,
+      "validated_value": "483,457"
+    },
+    {
+      "column_index": 5,
+      "confidence": "high",
+      "reason": "OCR misread '-324,352' as '-324352' \u2014 missing comma.",
+      "round2_value": "-324,352",
+      "row_index": 4,
+      "source_pdf_page": 21,
+      "validated_value": "-324,352"
+    }
+  ],
+  "final_headers_raw": [
+    "Measure of financial strength:",
+    "2019",
+    "2020",
+    "2021",
+    "2022",
+    "2023"
+  ],
+  "final_normalized_rows": [
+    [
+      "Total Gross written Premium (NGN)",
+      3885447,
+      3949079,
+      4677009,
+      4929908,
+      5735903
+    ],
+    [
+      "Total Reinsurance cost(outward)(NGN)",
+      559732,
+      739964,
+      1272668,
+      1480940,
+      1480940
+    ],
+    [
+      "Total Net Written Premium (NGN)",
+      3325715,
+      3209116,
+      3404340,
+      3448968,
+      4254964
+    ],
+    [
+      "Underwriting Profit",
+      120160,
+      808094,
+      153180,
+      392938,
+      -572454
+    ],
+    [
+      "Insurance Profit",
+      264993,
+      1061787,
+      242982,
+      483457,
+      -324352
+    ]
+  ],
+  "final_rows_raw": [
+    [
+      "Total Gross written Premium (NGN)",
+      "3,885,447",
+      "3,949,079",
+      "4,677,009",
+      "4,929,908",
+      "5,735,903"
+    ],
+    [
+      "Total Reinsurance cost(outward)(NGN)",
+      "559,732",
+      "739,964",
+      "1,272,668",
+      "1,480,940",
+      "1,480,940"
+    ],
+    [
+      "Total Net Written Premium (NGN)",
+      "3,325,715",
+      "3,209,116",
+      "3,404,340",
+      "3,448,968",
+      "4,254,964"
+    ],
+    [
+      "Underwriting Profit",
+      "120,160",
+      "808,094",
+      "153,180",
+      "392,938",
+      "-572,454"
+    ],
+    [
+      "Insurance Profit",
+      "264,993",
+      "1,061,787",
+      "242,982",
+      "483,457",
+      "-324,352"
+    ]
+  ],
+  "final_title_raw": "Measures of financial strength",
+  "issues": [],
+  "source_pages": [
+    21
+  ],
+  "table_complete": true,
+  "table_id": "T18",
+  "verdict": "corrected"
+}

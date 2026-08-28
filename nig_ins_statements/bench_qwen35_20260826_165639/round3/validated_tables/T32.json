@@ -1,0 +1,104 @@
+{
+  "checks": {
+    "continuation_verified": true,
+    "header_width_consistent": true,
+    "page_citations_verified": false,
+    "row_widths_consistent": true,
+    "totals_status": "reconciles"
+  },
+  "corrections": [],
+  "final_headers_raw": [
+    "Reinsurer",
+    "Proportion Shared"
+  ],
+  "final_normalized_rows": [
+    [
+      "African Re:",
+      40.0
+    ],
+    [
+      "Continental Re:",
+      10.0
+    ],
+    [
+      "FBS Re:",
+      10.0
+    ],
+    [
+      "Aveni Re:",
+      5.0
+    ],
+    [
+      "WAICA Re:",
+      10.0
+    ],
+    [
+      "OMAN Re:",
+      5.0
+    ],
+    [
+      "GHANA Re:",
+      5.0
+    ],
+    [
+      "NCA Re:",
+      5.0
+    ],
+    [
+      "ARB/WAICA Re, SIERRA LEONE",
+      10.0
+    ],
+    [
+      "Total",
+      100.0
+    ]
+  ],
+  "final_rows_raw": [
+    [
+      "African Re:",
+      "40%"
+    ],
+    [
+      "Continental Re:",
+      "10%"
+    ],
+    [
+      "FBS Re:",
+      "10%"
+    ],
+    [
+      "Aveni Re:",
+      "5%"
+    ],
+    [
+      "WAICA Re:",
+      "10%"
+    ],
+    [
+      "OMAN Re:",
+      "5%"
+    ],
+    [
+      "GHANA Re:",
+      "5%"
+    ],
+    [
+      "NCA Re:",
+      "5%"
+    ],
+    [
+      "ARB/WAICA Re, SIERRA LEONE",
+      "10%"
+    ],
+    [
+      "Total",
+      "100%"
+    ]
+  ],
+  "final_title_raw": "The reinsurers take 65% share of the Marine Hull treaty, as follows:",
+  "issues": [],
+  "source_pages": [],
+  "table_complete": true,
+  "table_id": "T32",
+  "verdict": "accepted"
+}

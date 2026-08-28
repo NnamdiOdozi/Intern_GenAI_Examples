@@ -1,0 +1,118 @@
+{
+  "cell_flags": [
+    {
+      "candidate_readings": [
+        "Retention by class- General business 2022",
+        "Retention by class- General business 2022"
+      ],
+      "column_index": 0,
+      "confidence": "high",
+      "inferred_value": null,
+      "normalized_value": null,
+      "printed_value": null,
+      "reason": "Table title is not in the table grid.",
+      "row_index": 0,
+      "source_pdf_page": 16,
+      "status": "inferred_not_inserted"
+    }
+  ],
+  "concerns": [],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "footnotes_raw": [
+    "*Source: Sterling\u2019s audited accounts"
+  ],
+  "headers_raw": [
+    "(NGN'000)",
+    "General Accident",
+    "Motor",
+    "Aviation",
+    "Marine",
+    "Engineering",
+    "Bond",
+    "Fire",
+    "Oil & Gas",
+    "Agriculture",
+    "Total"
+  ],
+  "normalized_rows": [
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Gross written premiums",
+      394577.0,
+      687248.0,
+      1815.0,
+      262270.0,
+      355014.0,
+      352399.0,
+      767655.0,
+      2049113.0,
+      59817.0,
+      4929908.0
+    ],
+    [
+      "Reinsurance premiums",
+      17785.0,
+      108172.0,
+      null,
+      76073.0,
+      129686.0,
+      118724.0,
+      210177.0,
+      820321.0,
+      null
+    ],
+    [
+      "Net written premiums",
+      376792.0
+    ],
+    [
+      "Retention",
+      null
+    ]
+  ],
+  "pages_seen": [
+    15
+  ],
+  "rows_raw": [
+    [
+      null
+    ],
+    [
+      "Gross written premiums"
+    ],
+    [
+      "Reinsurance premiums"
+    ],
+    [
+      "Net written premiums"
+    ],
+    [
+      "Retention"
+    ]
+  ],
+  "source_pages": [
+    {
+      "pdf_page": 16,
+      "printed_page": null
+    }
+  ],
+  "table_complete": true,
+  "table_id": "T13",
+  "table_number_raw": "Table6b:Retentionbyclass-Generalbusiness2OZZ",
+  "title_raw": "Retentionbyclass-GeneralbusinessZUZz",
+  "units_raw": "(NGN'OOO)",
+  "_header_width": 11,
+  "_row_width": 1
+}

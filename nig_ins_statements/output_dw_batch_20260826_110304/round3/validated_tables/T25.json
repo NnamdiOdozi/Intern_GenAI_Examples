@@ -1,0 +1,238 @@
+{
+  "checks": {
+    "continuation_verified": true,
+    "header_width_consistent": true,
+    "page_citations_verified": true,
+    "row_widths_consistent": true,
+    "totals_status": "not_applicable"
+  },
+  "corrections": [
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '161.312' but should be '161,312' to match currency format and context.",
+      "round2_value": "161,312",
+      "row_index": 0,
+      "source_pdf_page": 29,
+      "validated_value": "161,312"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '567.130' but should be '567,130' to match currency format and context.",
+      "round2_value": "567,130",
+      "row_index": 0,
+      "source_pdf_page": 29,
+      "validated_value": "567,130"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '567.130' but should be '567,130' to match currency format and context.",
+      "round2_value": "567,130",
+      "row_index": 0,
+      "source_pdf_page": 29,
+      "validated_value": "567,130"
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '5.053.990' but should be '5,053,990' to match currency format and context.",
+      "round2_value": "5,053,990",
+      "row_index": 1,
+      "source_pdf_page": 29,
+      "validated_value": "5,053,990"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '4.935.825' but should be '4,935,825' to match currency format and context.",
+      "round2_value": "4,935,825",
+      "row_index": 1,
+      "source_pdf_page": 29,
+      "validated_value": "4,935,825"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '5.835.454' but should be '5,835,454' to match currency format and context.",
+      "round2_value": "5,835,454",
+      "row_index": 1,
+      "source_pdf_page": 29,
+      "validated_value": "5,835,454"
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '4.935.825' but should be '4,935,825' to match currency format and context.",
+      "round2_value": "4,935,825",
+      "row_index": 2,
+      "source_pdf_page": 29,
+      "validated_value": "4,935,825"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '5.835.454' but should be '5,835,454' to match currency format and context.",
+      "round2_value": "5,835,454",
+      "row_index": 2,
+      "source_pdf_page": 29,
+      "validated_value": "5,835,454"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '5.835.995' but should be '5,835,995' to match currency format and context.",
+      "round2_value": "5,835,995",
+      "row_index": 2,
+      "source_pdf_page": 29,
+      "validated_value": "5,835,995"
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '4.914.252' but should be '4,914,252' to match currency format and context.",
+      "round2_value": "4,914,252",
+      "row_index": 3,
+      "source_pdf_page": 29,
+      "validated_value": "4,914,252"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '5.102.074' but should be '5,102,074' to match currency format and context.",
+      "round2_value": "5,102,074",
+      "row_index": 3,
+      "source_pdf_page": 29,
+      "validated_value": "5,102,074"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '5.552.159' but should be '5,552,159' to match currency format and context.",
+      "round2_value": "5,552,159",
+      "row_index": 3,
+      "source_pdf_page": 29,
+      "validated_value": "5,552,159"
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misread percentage separator; image shows '3,3%' which is correct for locale, but provisional used '.' \u2014 corrected to ',' to match source.",
+      "round2_value": "3,3%",
+      "row_index": 4,
+      "source_pdf_page": 29,
+      "validated_value": "3,3%"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread percentage separator; image shows '11,1%' which is correct for locale, but provisional used '.' \u2014 corrected to ',' to match source.",
+      "round2_value": "11,1%",
+      "row_index": 4,
+      "source_pdf_page": 29,
+      "validated_value": "11,1%"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread percentage separator; image shows '10,2%' which is correct for locale, but provisional used '.' \u2014 corrected to ',' to match source.",
+      "round2_value": "10,2%",
+      "row_index": 4,
+      "source_pdf_page": 29,
+      "validated_value": "10,2%"
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misread percentage separator; image shows '6,92%' which is correct for locale, but provisional used '.' \u2014 corrected to ',' to match source.",
+      "round2_value": "6,92%",
+      "row_index": 5,
+      "source_pdf_page": 29,
+      "validated_value": "6,92%"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread percentage separator; image shows '9,14%' which is correct for locale, but provisional used '.' \u2014 corrected to ',' to match source.",
+      "round2_value": "9,14%",
+      "row_index": 5,
+      "source_pdf_page": 29,
+      "validated_value": "9,14%"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread percentage separator; image shows '13,34%' which is correct for locale, but provisional used '.' \u2014 corrected to ',' to match source.",
+      "round2_value": "13,34%",
+      "row_index": 5,
+      "source_pdf_page": 29,
+      "validated_value": "13,34%"
+    }
+  ],
+  "final_headers_raw": [
+    "Table 15: Estimated yield on non-life fund assets",
+    "2021",
+    "2022",
+    "2023"
+  ],
+  "final_normalized_rows": [],
+  "final_rows_raw": [
+    [
+      "Total investment income plus net gains",
+      "161,312",
+      "567,130",
+      "567,130"
+    ],
+    [
+      "Opening asset value",
+      "5,053,990",
+      "4,935,825",
+      "5,835,454"
+    ],
+    [
+      "Closing asset value",
+      "4,935,825",
+      "5,835,454",
+      "5,835,995"
+    ],
+    [
+      "Mean fund",
+      "4,914,252",
+      "5,102,074",
+      "5,552,159"
+    ],
+    [
+      "Actual rate of return from investments",
+      "3,3%",
+      "11,1%",
+      "10,2%"
+    ],
+    [
+      "Expected rate of return from investments",
+      "6,92%",
+      "9,14%",
+      "13,34%"
+    ],
+    [
+      "Mean fund excluding investment return(=1/2x(2+3-1))",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Rate of return from investments [=1/4]",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "final_title_raw": "Table 15: Estimated yield on non-life fund assets",
+  "issues": [],
+  "source_pages": [
+    29
+  ],
+  "table_complete": true,
+  "table_id": "T25",
+  "verdict": "corrected"
+}

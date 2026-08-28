@@ -1,0 +1,176 @@
+{
+  "cell_flags": [],
+  "concerns": [],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "footnotes_raw": [
+    "Majority of the Company\u2019s motor claims appear to be quickly settled on average within 23 days of lossdate. In view of the prevalence of motor liability claims in Nigeria, in large truck accident claims and possible aggravated court awards. It is recommended that transferring Motor risks to the Nigerian Insurance Liability pools would be more profitable strategy to spreading the risks. We note that the Nigerian Liability has been making profits for the recent past five years, guaranteed by reputable reinsurers with larger capacity than would be achieved from the excess of loss treaty."
+  ],
+  "headers_raw": [
+    "Accident Year",
+    "Largest gross claim in Year (NGN)",
+    "Largest net claim in Year (NGN)",
+    "Proportion recovered",
+    "Net Claims as % of S/H Funds",
+    "Sum of Five Largest Claims (NGN)"
+  ],
+  "normalized_rows": [
+    [
+      2015,
+      9796864,
+      3000000,
+      0.69,
+      0.001,
+      25236938
+    ],
+    [
+      2016,
+      7447265,
+      3020000,
+      0.59,
+      0.001,
+      30277837
+    ],
+    [
+      2017,
+      17010000,
+      15809050,
+      0.07,
+      0.004,
+      42811129
+    ],
+    [
+      2018,
+      5456150,
+      5456150,
+      0.0,
+      0.0013,
+      10466150
+    ],
+    [
+      2019,
+      7533913,
+      5000000,
+      0.34,
+      0.001,
+      30720102
+    ],
+    [
+      2020,
+      8336800,
+      8336800,
+      0.0,
+      0.0016,
+      25903236
+    ],
+    [
+      2021,
+      7894000,
+      7894000,
+      0.0,
+      0.0015,
+      30395120
+    ],
+    [
+      2022,
+      12105750,
+      12105750,
+      0.14,
+      0.0021,
+      34077986
+    ],
+    [
+      "Average",
+      9447593,
+      6695864,
+      0.25,
+      0.0017,
+      28736062
+    ]
+  ],
+  "pages_seen": [
+    43
+  ],
+  "rows_raw": [
+    [
+      "2015",
+      "9,796,864",
+      "3,000,000",
+      "69%",
+      "0.10%",
+      "25,236,938"
+    ],
+    [
+      "2016",
+      "7,447,265",
+      "3,020,000",
+      "59%",
+      "0.10%",
+      "30,277,837"
+    ],
+    [
+      "2017",
+      "17,010,000",
+      "15,809,050",
+      "7%",
+      "0.40%",
+      "42,811,129"
+    ],
+    [
+      "2018",
+      "5,456,150",
+      "5,456,150",
+      "0%",
+      "0.13%",
+      "10,466,150"
+    ],
+    [
+      "2019",
+      "7,533,913",
+      "5,000,000",
+      "34%",
+      "0.10%",
+      "30,720,102"
+    ],
+    [
+      "2020",
+      "8,336,800",
+      "8,336,800",
+      "0%",
+      "0.16%",
+      "25,903,236"
+    ],
+    [
+      "2021",
+      "7,894,000",
+      "7,894,000",
+      "0%",
+      "0.15%",
+      "30,395,120"
+    ],
+    [
+      "2022",
+      "12,105,750",
+      "12,105,750",
+      "14%",
+      "0.21%",
+      "34,077,986"
+    ],
+    [
+      "Average",
+      "9,447,593",
+      "6,695,864",
+      "25%",
+      "0.17%",
+      "28,736,062"
+    ]
+  ],
+  "source_pages": [],
+  "table_complete": true,
+  "table_id": "T51",
+  "table_number_raw": "",
+  "title_raw": "From the data on the largest claims in the MOTOR branch since 2015, the following can be seen:",
+  "units_raw": "NGN",
+  "_header_width": 6,
+  "_row_width": 6
+}

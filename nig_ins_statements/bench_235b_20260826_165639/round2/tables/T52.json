@@ -1,0 +1,54 @@
+{
+  "cell_flags": [],
+  "concerns": [],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "footnotes_raw": [],
+  "headers_raw": [
+    "Facultative Obligatory Treaty Reinsurers",
+    "Rating",
+    "RATING AGENCY"
+  ],
+  "normalized_rows": [],
+  "pages_seen": [
+    46
+  ],
+  "rows_raw": [
+    [
+      "Waica Re",
+      "-",
+      "B+",
+      "-",
+      "GCR"
+    ],
+    [
+      "Kenya Re",
+      "-",
+      "B+",
+      "-",
+      "A.M. Best"
+    ],
+    [
+      "Ghana Re",
+      "-",
+      "B",
+      "-",
+      "A.M. Best"
+    ],
+    [
+      "Aveni Re",
+      "-",
+      "BBB+",
+      "-",
+      "GCR"
+    ]
+  ],
+  "source_pages": [],
+  "table_complete": true,
+  "table_id": "T52",
+  "table_number_raw": "2.",
+  "title_raw": "Facultative Obligatory Treaty Reinsurers",
+  "units_raw": null,
+  "_header_width": 3,
+  "_row_width": 5
+}

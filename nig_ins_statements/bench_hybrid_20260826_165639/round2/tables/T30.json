@@ -1,0 +1,127 @@
+{
+  "cell_flags": [],
+  "concerns": [],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "footnotes_raw": [],
+  "headers_raw": [
+    "Asset Category",
+    "NGN'000",
+    "Proportion invested"
+  ],
+  "normalized_rows": [
+    [
+      "Cash and cash equivalents",
+      1507989,
+      0.168
+    ],
+    [
+      "Reinsurance Assets",
+      1810266,
+      0.201
+    ],
+    [
+      "Financial Asset",
+      2687139,
+      0.299
+    ],
+    [
+      "Trade receivable",
+      176915,
+      0.02
+    ],
+    [
+      "Other receivables and prepayment",
+      150628,
+      0.017
+    ],
+    [
+      "Investment Properties",
+      1430000,
+      0.159
+    ],
+    [
+      "Property and equipment, including Land and Building",
+      938797,
+      0.104
+    ],
+    [
+      "Statutory deposit",
+      300150,
+      0.033
+    ],
+    [
+      "Deferred acquisition cost",
+      null,
+      0.0
+    ],
+    [
+      "Total",
+      9001884,
+      1.0
+    ]
+  ],
+  "pages_seen": [
+    29
+  ],
+  "rows_raw": [
+    [
+      "Cash and cash equivalents",
+      "1.507.989",
+      "16,8%"
+    ],
+    [
+      "Reinsurance Assets",
+      "1.810.266",
+      "20,1%"
+    ],
+    [
+      "Financial Asset",
+      "2.687.139",
+      "29,9%"
+    ],
+    [
+      "Trade receivable",
+      "176.915",
+      "2,0%"
+    ],
+    [
+      "Other receivables and prepayment",
+      "150.628",
+      "1,7%"
+    ],
+    [
+      "Investment Properties",
+      "1.430.000",
+      "15,9%"
+    ],
+    [
+      "Property and equipment, including Land and Building",
+      "938.797",
+      "10,4%"
+    ],
+    [
+      "Statutory deposit",
+      "300.150",
+      "3,3%"
+    ],
+    [
+      "Deferred acquisition cost",
+      "-",
+      "0,0%"
+    ],
+    [
+      "Total",
+      "9.001.884",
+      "100,0%"
+    ]
+  ],
+  "source_pages": [],
+  "table_complete": true,
+  "table_id": "T30",
+  "table_number_raw": "Table 15: Estimated yield on non-life fund assets\nTable 17: Estimated yield on Non - life fund assets",
+  "title_raw": "Quality of assets backing the general business fund",
+  "units_raw": "NGN'000",
+  "_header_width": 3,
+  "_row_width": 3
+}

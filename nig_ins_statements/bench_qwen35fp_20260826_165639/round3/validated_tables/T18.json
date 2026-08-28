@@ -1,0 +1,84 @@
+{
+  "checks": {
+    "continuation_verified": false,
+    "header_width_consistent": false,
+    "page_citations_verified": false,
+    "row_widths_consistent": false,
+    "totals_status": "not_applicable"
+  },
+  "corrections": [
+    {
+      "column_index": 0,
+      "confidence": "high",
+      "reason": "The provisional extraction failed to identify the table content. The image on page 19 contains a small table at the top with rows for 'Agriculture' and 'Aviation'. The extraction JSON shows empty rows and null values.",
+      "round2_value": "",
+      "row_index": 0,
+      "source_pdf_page": 19,
+      "validated_value": ""
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "The provisional extraction failed to identify the table content. The image on page 19 contains a small table at the top with rows for 'Agriculture' and 'Aviation'. The extraction JSON shows empty rows and null values.",
+      "round2_value": "",
+      "row_index": 1,
+      "source_pdf_page": 19,
+      "validated_value": ""
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "The provisional extraction failed to identify the table content. The image on page 19 contains a small table at the top with rows for 'Agriculture' and 'Aviation'. The extraction JSON shows empty rows and null values.",
+      "round2_value": "",
+      "row_index": 2,
+      "source_pdf_page": 19,
+      "validated_value": ""
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "The provisional extraction failed to identify the table content. The image on page 19 contains a small table at the top with rows for 'Agriculture' and 'Aviation'. The extraction JSON shows empty rows and null values.",
+      "round2_value": "",
+      "row_index": 3,
+      "source_pdf_page": 19,
+      "validated_value": ""
+    },
+    {
+      "column_index": 4,
+      "confidence": "high",
+      "reason": "The provisional extraction failed to identify the table content. The image on page 19 contains a small table at the top with rows for 'Agriculture' and 'Aviation'. The extraction JSON shows empty rows and null values.",
+      "round2_value": "",
+      "row_index": 4,
+      "source_pdf_page": 19,
+      "validated_value": ""
+    }
+  ],
+  "final_headers_raw": [
+    ""
+  ],
+  "final_normalized_rows": [
+    [
+      ""
+    ]
+  ],
+  "final_rows_raw": [
+    [
+      ""
+    ]
+  ],
+  "final_title_raw": "",
+  "issues": [
+    {
+      "category": "ocr_uncertainty",
+      "confidence": "low",
+      "location": "Agriculture row data (0%,0%,0%,305%,451%)",
+      "materiality": "material",
+      "observation": "The OCR extraction completely missed the visible table data on page 19. The provided JSON contains only empty strings and nulls.",
+      "recommended_action": "Re-extract the table from page 19."
+    }
+  ],
+  "source_pages": [],
+  "table_complete": false,
+  "table_id": "T18",
+  "verdict": "rejected_incomplete"
+}

@@ -1,0 +1,159 @@
+{
+  "cell_flags": [],
+  "concerns": [],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "footnotes_raw": [],
+  "headers_raw": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "normalized_rows": [
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "General Accident",
+      91.0,
+      58.0,
+      85.0,
+      75.0,
+      81.0
+    ],
+    [
+      "Motor",
+      71.0,
+      61.0,
+      73.0,
+      92.0,
+      69.0
+    ],
+    [
+      "Marine",
+      72.0,
+      53.0,
+      64.0,
+      92.0,
+      62.0
+    ],
+    [
+      "Engineering",
+      60.0,
+      null
+    ],
+    [
+      "Bond",
+      null
+    ],
+    [
+      "Fire",
+      null
+    ],
+    [
+      "Oil & Gas",
+      null
+    ],
+    [
+      "Agriculture",
+      null
+    ],
+    [
+      "Aviation",
+      null
+    ]
+  ],
+  "pages_seen": [
+    24
+  ],
+  "rows_raw": [
+    [
+      "General Accident",
+      "91%",
+      "58%",
+      "85%",
+      "75%",
+      "81%"
+    ],
+    [
+      "Motor",
+      "71%",
+      "61%",
+      "73%",
+      "92%",
+      "69%"
+    ],
+    [
+      "Marine",
+      "72%",
+      "53%",
+      "64%",
+      "92%",
+      "62%"
+    ],
+    [
+      "Engineering",
+      "60%",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    [
+      "Bond",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    [
+      "Fire",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    [
+      "Oil & Gas",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    [
+      "Agriculture",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    [
+      "Aviation",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ]
+  ],
+  "source_pages": [],
+  "table_complete": true,
+  "table_id": "T25",
+  "table_number_raw": "T25",
+  "title_raw": "General Accident (with sub-classes)",
+  "units_raw": "percentages (%)",
+  "_header_width": 6,
+  "_row_width": 6
+}

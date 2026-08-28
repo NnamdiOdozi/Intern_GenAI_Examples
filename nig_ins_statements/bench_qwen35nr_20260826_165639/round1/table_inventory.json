@@ -1,0 +1,253 @@
+[
+  {
+    "table_id": "T01",
+    "title_raw": null,
+    "table_number_raw": null,
+    "units_raw": null,
+    "source_pages": [
+      14
+    ],
+    "printed_pages": [
+      null
+    ],
+    "complexity": "low",
+    "possible_repeat_of": null,
+    "appearances": [
+      {
+        "pdf_page": 14,
+        "appearance_id": "table_1",
+        "visible_row_count": 4,
+        "visible_column_count": 10,
+        "concerns": [
+          {
+            "category": "layout_ambiguity",
+            "confidence": "medium",
+            "location": "top_of_page",
+            "observation": "Table appears without explicit numbering or title; may be continuation from previous page or header summary table."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "table_id": "T02",
+    "title_raw": "Key figures by class- General business \u2013 2021 (printed); Key figures by class- General business - 2023 (embedded)",
+    "table_number_raw": "Table 4b (printed); Table 3b (embedded header)",
+    "units_raw": "(NGN'000)",
+    "source_pages": [
+      14
+    ],
+    "printed_pages": [
+      null
+    ],
+    "complexity": "medium",
+    "possible_repeat_of": null,
+    "appearances": [
+      {
+        "pdf_page": 14,
+        "appearance_id": "table_2",
+        "visible_row_count": 5,
+        "visible_column_count": 11,
+        "concerns": [
+          {
+            "category": "layout_ambiguity",
+            "confidence": "high",
+            "location": "middle_of_page",
+            "observation": "Table title 'Table 4b' conflicts with embedded header 'Table 3b'; likely a typesetting or versioning error. Content matches 2023 data, suggesting 'Table 3b' is correct."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "table_id": "T03",
+    "title_raw": "Retention by class- General business 2023",
+    "table_number_raw": "Table 6a",
+    "units_raw": "(NGN'000)",
+    "source_pages": [
+      16
+    ],
+    "printed_pages": [
+      "15"
+    ],
+    "complexity": "medium",
+    "possible_repeat_of": null,
+    "appearances": [
+      {
+        "pdf_page": 16,
+        "appearance_id": "table_1",
+        "visible_row_count": 5,
+        "visible_column_count": 11,
+        "concerns": []
+      }
+    ]
+  },
+  {
+    "table_id": "T04",
+    "title_raw": "Retention by class- General business 2022",
+    "table_number_raw": "Table 6b",
+    "units_raw": "(NGN'000)",
+    "source_pages": [
+      16
+    ],
+    "printed_pages": [
+      "15"
+    ],
+    "complexity": "medium",
+    "possible_repeat_of": null,
+    "appearances": [
+      {
+        "pdf_page": 16,
+        "appearance_id": "table_2",
+        "visible_row_count": 5,
+        "visible_column_count": 11,
+        "concerns": []
+      }
+    ]
+  },
+  {
+    "table_id": "T05",
+    "title_raw": "Retention by class- General business 2021",
+    "table_number_raw": "Table 6c",
+    "units_raw": "(NGN'000)",
+    "source_pages": [
+      16
+    ],
+    "printed_pages": [
+      "15"
+    ],
+    "complexity": "medium",
+    "possible_repeat_of": null,
+    "appearances": [
+      {
+        "pdf_page": 16,
+        "appearance_id": "table_3",
+        "visible_row_count": 5,
+        "visible_column_count": 10,
+        "concerns": []
+      }
+    ]
+  },
+  {
+    "table_id": "T06",
+    "title_raw": "General insurance claims paid",
+    "table_number_raw": "Table 7",
+    "units_raw": "(NGN'000)",
+    "source_pages": [
+      16
+    ],
+    "printed_pages": [
+      "15"
+    ],
+    "complexity": "low",
+    "possible_repeat_of": null,
+    "appearances": [
+      {
+        "pdf_page": 16,
+        "appearance_id": "table_4",
+        "visible_row_count": 2,
+        "visible_column_count": 6,
+        "concerns": [
+          {
+            "category": "layout_ambiguity",
+            "confidence": "medium",
+            "location": "bottom",
+            "observation": "Table 7 header is partially cut off at bottom edge; only column headers (2019\u20132023) and unit row visible. Full table structure not confirmed."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "table_id": "T07",
+    "title_raw": "Marine Hull Surplus Treaty",
+    "table_number_raw": null,
+    "units_raw": null,
+    "source_pages": [
+      40
+    ],
+    "printed_pages": [
+      "39"
+    ],
+    "complexity": "low",
+    "possible_repeat_of": null,
+    "appearances": [
+      {
+        "pdf_page": 40,
+        "appearance_id": "1",
+        "visible_row_count": 2,
+        "visible_column_count": 3,
+        "concerns": []
+      }
+    ]
+  },
+  {
+    "table_id": "T08",
+    "title_raw": "The reinsurers take 65% share of the Marine Hull treaty, as follows:",
+    "table_number_raw": null,
+    "units_raw": null,
+    "source_pages": [
+      41
+    ],
+    "printed_pages": [
+      "40"
+    ],
+    "complexity": "low",
+    "possible_repeat_of": null,
+    "appearances": [
+      {
+        "pdf_page": 41,
+        "appearance_id": "table_1",
+        "visible_row_count": 11,
+        "visible_column_count": 2,
+        "concerns": []
+      }
+    ]
+  },
+  {
+    "table_id": "T09",
+    "title_raw": "Marine Cargo Insurance Marine Cargo SurplusTreaty",
+    "table_number_raw": null,
+    "units_raw": "NGN",
+    "source_pages": [
+      41
+    ],
+    "printed_pages": [
+      "40"
+    ],
+    "complexity": "low",
+    "possible_repeat_of": null,
+    "appearances": [
+      {
+        "pdf_page": 41,
+        "appearance_id": "table_2",
+        "visible_row_count": 3,
+        "visible_column_count": 3,
+        "concerns": []
+      }
+    ]
+  },
+  {
+    "table_id": "T10",
+    "title_raw": "The reinsurers take 100% share of the Marine Cargo treaty, as follows:",
+    "table_number_raw": null,
+    "units_raw": null,
+    "source_pages": [
+      41
+    ],
+    "printed_pages": [
+      "40"
+    ],
+    "complexity": "low",
+    "possible_repeat_of": null,
+    "appearances": [
+      {
+        "pdf_page": 41,
+        "appearance_id": "table_3",
+        "visible_row_count": 11,
+        "visible_column_count": 2,
+        "concerns": []
+      }
+    ]
+  }
+]

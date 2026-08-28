@@ -1,0 +1,27 @@
+{
+  "cell_flags": [],
+  "concerns": [],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "footnotes_raw": [],
+  "headers_raw": [
+    "Class of Business",
+    "Retention",
+    "Treaty Capacity"
+  ],
+  "normalized_rows": [],
+  "pages_seen": [
+    33,
+    34,
+    35
+  ],
+  "rows_raw": [],
+  "source_pages": [],
+  "table_complete": true,
+  "table_id": "T32",
+  "table_number_raw": "",
+  "title_raw": "The treaty has two layers:",
+  "units_raw": "NGN, lines, %",
+  "_header_width": 3,
+  "_row_width": 0
+}

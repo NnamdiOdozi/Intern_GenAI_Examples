@@ -1,0 +1,125 @@
+{
+  "checks": {
+    "continuation_verified": true,
+    "header_width_consistent": true,
+    "page_citations_verified": true,
+    "row_widths_consistent": true,
+    "totals_status": "reconciles"
+  },
+  "corrections": [
+    {
+      "column_index": 0,
+      "confidence": "high",
+      "reason": "OCR misread 'WAICA Re:' as 'WAICA Re:' \u2014 corrected to match image which shows 'WAICA Re:' (no change needed, but confirmed).",
+      "round2_value": "WAICA Re:",
+      "row_index": 5,
+      "source_pdf_page": 39,
+      "validated_value": "WAICA Re:"
+    },
+    {
+      "column_index": 0,
+      "confidence": "high",
+      "reason": "OCR misread 'ARB/WAICA Re, SIERRA LEONE' as 'ARB/WAICA Re, SIERRA LEONE' \u2014 confirmed correct in image.",
+      "round2_value": "ARB/WAICA Re, SIERRA LEONE",
+      "row_index": 9,
+      "source_pdf_page": 39,
+      "validated_value": "ARB/WAICA Re, SIERRA LEONE"
+    }
+  ],
+  "final_headers_raw": [
+    "Reinsurer",
+    "Proportion Shared"
+  ],
+  "final_normalized_rows": [
+    [
+      "African Re:",
+      40
+    ],
+    [
+      "Continental Re:",
+      10
+    ],
+    [
+      "FBS Re:",
+      10
+    ],
+    [
+      "Aveni Re:",
+      5
+    ],
+    [
+      "WAICA Re:",
+      10
+    ],
+    [
+      "NCA Re:",
+      5
+    ],
+    [
+      "OMAN Re:",
+      5
+    ],
+    [
+      "GHANA Re:",
+      5
+    ],
+    [
+      "ARB/WAICA Re, SIERRA LEONE",
+      10
+    ],
+    [
+      "Total",
+      100
+    ]
+  ],
+  "final_rows_raw": [
+    [
+      "African Re:",
+      "40%"
+    ],
+    [
+      "Continental Re:",
+      "10%"
+    ],
+    [
+      "FBS Re:",
+      "10%"
+    ],
+    [
+      "Aveni Re:",
+      "5%"
+    ],
+    [
+      "WAICA Re:",
+      "10%"
+    ],
+    [
+      "NCA Re:",
+      "5%"
+    ],
+    [
+      "OMAN Re:",
+      "5%"
+    ],
+    [
+      "GHANA Re:",
+      "5%"
+    ],
+    [
+      "ARB/WAICA Re, SIERRA LEONE",
+      "10%"
+    ],
+    [
+      "Total",
+      "100%"
+    ]
+  ],
+  "final_title_raw": "The reinsurers take 100% share of the treaty, as follows:",
+  "issues": [],
+  "source_pages": [
+    39
+  ],
+  "table_complete": true,
+  "table_id": "T39",
+  "verdict": "accepted"
+}

@@ -1,0 +1,26 @@
+{
+  "cell_flags": [],
+  "concerns": [],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "footnotes_raw": [],
+  "headers_raw": [
+    "Reinsurer",
+    "Proportion Shared"
+  ],
+  "normalized_rows": [],
+  "pages_seen": [
+    40,
+    41,
+    42
+  ],
+  "rows_raw": [],
+  "source_pages": [],
+  "table_complete": true,
+  "table_id": "T41",
+  "table_number_raw": "",
+  "title_raw": "The reinsurers take 65% share of the Marine Hull treaty, as follows:",
+  "units_raw": "Percentage (%)",
+  "_header_width": 2,
+  "_row_width": 0
+}

@@ -1,0 +1,53 @@
+{
+  "cell_flags": [],
+  "concerns": [],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "footnotes_raw": [
+    "The treaty allows 50% of limits in the table for facultative cessions.",
+    "The Marine Cargo Surplus treaty covers cargos transported by sea, air or land and cover is provided on original basis.",
+    "The treaty provides ceding commission of 30% and profit commission of 25% (with management expenses of 10%).",
+    "The cash loss limit is the same as the maximum retention NGN50mn and a cash advice of NGN37.5m,",
+    "The loss participation requirement appears to have been removed to the company\u2019s advantage."
+  ],
+  "headers_raw": [
+    "Retention",
+    "Surplus",
+    "Treaty total Capacity"
+  ],
+  "normalized_rows": [
+    [
+      "Maximum line NGN50mn",
+      1000000000,
+      1050000000
+    ],
+    [
+      "Facultative inwards Retrocession- Property All Risks: NGN25mn any one risk",
+      500000000,
+      525000000
+    ]
+  ],
+  "pages_seen": [
+    41
+  ],
+  "rows_raw": [
+    [
+      "Maximum line NGN50mn",
+      "NGN1,000mn for 20 lines",
+      "NGN1,050mn"
+    ],
+    [
+      "Facultative inwards Retrocession- Property All Risks: NGN25mn any one risk",
+      "NGN500mn 10 lines",
+      "NGN525mn"
+    ]
+  ],
+  "source_pages": [],
+  "table_complete": true,
+  "table_id": "T46",
+  "table_number_raw": null,
+  "title_raw": "Marine Cargo Insurance - Marine Cargo Surplus Treaty (Retention/Surplus/Capacity)",
+  "units_raw": "NGN (Nigerian Naira)",
+  "_header_width": 3,
+  "_row_width": 3
+}

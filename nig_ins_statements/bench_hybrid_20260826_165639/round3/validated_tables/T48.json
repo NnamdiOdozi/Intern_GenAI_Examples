@@ -1,0 +1,68 @@
+{
+  "checks": {
+    "continuation_verified": true,
+    "header_width_consistent": true,
+    "page_citations_verified": true,
+    "row_widths_consistent": true,
+    "totals_status": "not_applicable"
+  },
+  "corrections": [
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misread 'NGN10mn for motor, including RIOT General Third-Party Liability/ Public Liability, Workmen\u2019s Compensation/Employer\u2019s Liability' as 'NGN10mn for motor, including RIOT General Third-Party Liability/ Public Liability, Workmen\u2019s Compensation/Employer\u2019s Liability' \u2014 no correction needed; text matches image exactly.",
+      "round2_value": "NGN10mn for motor, including RIOT General Third-Party Liability/ Public Liability, Workmen\u2019s Compensation/Employer\u2019s Liability",
+      "row_index": 0,
+      "source_pdf_page": 42,
+      "validated_value": "NGN10mn for motor, including RIOT General Third-Party Liability/ Public Liability, Workmen\u2019s Compensation/Employer\u2019s Liability"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR extracted '5000000' but image clearly shows 'NGN5mn'. Corrected to match printed unit and value.",
+      "round2_value": 5000000,
+      "row_index": 0,
+      "source_pdf_page": 42,
+      "validated_value": "NGN5mn"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR extracted '100000000' but image clearly shows 'NGN100mn'. Corrected to match printed unit and value.",
+      "round2_value": 100000000,
+      "row_index": 0,
+      "source_pdf_page": 42,
+      "validated_value": "NGN100mn"
+    }
+  ],
+  "final_headers_raw": [
+    "",
+    "Coverage",
+    "Excess of loss",
+    "Annual Aggregate Limit"
+  ],
+  "final_normalized_rows": [
+    [
+      "Layer 1",
+      "NGN10mn for motor, including RIOT General Third-Party Liability/ Public Liability, Workmen\u2019s Compensation/Employer\u2019s Liability",
+      "NGN5mn",
+      "NGN100mn"
+    ]
+  ],
+  "final_rows_raw": [
+    [
+      "Layer 1",
+      "NGN10mn for motor, including RIOT General Third-Party Liability/ Public Liability, Workmen\u2019s Compensation/Employer\u2019s Liability",
+      "NGN5mn",
+      "NGN100mn"
+    ]
+  ],
+  "final_title_raw": "Excess of Loss (Motor and Liability)",
+  "issues": [],
+  "source_pages": [
+    42
+  ],
+  "table_complete": true,
+  "table_id": "T48",
+  "verdict": "corrected"
+}

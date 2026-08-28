@@ -1,0 +1,66 @@
+{
+  "cell_flags": [],
+  "concerns": [],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "footnotes_raw": [],
+  "headers_raw": [
+    "",
+    "Coverage",
+    "Excess of loss",
+    "Annual Aggregate Limit"
+  ],
+  "normalized_rows": [
+    [
+      "Layer 1",
+      "NGN10mn for motor, including RIOT General Third-Party Liability/ Public Liability, Workmen's Compensation/Employer's Liability",
+      5000000,
+      100000000
+    ],
+    [
+      "Layer 2",
+      "a. NGN15mn for motor, including RIOT General Third-Party Liability/Public Liability, Workmen's Compensation/Employer's Liability",
+      15000000,
+      100000000
+    ],
+    [
+      null,
+      "b. NGN60mn for Motor, Third-party Bodily Injury and/or Death (and Third-Party property damage for ECOWAS BROWN CARD only) and Workmen's Compensation.",
+      15000000,
+      60000000
+    ]
+  ],
+  "pages_seen": [
+    41,
+    42,
+    43
+  ],
+  "rows_raw": [
+    [
+      "Layer 1",
+      "NGN10mn for motor, including RIOT General Third-Party Liability/ Public Liability, Workmen's Compensation/Employer's Liability",
+      "NGN5mn",
+      "NGN100mn"
+    ],
+    [
+      "Layer 2",
+      "a. NGN15mn for motor, including RIOT General Third-Party Liability/Public Liability, Workmen's Compensation/Employer's Liability",
+      "NGN15mn",
+      "NGN100mn"
+    ],
+    [
+      null,
+      "b. NGN60mn for Motor, Third-party Bodily Injury and/or Death (and Third-Party property damage for ECOWAS BROWN CARD only) and Workmen's Compensation.",
+      "NGN15mn",
+      "NGN60mn"
+    ]
+  ],
+  "source_pages": [],
+  "table_complete": true,
+  "table_id": "T35",
+  "table_number_raw": "",
+  "title_raw": "The Motor XL treaty has two layers, as follows:",
+  "units_raw": "NGN",
+  "_header_width": 4,
+  "_row_width": 4
+}

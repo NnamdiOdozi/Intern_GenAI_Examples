@@ -1,0 +1,580 @@
+{
+  "checks": {
+    "continuation_verified": true,
+    "header_width_consistent": true,
+    "page_citations_verified": true,
+    "row_widths_consistent": true,
+    "totals_status": "reconciles"
+  },
+  "corrections": [
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '339.992' as '339992' in normalized form, but should be 339,992 (i.e., 339992 without decimal) \u2014 corrected to match printed value with comma formatting for clarity.",
+      "round2_value": 339992,
+      "row_index": 0,
+      "source_pdf_page": 8,
+      "validated_value": 339992
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '446.166' as '446166' in normalized form, but should be 446,166 \u2014 corrected to match printed value with comma formatting for clarity.",
+      "round2_value": 446166,
+      "row_index": 0,
+      "source_pdf_page": 8,
+      "validated_value": 446166
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '394.577' as '394577' in normalized form, but should be 394,577 \u2014 corrected to match printed value with comma formatting for clarity.",
+      "round2_value": 394577,
+      "row_index": 0,
+      "source_pdf_page": 8,
+      "validated_value": 394577
+    },
+    {
+      "column_index": 4,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '438.670' as '438670' in normalized form, but should be 438,670 \u2014 corrected to match printed value with comma formatting for clarity.",
+      "round2_value": 438670,
+      "row_index": 0,
+      "source_pdf_page": 8,
+      "validated_value": 438670
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '715.321' as '715321' in normalized form, but should be 715,321 \u2014 corrected to match printed value with comma formatting for clarity.",
+      "round2_value": 715321,
+      "row_index": 1,
+      "source_pdf_page": 8,
+      "validated_value": 715321
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '620.395' as '620395' in normalized form, but should be 620,395 \u2014 corrected to match printed value with comma formatting for clarity.",
+      "round2_value": 620395,
+      "row_index": 1,
+      "source_pdf_page": 8,
+      "validated_value": 620395
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '687.248' as '687248' in normalized form, but should be 687,248 \u2014 corrected to match printed value with comma formatting for clarity.",
+      "round2_value": 687248,
+      "row_index": 1,
+      "source_pdf_page": 8,
+      "validated_value": 687248
+    },
+    {
+      "column_index": 4,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '906.943' as '906943' in normalized form, but should be 906,943 \u2014 corrected to match printed value with comma formatting for clarity.",
+      "round2_value": 906943,
+      "row_index": 1,
+      "source_pdf_page": 8,
+      "validated_value": 906943
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '276.428' as '276428' in normalized form, but should be 276,428 \u2014 corrected to match printed value with comma formatting for clarity.",
+      "round2_value": 276428,
+      "row_index": 2,
+      "source_pdf_page": 8,
+      "validated_value": 276428
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '296.746' as '296746' in normalized form, but should be 296,746 \u2014 corrected to match printed value with comma formatting for clarity.",
+      "round2_value": 296746,
+      "row_index": 2,
+      "source_pdf_page": 8,
+      "validated_value": 296746
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '262.270' as '262270' in normalized form, but should be 262,270 \u2014 corrected to match printed value with comma formatting for clarity.",
+      "round2_value": 262270,
+      "row_index": 2,
+      "source_pdf_page": 8,
+      "validated_value": 262270
+    },
+    {
+      "column_index": 4,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '231.167' as '231167' in normalized form, but should be 231,167 \u2014 corrected to match printed value with comma formatting for clarity.",
+      "round2_value": 231167,
+      "row_index": 2,
+      "source_pdf_page": 8,
+      "validated_value": 231167
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '305.639' as '305639' in normalized form, but should be 305,639 \u2014 corrected to match printed value with comma formatting for clarity.",
+      "round2_value": 305639,
+      "row_index": 3,
+      "source_pdf_page": 8,
+      "validated_value": 305639
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '322.522' as '322522' in normalized form, but should be 322,522 \u2014 corrected to match printed value with comma formatting for clarity.",
+      "round2_value": 322522,
+      "row_index": 3,
+      "source_pdf_page": 8,
+      "validated_value": 322522
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '355.014' as '355014' in normalized form, but should be 355,014 \u2014 corrected to match printed value with comma formatting for clarity.",
+      "round2_value": 355014,
+      "row_index": 3,
+      "source_pdf_page": 8,
+      "validated_value": 355014
+    },
+    {
+      "column_index": 4,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '433.715' as '433715' in normalized form, but should be 433,715 \u2014 corrected to match printed value with comma formatting for clarity.",
+      "round2_value": 433715,
+      "row_index": 3,
+      "source_pdf_page": 8,
+      "validated_value": 433715
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '142.648' as '142648' in normalized form, but should be 142,648 \u2014 corrected to match printed value with comma formatting for clarity.",
+      "round2_value": 142648,
+      "row_index": 4,
+      "source_pdf_page": 8,
+      "validated_value": 142648
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '221.421' as '221421' in normalized form, but should be 221,421 \u2014 corrected to match printed value with comma formatting for clarity.",
+      "round2_value": 221421,
+      "row_index": 4,
+      "source_pdf_page": 8,
+      "validated_value": 221421
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '352.399' as '352399' in normalized form, but should be 352,399 \u2014 corrected to match printed value with comma formatting for clarity.",
+      "round2_value": 352399,
+      "row_index": 4,
+      "source_pdf_page": 8,
+      "validated_value": 352399
+    },
+    {
+      "column_index": 4,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '387.111' as '387111' in normalized form, but should be 387,111 \u2014 corrected to match printed value with comma formatting for clarity.",
+      "round2_value": 387111,
+      "row_index": 4,
+      "source_pdf_page": 8,
+      "validated_value": 387111
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '597.512' as '597512' in normalized form, but should be 597,512 \u2014 corrected to match printed value with comma formatting for clarity.",
+      "round2_value": 597512,
+      "row_index": 5,
+      "source_pdf_page": 8,
+      "validated_value": 597512
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '732.991' as '732991' in normalized form, but should be 732,991 \u2014 corrected to match printed value with comma formatting for clarity.",
+      "round2_value": 732991,
+      "row_index": 5,
+      "source_pdf_page": 8,
+      "validated_value": 732991
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '767.655' as '767655' in normalized form, but should be 767,655 \u2014 corrected to match printed value with comma formatting for clarity.",
+      "round2_value": 767655,
+      "row_index": 5,
+      "source_pdf_page": 8,
+      "validated_value": 767655
+    },
+    {
+      "column_index": 4,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '819.265' as '819265' in normalized form, but should be 819,265 \u2014 corrected to match printed value with comma formatting for clarity.",
+      "round2_value": 819265,
+      "row_index": 5,
+      "source_pdf_page": 8,
+      "validated_value": 819265
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '1.571.539' as '1571539' in normalized form, but should be 1,571,539 \u2014 corrected to match printed value with comma formatting for clarity.",
+      "round2_value": 1571539,
+      "row_index": 6,
+      "source_pdf_page": 8,
+      "validated_value": 1571539
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '1.888.875' as '1888875' in normalized form, but should be 1,888,875 \u2014 corrected to match printed value with comma formatting for clarity.",
+      "round2_value": 1888875,
+      "row_index": 6,
+      "source_pdf_page": 8,
+      "validated_value": 1888875
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '2.049.113' as '2049113' in normalized form, but should be 2,049,113 \u2014 corrected to match printed value with comma formatting for clarity.",
+      "round2_value": 2049113,
+      "row_index": 6,
+      "source_pdf_page": 8,
+      "validated_value": 2049113
+    },
+    {
+      "column_index": 4,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '2.516.607' as '2516607' in normalized form, but should be 2,516,607 \u2014 corrected to match printed value with comma formatting for clarity.",
+      "round2_value": 2516607,
+      "row_index": 6,
+      "source_pdf_page": 8,
+      "validated_value": 2516607
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "Image shows '-' for Agriculture in 2020; provisional extraction has null \u2014 corrected to '-' to match source exactly.",
+      "round2_value": null,
+      "row_index": 7,
+      "source_pdf_page": 8,
+      "validated_value": "-"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '147.892' as '147892' in normalized form, but should be 147,892 \u2014 corrected to match printed value with comma formatting for clarity.",
+      "round2_value": 147892,
+      "row_index": 7,
+      "source_pdf_page": 8,
+      "validated_value": 147892
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '59.817' as '59817' in normalized form, but should be 59,817 \u2014 corrected to match printed value with comma formatting for clarity.",
+      "round2_value": 59817,
+      "row_index": 7,
+      "source_pdf_page": 8,
+      "validated_value": 59817
+    },
+    {
+      "column_index": 4,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '1.827' as '1827' in normalized form, but should be 1,827 \u2014 corrected to match printed value with comma formatting for clarity.",
+      "round2_value": 1827,
+      "row_index": 7,
+      "source_pdf_page": 8,
+      "validated_value": 1827
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "Image shows '-' for Aviation in 2020; provisional extraction has null \u2014 corrected to '-' to match source exactly.",
+      "round2_value": null,
+      "row_index": 8,
+      "source_pdf_page": 8,
+      "validated_value": "-"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "Image shows '-' for Aviation in 2021; provisional extraction has null \u2014 corrected to '-' to match source exactly.",
+      "round2_value": null,
+      "row_index": 8,
+      "source_pdf_page": 8,
+      "validated_value": "-"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '1.815' as '1815' in normalized form, but should be 1,815 \u2014 corrected to match printed value with comma formatting for clarity.",
+      "round2_value": 1815,
+      "row_index": 8,
+      "source_pdf_page": 8,
+      "validated_value": 1815
+    },
+    {
+      "column_index": 4,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '599' as '599' \u2014 no change needed, but confirmed correct.",
+      "round2_value": 599,
+      "row_index": 8,
+      "source_pdf_page": 8,
+      "validated_value": 599
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '3.949.079' as '3949079' in normalized form, but should be 3,949,079 \u2014 corrected to match printed value with comma formatting for clarity.",
+      "round2_value": 3949079,
+      "row_index": 9,
+      "source_pdf_page": 8,
+      "validated_value": 3949079
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '4.677.009' as '4677009' in normalized form, but should be 4,677,009 \u2014 corrected to match printed value with comma formatting for clarity.",
+      "round2_value": 4677009,
+      "row_index": 9,
+      "source_pdf_page": 8,
+      "validated_value": 4677009
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '4.929.908' as '4929908' in normalized form, but should be 4,929,908 \u2014 corrected to match printed value with comma formatting for clarity.",
+      "round2_value": 4929908,
+      "row_index": 9,
+      "source_pdf_page": 8,
+      "validated_value": 4929908
+    },
+    {
+      "column_index": 4,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '5.735.903' as '5735903' in normalized form, but should be 5,735,903 \u2014 corrected to match printed value with comma formatting for clarity.",
+      "round2_value": 5735903,
+      "row_index": 9,
+      "source_pdf_page": 8,
+      "validated_value": 5735903
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "Image shows '2%' for Year on year % increase in 2020; provisional extraction has '2' \u2014 corrected to '2%' to match source exactly.",
+      "round2_value": 2,
+      "row_index": 10,
+      "source_pdf_page": 8,
+      "validated_value": "2%"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "Image shows '18%' for Year on year % increase in 2021; provisional extraction has '18' \u2014 corrected to '18%' to match source exactly.",
+      "round2_value": 18,
+      "row_index": 10,
+      "source_pdf_page": 8,
+      "validated_value": "18%"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "Image shows '5%' for Year on year % increase in 2022; provisional extraction has '5' \u2014 corrected to '5%' to match source exactly.",
+      "round2_value": 5,
+      "row_index": 10,
+      "source_pdf_page": 8,
+      "validated_value": "5%"
+    },
+    {
+      "column_index": 4,
+      "confidence": "high",
+      "reason": "Image shows '16%' for Year on year % increase in 2023; provisional extraction has '16' \u2014 corrected to '16%' to match source exactly.",
+      "round2_value": 16,
+      "row_index": 10,
+      "source_pdf_page": 8,
+      "validated_value": "16%"
+    }
+  ],
+  "final_headers_raw": [
+    "Gross written premiums (NGN'000)",
+    "2020",
+    "2021",
+    "2022",
+    "2023"
+  ],
+  "final_normalized_rows": [
+    [
+      "General Accident",
+      339992,
+      446166,
+      394577,
+      438670
+    ],
+    [
+      "Motor",
+      715321,
+      620395,
+      687248,
+      906943
+    ],
+    [
+      "Marine",
+      276428,
+      296746,
+      262270,
+      231167
+    ],
+    [
+      "Engineering",
+      305639,
+      322522,
+      355014,
+      433715
+    ],
+    [
+      "Bonds",
+      142648,
+      221421,
+      352399,
+      387111
+    ],
+    [
+      "Fire",
+      597512,
+      732991,
+      767655,
+      819265
+    ],
+    [
+      "Oil & Gas",
+      1571539,
+      1888875,
+      2049113,
+      2516607
+    ],
+    [
+      "Agriculture",
+      "-",
+      147892,
+      59817,
+      1827
+    ],
+    [
+      "Aviation",
+      "-",
+      "-",
+      1815,
+      599
+    ],
+    [
+      "Total",
+      3949079,
+      4677009,
+      4929908,
+      5735903
+    ],
+    [
+      "Year on year % increase",
+      "2%",
+      "18%",
+      "5%",
+      "16%"
+    ]
+  ],
+  "final_rows_raw": [
+    [
+      "General Accident",
+      "339.992",
+      "446.166",
+      "394.577",
+      "438.670"
+    ],
+    [
+      "Motor",
+      "715.321",
+      "620.395",
+      "687.248",
+      "906.943"
+    ],
+    [
+      "Marine",
+      "276.428",
+      "296.746",
+      "262.270",
+      "231.167"
+    ],
+    [
+      "Engineering",
+      "305.639",
+      "322.522",
+      "355.014",
+      "433.715"
+    ],
+    [
+      "Bonds",
+      "142.648",
+      "221.421",
+      "352.399",
+      "387.111"
+    ],
+    [
+      "Fire",
+      "597.512",
+      "732.991",
+      "767.655",
+      "819.265"
+    ],
+    [
+      "Oil & Gas",
+      "1.571.539",
+      "1.888.875",
+      "2.049.113",
+      "2.516.607"
+    ],
+    [
+      "Agriculture",
+      "-",
+      "147.892",
+      "59.817",
+      "1.827"
+    ],
+    [
+      "Aviation",
+      "-",
+      "-",
+      "1.815",
+      "599"
+    ],
+    [
+      "Total",
+      "3.949.079",
+      "4.677.009",
+      "4.929.908",
+      "5.735.903"
+    ],
+    [
+      "Year on year % increase",
+      "2%",
+      "18%",
+      "5%",
+      "16%"
+    ]
+  ],
+  "final_title_raw": "Gross written premiums (NGN'000)",
+  "issues": [],
+  "source_pages": [
+    8
+  ],
+  "table_complete": true,
+  "table_id": "T03",
+  "verdict": "corrected"
+}

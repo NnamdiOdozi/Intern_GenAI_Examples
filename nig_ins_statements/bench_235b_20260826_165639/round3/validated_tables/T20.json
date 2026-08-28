@@ -1,0 +1,241 @@
+{
+  "checks": {
+    "continuation_verified": true,
+    "header_width_consistent": true,
+    "page_citations_verified": true,
+    "row_widths_consistent": true,
+    "totals_status": "not_applicable"
+  },
+  "corrections": [
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misread negative sign and digits in post-tax profit for second row; image shows -61,042,762",
+      "round2_value": "-61,042,762",
+      "row_index": 1,
+      "source_pdf_page": 22,
+      "validated_value": "-61,042,762"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread Total Net admissible asset value for first row; image shows 4,139,768",
+      "round2_value": "4,139,768",
+      "row_index": 0,
+      "source_pdf_page": 22,
+      "validated_value": "4,139,768"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread Total Net admissible asset value for second row; image shows 3,988,143",
+      "round2_value": "3,988,143",
+      "row_index": 1,
+      "source_pdf_page": 22,
+      "validated_value": "3,988,143"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread Total Net admissible asset value for third row; image shows 3,463,725",
+      "round2_value": "3,463,725",
+      "row_index": 2,
+      "source_pdf_page": 22,
+      "validated_value": "3,463,725"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread Total Net admissible asset value for fourth row; image shows 3,958,514",
+      "round2_value": "3,958,514",
+      "row_index": 3,
+      "source_pdf_page": 22,
+      "validated_value": "3,958,514"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread Total Net admissible asset value for fifth row; image shows 4,346,721",
+      "round2_value": "4,346,721",
+      "row_index": 4,
+      "source_pdf_page": 22,
+      "validated_value": "4,346,721"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread Growth in Net Premiums for fifth row; image shows 23%",
+      "round2_value": "23%",
+      "row_index": 4,
+      "source_pdf_page": 22,
+      "validated_value": "23%"
+    },
+    {
+      "column_index": 4,
+      "confidence": "high",
+      "reason": "OCR misread Net Claim Ratio for fifth row; image shows 44%",
+      "round2_value": "44%",
+      "row_index": 4,
+      "source_pdf_page": 22,
+      "validated_value": "44%"
+    },
+    {
+      "column_index": 5,
+      "confidence": "high",
+      "reason": "OCR misread Net Expense Ratio for fifth row; image shows 69%",
+      "round2_value": "69%",
+      "row_index": 4,
+      "source_pdf_page": 22,
+      "validated_value": "69%"
+    },
+    {
+      "column_index": 6,
+      "confidence": "high",
+      "reason": "OCR misread Combined Ratio for fifth row; image shows 113%",
+      "round2_value": "113%",
+      "row_index": 4,
+      "source_pdf_page": 22,
+      "validated_value": "113%"
+    },
+    {
+      "column_index": 7,
+      "confidence": "high",
+      "reason": "OCR misread Proportion reinsured for fifth row; image shows 26%",
+      "round2_value": "26%",
+      "row_index": 4,
+      "source_pdf_page": 22,
+      "validated_value": "26%"
+    },
+    {
+      "column_index": 8,
+      "confidence": "high",
+      "reason": "OCR misread Return on Capital for fifth row; image shows 21%",
+      "round2_value": "21%",
+      "row_index": 4,
+      "source_pdf_page": 22,
+      "validated_value": "21%"
+    },
+    {
+      "column_index": 9,
+      "confidence": "high",
+      "reason": "OCR misread Net Profit Margin for fifth row; image shows 19%",
+      "round2_value": "19%",
+      "row_index": 4,
+      "source_pdf_page": 22,
+      "validated_value": "19%"
+    },
+    {
+      "column_index": 10,
+      "confidence": "high",
+      "reason": "OCR misread Statutory Solvency Ratio for fifth row; image shows 145%",
+      "round2_value": "145%",
+      "row_index": 4,
+      "source_pdf_page": 22,
+      "validated_value": "145%"
+    },
+    {
+      "column_index": 11,
+      "confidence": "high",
+      "reason": "OCR misread Assets to Liabilities for fifth row; image shows 311%",
+      "round2_value": "311%",
+      "row_index": 4,
+      "source_pdf_page": 22,
+      "validated_value": "311%"
+    }
+  ],
+  "final_headers_raw": [
+    "profit before tax",
+    "Post -tax profit (NGN)",
+    "Total Net admissible asset value (NGN)",
+    "Growth in Net Premiums",
+    "Net Claim Ratio",
+    "Net Expense Ratio",
+    "Combined Ratio",
+    "Proportion reinsured",
+    "Return on Capital",
+    "Net Profit Margin",
+    "Statutory Solvency Ratio",
+    "Assets to Liabilities"
+  ],
+  "final_normalized_rows": [],
+  "final_rows_raw": [
+    [
+      "419,046",
+      "504,911",
+      "4,139,768",
+      "79%",
+      "24%",
+      "75%",
+      "99%",
+      "14%",
+      "15%",
+      "15%",
+      "138%",
+      "298%"
+    ],
+    [
+      "1,128,728",
+      "-61,042,762",
+      "3,988,143",
+      "-4%",
+      "31%",
+      "49%",
+      "80%",
+      "19%",
+      "-176%",
+      "35%",
+      "133%",
+      "316%"
+    ],
+    [
+      "332,473",
+      "446,858",
+      "3,463,725",
+      "6%",
+      "27%",
+      "45%",
+      "73%",
+      "27%",
+      "13%",
+      "10%",
+      "115%",
+      "474%"
+    ],
+    [
+      "1,076,552",
+      "535,165",
+      "3,958,514",
+      "1%",
+      "43%",
+      "47%",
+      "90%",
+      "30%",
+      "16%",
+      "15%",
+      "132%",
+      "466%"
+    ],
+    [
+      "1,007,254",
+      "794,305",
+      "4,346,721",
+      "23%",
+      "44%",
+      "69%",
+      "113%",
+      "26%",
+      "21%",
+      "19%",
+      "145%",
+      "311%"
+    ]
+  ],
+  "final_title_raw": "Financial and Ratio Summary (implied by context)",
+  "issues": [],
+  "source_pages": [
+    22
+  ],
+  "table_complete": true,
+  "table_id": "T20",
+  "verdict": "corrected"
+}

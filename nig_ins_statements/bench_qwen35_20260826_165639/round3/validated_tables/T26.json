@@ -1,0 +1,142 @@
+{
+  "checks": {
+    "continuation_verified": true,
+    "header_width_consistent": true,
+    "page_citations_verified": true,
+    "row_widths_consistent": true,
+    "totals_status": "reconciles"
+  },
+  "corrections": [
+    {
+      "column_index": 0,
+      "confidence": "high",
+      "reason": "Corrected source_pages from [] to [36] as table is located on PDF page 36.",
+      "round2_value": "[36]",
+      "row_index": 0,
+      "source_pdf_page": 36,
+      "validated_value": "[36]"
+    }
+  ],
+  "final_headers_raw": [
+    "Reinsurer",
+    "Proportion Shared",
+    "Rating"
+  ],
+  "final_normalized_rows": [
+    [
+      "African Re:",
+      40,
+      "A by A.M Best and A- by S& P"
+    ],
+    [
+      "Continental Re:",
+      10,
+      "B+ by A.M Best"
+    ],
+    [
+      "FBS Re:",
+      10,
+      null
+    ],
+    [
+      "AVENI Re:",
+      5,
+      "B by A.M Best"
+    ],
+    [
+      "WAICA Re:",
+      10,
+      null
+    ],
+    [
+      "NCA Re:",
+      5,
+      null
+    ],
+    [
+      "OMAN Re:",
+      5,
+      null
+    ],
+    [
+      "GHANA Re:",
+      5,
+      null
+    ],
+    [
+      "ARB/WAICA RE, SERRA LEONE",
+      10,
+      null
+    ],
+    [
+      "Total",
+      100,
+      null
+    ]
+  ],
+  "final_rows_raw": [
+    [
+      "Reinsurer",
+      "Proportion Shared",
+      "Rating"
+    ],
+    [
+      "African Re:",
+      "40%",
+      "A by A.M Best and A- by S& P"
+    ],
+    [
+      "Continental Re:",
+      "10%",
+      "B+ by A.M Best"
+    ],
+    [
+      "FBS Re:",
+      "10%",
+      ""
+    ],
+    [
+      "AVENI Re:",
+      "5%",
+      "B by A.M Best"
+    ],
+    [
+      "WAICA Re:",
+      "10%",
+      ""
+    ],
+    [
+      "NCA Re:",
+      "5%",
+      ""
+    ],
+    [
+      "OMAN Re:",
+      "5%",
+      ""
+    ],
+    [
+      "GHANA Re:",
+      "5%",
+      ""
+    ],
+    [
+      "ARB/WAICA RE, SERRA LEONE",
+      "10%",
+      ""
+    ],
+    [
+      "Total",
+      "100%",
+      ""
+    ]
+  ],
+  "final_title_raw": "Reinsurers share of Engineering Surplus treaty",
+  "issues": [],
+  "source_pages": [
+    36
+  ],
+  "table_complete": true,
+  "table_id": "T26",
+  "verdict": "accepted"
+}

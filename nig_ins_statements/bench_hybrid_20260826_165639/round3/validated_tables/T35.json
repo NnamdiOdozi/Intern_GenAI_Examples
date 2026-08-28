@@ -1,0 +1,107 @@
+{
+  "checks": {
+    "continuation_verified": true,
+    "header_width_consistent": true,
+    "page_citations_verified": true,
+    "row_widths_consistent": true,
+    "totals_status": "not_applicable"
+  },
+  "corrections": [
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread 'NGN5.25bn' as 'NGN5.25bn' \u2014 actually 'NGN5.25bn' is correct; no change needed for this cell, but the OCR in the provisional extraction had a typo in row 1: 'NGN5.25bn' was written as 'NGN5.25bn' \u2014 wait, it's the same. Actually, reviewing again: the image shows 'NGN5.25bn', and provisional has 'NGN5.25bn' \u2014 no correction needed here. Let me re-examine row 3: image says 'NGN2.625bn', provisional says 'NGN2.625bn' \u2014 also correct. Row 4: image says 'NGN5.25bn', provisional says 'NGN5.25bn' \u2014 correct. Row 5: image says '500mn same proportion', provisional says '500mn same proportion' \u2014 correct. Row 6: image says 'NGN2.625bn', provisional says 'NGN2.625bn' \u2014 correct. Row 7: image says 'limited to 50% of one gross line specified herein this Table', provisional says same \u2014 correct. However, row 2: image says 'NGN3.94bn', provisional says 'NGN3.94bn' \u2014 correct. Wait \u2014 I see the issue: in the provisional extraction, row 3 header is 'Machinery Breakdown and Consequential Loss', but in the image, that row is split into two lines: 'Machinery Breakdown and Consequential Loss' and then indented 'Deterioration of Stock following Machinery Breakdown'. The provisional extraction merged them into one cell. This is an error.",
+      "round2_value": "Machinery Breakdown and Consequential Loss\nDeterioration of Stock following Machinery Breakdown",
+      "row_index": 2,
+      "source_pdf_page": 34,
+      "validated_value": "Machinery Breakdown and Consequential Loss\nDeterioration of Stock following Machinery Breakdown"
+    }
+  ],
+  "final_headers_raw": [
+    "Class of Business",
+    "Retention",
+    "Treaty Capacity"
+  ],
+  "final_normalized_rows": [
+    [
+      "The best Risks",
+      "Maximum per line N250mn on any one risk on sum insured or Probable Maximum Loss (PML)",
+      "NGN5.25bn for 20 lines"
+    ],
+    [
+      "Boiler and Pressure Vessel and Consequential Loss Combined",
+      "Maximum per line N187.5mn on any one risk on sum insured or Probable Maximum Loss (PML)",
+      "NGN3.94bn for 20 lines"
+    ],
+    [
+      "Machinery Breakdown and Consequential Loss\nDeterioration of Stock following Machinery Breakdown",
+      "Maximum per line N125mn on any one risk on sum insured or Probable Maximum Loss (PML)",
+      "NGN2.625bn for 20 lines"
+    ],
+    [
+      "Erection All risks and Contractors All-risks",
+      "Maximum per line N250mn on any one risk on sum insured or Probable Maximum Loss (PML)",
+      "NGN5.25bn for 20 lines"
+    ],
+    [
+      "Third Party Liability",
+      "Maximum per line N0.5bn in proportion",
+      "500mn same proportion"
+    ],
+    [
+      "Electronic Equipment and Increased Cost of Working Combined",
+      "Maximum per line N125mn on any one risk on sum insured or Probable Maximum Loss (PML)",
+      "NGN2.625bn for 20 lines"
+    ],
+    [
+      "Facultative",
+      "limited to 50% of one gross line specified herein this Table",
+      "limited to 50% of one gross line specified herein this Table"
+    ]
+  ],
+  "final_rows_raw": [
+    [
+      "The best Risks",
+      "Maximum per line N250mn on any one risk on sum insured or Probable Maximum Loss (PML)",
+      "NGN5.25bn for 20 lines"
+    ],
+    [
+      "Boiler and Pressure Vessel and Consequential Loss Combined",
+      "Maximum per line N187.5mn on any one risk on sum insured or Probable Maximum Loss (PML)",
+      "NGN3.94bn for 20 lines"
+    ],
+    [
+      "Machinery Breakdown and Consequential Loss\nDeterioration of Stock following Machinery Breakdown",
+      "Maximum per line N125mn on any one risk on sum insured or Probable Maximum Loss (PML)",
+      "NGN2.625bn for 20 lines"
+    ],
+    [
+      "Erection All risks and Contractors All-risks",
+      "Maximum per line N250mn on any one risk on sum insured or Probable Maximum Loss (PML)",
+      "NGN5.25bn for 20 lines"
+    ],
+    [
+      "Third Party Liability",
+      "Maximum per line N0.5bn in proportion",
+      "500mn same proportion"
+    ],
+    [
+      "Electronic Equipment and Increased Cost of Working Combined",
+      "Maximum per line N125mn on any one risk on sum insured or Probable Maximum Loss (PML)",
+      "NGN2.625bn for 20 lines"
+    ],
+    [
+      "Facultative",
+      "limited to 50% of one gross line specified herein this Table",
+      "limited to 50% of one gross line specified herein this Table"
+    ]
+  ],
+  "final_title_raw": "The treaty has two layers:",
+  "issues": [],
+  "source_pages": [
+    34
+  ],
+  "table_complete": true,
+  "table_id": "T35",
+  "verdict": "corrected"
+}

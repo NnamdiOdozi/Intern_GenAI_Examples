@@ -1,0 +1,418 @@
+{
+  "cell_flags": [
+    {
+      "candidate_readings": [
+        "General Accident",
+        "148.061",
+        "118.444",
+        "53.727",
+        "320.231",
+        "421.200",
+        "76,0%",
+        "160.092",
+        "114,0%",
+        "97,6%"
+      ],
+      "column_index": 0,
+      "confidence": "high",
+      "inferred_value": null,
+      "normalized_value": "General Accident",
+      "printed_value": "General Accident",
+      "reason": "Label",
+      "row_index": 0,
+      "source_pdf_page": 18,
+      "status": "printed"
+    },
+    {
+      "candidate_readings": [
+        "148.061"
+      ],
+      "column_index": 1,
+      "confidence": "high",
+      "inferred_value": null,
+      "normalized_value": 148061,
+      "printed_value": "148.061",
+      "reason": "Number",
+      "row_index": 0,
+      "source_pdf_page": 18,
+      "status": "printed"
+    },
+    {
+      "candidate_readings": [
+        "118.444"
+      ],
+      "column_index": 2,
+      "confidence": "high",
+      "inferred_value": null,
+      "normalized_value": 118444,
+      "printed_value": "118.444",
+      "reason": "Number",
+      "row_index": 0,
+      "source_pdf_page": 18,
+      "status": "printed"
+    },
+    {
+      "candidate_readings": [
+        "53.727"
+      ],
+      "column_index": 3,
+      "confidence": "high",
+      "inferred_value": null,
+      "normalized_value": 53727,
+      "printed_value": "53.727",
+      "reason": "Number",
+      "row_index": 0,
+      "source_pdf_page": 18,
+      "status": "printed"
+    },
+    {
+      "candidate_readings": [
+        "320.231"
+      ],
+      "column_index": 4,
+      "confidence": "high",
+      "inferred_value": null,
+      "normalized_value": 320231,
+      "printed_value": "320.231",
+      "reason": "Number",
+      "row_index": 0,
+      "source_pdf_page": 18,
+      "status": "printed"
+    },
+    {
+      "candidate_readings": [
+        "421.200"
+      ],
+      "column_index": 5,
+      "confidence": "high",
+      "inferred_value": null,
+      "normalized_value": 421200,
+      "printed_value": "421.200",
+      "reason": "Number",
+      "row_index": 0,
+      "source_pdf_page": 18,
+      "status": "printed"
+    },
+    {
+      "candidate_readings": [
+        "76,0%"
+      ],
+      "column_index": 6,
+      "confidence": "high",
+      "inferred_value": null,
+      "normalized_value": 0.76,
+      "printed_value": "76,0%",
+      "reason": "Percentage",
+      "row_index": 0,
+      "source_pdf_page": 18,
+      "status": "printed"
+    },
+    {
+      "candidate_readings": [
+        "160.092"
+      ],
+      "column_index": 7,
+      "confidence": "high",
+      "inferred_value": null,
+      "normalized_value": 160092,
+      "printed_value": "160.092",
+      "reason": "Number",
+      "row_index": 0,
+      "source_pdf_page": 18,
+      "status": "printed"
+    },
+    {
+      "candidate_readings": [
+        "114,0%"
+      ],
+      "column_index": 8,
+      "confidence": "high",
+      "inferred_value": null,
+      "normalized_value": 1.14,
+      "printed_value": "114,0%",
+      "reason": "Percentage",
+      "row_index": 0,
+      "source_pdf_page": 18,
+      "status": "printed"
+    },
+    {
+      "candidate_readings": [
+        "97,6%"
+      ],
+      "column_index": 9,
+      "confidence": "high",
+      "inferred_value": null,
+      "normalized_value": 0.976,
+      "printed_value": "97,6%",
+      "reason": "Percentage",
+      "row_index": 0,
+      "source_pdf_page": 18,
+      "status": "printed"
+    }
+  ],
+  "concerns": [],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "footnotes_raw": [],
+  "headers_raw": [],
+  "normalized_rows": [
+    [
+      "General Accident",
+      148061,
+      118444,
+      53727,
+      320231,
+      421200,
+      0.76,
+      160092,
+      1.14,
+      0.976
+    ],
+    [
+      "Motor",
+      217859,
+      51195,
+      48661,
+      317715,
+      617361,
+      0.515,
+      275232,
+      0.96,
+      1.028
+    ],
+    [
+      "Aviation",
+      null,
+      null,
+      null,
+      null,
+      null,
+      0.0,
+      null,
+      0.0,
+      0.0
+    ],
+    [
+      "Marine",
+      83894,
+      10335,
+      4364,
+      98592,
+      240081,
+      0.411,
+      91006,
+      0.79,
+      1.215
+    ],
+    [
+      "Engineering",
+      166005,
+      62000,
+      49445,
+      277450,
+      352027,
+      0.788,
+      162515,
+      1.25,
+      0.432
+    ],
+    [
+      "Bond",
+      38490,
+      10250,
+      6045,
+      54785,
+      237526,
+      0.231,
+      141887,
+      0.828,
+      0.503
+    ],
+    [
+      "Fire",
+      299818,
+      131914,
+      41401,
+      473133,
+      804912,
+      0.588,
+      348055,
+      1.02,
+      1.113
+    ],
+    [
+      "Oil and Gas",
+      512349,
+      12920,
+      5190,
+      530460,
+      1959802,
+      0.271,
+      1003959,
+      0.783,
+      0.417
+    ],
+    [
+      "Agriculture",
+      null,
+      19000,
+      27456,
+      46456,
+      6684,
+      6.951,
+      2859,
+      7.379,
+      3.015
+    ],
+    [
+      "Total business",
+      1466476,
+      416058,
+      236288,
+      2118822,
+      4639593,
+      0.4567,
+      2185605,
+      0.9278,
+      0.5793
+    ]
+  ],
+  "pages_seen": [
+    18
+  ],
+  "rows_raw": [
+    [
+      "General Accident",
+      "148.061",
+      "118.444",
+      "53.727",
+      "320.231",
+      "421.200",
+      "76,0%",
+      "160.092",
+      "114,0%",
+      "97,6%"
+    ],
+    [
+      "Motor",
+      "217.859",
+      "51.195",
+      "48.661",
+      "317.715",
+      "617.361",
+      "51,5%",
+      "275.232",
+      "96,0%",
+      "102,8%"
+    ],
+    [
+      "Aviation",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "0,0%",
+      "-",
+      "0,0%",
+      "0,0%"
+    ],
+    [
+      "Marine",
+      "83.894",
+      "10.335",
+      "4.364",
+      "98.592",
+      "240.081",
+      "41,1%",
+      "91.006",
+      "79,0%",
+      "121,5%"
+    ],
+    [
+      "Engineering",
+      "166.005",
+      "62.000",
+      "49.445",
+      "277.450",
+      "352.027",
+      "78,8%",
+      "162.515",
+      "125,0%",
+      "43,2%"
+    ],
+    [
+      "Bond",
+      "38.490",
+      "10.250",
+      "6.045",
+      "54.785",
+      "237.526",
+      "23,1%",
+      "141.887",
+      "82,8%",
+      "50,3%"
+    ],
+    [
+      "Fire",
+      "299.818",
+      "131.914",
+      "41.401",
+      "473.133",
+      "804.912",
+      "58,8%",
+      "348.055",
+      "102,0%",
+      "111,3%"
+    ],
+    [
+      "Oil and Gas",
+      "512.349",
+      "12.920",
+      "5.190",
+      "530.460",
+      "1.959.802",
+      "27,1%",
+      "1.003.959",
+      "78,3%",
+      "41,7%"
+    ],
+    [
+      "Agriculture",
+      "-",
+      "19.000",
+      "27.456",
+      "46.456",
+      "6.684",
+      "695,1%",
+      "2.859",
+      "737,9%",
+      "301,5%"
+    ],
+    [
+      "Total business",
+      "1.466.476",
+      "416.058",
+      "236.288",
+      "2.118.822",
+      "4.639.593",
+      "45,67%",
+      "2.185.605",
+      "92,78%",
+      "57,93%"
+    ]
+  ],
+  "source_pages": [
+    {
+      "pdf_page": 18,
+      "printed_page": null
+    }
+  ],
+  "table_complete": true,
+  "table_id": "T13",
+  "table_number_raw": null,
+  "title_raw": null,
+  "units_raw": null,
+  "_header_width": 0,
+  "_row_width": 10
+}

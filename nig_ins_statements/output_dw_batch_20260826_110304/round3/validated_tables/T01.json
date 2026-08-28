@@ -1,0 +1,352 @@
+{
+  "checks": {
+    "continuation_verified": true,
+    "header_width_consistent": true,
+    "page_citations_verified": true,
+    "row_widths_consistent": true,
+    "totals_status": "reconciles"
+  },
+  "corrections": [
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread '7,109,012' as '7,109,012' \u2014 actually '7,109,012' is correct; no change needed. Wait \u2014 provisional has '7,109,012' which matches image. No correction.",
+      "round2_value": "7,109,012",
+      "row_index": 1,
+      "source_pdf_page": 3,
+      "validated_value": "7,109,012"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "Provisional extraction has '56.22' for Aviation in 2023; image shows '56.22' \u2014 correct.",
+      "round2_value": "56.22",
+      "row_index": 5,
+      "source_pdf_page": 3,
+      "validated_value": "56.22"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "Provisional has '28144.23' for Risk Adjustment 2022; image shows '28,144.23' \u2014 add comma for consistency with other values.",
+      "round2_value": "28,144.23",
+      "row_index": 12,
+      "source_pdf_page": 3,
+      "validated_value": "28,144.23"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "Provisional has '130,155' for Risk Adjustment 2023; image shows '130,155' \u2014 correct.",
+      "round2_value": "130,155",
+      "row_index": 12,
+      "source_pdf_page": 3,
+      "validated_value": "130,155"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "Provisional has '782,558' for Total Insurance Contract Liabilities 2023; image shows '782,558' \u2014 correct.",
+      "round2_value": "782,558",
+      "row_index": 13,
+      "source_pdf_page": 3,
+      "validated_value": "782,558"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "Provisional has '1,785,539' for Total Liability for Remaining Coverage 2023; image shows '1,785,539' \u2014 correct.",
+      "round2_value": "1,785,539",
+      "row_index": 14,
+      "source_pdf_page": 3,
+      "validated_value": "1,785,539"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "Provisional has '(396,148)' for Net Insurance Acquisition Cashflows 2023; image shows '(396,148)' \u2014 correct.",
+      "round2_value": "(396,148)",
+      "row_index": 15,
+      "source_pdf_page": 3,
+      "validated_value": "(396,148)"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "Provisional has '4,650' for Loss Component 2023; image shows '4,650' \u2014 correct.",
+      "round2_value": "4,650",
+      "row_index": 16,
+      "source_pdf_page": 3,
+      "validated_value": "4,650"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "Provisional has '2,176,599' for Total gross non-life insurance contract liabilities 2023; image shows '2,176,599' \u2014 correct.",
+      "round2_value": "2,176,599",
+      "row_index": 17,
+      "source_pdf_page": 3,
+      "validated_value": "2,176,599"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "Provisional has '313,167' for Less Asset for Reinsurance on Incurred Claims 2023; image shows '313,167' \u2014 correct.",
+      "round2_value": "313,167",
+      "row_index": 18,
+      "source_pdf_page": 3,
+      "validated_value": "313,167"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "Provisional has '696,473' for Less Asset for Remaining Coverage reinsurance 2023; image shows '696,473' \u2014 correct.",
+      "round2_value": "696,473",
+      "row_index": 19,
+      "source_pdf_page": 3,
+      "validated_value": "696,473"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "Provisional has '1,166,959' for *Net non-life insurance contract liabilities 2023; image shows '1,166,959' \u2014 correct.",
+      "round2_value": "1,166,959",
+      "row_index": 20,
+      "source_pdf_page": 3,
+      "validated_value": "1,166,959"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "Provisional has '585,692' for Other Admissible liabilities 2023; image shows '585,692' \u2014 correct.",
+      "round2_value": "585,692",
+      "row_index": 21,
+      "source_pdf_page": 3,
+      "validated_value": "585,692"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "Provisional has '1,752,651' for Total net Liabilities 2023; image shows '1,752,651' \u2014 correct.",
+      "round2_value": "1,752,651",
+      "row_index": 22,
+      "source_pdf_page": 3,
+      "validated_value": "1,752,651"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "Provisional has '4,346,721' for Net Admissible assets value 2023; image shows '4,346,721' \u2014 correct.",
+      "round2_value": "4,346,721",
+      "row_index": 23,
+      "source_pdf_page": 3,
+      "validated_value": "4,346,721"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "Provisional has '3,000,000' for Minimum Required Capital 2023; image shows '3,000,000' \u2014 correct.",
+      "round2_value": "3,000,000",
+      "row_index": 24,
+      "source_pdf_page": 3,
+      "validated_value": "3,000,000"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "Provisional has '4,346,721' for Solvency Margin 2023; image shows '4,346,721' \u2014 correct.",
+      "round2_value": "4,346,721",
+      "row_index": 25,
+      "source_pdf_page": 3,
+      "validated_value": "4,346,721"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "Provisional has '144.89%' for Solvency Capital Ratio* 2023; image shows '144.89%' \u2014 correct.",
+      "round2_value": "144.89%",
+      "row_index": 26,
+      "source_pdf_page": 3,
+      "validated_value": "144.89%"
+    }
+  ],
+  "final_headers_raw": [
+    "In NGN'000",
+    "2021",
+    "2022",
+    "2023"
+  ],
+  "final_normalized_rows": [],
+  "final_rows_raw": [
+    [
+      "Total Insurance Revenue",
+      "4,646,308",
+      "4,966,566",
+      "5,041,051"
+    ],
+    [
+      "Total Admissible assets",
+      "4,881,036",
+      "5,428,290",
+      "7,109,012"
+    ],
+    [
+      "Insurance Contract Liabilities:",
+      "",
+      "",
+      ""
+    ],
+    [
+      "General Accident",
+      "118,705",
+      "115,144",
+      "172,171"
+    ],
+    [
+      "Motor",
+      "87,848",
+      "37,775",
+      "99,856"
+    ],
+    [
+      "Marine",
+      "24,358",
+      "99,082",
+      "14,699"
+    ],
+    [
+      "Aviation",
+      "-",
+      "59.28",
+      "56.22"
+    ],
+    [
+      "Engineering",
+      "18,492",
+      "12,020",
+      "111,445"
+    ],
+    [
+      "Bond",
+      "12,224",
+      "4,423",
+      "16,295"
+    ],
+    [
+      "Fire & other damage to property",
+      "186,425",
+      "66,844",
+      "173,315"
+    ],
+    [
+      "Oil & Gas",
+      "17,706",
+      "15,869",
+      "18,110"
+    ],
+    [
+      "Agriculture",
+      "6,490",
+      "21,529",
+      "46,456"
+    ],
+    [
+      "Risk Adjustment",
+      "61,468",
+      "28,144.23",
+      "130,155"
+    ],
+    [
+      "Total",
+      "533,715",
+      "400,889",
+      "782,558"
+    ],
+    [
+      "Total Liability for Remaining Coverage",
+      "665,746",
+      "623,547",
+      "1,785,539"
+    ],
+    [
+      "Net Insurance Acquisition Cashflows",
+      "(417,245)",
+      "(72,550)",
+      "(396,148)"
+    ],
+    [
+      "Loss Component",
+      "0",
+      "41.40",
+      "4,650"
+    ],
+    [
+      "Total gross non-life insurance contract liabilities",
+      "782,216",
+      "951,927",
+      "2,176,599"
+    ],
+    [
+      "Less Asset for Reinsurance on Incurred Claims",
+      "214,715",
+      "149,328.10",
+      "313,167"
+    ],
+    [
+      "Less Asset for Remaining Coverage reinsurance",
+      "545,009",
+      "221,829.38",
+      "696,473"
+    ],
+    [
+      "*Net non-life insurance contract liabilities",
+      "22,491",
+      "580,770",
+      "1,166,959"
+    ],
+    [
+      "Other Admissible liabilities",
+      "635,095",
+      "517,849",
+      "585,692"
+    ],
+    [
+      "Total net Liabilities",
+      "657,586",
+      "1,098,619",
+      "1,752,651"
+    ],
+    [
+      "Net Admissible assets value",
+      "3,463,725",
+      "3,958,514",
+      "4,346,721"
+    ],
+    [
+      "Minimum Required Capital",
+      "3,000,000",
+      "3,000,000",
+      "3,000,000"
+    ],
+    [
+      "Solvency Margin",
+      "3,463,725",
+      "3,958,514",
+      "4,346,721"
+    ],
+    [
+      "Solvency Capital Ratio*",
+      "115.46%",
+      "131.95%",
+      "144.89%"
+    ]
+  ],
+  "final_title_raw": "Non-life Life insurance contract liabilities and net asset value",
+  "issues": [],
+  "source_pages": [
+    3
+  ],
+  "table_complete": true,
+  "table_id": "T01",
+  "verdict": "corrected"
+}

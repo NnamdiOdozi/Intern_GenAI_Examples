@@ -1,0 +1,156 @@
+{
+  "checks": {
+    "continuation_verified": true,
+    "header_width_consistent": true,
+    "page_citations_verified": true,
+    "row_widths_consistent": true,
+    "totals_status": "reconciles"
+  },
+  "corrections": [],
+  "final_headers_raw": [
+    "(NGN'000)",
+    "General Accident",
+    "Motor",
+    "Aviation",
+    "Marine",
+    "Engineering",
+    "Bond",
+    "Fire",
+    "Oil & Gas",
+    "Agriculture",
+    "Total"
+  ],
+  "final_normalized_rows": [
+    [
+      "Gross written premiums",
+      394577,
+      687248,
+      1815,
+      262270,
+      355014,
+      352399,
+      767655,
+      2049113,
+      59817,
+      4929908
+    ],
+    [
+      "Reinsurance premiums",
+      17785,
+      108172,
+      null,
+      76073,
+      129686,
+      118724,
+      210177,
+      820321,
+      null,
+      1480940
+    ],
+    [
+      "Net written premiums",
+      376792,
+      579076,
+      1815,
+      186197,
+      225328,
+      233674,
+      557477,
+      1228792,
+      59817,
+      3448968
+    ],
+    [
+      "Retention",
+      "95%",
+      "84%",
+      "100%",
+      "71%",
+      "63%",
+      "66%",
+      "73%",
+      "60%",
+      "100%",
+      "70%"
+    ]
+  ],
+  "final_rows_raw": [
+    [
+      "Gross written premiums",
+      "394.577",
+      "687.248",
+      "1.815",
+      "262.270",
+      "355.014",
+      "352.399",
+      "767.655",
+      "2.049.113",
+      "59.817",
+      "4.929.908"
+    ],
+    [
+      "Reinsurance premiums",
+      "17.785",
+      "108.172",
+      "-",
+      "76.073",
+      "129.686",
+      "118.724",
+      "210.177",
+      "820.321",
+      "-",
+      "1.480.940"
+    ],
+    [
+      "Net written premiums",
+      "376.792",
+      "579.076",
+      "1.815",
+      "186.197",
+      "225.328",
+      "233.674",
+      "557.477",
+      "1.228.792",
+      "59.817",
+      "3.448.968"
+    ],
+    [
+      "Retention",
+      "95%",
+      "84%",
+      "100%",
+      "71%",
+      "63%",
+      "66%",
+      "73%",
+      "60%",
+      "100%",
+      "70%"
+    ]
+  ],
+  "final_title_raw": "Table 6b: Retention by class- General business 2022",
+  "issues": [
+    {
+      "category": "arithmetic_anomaly",
+      "confidence": "high",
+      "location": "Row 3 (Net written premiums), Column Bond",
+      "materiality": "material",
+      "observation": "Printed value 233,674 does not reconcile with Gross (352,399) - Reinsurance (118,724) = 233,675.",
+      "recommended_action": "Flag for review; do not overwrite printed value."
+    },
+    {
+      "category": "arithmetic_anomaly",
+      "confidence": "high",
+      "location": "Row 3 (Net written premiums), Column Fire",
+      "materiality": "material",
+      "observation": "Printed value 557,477 does not reconcile with Gross (767,655) - Reinsurance (210,177) = 557,478.",
+      "recommended_action": "Flag for review; do not overwrite printed value."
+    }
+  ],
+  "source_pages": [
+    16
+  ],
+  "table_complete": true,
+  "table_id": "T10",
+  "verdict": "accepted"
+}

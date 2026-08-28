@@ -1,0 +1,66 @@
+{
+  "cell_flags": [],
+  "concerns": [],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "footnotes_raw": [
+    "The premium adjustment rate of 2.12% minimum and 9% [2022: 12.5%] maximum applied to the gross net premium appear to be cumbersome and tilted towards the protection of the Reinsurer\u2019s interest only. In the spirit of continuity of business relations, we will suggest that the adjustment should be simplified and reduced to only 5% so as to translate to more premium retention to the reinsured.",
+    "The treaty covers the following key businesses written in the General Accident department of the company: Burglary or Theft (Private and business Premises), Goods-In-Transit, Money (CIT & CIS), Personal/Group Personal Accident, Professional Indemnity, All Risks, Fidelity Guarantee (Person / firm), Public /Product liability, Workmen Compensation, Owners/Occupiers liability, Bodily Injury /Death, Property damage,"
+  ],
+  "headers_raw": [
+    "Coverage",
+    "Deductible",
+    "Treaty Capacity"
+  ],
+  "normalized_rows": [
+    [
+      "Layer 1 Per risk",
+      "NGN5mn ultimate net loss any one loss",
+      "NGN5mn ultimate net loss any one loss",
+      "NGN10mn; (Annual Aggregate Limit: NGN25mn)"
+    ],
+    [
+      "Layer 2 Per risk",
+      "NGN40mn ultimate net loss any one loss",
+      "NGN10mn ultimate net loss any one loss",
+      "NGN40mn; (Annual Aggregate Limit: NGN60mn)"
+    ],
+    [
+      "Layer 3",
+      "NGN80mn ultimate net loss any one loss",
+      "NGN50mn ultimate net loss any one loss",
+      "NGN30mn; (Annual Aggregate Limit: NGN100mn)"
+    ]
+  ],
+  "pages_seen": [
+    37
+  ],
+  "rows_raw": [
+    [
+      "Layer 1 Per risk",
+      "NGN5mn ultimate net loss any one loss",
+      "NGN5mn ultimate net loss any one loss",
+      "NGN10mn; (Annual Aggregate Limit: NGN25mn)"
+    ],
+    [
+      "Layer 2 Per risk",
+      "NGN40mn ultimate net loss any one loss",
+      "NGN10mn ultimate net loss any one loss",
+      "NGN40mn; (Annual Aggregate Limit: NGN60mn)"
+    ],
+    [
+      "Layer 3",
+      "NGN80mn ultimate net loss any one loss",
+      "NGN50mn ultimate net loss any one loss",
+      "NGN30mn; (Annual Aggregate Limit: NGN100mn)"
+    ]
+  ],
+  "source_pages": [],
+  "table_complete": true,
+  "table_id": "T35",
+  "table_number_raw": "",
+  "title_raw": "Excess of Loss (XL) Treaty - A summary of the overall one-layer XL cover is set out below:",
+  "units_raw": "NGNmn",
+  "_header_width": 3,
+  "_row_width": 4
+}

@@ -1,0 +1,281 @@
+{
+  "checks": {
+    "continuation_verified": true,
+    "header_width_consistent": true,
+    "page_citations_verified": true,
+    "row_widths_consistent": true,
+    "totals_status": "reconciles"
+  },
+  "corrections": [
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '0,385105167' as comma-decimal, but should be period-decimal for consistency with other numeric formats in table and standard financial reporting. Corrected to '0.385105167'.",
+      "round2_value": "0.385105167",
+      "row_index": 16,
+      "source_pdf_page": 31,
+      "validated_value": "0.385105167"
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misread percentage format; image clearly shows '40,62%' with comma as decimal separator. Standardized to period-decimal: '0.4062' to match the (Treaty+ FAC)/GWP ratio format used elsewhere in the table.",
+      "round2_value": "0.4062",
+      "row_index": 17,
+      "source_pdf_page": 31,
+      "validated_value": "0.4062"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR incorrectly inserted a dot as thousand separator in '2.516.567' and '2.054.282'. Image shows no separators \u2014 values are '2516.567' and '2054.282' respectively. Corrected to remove dots.",
+      "round2_value": "2516.567",
+      "row_index": 12,
+      "source_pdf_page": 31,
+      "validated_value": "2516.567"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR incorrectly inserted a dot as thousand separator in '2.054.282'. Image shows no separators \u2014 value is '2054.282'. Corrected to remove dot.",
+      "round2_value": "2054.282",
+      "row_index": 12,
+      "source_pdf_page": 31,
+      "validated_value": "2054.282"
+    }
+  ],
+  "final_headers_raw": [
+    "As at 31 December ......",
+    "EPI AS AT 31/12/2021",
+    "GWP AS AT 31/12/2023",
+    "GWP AS AT 31/12/2022"
+  ],
+  "final_normalized_rows": [
+    [
+      "Surplus",
+      null,
+      null,
+      0
+    ],
+    [
+      "Fire Surplus",
+      null,
+      null,
+      null
+    ],
+    [
+      "Fire WXL (net retained)",
+      null,
+      948.317,
+      767.655
+    ],
+    [
+      "Fire",
+      200.0,
+      null,
+      null
+    ],
+    [
+      "Terrorism",
+      5.0,
+      null,
+      null
+    ],
+    [
+      "Engineering",
+      75.0,
+      442.353,
+      355.014
+    ],
+    [
+      "Bond (Quota Share)",
+      45.0,
+      387.306,
+      352.399
+    ],
+    [
+      "Marine Cargo",
+      30.0,
+      null,
+      null
+    ],
+    [
+      "Marine Hull",
+      50.0,
+      246.32,
+      260.241
+    ],
+    [
+      "Excess of Loss",
+      null,
+      null,
+      null
+    ],
+    [
+      "General Accident XL",
+      200.0,
+      440.09,
+      394.577
+    ],
+    [
+      "Motor XL",
+      750.0,
+      944.701,
+      687.248
+    ],
+    [
+      "Oil & Gas XL",
+      927.0,
+      2516.567,
+      2054.282
+    ],
+    [
+      "TOTAL",
+      2282.0,
+      5925.654,
+      4871.416
+    ],
+    [
+      "Facultative",
+      205.0,
+      196.35,
+      205.0
+    ],
+    [
+      "Grand Total",
+      2487.0,
+      6122.004,
+      5076.416
+    ],
+    [
+      "Treaty/GWP",
+      0.385105167,
+      null,
+      null
+    ],
+    [
+      "(Treaty+ FAC)/GWP",
+      0.4062,
+      null,
+      null
+    ]
+  ],
+  "final_rows_raw": [
+    [
+      "Surplus",
+      "",
+      "",
+      "0"
+    ],
+    [
+      "Fire Surplus",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Fire WXL (net retained)",
+      "",
+      "948.317",
+      "767.655"
+    ],
+    [
+      "Fire",
+      "200.000",
+      "",
+      ""
+    ],
+    [
+      "Terrorism",
+      "5.000",
+      "",
+      ""
+    ],
+    [
+      "Engineering",
+      "75.000",
+      "442.353",
+      "355.014"
+    ],
+    [
+      "Bond (Quota Share)",
+      "45.000",
+      "387.306",
+      "352.399"
+    ],
+    [
+      "Marine Cargo",
+      "30.000",
+      "",
+      ""
+    ],
+    [
+      "Marine Hull",
+      "50.000",
+      "246.320",
+      "260.241"
+    ],
+    [
+      "Excess of Loss",
+      "",
+      "",
+      ""
+    ],
+    [
+      "General Accident XL",
+      "200.000",
+      "440.090",
+      "394.577"
+    ],
+    [
+      "Motor XL",
+      "750.000",
+      "944.701",
+      "687.248"
+    ],
+    [
+      "Oil & Gas XL",
+      "927.000",
+      "2516.567",
+      "2054.282"
+    ],
+    [
+      "TOTAL",
+      "2282.000",
+      "5925.654",
+      "4871.416"
+    ],
+    [
+      "Facultative",
+      "205.000",
+      "196.350",
+      "205.000"
+    ],
+    [
+      "Grand Total",
+      "2487.000",
+      "6122.004",
+      "5076.416"
+    ],
+    [
+      "Treaty/GWP",
+      "0.385105167",
+      "",
+      ""
+    ],
+    [
+      "(Treaty+ FAC)/GWP",
+      "0.4062",
+      "",
+      ""
+    ]
+  ],
+  "final_title_raw": "Analysis",
+  "issues": [],
+  "source_pages": [
+    31
+  ],
+  "table_complete": true,
+  "table_id": "T29",
+  "verdict": "corrected"
+}

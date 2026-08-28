@@ -1,0 +1,80 @@
+{
+  "cell_flags": [],
+  "concerns": [],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "footnotes_raw": [],
+  "headers_raw": [
+    "Surplus/XL Treaty Reinsurers",
+    "Rating",
+    "RATING AGENCY"
+  ],
+  "normalized_rows": [],
+  "pages_seen": [
+    46
+  ],
+  "rows_raw": [
+    [
+      "African Re",
+      "-",
+      "A-",
+      "-"
+    ],
+    [
+      "Continental Re",
+      "-",
+      "A-",
+      "-"
+    ],
+    [
+      "Waica Re",
+      "-",
+      "B+",
+      "-"
+    ],
+    [
+      "Trust Re",
+      "-",
+      "A-",
+      "-"
+    ],
+    [
+      "GIC Re",
+      "-",
+      "A-",
+      "-"
+    ],
+    [
+      "Zep Re",
+      "-",
+      "B+",
+      "-"
+    ],
+    [
+      "CICA Re",
+      "-",
+      "BB+",
+      "-"
+    ],
+    [
+      "Aveni Re",
+      "-",
+      "BBB+",
+      "-"
+    ],
+    [
+      "Nigeria Re",
+      "-",
+      "BBB+",
+      "-"
+    ]
+  ],
+  "source_pages": [],
+  "table_complete": true,
+  "table_id": "T50",
+  "table_number_raw": "1.",
+  "title_raw": "Panel of Reinsurer",
+  "units_raw": "N/A",
+  "_header_width": 3,
+  "_row_width": 4
+}

@@ -1,0 +1,187 @@
+{
+  "checks": {
+    "continuation_verified": true,
+    "header_width_consistent": true,
+    "page_citations_verified": true,
+    "row_widths_consistent": true,
+    "totals_status": "reconciles"
+  },
+  "corrections": [
+    {
+      "column_index": 0,
+      "confidence": "high",
+      "reason": "OCR missed rows for OMAN Re, GHANA Re, ARB/WAICA RE., SIERRA LEONE and Total row.",
+      "round2_value": "",
+      "row_index": 6,
+      "source_pdf_page": 39,
+      "validated_value": "OMAN Re:"
+    },
+    {
+      "column_index": 0,
+      "confidence": "high",
+      "reason": "OCR missed rows for OMAN Re, GHANA Re, ARB/WAICA RE., SIERRA LEONE and Total row.",
+      "round2_value": "",
+      "row_index": 7,
+      "source_pdf_page": 39,
+      "validated_value": "GHANA Re:"
+    },
+    {
+      "column_index": 0,
+      "confidence": "high",
+      "reason": "OCR missed rows for OMAN Re, GHANA Re, ARB/WAICA RE., SIERRA LEONE and Total row.",
+      "round2_value": "",
+      "row_index": 8,
+      "source_pdf_page": 39,
+      "validated_value": "ARB/WAICA Re, SIERRA LEONE"
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR missed rows for OMAN Re, GHANA Re, ARB/WAICA RE., SIERRA LEONE and Total row.",
+      "round2_value": "",
+      "row_index": 6,
+      "source_pdf_page": 39,
+      "validated_value": "5%"
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR missed rows for OMAN Re, GHANA Re, ARB/WAICA RE., SIERRA LEONE and Total row.",
+      "round2_value": "",
+      "row_index": 7,
+      "source_pdf_page": 39,
+      "validated_value": "5%"
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR missed rows for OMAN Re, GHANA Re, ARB/WAICA RE., SIERRA LEONE and Total row.",
+      "round2_value": "",
+      "row_index": 8,
+      "source_pdf_page": 39,
+      "validated_value": "10%"
+    },
+    {
+      "column_index": 0,
+      "confidence": "high",
+      "reason": "OCR missed rows for OMAN Re, GHANA Re, ARB/WAICA RE., SIERRA LEONE and Total row.",
+      "round2_value": "",
+      "row_index": 9,
+      "source_pdf_page": 39,
+      "validated_value": "Total"
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR missed rows for OMAN Re, GHANA Re, ARB/WAICA RE., SIERRA LEONE and Total row.",
+      "round2_value": "",
+      "row_index": 9,
+      "source_pdf_page": 39,
+      "validated_value": "100%"
+    }
+  ],
+  "final_headers_raw": [
+    "Reinsurer",
+    "Proportion Shared"
+  ],
+  "final_normalized_rows": [
+    [
+      "Reinsurer",
+      "Proportion Shared"
+    ],
+    [
+      "African Re:",
+      "40%"
+    ],
+    [
+      "Continental Re:",
+      "10%"
+    ],
+    [
+      "FBS Re:",
+      "10%"
+    ],
+    [
+      "Aveni Re:",
+      "5%"
+    ],
+    [
+      "WAICA Re:",
+      "10%"
+    ],
+    [
+      "NCA Re:",
+      "5%"
+    ],
+    [
+      "OMAN Re:",
+      "5%"
+    ],
+    [
+      "GHANA Re:",
+      "5%"
+    ],
+    [
+      "ARB/WAICA Re,S IERR ALEONE",
+      "10%"
+    ],
+    [
+      "Total",
+      "100%"
+    ]
+  ],
+  "final_rows_raw": [
+    [
+      "Reinsurer",
+      "Proportion Shared"
+    ],
+    [
+      "African Re:",
+      "40%"
+    ],
+    [
+      "Continental Re:",
+      "10%"
+    ],
+    [
+      "FBSRe:",
+      "10%"
+    ],
+    [
+      "Av eniRe:",
+      "5%"
+    ],
+    [
+      "WAIC ARe:",
+      "10%"
+    ],
+    [
+      "NC ARe:",
+      "5%"
+    ],
+    [
+      "OMANRe:",
+      "5%"
+    ],
+    [
+      "GHAN ARe:",
+      "5%"
+    ],
+    [
+      "AR B/WAI CARe,S IERR ALEONE ",
+      "10%"
+    ],
+    [
+      "Total ",
+      "100%"
+    ]
+  ],
+  "final_title_raw": "The reinsurers take 100% share of the treaty as follows:",
+  "issues": [],
+  "source_pages": [
+    39
+  ],
+  "table_complete": true,
+  "table_id": "T43",
+  "verdict": "corrected"
+}

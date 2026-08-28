@@ -1,0 +1,112 @@
+{
+  "checks": {
+    "continuation_verified": true,
+    "header_width_consistent": true,
+    "page_citations_verified": true,
+    "row_widths_consistent": true,
+    "totals_status": "not_applicable"
+  },
+  "corrections": [
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misinterpreted decimal separator; image shows comma as decimal and period as thousand separator in NPV values.",
+      "round2_value": 2396820.061,
+      "row_index": 0,
+      "source_pdf_page": 27,
+      "validated_value": 2396820.061
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misinterpreted decimal separator; image shows comma as decimal and period as thousand separator in NPV values.",
+      "round2_value": 744834.892,
+      "row_index": 1,
+      "source_pdf_page": 27,
+      "validated_value": 744834.892
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misinterpreted decimal separator; image uses comma for decimal in Duration column.",
+      "round2_value": 2.05,
+      "row_index": 0,
+      "source_pdf_page": 27,
+      "validated_value": 2.05
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misinterpreted decimal separator; image uses comma for decimal in Duration column.",
+      "round2_value": 1.48,
+      "row_index": 1,
+      "source_pdf_page": 27,
+      "validated_value": 1.48
+    },
+    {
+      "column_index": 4,
+      "confidence": "high",
+      "reason": "OCR misinterpreted decimal separator; image uses comma for decimal in Convexity column.",
+      "round2_value": 5.79,
+      "row_index": 0,
+      "source_pdf_page": 27,
+      "validated_value": 5.79
+    },
+    {
+      "column_index": 4,
+      "confidence": "high",
+      "reason": "OCR misinterpreted decimal separator; image uses comma for decimal in Convexity column.",
+      "round2_value": 5.49,
+      "row_index": 1,
+      "source_pdf_page": 27,
+      "validated_value": 5.49
+    }
+  ],
+  "final_headers_raw": [
+    "Scenario 1:",
+    "NPV",
+    "",
+    "Duration:",
+    "Convexity:"
+  ],
+  "final_normalized_rows": [
+    [
+      "All Assets",
+      2396820.061,
+      null,
+      2.05,
+      5.79
+    ],
+    [
+      "All Liabilities",
+      744834.892,
+      null,
+      1.48,
+      5.49
+    ]
+  ],
+  "final_rows_raw": [
+    [
+      "All Assets",
+      "2.396.820,061",
+      "",
+      "2,05",
+      "5,79"
+    ],
+    [
+      "All Liabilities",
+      "744.834,892",
+      "",
+      "1,48",
+      "5,49"
+    ]
+  ],
+  "final_title_raw": "Scenario 1: NPV Duration Convexity",
+  "issues": [],
+  "source_pages": [
+    27
+  ],
+  "table_complete": true,
+  "table_id": "T26",
+  "verdict": "corrected"
+}

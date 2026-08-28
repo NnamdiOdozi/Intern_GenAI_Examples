@@ -1,0 +1,68 @@
+{
+  "cell_flags": [],
+  "concerns": [],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "footnotes_raw": [],
+  "headers_raw": [
+    "",
+    "Coverage",
+    "Deductible",
+    "Treaty Capacity"
+  ],
+  "normalized_rows": [
+    [
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Layer 1 Per risk",
+      "NGN5mn ultimate net loss any one loss",
+      "NGN5mn ultimate net loss any one loss",
+      null
+    ],
+    [
+      "Layer 2 Per risk",
+      "NGN40mn ultimate net loss any one loss",
+      "NGN10mn ultimate net loss any one loss",
+      null
+    ],
+    [
+      "Layer 3",
+      "NGN80mn ultimate net loss any one loss",
+      "NGN50mn ultimate net loss any one loss",
+      null
+    ]
+  ],
+  "pages_seen": [
+    37
+  ],
+  "rows_raw": [
+    [
+      null,
+      "\u200bCoverage\u200b\u200b\u200b\u200b\u200b\u200b\u200bDeductible\u200bTreaty Capacity"
+    ],
+    [
+      "Layer 1\nPer risk",
+      "\u2693 NGN5mn ultimate net loss any one\nloss \u2693 NGN5mn ultimate net\nloss any one loss \u2693 NGN10mn; (Annual\nAggregate Limit:\nNGN25mn)"
+    ],
+    [
+      "Layer 2\nPer risk",
+      "\u2693 NGN4omn ultimate net loss any\none loss \u2693 NGN1omn ultimate net\nloss any one loss \u2693 NGN4omn; (Annual\nAggregate Limit:\nNGNoomn)"
+    ],
+    [
+      "Layer 3 ",
+      "\u2693 NGNoomn ultimate net losS anY\none losS \u2693 NGNoomn ultmate neT\ncoss anY One coss \u2693 NGNoomn; (Annual\nAggregate Limit:\nNGNoomm)"
+    ]
+  ],
+  "source_pages": [],
+  "table_complete": true,
+  "table_id": "T38",
+  "table_number_raw": "T38",
+  "title_raw": "A summary of the overall one-layer XL cover is set out below:",
+  "units_raw": "(in millions of Naira)",
+  "_header_width": 4,
+  "_row_width": 2
+}

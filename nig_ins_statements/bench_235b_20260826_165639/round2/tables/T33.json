@@ -1,0 +1,127 @@
+{
+  "cell_flags": [],
+  "concerns": [],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "footnotes_raw": [],
+  "headers_raw": [
+    "Reinsurer",
+    "Proportion Shared",
+    "Rating"
+  ],
+  "normalized_rows": [
+    [
+      "African Re:",
+      0.4,
+      "A by A.M Best and A- by S&P"
+    ],
+    [
+      "Continental Re:",
+      0.1,
+      "B+ by A.M Best"
+    ],
+    [
+      "FBS Re:",
+      0.1,
+      "B by A.M Best"
+    ],
+    [
+      "AVENI Re:",
+      0.05,
+      null
+    ],
+    [
+      "WAICA Re:",
+      0.1,
+      null
+    ],
+    [
+      "NCA Re:",
+      0.05,
+      null
+    ],
+    [
+      "OMAN Re:",
+      0.05,
+      null
+    ],
+    [
+      "GHANA Re:",
+      0.05,
+      null
+    ],
+    [
+      "ARB/WAICA RE, SERRA LEONE",
+      0.1,
+      null
+    ],
+    [
+      "Total",
+      1.0,
+      null
+    ]
+  ],
+  "pages_seen": [
+    36
+  ],
+  "rows_raw": [
+    [
+      "African Re:",
+      "40%",
+      "A by A.M Best and A- by S& P"
+    ],
+    [
+      "Continental Re:",
+      "10%",
+      "B+ by A.M Best"
+    ],
+    [
+      "FBS Re:",
+      "10%",
+      "B by A.M Best"
+    ],
+    [
+      "AVENI Re:",
+      "5%",
+      ""
+    ],
+    [
+      "WAICA Re:",
+      "10%",
+      ""
+    ],
+    [
+      "NCA Re:",
+      "5%",
+      ""
+    ],
+    [
+      "OMAN Re:",
+      "5%",
+      ""
+    ],
+    [
+      "GHANA Re:",
+      "5%",
+      ""
+    ],
+    [
+      "ARB/WAICA RE, SERRA LEONE",
+      "10%",
+      ""
+    ],
+    [
+      "Total",
+      "100%",
+      ""
+    ]
+  ],
+  "source_pages": [],
+  "table_complete": true,
+  "table_id": "T33",
+  "table_number_raw": "",
+  "title_raw": "Reinsurer Proportion Shared Rating",
+  "units_raw": "percent, rating scale",
+  "_header_width": 3,
+  "_row_width": 3
+}

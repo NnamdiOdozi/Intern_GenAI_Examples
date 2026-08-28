@@ -1,0 +1,509 @@
+{
+  "checks": {
+    "continuation_verified": true,
+    "header_width_consistent": true,
+    "page_citations_verified": true,
+    "row_widths_consistent": true,
+    "totals_status": "reconciles"
+  },
+  "corrections": [
+    {
+      "column_index": 0,
+      "confidence": "high",
+      "reason": "OCR misread 'Gross written premiums' as 'Gross written premiums' \u2014 no change needed, but confirming exact match.",
+      "round2_value": "Gross written premiums",
+      "row_index": 0,
+      "source_pdf_page": 16,
+      "validated_value": "Gross written premiums"
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misinterpreted decimal separator; image shows '438.670' which is 438,670 in NGN'000 \u2014 corrected to integer.",
+      "round2_value": 438670,
+      "row_index": 0,
+      "source_pdf_page": 16,
+      "validated_value": 438670
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misinterpreted decimal separator; image shows '906.943' which is 906,943 in NGN'000 \u2014 corrected to integer.",
+      "round2_value": 906943,
+      "row_index": 0,
+      "source_pdf_page": 16,
+      "validated_value": 906943
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR correctly captured '599' for Aviation Gross written premiums.",
+      "round2_value": 599,
+      "row_index": 0,
+      "source_pdf_page": 16,
+      "validated_value": 599
+    },
+    {
+      "column_index": 4,
+      "confidence": "high",
+      "reason": "OCR misinterpreted decimal separator; image shows '231.167' which is 231,167 in NGN'000 \u2014 corrected to integer.",
+      "round2_value": 231167,
+      "row_index": 0,
+      "source_pdf_page": 16,
+      "validated_value": 231167
+    },
+    {
+      "column_index": 5,
+      "confidence": "high",
+      "reason": "OCR misinterpreted decimal separator; image shows '433.715' which is 433,715 in NGN'000 \u2014 corrected to integer.",
+      "round2_value": 433715,
+      "row_index": 0,
+      "source_pdf_page": 16,
+      "validated_value": 433715
+    },
+    {
+      "column_index": 6,
+      "confidence": "high",
+      "reason": "OCR misinterpreted decimal separator; image shows '387.111' which is 387,111 in NGN'000 \u2014 corrected to integer.",
+      "round2_value": 387111,
+      "row_index": 0,
+      "source_pdf_page": 16,
+      "validated_value": 387111
+    },
+    {
+      "column_index": 7,
+      "confidence": "high",
+      "reason": "OCR misinterpreted decimal separator; image shows '819.265' which is 819,265 in NGN'000 \u2014 corrected to integer.",
+      "round2_value": 819265,
+      "row_index": 0,
+      "source_pdf_page": 16,
+      "validated_value": 819265
+    },
+    {
+      "column_index": 8,
+      "confidence": "high",
+      "reason": "OCR misinterpreted decimal separator; image shows '2.516.607' which is 2,516,607 in NGN'000 \u2014 corrected to integer.",
+      "round2_value": 2516607,
+      "row_index": 0,
+      "source_pdf_page": 16,
+      "validated_value": 2516607
+    },
+    {
+      "column_index": 9,
+      "confidence": "high",
+      "reason": "OCR misinterpreted decimal separator; image shows '1.827' which is 1,827 in NGN'000 \u2014 corrected to integer.",
+      "round2_value": 1827,
+      "row_index": 0,
+      "source_pdf_page": 16,
+      "validated_value": 1827
+    },
+    {
+      "column_index": 10,
+      "confidence": "high",
+      "reason": "OCR misinterpreted decimal separator; image shows '5.735.903' which is 5,735,903 in NGN'000 \u2014 corrected to integer.",
+      "round2_value": 5735903,
+      "row_index": 0,
+      "source_pdf_page": 16,
+      "validated_value": 5735903
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misinterpreted decimal separator; image shows '17.785' which is 17,785 in NGN'000 \u2014 corrected to integer.",
+      "round2_value": 17785,
+      "row_index": 1,
+      "source_pdf_page": 16,
+      "validated_value": 17785
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misinterpreted decimal separator; image shows '108.172' which is 108,172 in NGN'000 \u2014 corrected to integer.",
+      "round2_value": 108172,
+      "row_index": 1,
+      "source_pdf_page": 16,
+      "validated_value": 108172
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "Image shows '-' for Aviation Reinsurance premiums \u2014 should be null/blank in normalized form.",
+      "round2_value": null,
+      "row_index": 1,
+      "source_pdf_page": 16,
+      "validated_value": null
+    },
+    {
+      "column_index": 4,
+      "confidence": "high",
+      "reason": "OCR misinterpreted decimal separator; image shows '76.073' which is 76,073 in NGN'000 \u2014 corrected to integer.",
+      "round2_value": 76073,
+      "row_index": 1,
+      "source_pdf_page": 16,
+      "validated_value": 76073
+    },
+    {
+      "column_index": 5,
+      "confidence": "high",
+      "reason": "OCR misinterpreted decimal separator; image shows '129.686' which is 129,686 in NGN'000 \u2014 corrected to integer.",
+      "round2_value": 129686,
+      "row_index": 1,
+      "source_pdf_page": 16,
+      "validated_value": 129686
+    },
+    {
+      "column_index": 6,
+      "confidence": "high",
+      "reason": "OCR misinterpreted decimal separator; image shows '118.724' which is 118,724 in NGN'000 \u2014 corrected to integer.",
+      "round2_value": 118724,
+      "row_index": 1,
+      "source_pdf_page": 16,
+      "validated_value": 118724
+    },
+    {
+      "column_index": 7,
+      "confidence": "high",
+      "reason": "OCR misinterpreted decimal separator; image shows '210.177' which is 210,177 in NGN'000 \u2014 corrected to integer.",
+      "round2_value": 210177,
+      "row_index": 1,
+      "source_pdf_page": 16,
+      "validated_value": 210177
+    },
+    {
+      "column_index": 8,
+      "confidence": "high",
+      "reason": "OCR misinterpreted decimal separator; image shows '820.321' which is 820,321 in NGN'000 \u2014 corrected to integer.",
+      "round2_value": 820321,
+      "row_index": 1,
+      "source_pdf_page": 16,
+      "validated_value": 820321
+    },
+    {
+      "column_index": 9,
+      "confidence": "high",
+      "reason": "Image shows '-' for Agriculture Reinsurance premiums \u2014 should be null/blank in normalized form.",
+      "round2_value": null,
+      "row_index": 1,
+      "source_pdf_page": 16,
+      "validated_value": null
+    },
+    {
+      "column_index": 10,
+      "confidence": "high",
+      "reason": "OCR misinterpreted decimal separator; image shows '1.480.940' which is 1,480,940 in NGN'000 \u2014 corrected to integer.",
+      "round2_value": 1480940,
+      "row_index": 1,
+      "source_pdf_page": 16,
+      "validated_value": 1480940
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misinterpreted decimal separator; image shows '420.885' which is 420,885 in NGN'000 \u2014 corrected to integer.",
+      "round2_value": 420885,
+      "row_index": 2,
+      "source_pdf_page": 16,
+      "validated_value": 420885
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misinterpreted decimal separator; image shows '798.771' which is 798,771 in NGN'000 \u2014 corrected to integer.",
+      "round2_value": 798771,
+      "row_index": 2,
+      "source_pdf_page": 16,
+      "validated_value": 798771
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "Image shows '599' for Aviation Net written premiums \u2014 matches.",
+      "round2_value": 599,
+      "row_index": 2,
+      "source_pdf_page": 16,
+      "validated_value": 599
+    },
+    {
+      "column_index": 4,
+      "confidence": "high",
+      "reason": "OCR misinterpreted decimal separator; image shows '155.093' which is 155,093 in NGN'000 \u2014 corrected to integer.",
+      "round2_value": 155093,
+      "row_index": 2,
+      "source_pdf_page": 16,
+      "validated_value": 155093
+    },
+    {
+      "column_index": 5,
+      "confidence": "high",
+      "reason": "OCR misinterpreted decimal separator; image shows '304.029' which is 304,029 in NGN'000 \u2014 corrected to integer.",
+      "round2_value": 304029,
+      "row_index": 2,
+      "source_pdf_page": 16,
+      "validated_value": 304029
+    },
+    {
+      "column_index": 6,
+      "confidence": "high",
+      "reason": "OCR misinterpreted decimal separator; image shows '268.387' which is 268,387 in NGN'000 \u2014 corrected to integer.",
+      "round2_value": 268387,
+      "row_index": 2,
+      "source_pdf_page": 16,
+      "validated_value": 268387
+    },
+    {
+      "column_index": 7,
+      "confidence": "high",
+      "reason": "OCR misinterpreted decimal separator; image shows '609.088' which is 609,088 in NGN'000 \u2014 corrected to integer.",
+      "round2_value": 609088,
+      "row_index": 2,
+      "source_pdf_page": 16,
+      "validated_value": 609088
+    },
+    {
+      "column_index": 8,
+      "confidence": "high",
+      "reason": "OCR misinterpreted decimal separator; image shows '1.696.286' which is 1,696,286 in NGN'000 \u2014 corrected to integer.",
+      "round2_value": 1696286,
+      "row_index": 2,
+      "source_pdf_page": 16,
+      "validated_value": 1696286
+    },
+    {
+      "column_index": 9,
+      "confidence": "high",
+      "reason": "OCR misinterpreted decimal separator; image shows '1.827' which is 1,827 in NGN'000 \u2014 corrected to integer.",
+      "round2_value": 1827,
+      "row_index": 2,
+      "source_pdf_page": 16,
+      "validated_value": 1827
+    },
+    {
+      "column_index": 10,
+      "confidence": "high",
+      "reason": "OCR misinterpreted decimal separator; image shows '4.254.964' which is 4,254,964 in NGN'000 \u2014 corrected to integer.",
+      "round2_value": 4254964,
+      "row_index": 2,
+      "source_pdf_page": 16,
+      "validated_value": 4254964
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "Image shows '96%' for General Accident Retention \u2014 converted to float 0.96.",
+      "round2_value": 0.96,
+      "row_index": 3,
+      "source_pdf_page": 16,
+      "validated_value": 0.96
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "Image shows '88%' for Motor Retention \u2014 converted to float 0.88.",
+      "round2_value": 0.88,
+      "row_index": 3,
+      "source_pdf_page": 16,
+      "validated_value": 0.88
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "Image shows '100%' for Aviation Retention \u2014 converted to float 1.0.",
+      "round2_value": 1.0,
+      "row_index": 3,
+      "source_pdf_page": 16,
+      "validated_value": 1.0
+    },
+    {
+      "column_index": 4,
+      "confidence": "high",
+      "reason": "Image shows '67%' for Marine Retention \u2014 converted to float 0.67.",
+      "round2_value": 0.67,
+      "row_index": 3,
+      "source_pdf_page": 16,
+      "validated_value": 0.67
+    },
+    {
+      "column_index": 5,
+      "confidence": "high",
+      "reason": "Image shows '70%' for Engineering Retention \u2014 converted to float 0.7.",
+      "round2_value": 0.7,
+      "row_index": 3,
+      "source_pdf_page": 16,
+      "validated_value": 0.7
+    },
+    {
+      "column_index": 6,
+      "confidence": "high",
+      "reason": "Image shows '69%' for Bond Retention \u2014 converted to float 0.69.",
+      "round2_value": 0.69,
+      "row_index": 3,
+      "source_pdf_page": 16,
+      "validated_value": 0.69
+    },
+    {
+      "column_index": 7,
+      "confidence": "high",
+      "reason": "Image shows '74%' for Fire Retention \u2014 converted to float 0.74.",
+      "round2_value": 0.74,
+      "row_index": 3,
+      "source_pdf_page": 16,
+      "validated_value": 0.74
+    },
+    {
+      "column_index": 8,
+      "confidence": "high",
+      "reason": "Image shows '67%' for Oil & Gas Retention \u2014 converted to float 0.67.",
+      "round2_value": 0.67,
+      "row_index": 3,
+      "source_pdf_page": 16,
+      "validated_value": 0.67
+    },
+    {
+      "column_index": 9,
+      "confidence": "high",
+      "reason": "Image shows '100%' for Agriculture Retention \u2014 converted to float 1.0.",
+      "round2_value": 1.0,
+      "row_index": 3,
+      "source_pdf_page": 16,
+      "validated_value": 1.0
+    },
+    {
+      "column_index": 10,
+      "confidence": "high",
+      "reason": "Image shows '74%' for Total Retention \u2014 converted to float 0.74.",
+      "round2_value": 0.74,
+      "row_index": 3,
+      "source_pdf_page": 16,
+      "validated_value": 0.74
+    }
+  ],
+  "final_headers_raw": [
+    "(NGN'000)",
+    "General Accident",
+    "Motor",
+    "Aviation",
+    "Marine",
+    "Engineering",
+    "Bond",
+    "Fire",
+    "Oil & Gas",
+    "Agriculture",
+    "Total"
+  ],
+  "final_normalized_rows": [
+    [
+      "Gross written premiums",
+      438670,
+      906943,
+      599,
+      231167,
+      433715,
+      387111,
+      819265,
+      2516607,
+      1827,
+      5735903
+    ],
+    [
+      "Reinsurance premiums",
+      17785,
+      108172,
+      null,
+      76073,
+      129686,
+      118724,
+      210177,
+      820321,
+      null,
+      1480940
+    ],
+    [
+      "Net written premiums",
+      420885,
+      798771,
+      599,
+      155093,
+      304029,
+      268387,
+      609088,
+      1696286,
+      1827,
+      4254964
+    ],
+    [
+      "Retention",
+      0.96,
+      0.88,
+      1.0,
+      0.67,
+      0.7,
+      0.69,
+      0.74,
+      0.67,
+      1.0,
+      0.74
+    ]
+  ],
+  "final_rows_raw": [
+    [
+      "Gross written premiums",
+      "438.670",
+      "906.943",
+      "599",
+      "231.167",
+      "433.715",
+      "387.111",
+      "819.265",
+      "2.516.607",
+      "1.827",
+      "5.735.903"
+    ],
+    [
+      "Reinsurance premiums",
+      "17.785",
+      "108.172",
+      "-",
+      "76.073",
+      "129.686",
+      "118.724",
+      "210.177",
+      "820.321",
+      "-",
+      "1.480.940"
+    ],
+    [
+      "Net written premiums",
+      "420.885",
+      "798.771",
+      "599",
+      "155.093",
+      "304.029",
+      "268.387",
+      "609.088",
+      "1.696.286",
+      "1.827",
+      "4.254.964"
+    ],
+    [
+      "Retention",
+      "96%",
+      "88%",
+      "100%",
+      "67%",
+      "70%",
+      "69%",
+      "74%",
+      "67%",
+      "100%",
+      "74%"
+    ]
+  ],
+  "final_title_raw": "Retention by class- General business 2023",
+  "issues": [],
+  "source_pages": [
+    16
+  ],
+  "table_complete": true,
+  "table_id": "T10",
+  "verdict": "corrected"
+}

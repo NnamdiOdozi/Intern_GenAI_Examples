@@ -1,0 +1,238 @@
+{
+  "checks": {
+    "continuation_verified": true,
+    "header_width_consistent": true,
+    "page_citations_verified": true,
+    "row_widths_consistent": true,
+    "totals_status": "not_applicable"
+  },
+  "corrections": [
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misread '5.053.990' as '5.053.990' \u2014 the decimal separator is a period, but in context and compared to page 29, it should be a comma for thousands separator. Corrected to '5,053,990'.",
+      "round2_value": "5,053,990",
+      "row_index": 1,
+      "source_pdf_page": 29,
+      "validated_value": "5,053,990"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread '4.935.825' as '4.935.825' \u2014 corrected to use comma as thousands separator: '4,935,825'.",
+      "round2_value": "4,935,825",
+      "row_index": 1,
+      "source_pdf_page": 29,
+      "validated_value": "4,935,825"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread '5.835.454' as '5.835.454' \u2014 corrected to '5,835,454' using comma as thousands separator.",
+      "round2_value": "5,835,454",
+      "row_index": 1,
+      "source_pdf_page": 29,
+      "validated_value": "5,835,454"
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misread '4.935.825' as '4.935.825' \u2014 corrected to '4,935,825'.",
+      "round2_value": "4,935,825",
+      "row_index": 2,
+      "source_pdf_page": 29,
+      "validated_value": "4,935,825"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread '5.835.454' as '5.835.454' \u2014 corrected to '5,835,454'.",
+      "round2_value": "5,835,454",
+      "row_index": 2,
+      "source_pdf_page": 29,
+      "validated_value": "5,835,454"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread '5.835.995' as '5.835.995' \u2014 corrected to '5,835,995'.",
+      "round2_value": "5,835,995",
+      "row_index": 2,
+      "source_pdf_page": 29,
+      "validated_value": "5,835,995"
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misread '4.914.252' as '4.914.252' \u2014 corrected to '4,914,252'.",
+      "round2_value": "4,914,252",
+      "row_index": 3,
+      "source_pdf_page": 29,
+      "validated_value": "4,914,252"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread '5.102.074' as '5.102.074' \u2014 corrected to '5,102,074'.",
+      "round2_value": "5,102,074",
+      "row_index": 3,
+      "source_pdf_page": 29,
+      "validated_value": "5,102,074"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread '5.552.159' as '5.552.159' \u2014 corrected to '5,552,159'.",
+      "round2_value": "5,552,159",
+      "row_index": 3,
+      "source_pdf_page": 29,
+      "validated_value": "5,552,159"
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misread '3,3%' as '3,3%' \u2014 in English contexts, this should be '3.3%'.",
+      "round2_value": "3.3%",
+      "row_index": 4,
+      "source_pdf_page": 29,
+      "validated_value": "3.3%"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread '11,1%' as '11,1%' \u2014 corrected to '11.1%'.",
+      "round2_value": "11.1%",
+      "row_index": 4,
+      "source_pdf_page": 29,
+      "validated_value": "11.1%"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread '10,2%' as '10,2%' \u2014 corrected to '10.2%'.",
+      "round2_value": "10.2%",
+      "row_index": 4,
+      "source_pdf_page": 29,
+      "validated_value": "10.2%"
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misread '6,92%' as '6,92%' \u2014 corrected to '6.92%'.",
+      "round2_value": "6.92%",
+      "row_index": 5,
+      "source_pdf_page": 29,
+      "validated_value": "6.92%"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread '9,14%' as '9,14%' \u2014 corrected to '9.14%'.",
+      "round2_value": "9.14%",
+      "row_index": 5,
+      "source_pdf_page": 29,
+      "validated_value": "9.14%"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread '13.34%' as '13.34%' \u2014 already correct, but confirmed against image; no change needed.",
+      "round2_value": "13.34%",
+      "row_index": 5,
+      "source_pdf_page": 29,
+      "validated_value": "13.34%"
+    }
+  ],
+  "final_headers_raw": [
+    "Table 15: Estimated yield on non-life fund assets",
+    "2021",
+    "2022",
+    "2023"
+  ],
+  "final_normalized_rows": [
+    [
+      "Total investment income plus net gains",
+      "161,312",
+      "567,130",
+      "567,130"
+    ],
+    [
+      "Opening asset value",
+      "5,053,990",
+      "4,935,825",
+      "5,835,454"
+    ],
+    [
+      "Closing asset value",
+      "4,935,825",
+      "5,835,454",
+      "5,835,995"
+    ],
+    [
+      "Mean fund",
+      "4,914,252",
+      "5,102,074",
+      "5,552,159"
+    ],
+    [
+      "Actual rate of return from investments",
+      "3.3%",
+      "11.1%",
+      "10.2%"
+    ],
+    [
+      "Expected rate of return from investments",
+      "6.92%",
+      "9.14%",
+      "13.34%"
+    ]
+  ],
+  "final_rows_raw": [
+    [
+      "Total investment income plus net gains",
+      "161,312",
+      "567,130",
+      "567,130"
+    ],
+    [
+      "Opening asset value",
+      "5,053,990",
+      "4,935,825",
+      "5,835,454"
+    ],
+    [
+      "Closing asset value",
+      "4,935,825",
+      "5,835,454",
+      "5,835,995"
+    ],
+    [
+      "Mean fund",
+      "4,914,252",
+      "5,102,074",
+      "5,552,159"
+    ],
+    [
+      "Actual rate of return from investments",
+      "3.3%",
+      "11.1%",
+      "10.2%"
+    ],
+    [
+      "Expected rate of return from investments",
+      "6.92%",
+      "9.14%",
+      "13.34%"
+    ]
+  ],
+  "final_title_raw": "Estimated yield on non-life fund assets",
+  "issues": [],
+  "source_pages": [
+    28,
+    29,
+    30
+  ],
+  "table_complete": true,
+  "table_id": "T26",
+  "verdict": "corrected"
+}

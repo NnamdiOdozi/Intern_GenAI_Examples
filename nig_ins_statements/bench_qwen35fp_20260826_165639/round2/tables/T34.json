@@ -1,0 +1,147 @@
+{
+  "cell_flags": [],
+  "concerns": [],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "footnotes_raw": [],
+  "headers_raw": [
+    "Reinsurer",
+    "Proportion Shared"
+  ],
+  "normalized_rows": [
+    [
+      "African Re:",
+      50.0
+    ],
+    [
+      "Continental Re:",
+      25.0
+    ],
+    [
+      "WAICA Re:",
+      10.0,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      ""
+    ],
+    [
+      "F&S Reinsurance Limited",
+      10.0,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      ""
+    ],
+    [
+      "Nigeria Re:",
+      5.0,
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Total",
+      100.0,
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "pages_seen": [
+    34
+  ],
+  "rows_raw": [
+    [
+      "Reinsurer",
+      "Proportion Shared"
+    ],
+    [
+      "African Re:",
+      "50%"
+    ],
+    [
+      "Continental Re:",
+      "25%"
+    ],
+    [
+      "WAICA Re:",
+      "10%"
+    ],
+    [
+      "F&S Reinsurance Limited",
+      "10%"
+    ],
+    [
+      "Nigeria Re:",
+      "5%"
+    ],
+    [
+      "Total",
+      "100%"
+    ]
+  ],
+  "source_pages": [
+    {
+      "pdf_page": 34,
+      "printed_page": "33"
+    }
+  ],
+  "table_complete": true,
+  "table_id": "T34",
+  "table_number_raw": "T34",
+  "title_raw": "Reinsurer | Proportion Shared",
+  "units_raw": "null",
+  "_header_width": 2,
+  "_row_width": 2
+}

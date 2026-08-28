@@ -51,3 +51,6 @@ Working in `main.ipynb` or `main_colab.ipynb`:
 - Single prompt response (batch)
 - Chatting with the API (with no memory)
 - Chatting with the API (with memory)
+
+
+

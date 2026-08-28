@@ -1,0 +1,186 @@
+{
+  "cell_flags": [
+    {
+      "candidate_readings": [
+        "Reinsurer",
+        "Proportion Shared"
+      ],
+      "column_index": 0,
+      "confidence": "high",
+      "inferred_value": null,
+      "normalized_value": null,
+      "printed_value": "Reinsurer",
+      "reason": "",
+      "row_index": 0,
+      "source_pdf_page": 41,
+      "status": "printed"
+    },
+    {
+      "candidate_readings": [
+        "African Re:",
+        "40%"
+      ],
+      "column_index": 1,
+      "confidence": "high",
+      "inferred_value": null,
+      "normalized_value": null,
+      "printed_value": "African Re:",
+      "reason": "",
+      "row_index": 1,
+      "source_pdf_page": 41,
+      "status": "printed"
+    },
+    {
+      "candidate_readings": [
+        "",
+        ""
+      ],
+      "column_index": 2,
+      "confidence": "high",
+      "inferred_value": null,
+      "normalized_value": null,
+      "printed_value": "",
+      "reason": "",
+      "row_index": 1,
+      "source_pdf_page": 41,
+      "status": "printed"
+    },
+    {
+      "candidate_readings": [
+        "African Re:",
+        "40%"
+      ],
+      "column_index": 0,
+      "confidence": "high",
+      "inferred_value": "African Re:",
+      "normalized_value": "African Re:",
+      "printed_value": "African Re:",
+      "reason": "",
+      "row_index": 0,
+      "source_pdf_page": -1,
+      "status": "printed"
+    },
+    {
+      "candidate_readings": [
+        "",
+        ""
+      ],
+      "column_index": -1,
+      "confidence": "high",
+      "inferred_value": "",
+      "normalized_value": "",
+      "printed_value": "",
+      "reason": "",
+      "row_index": -1,
+      "source_pdf_page": -1,
+      "status": "printed"
+    }
+  ],
+  "concerns": [],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "footnotes_raw": [],
+  "headers_raw": [
+    "Reinsurer",
+    "Proportion Shared"
+  ],
+  "normalized_rows": [
+    [
+      "African Re:",
+      40.0
+    ],
+    [
+      "Continental Re:",
+      10.0
+    ],
+    [
+      "FBS Re:",
+      10.0
+    ],
+    [
+      "AVENI Re:",
+      5.0
+    ],
+    [
+      "WAICA Re:",
+      10.0
+    ],
+    [
+      "NCA Re:",
+      5.0
+    ],
+    [
+      "OMAN Re:",
+      5.0
+    ],
+    [
+      "GHANA Re:",
+      5.0
+    ],
+    [
+      "ARB/WAICA Re, SIERRA LEONE",
+      10.0
+    ],
+    [
+      "Total",
+      100.0
+    ]
+  ],
+  "pages_seen": [
+    41
+  ],
+  "rows_raw": [
+    [
+      "Reinsurer",
+      "Proportion Shared"
+    ],
+    [
+      "African Re:",
+      "40%"
+    ],
+    [
+      "Continental Re:",
+      "10%"
+    ],
+    [
+      "FBS Re:",
+      "10%"
+    ],
+    [
+      "AVENI Re:",
+      "5%"
+    ],
+    [
+      "WAICA Re:",
+      "10%"
+    ],
+    [
+      "NCA Re:",
+      "5%"
+    ],
+    [
+      "OMAN Re:",
+      "5%"
+    ],
+    [
+      "GHANA Re:",
+      "5%"
+    ],
+    [
+      "ARB/WAICA Re, SIERRA LEONE",
+      "10%"
+    ],
+    [
+      "Total",
+      "100%"
+    ]
+  ],
+  "source_pages": [],
+  "table_complete": true,
+  "table_id": "T47",
+  "table_number_raw": "T47",
+  "title_raw": "The reinsurers take 100% share of the Marine Cargo treaty, as follows:",
+  "units_raw": "percentage (%) of share proportion per reinsurer.",
+  "_header_width": 2,
+  "_row_width": 2
+}

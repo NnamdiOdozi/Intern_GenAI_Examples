@@ -1,0 +1,137 @@
+{
+  "checks": {
+    "continuation_verified": true,
+    "header_width_consistent": true,
+    "page_citations_verified": true,
+    "row_widths_consistent": true,
+    "totals_status": "reconciles"
+  },
+  "corrections": [
+    {
+      "column_index": 0,
+      "confidence": "high",
+      "reason": "OCR misread 'ARB/WAICA RE, SERRA LEONE' as 'ARB/WAICA RE, SERRA LEONE' \u2014 correct spelling is 'SIERRA LEONE'.",
+      "round2_value": "ARB/WAICA RE, SIERRA LEONE",
+      "row_index": 8,
+      "source_pdf_page": 36,
+      "validated_value": "ARB/WAICA RE, SIERRA LEONE"
+    }
+  ],
+  "final_headers_raw": [
+    "Reinsurer",
+    "Proportion Shared",
+    "Rating"
+  ],
+  "final_normalized_rows": [
+    [
+      "African Re:",
+      0.4,
+      "A by A.M Best and A- by S&P"
+    ],
+    [
+      "Continental Re:",
+      0.1,
+      "B+ by A.M Best"
+    ],
+    [
+      "FBS Re:",
+      0.1,
+      "B by A.M Best"
+    ],
+    [
+      "AVENI Re:",
+      0.05,
+      "B by A.M Best"
+    ],
+    [
+      "WAICA Re:",
+      0.1,
+      "B by A.M Best"
+    ],
+    [
+      "NCA Re:",
+      0.05,
+      "B by A.M Best"
+    ],
+    [
+      "OMAN Re:",
+      0.05,
+      "B by A.M Best"
+    ],
+    [
+      "GHANA Re:",
+      0.05,
+      "B by A.M Best"
+    ],
+    [
+      "ARB/WAICA RE, SIERRA LEONE",
+      0.1,
+      "B by A.M Best"
+    ],
+    [
+      "Total",
+      1.0,
+      "B by A.M Best"
+    ]
+  ],
+  "final_rows_raw": [
+    [
+      "African Re:",
+      "40%",
+      "A by A.M Best and A- by S&P"
+    ],
+    [
+      "Continental Re:",
+      "10%",
+      "B+ by A.M Best"
+    ],
+    [
+      "FBS Re:",
+      "10%",
+      "B by A.M Best"
+    ],
+    [
+      "AVENI Re:",
+      "5%",
+      "B by A.M Best"
+    ],
+    [
+      "WAICA Re:",
+      "10%",
+      "B by A.M Best"
+    ],
+    [
+      "NCA Re:",
+      "5%",
+      "B by A.M Best"
+    ],
+    [
+      "OMAN Re:",
+      "5%",
+      "B by A.M Best"
+    ],
+    [
+      "GHANA Re:",
+      "5%",
+      "B by A.M Best"
+    ],
+    [
+      "ARB/WAICA RE, SIERRA LEONE",
+      "10%",
+      "B by A.M Best"
+    ],
+    [
+      "Total",
+      "100%",
+      "B by A.M Best"
+    ]
+  ],
+  "final_title_raw": "The reinsurers take 100% share of the Engineering Surplus treaty, as follows:",
+  "issues": [],
+  "source_pages": [
+    36
+  ],
+  "table_complete": true,
+  "table_id": "T33",
+  "verdict": "corrected"
+}

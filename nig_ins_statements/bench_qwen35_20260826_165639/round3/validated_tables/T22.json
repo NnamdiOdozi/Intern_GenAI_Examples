@@ -1,0 +1,52 @@
+{
+  "checks": {
+    "continuation_verified": true,
+    "header_width_consistent": true,
+    "page_citations_verified": true,
+    "row_widths_consistent": true,
+    "totals_status": "not_applicable"
+  },
+  "corrections": [],
+  "final_headers_raw": [
+    "Scenario 1:",
+    "NPV",
+    "Duration:",
+    "Convexity:"
+  ],
+  "final_normalized_rows": [
+    [
+      "All Assets",
+      2396820061,
+      2.05,
+      5.79
+    ],
+    [
+      "All Liabilities",
+      744834892,
+      1.48,
+      5.49
+    ]
+  ],
+  "final_rows_raw": [
+    [
+      "All Assets",
+      "2.396.820.061",
+      "2,05",
+      "5,79"
+    ],
+    [
+      "All Liabilities",
+      "744.834.892",
+      "1,48",
+      "5,49"
+    ]
+  ],
+  "final_title_raw": "Scenario 1: NPV Duration Convexity",
+  "issues": [],
+  "source_pages": [
+    27
+  ],
+  "table_complete": true,
+  "table_id": "T22",
+  "verdict": "accepted"
+}

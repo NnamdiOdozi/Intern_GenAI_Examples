@@ -1,0 +1,646 @@
+{
+  "checks": {
+    "continuation_verified": true,
+    "header_width_consistent": true,
+    "page_citations_verified": true,
+    "row_widths_consistent": true,
+    "totals_status": "not_applicable"
+  },
+  "corrections": [
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misread negative sign and digits; image shows -61,042,762",
+      "round2_value": "-61,042,762",
+      "row_index": 1,
+      "source_pdf_page": 22,
+      "validated_value": "-61,042,762"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread '4,139,768' as '4,139,768' \u2014 actually correct, but provisional had typo: '4,139,768' vs '4,139,768' \u2014 no change needed. Wait \u2014 provisional says '4,139,768' which matches image. No correction.",
+      "round2_value": "4,139,768",
+      "row_index": 0,
+      "source_pdf_page": 22,
+      "validated_value": "4,139,768"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "Provisional extraction has '3,988,143' \u2014 matches image exactly. No correction needed.",
+      "round2_value": "3,988,143",
+      "row_index": 1,
+      "source_pdf_page": 22,
+      "validated_value": "3,988,143"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "Provisional extraction has '3,463,725' \u2014 matches image exactly. No correction needed.",
+      "round2_value": "3,463,725",
+      "row_index": 2,
+      "source_pdf_page": 22,
+      "validated_value": "3,463,725"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "Provisional extraction has '3,958,514' \u2014 matches image exactly. No correction needed.",
+      "round2_value": "3,958,514",
+      "row_index": 3,
+      "source_pdf_page": 22,
+      "validated_value": "3,958,514"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "Provisional extraction has '4,346,721' \u2014 matches image exactly. No correction needed.",
+      "round2_value": "4,346,721",
+      "row_index": 4,
+      "source_pdf_page": 22,
+      "validated_value": "4,346,721"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "Provisional extraction has '79%' \u2014 matches image exactly. No correction needed.",
+      "round2_value": "79%",
+      "row_index": 0,
+      "source_pdf_page": 22,
+      "validated_value": "79%"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "Provisional extraction has '-4%' \u2014 matches image exactly. No correction needed.",
+      "round2_value": "-4%",
+      "row_index": 1,
+      "source_pdf_page": 22,
+      "validated_value": "-4%"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "Provisional extraction has '6%' \u2014 matches image exactly. No correction needed.",
+      "round2_value": "6%",
+      "row_index": 2,
+      "source_pdf_page": 22,
+      "validated_value": "6%"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "Provisional extraction has '1%' \u2014 matches image exactly. No correction needed.",
+      "round2_value": "1%",
+      "row_index": 3,
+      "source_pdf_page": 22,
+      "validated_value": "1%"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "Provisional extraction has '23%' \u2014 matches image exactly. No correction needed.",
+      "round2_value": "23%",
+      "row_index": 4,
+      "source_pdf_page": 22,
+      "validated_value": "23%"
+    },
+    {
+      "column_index": 4,
+      "confidence": "high",
+      "reason": "Provisional extraction has '24%' \u2014 matches image exactly. No correction needed.",
+      "round2_value": "24%",
+      "row_index": 0,
+      "source_pdf_page": 22,
+      "validated_value": "24%"
+    },
+    {
+      "column_index": 4,
+      "confidence": "high",
+      "reason": "Provisional extraction has '31%' \u2014 matches image exactly. No correction needed.",
+      "round2_value": "31%",
+      "row_index": 1,
+      "source_pdf_page": 22,
+      "validated_value": "31%"
+    },
+    {
+      "column_index": 4,
+      "confidence": "high",
+      "reason": "Provisional extraction has '27%' \u2014 matches image exactly. No correction needed.",
+      "round2_value": "27%",
+      "row_index": 2,
+      "source_pdf_page": 22,
+      "validated_value": "27%"
+    },
+    {
+      "column_index": 4,
+      "confidence": "high",
+      "reason": "Provisional extraction has '43%' \u2014 matches image exactly. No correction needed.",
+      "round2_value": "43%",
+      "row_index": 3,
+      "source_pdf_page": 22,
+      "validated_value": "43%"
+    },
+    {
+      "column_index": 4,
+      "confidence": "high",
+      "reason": "Provisional extraction has '44%' \u2014 matches image exactly. No correction needed.",
+      "round2_value": "44%",
+      "row_index": 4,
+      "source_pdf_page": 22,
+      "validated_value": "44%"
+    },
+    {
+      "column_index": 5,
+      "confidence": "high",
+      "reason": "Provisional extraction has '75%' \u2014 matches image exactly. No correction needed.",
+      "round2_value": "75%",
+      "row_index": 0,
+      "source_pdf_page": 22,
+      "validated_value": "75%"
+    },
+    {
+      "column_index": 5,
+      "confidence": "high",
+      "reason": "Provisional extraction has '49%' \u2014 matches image exactly. No correction needed.",
+      "round2_value": "49%",
+      "row_index": 1,
+      "source_pdf_page": 22,
+      "validated_value": "49%"
+    },
+    {
+      "column_index": 5,
+      "confidence": "high",
+      "reason": "Provisional extraction has '45%' \u2014 matches image exactly. No correction needed.",
+      "round2_value": "45%",
+      "row_index": 2,
+      "source_pdf_page": 22,
+      "validated_value": "45%"
+    },
+    {
+      "column_index": 5,
+      "confidence": "high",
+      "reason": "Provisional extraction has '47%' \u2014 matches image exactly. No correction needed.",
+      "round2_value": "47%",
+      "row_index": 3,
+      "source_pdf_page": 22,
+      "validated_value": "47%"
+    },
+    {
+      "column_index": 5,
+      "confidence": "high",
+      "reason": "Provisional extraction has '69%' \u2014 matches image exactly. No correction needed.",
+      "round2_value": "69%",
+      "row_index": 4,
+      "source_pdf_page": 22,
+      "validated_value": "69%"
+    },
+    {
+      "column_index": 6,
+      "confidence": "high",
+      "reason": "Provisional extraction has '99%' \u2014 matches image exactly. No correction needed.",
+      "round2_value": "99%",
+      "row_index": 0,
+      "source_pdf_page": 22,
+      "validated_value": "99%"
+    },
+    {
+      "column_index": 6,
+      "confidence": "high",
+      "reason": "Provisional extraction has '80%' \u2014 matches image exactly. No correction needed.",
+      "round2_value": "80%",
+      "row_index": 1,
+      "source_pdf_page": 22,
+      "validated_value": "80%"
+    },
+    {
+      "column_index": 6,
+      "confidence": "high",
+      "reason": "Provisional extraction has '73%' \u2014 matches image exactly. No correction needed.",
+      "round2_value": "73%",
+      "row_index": 2,
+      "source_pdf_page": 22,
+      "validated_value": "73%"
+    },
+    {
+      "column_index": 6,
+      "confidence": "high",
+      "reason": "Provisional extraction has '90%' \u2014 matches image exactly. No correction needed.",
+      "round2_value": "90%",
+      "row_index": 3,
+      "source_pdf_page": 22,
+      "validated_value": "90%"
+    },
+    {
+      "column_index": 6,
+      "confidence": "high",
+      "reason": "Provisional extraction has '113%' \u2014 matches image exactly. No correction needed.",
+      "round2_value": "113%",
+      "row_index": 4,
+      "source_pdf_page": 22,
+      "validated_value": "113%"
+    },
+    {
+      "column_index": 7,
+      "confidence": "high",
+      "reason": "Provisional extraction has '14%' \u2014 matches image exactly. No correction needed.",
+      "round2_value": "14%",
+      "row_index": 0,
+      "source_pdf_page": 22,
+      "validated_value": "14%"
+    },
+    {
+      "column_index": 7,
+      "confidence": "high",
+      "reason": "Provisional extraction has '19%' \u2014 matches image exactly. No correction needed.",
+      "round2_value": "19%",
+      "row_index": 1,
+      "source_pdf_page": 22,
+      "validated_value": "19%"
+    },
+    {
+      "column_index": 7,
+      "confidence": "high",
+      "reason": "Provisional extraction has '27%' \u2014 matches image exactly. No correction needed.",
+      "round2_value": "27%",
+      "row_index": 2,
+      "source_pdf_page": 22,
+      "validated_value": "27%"
+    },
+    {
+      "column_index": 7,
+      "confidence": "high",
+      "reason": "Provisional extraction has '30%' \u2014 matches image exactly. No correction needed.",
+      "round2_value": "30%",
+      "row_index": 3,
+      "source_pdf_page": 22,
+      "validated_value": "30%"
+    },
+    {
+      "column_index": 7,
+      "confidence": "high",
+      "reason": "Provisional extraction has '26%' \u2014 matches image exactly. No correction needed.",
+      "round2_value": "26%",
+      "row_index": 4,
+      "source_pdf_page": 22,
+      "validated_value": "26%"
+    },
+    {
+      "column_index": 8,
+      "confidence": "high",
+      "reason": "Provisional extraction has '15%' \u2014 matches image exactly. No correction needed.",
+      "round2_value": "15%",
+      "row_index": 0,
+      "source_pdf_page": 22,
+      "validated_value": "15%"
+    },
+    {
+      "column_index": 8,
+      "confidence": "high",
+      "reason": "Provisional extraction has '-176%' \u2014 matches image exactly. No correction needed.",
+      "round2_value": "-176%",
+      "row_index": 1,
+      "source_pdf_page": 22,
+      "validated_value": "-176%"
+    },
+    {
+      "column_index": 8,
+      "confidence": "high",
+      "reason": "Provisional extraction has '13%' \u2014 matches image exactly. No correction needed.",
+      "round2_value": "13%",
+      "row_index": 2,
+      "source_pdf_page": 22,
+      "validated_value": "13%"
+    },
+    {
+      "column_index": 8,
+      "confidence": "high",
+      "reason": "Provisional extraction has '16%' \u2014 matches image exactly. No correction needed.",
+      "round2_value": "16%",
+      "row_index": 3,
+      "source_pdf_page": 22,
+      "validated_value": "16%"
+    },
+    {
+      "column_index": 8,
+      "confidence": "high",
+      "reason": "Provisional extraction has '21%' \u2014 matches image exactly. No correction needed.",
+      "round2_value": "21%",
+      "row_index": 4,
+      "source_pdf_page": 22,
+      "validated_value": "21%"
+    },
+    {
+      "column_index": 9,
+      "confidence": "high",
+      "reason": "Provisional extraction has '15%' \u2014 matches image exactly. No correction needed.",
+      "round2_value": "15%",
+      "row_index": 0,
+      "source_pdf_page": 22,
+      "validated_value": "15%"
+    },
+    {
+      "column_index": 9,
+      "confidence": "high",
+      "reason": "Provisional extraction has '35%' \u2014 matches image exactly. No correction needed.",
+      "round2_value": "35%",
+      "row_index": 1,
+      "source_pdf_page": 22,
+      "validated_value": "35%"
+    },
+    {
+      "column_index": 9,
+      "confidence": "high",
+      "reason": "Provisional extraction has '10%' \u2014 matches image exactly. No correction needed.",
+      "round2_value": "10%",
+      "row_index": 2,
+      "source_pdf_page": 22,
+      "validated_value": "10%"
+    },
+    {
+      "column_index": 9,
+      "confidence": "high",
+      "reason": "Provisional extraction has '15%' \u2014 matches image exactly. No correction needed.",
+      "round2_value": "15%",
+      "row_index": 3,
+      "source_pdf_page": 22,
+      "validated_value": "15%"
+    },
+    {
+      "column_index": 9,
+      "confidence": "high",
+      "reason": "Provisional extraction has '19%' \u2014 matches image exactly. No correction needed.",
+      "round2_value": "19%",
+      "row_index": 4,
+      "source_pdf_page": 22,
+      "validated_value": "19%"
+    },
+    {
+      "column_index": 10,
+      "confidence": "high",
+      "reason": "Provisional extraction has '138%' \u2014 matches image exactly. No correction needed.",
+      "round2_value": "138%",
+      "row_index": 0,
+      "source_pdf_page": 22,
+      "validated_value": "138%"
+    },
+    {
+      "column_index": 10,
+      "confidence": "high",
+      "reason": "Provisional extraction has '133%' \u2014 matches image exactly. No correction needed.",
+      "round2_value": "133%",
+      "row_index": 1,
+      "source_pdf_page": 22,
+      "validated_value": "133%"
+    },
+    {
+      "column_index": 10,
+      "confidence": "high",
+      "reason": "Provisional extraction has '115%' \u2014 matches image exactly. No correction needed.",
+      "round2_value": "115%",
+      "row_index": 2,
+      "source_pdf_page": 22,
+      "validated_value": "115%"
+    },
+    {
+      "column_index": 10,
+      "confidence": "high",
+      "reason": "Provisional extraction has '132%' \u2014 matches image exactly. No correction needed.",
+      "round2_value": "132%",
+      "row_index": 3,
+      "source_pdf_page": 22,
+      "validated_value": "132%"
+    },
+    {
+      "column_index": 10,
+      "confidence": "high",
+      "reason": "Provisional extraction has '145%' \u2014 matches image exactly. No correction needed.",
+      "round2_value": "145%",
+      "row_index": 4,
+      "source_pdf_page": 22,
+      "validated_value": "145%"
+    },
+    {
+      "column_index": 11,
+      "confidence": "high",
+      "reason": "Provisional extraction has '298%' \u2014 matches image exactly. No correction needed.",
+      "round2_value": "298%",
+      "row_index": 0,
+      "source_pdf_page": 22,
+      "validated_value": "298%"
+    },
+    {
+      "column_index": 11,
+      "confidence": "high",
+      "reason": "Provisional extraction has '316%' \u2014 matches image exactly. No correction needed.",
+      "round2_value": "316%",
+      "row_index": 1,
+      "source_pdf_page": 22,
+      "validated_value": "316%"
+    },
+    {
+      "column_index": 11,
+      "confidence": "high",
+      "reason": "Provisional extraction has '474%' \u2014 matches image exactly. No correction needed.",
+      "round2_value": "474%",
+      "row_index": 2,
+      "source_pdf_page": 22,
+      "validated_value": "474%"
+    },
+    {
+      "column_index": 11,
+      "confidence": "high",
+      "reason": "Provisional extraction has '466%' \u2014 matches image exactly. No correction needed.",
+      "round2_value": "466%",
+      "row_index": 3,
+      "source_pdf_page": 22,
+      "validated_value": "466%"
+    },
+    {
+      "column_index": 11,
+      "confidence": "high",
+      "reason": "Provisional extraction has '311%' \u2014 matches image exactly. No correction needed.",
+      "round2_value": "311%",
+      "row_index": 4,
+      "source_pdf_page": 22,
+      "validated_value": "311%"
+    },
+    {
+      "column_index": 0,
+      "confidence": "high",
+      "reason": "Provisional extraction has '419,046' \u2014 matches image exactly. No correction needed.",
+      "round2_value": "419,046",
+      "row_index": 0,
+      "source_pdf_page": 22,
+      "validated_value": "419,046"
+    },
+    {
+      "column_index": 0,
+      "confidence": "high",
+      "reason": "Provisional extraction has '1,128,728' \u2014 matches image exactly. No correction needed.",
+      "round2_value": "1,128,728",
+      "row_index": 1,
+      "source_pdf_page": 22,
+      "validated_value": "1,128,728"
+    },
+    {
+      "column_index": 0,
+      "confidence": "high",
+      "reason": "Provisional extraction has '332,473' \u2014 matches image exactly. No correction needed.",
+      "round2_value": "332,473",
+      "row_index": 2,
+      "source_pdf_page": 22,
+      "validated_value": "332,473"
+    },
+    {
+      "column_index": 0,
+      "confidence": "high",
+      "reason": "Provisional extraction has '1,076,552' \u2014 matches image exactly. No correction needed.",
+      "round2_value": "1,076,552",
+      "row_index": 3,
+      "source_pdf_page": 22,
+      "validated_value": "1,076,552"
+    },
+    {
+      "column_index": 0,
+      "confidence": "high",
+      "reason": "Provisional extraction has '1,007,254' \u2014 matches image exactly. No correction needed.",
+      "round2_value": "1,007,254",
+      "row_index": 4,
+      "source_pdf_page": 22,
+      "validated_value": "1,007,254"
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "Provisional extraction has '504,911' \u2014 matches image exactly. No correction needed.",
+      "round2_value": "504,911",
+      "row_index": 0,
+      "source_pdf_page": 22,
+      "validated_value": "504,911"
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "Provisional extraction has '446,858' \u2014 matches image exactly. No correction needed.",
+      "round2_value": "446,858",
+      "row_index": 2,
+      "source_pdf_page": 22,
+      "validated_value": "446,858"
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "Provisional extraction has '535,165' \u2014 matches image exactly. No correction needed.",
+      "round2_value": "535,165",
+      "row_index": 3,
+      "source_pdf_page": 22,
+      "validated_value": "535,165"
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "Provisional extraction has '794,305' \u2014 matches image exactly. No correction needed.",
+      "round2_value": "794,305",
+      "row_index": 4,
+      "source_pdf_page": 22,
+      "validated_value": "794,305"
+    }
+  ],
+  "final_headers_raw": [
+    "profit before tax",
+    "Post -tax profit (NGN)",
+    "Total Net admissible asset value (NGN)",
+    "Growth in Net Premiums",
+    "Net Claim Ratio",
+    "Net Expense Ratio",
+    "Combined Ratio",
+    "Proportion reinsured",
+    "Return on Capital",
+    "Net Profit Margin",
+    "Statutory Solvency Ratio",
+    "Assets to Liabilities"
+  ],
+  "final_normalized_rows": [],
+  "final_rows_raw": [
+    [
+      "419,046",
+      "504,911",
+      "4,139,768",
+      "79%",
+      "24%",
+      "75%",
+      "99%",
+      "14%",
+      "15%",
+      "15%",
+      "138%",
+      "298%"
+    ],
+    [
+      "1,128,728",
+      "-61,042,762",
+      "3,988,143",
+      "-4%",
+      "31%",
+      "49%",
+      "80%",
+      "19%",
+      "-176%",
+      "35%",
+      "133%",
+      "316%"
+    ],
+    [
+      "332,473",
+      "446,858",
+      "3,463,725",
+      "6%",
+      "27%",
+      "45%",
+      "73%",
+      "27%",
+      "13%",
+      "10%",
+      "115%",
+      "474%"
+    ],
+    [
+      "1,076,552",
+      "535,165",
+      "3,958,514",
+      "1%",
+      "43%",
+      "47%",
+      "90%",
+      "30%",
+      "16%",
+      "15%",
+      "132%",
+      "466%"
+    ],
+    [
+      "1,007,254",
+      "794,305",
+      "4,346,721",
+      "23%",
+      "44%",
+      "69%",
+      "113%",
+      "26%",
+      "21%",
+      "19%",
+      "145%",
+      "311%"
+    ]
+  ],
+  "final_title_raw": "The table above shows return on capital deployed may have been stable over the last 3 recent years remaining around average of 10% after falling to a negative of 176% in 2020. A reduction in return on capital would be expected to cause some corresponding effect on the company's retained earnings. However, the cover provided by the shareholders fund on the company's net premiums as a measure of financial strength show some protection for policyholders with a ratio of around 2.07 multiple in 2022 and 1.44 multiple in 2023.",
+  "issues": [],
+  "source_pages": [
+    22
+  ],
+  "table_complete": true,
+  "table_id": "T20",
+  "verdict": "corrected"
+}

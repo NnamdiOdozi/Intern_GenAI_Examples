@@ -1,0 +1,178 @@
+{
+  "cell_flags": [
+    {
+      "candidate_readings": [
+        "Net Insurance Revenue"
+      ],
+      "column_index": 0,
+      "confidence": "high",
+      "inferred_value": null,
+      "normalized_value": null,
+      "printed_value": "Net Insurance Revenue",
+      "reason": "",
+      "row_index": 0,
+      "source_pdf_page": 12,
+      "status": "printed"
+    },
+    {
+      "candidate_readings": [
+        "3,373,639"
+      ],
+      "column_index": 1,
+      "confidence": "high",
+      "inferred_value": null,
+      "normalized_value": null,
+      "printed_value": "3,373,639",
+      "reason": "",
+      "row_index": 0,
+      "source_pdf_page": 12,
+      "status": "printed"
+    },
+    {
+      "candidate_readings": [
+        "(925,320)"
+      ],
+      "column_index": 1,
+      "confidence": "high",
+      "inferred_value": null,
+      "normalized_value": null,
+      "printed_value": "(925,320)",
+      "reason": "",
+      "row_index": 2,
+      "source_pdf_page": 12,
+      "status": "printed"
+    },
+    {
+      "candidate_readings": [
+        "(166,845)"
+      ],
+      "column_index": 1,
+      "confidence": "high",
+      "inferred_value": "-166845",
+      "normalized_value": -166845,
+      "printed_value": "(166,845)",
+      "reason": "",
+      "row_index": 4,
+      "source_pdf_page": 12,
+      "status": "printed"
+    },
+    {
+      "candidate_readings": [
+        "(389,304)"
+      ],
+      "column_index": 1,
+      "confidence": "high",
+      "inferred_value": "-389304",
+      "normalized_value": -389304,
+      "printed_value": "(389,304)",
+      "reason": "",
+      "row_index": 5,
+      "source_pdf_page": 12,
+      "status": "printed"
+    },
+    {
+      "candidate_readings": [
+        "(966,591)"
+      ],
+      "column_index": 1,
+      "confidence": "high",
+      "inferred_value": "-966591",
+      "normalized_value": -966591,
+      "printed_value": "(966,591)",
+      "reason": "",
+      "row_index": 8,
+      "source_pdf_page": 12,
+      "status": "printed"
+    },
+    {
+      "candidate_readings": [
+        "(781,691)"
+      ],
+      "column_index": 1,
+      "confidence": "high",
+      "inferred_value": "-781691",
+      "normalized_value": -781691,
+      "printed_value": "(781,691)",
+      "reason": "",
+      "row_index": 9,
+      "source_pdf_page": 12,
+      "status": "printed"
+    },
+    {
+      "candidate_readings": [
+        "(20,866)"
+      ],
+      "column_index": 1,
+      "confidence": "high",
+      "inferred_value": "-20866",
+      "normalized_value": -20866,
+      "printed_value": "(20,866)",
+      "reason": "",
+      "row_index": 10,
+      "source_pdf_page": 12,
+      "status": "printed"
+    },
+    {
+      "candidate_readings": [
+        "(24)"
+      ],
+      "column_index": -2,
+      "confidence": "low",
+      "inferred_value": -24.0,
+      "normalized_value": -24.0,
+      "printed_value": "",
+      "reason": "",
+      "row_index": -2,
+      "source_pdf_page": -2,
+      "status": "inferred_not_inserted"
+    }
+  ],
+  "concerns": [],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "footnotes_raw": [],
+  "headers_raw": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "normalized_rows": [
+    [
+      null
+    ]
+  ],
+  "pages_seen": [],
+  "rows_raw": [
+    [
+      null
+    ]
+  ],
+  "source_pages": [],
+  "table_complete": true,
+  "table_id": "",
+  "table_number_raw": "",
+  "title_raw": "",
+  "units_raw": "",
+  "_header_width": 23,
+  "_row_width": 1
+}

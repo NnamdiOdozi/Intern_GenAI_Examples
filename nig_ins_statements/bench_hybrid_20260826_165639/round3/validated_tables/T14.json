@@ -1,0 +1,250 @@
+{
+  "checks": {
+    "continuation_verified": true,
+    "header_width_consistent": true,
+    "page_citations_verified": true,
+    "row_widths_consistent": true,
+    "totals_status": "reconciles"
+  },
+  "corrections": [
+    {
+      "column_index": 0,
+      "confidence": "high",
+      "reason": "Corrected 'AGRIC' to 'Agriculture' to match the header and context of other class names.",
+      "round2_value": "Agriculture",
+      "row_index": 8,
+      "source_pdf_page": 17,
+      "validated_value": "Agriculture"
+    }
+  ],
+  "final_headers_raw": [
+    "Class of Insurance",
+    "2019",
+    "2020",
+    "2021",
+    "2022",
+    "2023"
+  ],
+  "final_normalized_rows": [
+    [
+      "General Accident",
+      164.197,
+      141.124,
+      446.475,
+      120.342,
+      148.061
+    ],
+    [
+      "Motor",
+      276.391,
+      212.814,
+      246.817,
+      245.524,
+      217.859
+    ],
+    [
+      "Marine",
+      55.318,
+      243.452,
+      23.512,
+      130.627,
+      83.894
+    ],
+    [
+      "Engineering",
+      49.614,
+      36.403,
+      54.716,
+      23.985,
+      166.005
+    ],
+    [
+      "Bond",
+      1.172,
+      0.0,
+      0.0,
+      24.95,
+      38.49
+    ],
+    [
+      "Fire",
+      717.698,
+      461.244,
+      254.864,
+      340.051,
+      299.818
+    ],
+    [
+      "Oil & Gas",
+      160.85,
+      734.06,
+      273.4,
+      45.5,
+      512.349
+    ],
+    [
+      "Agriculture",
+      0.0,
+      0.0,
+      13.417,
+      94.888,
+      0.0
+    ],
+    [
+      "Aviation",
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    [
+      "Total gross*",
+      1425.239,
+      1829.098,
+      1313.202,
+      1025.865,
+      1466.476
+    ],
+    [
+      "Less reinsurance recoveries",
+      48.981,
+      659.347,
+      340.23,
+      415.449,
+      484.17
+    ],
+    [
+      "Total net claims paid",
+      1376.258,
+      1169.751,
+      972.972,
+      610.416,
+      982.306
+    ],
+    [
+      "Reinsurer's share of paid claims",
+      "3%",
+      "36%",
+      "26%",
+      "40%",
+      "33%"
+    ]
+  ],
+  "final_rows_raw": [
+    [
+      "General Accident",
+      "164.197",
+      "141.124",
+      "446.475",
+      "120.342",
+      "148.061"
+    ],
+    [
+      "Motor",
+      "276.391",
+      "212.814",
+      "246.817",
+      "245.524",
+      "217.859"
+    ],
+    [
+      "Marine",
+      "55.318",
+      "243.452",
+      "23.512",
+      "130.627",
+      "83.894"
+    ],
+    [
+      "Engineering",
+      "49.614",
+      "36.403",
+      "54.716",
+      "23.985",
+      "166.005"
+    ],
+    [
+      "Bond",
+      "1.172",
+      "-",
+      "-",
+      "24.950",
+      "38.490"
+    ],
+    [
+      "Fire",
+      "717.698",
+      "461.244",
+      "254.864",
+      "340.051",
+      "299.818"
+    ],
+    [
+      "Oil & Gas",
+      "160.850",
+      "734.060",
+      "273.400",
+      "45.500",
+      "512.349"
+    ],
+    [
+      "AGRIC",
+      "-",
+      "-",
+      "13.417",
+      "94.888",
+      "-"
+    ],
+    [
+      "Aviation",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0,0"
+    ],
+    [
+      "Total gross*",
+      "1.425.239",
+      "1.829.098",
+      "1.313.202",
+      "1.025.865",
+      "1.466.476"
+    ],
+    [
+      "Less reinsurance recoveries",
+      "48.981",
+      "659.347",
+      "340.230",
+      "415.449",
+      "484.170"
+    ],
+    [
+      "Total net claims paid",
+      "1.376.258",
+      "1.169.751",
+      "972.972",
+      "610.416",
+      "982.306"
+    ],
+    [
+      "Reinsurer's share of paid claims",
+      "3%",
+      "36%",
+      "26%",
+      "40%",
+      "33%"
+    ]
+  ],
+  "final_title_raw": "General insurance claims paid (NGN'000)",
+  "issues": [],
+  "source_pages": [
+    15,
+    16,
+    17
+  ],
+  "table_complete": true,
+  "table_id": "T14",
+  "verdict": "corrected"
+}

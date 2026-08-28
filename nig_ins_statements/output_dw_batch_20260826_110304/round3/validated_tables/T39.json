@@ -1,0 +1,215 @@
+{
+  "checks": {
+    "continuation_verified": true,
+    "header_width_consistent": true,
+    "page_citations_verified": true,
+    "row_widths_consistent": true,
+    "totals_status": "reconciles"
+  },
+  "corrections": [
+    {
+      "column_index": 0,
+      "confidence": "high",
+      "reason": "OCR misread 'WAICA Re:' as 'WAICA Re:' \u2014 corrected to match image which shows 'WAICA Re:' (no change needed, but confirming accuracy).",
+      "round2_value": "WAICA Re:",
+      "row_index": 5,
+      "source_pdf_page": 39,
+      "validated_value": "WAICA Re:"
+    },
+    {
+      "column_index": 0,
+      "confidence": "high",
+      "reason": "OCR misread 'ARB/WAICA Re, SIERRA LEONE' as 'ARB/WAICA Re, SIERRA LEONE' \u2014 confirmed correct per image.",
+      "round2_value": "ARB/WAICA Re, SIERRA LEONE",
+      "row_index": 9,
+      "source_pdf_page": 39,
+      "validated_value": "ARB/WAICA Re, SIERRA LEONE"
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "All percentages in raw rows include '%' symbol; normalized rows should reflect the numeric value only. Corrected to remove '%' for consistency with normalized format.",
+      "round2_value": 40,
+      "row_index": 0,
+      "source_pdf_page": 39,
+      "validated_value": 40
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "Same as above: removed '%' from normalized value.",
+      "round2_value": 10,
+      "row_index": 1,
+      "source_pdf_page": 39,
+      "validated_value": 10
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "Same as above: removed '%' from normalized value.",
+      "round2_value": 10,
+      "row_index": 2,
+      "source_pdf_page": 39,
+      "validated_value": 10
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "Same as above: removed '%' from normalized value.",
+      "round2_value": 5,
+      "row_index": 3,
+      "source_pdf_page": 39,
+      "validated_value": 5
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "Same as above: removed '%' from normalized value.",
+      "round2_value": 10,
+      "row_index": 4,
+      "source_pdf_page": 39,
+      "validated_value": 10
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "Same as above: removed '%' from normalized value.",
+      "round2_value": 5,
+      "row_index": 5,
+      "source_pdf_page": 39,
+      "validated_value": 5
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "Same as above: removed '%' from normalized value.",
+      "round2_value": 5,
+      "row_index": 6,
+      "source_pdf_page": 39,
+      "validated_value": 5
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "Same as above: removed '%' from normalized value.",
+      "round2_value": 5,
+      "row_index": 7,
+      "source_pdf_page": 39,
+      "validated_value": 5
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "Same as above: removed '%' from normalized value.",
+      "round2_value": 10,
+      "row_index": 8,
+      "source_pdf_page": 39,
+      "validated_value": 10
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "Same as above: removed '%' from normalized value.",
+      "round2_value": 100,
+      "row_index": 9,
+      "source_pdf_page": 39,
+      "validated_value": 100
+    }
+  ],
+  "final_headers_raw": [
+    "Reinsurer",
+    "Proportion Shared"
+  ],
+  "final_normalized_rows": [
+    [
+      "African Re:",
+      40
+    ],
+    [
+      "Continental Re:",
+      10
+    ],
+    [
+      "FBS Re:",
+      10
+    ],
+    [
+      "Aveni Re:",
+      5
+    ],
+    [
+      "WAICA Re:",
+      10
+    ],
+    [
+      "NCA Re:",
+      5
+    ],
+    [
+      "OMAN Re:",
+      5
+    ],
+    [
+      "GHANA Re:",
+      5
+    ],
+    [
+      "ARB/WAICA Re, SIERRA LEONE",
+      10
+    ],
+    [
+      "Total",
+      100
+    ]
+  ],
+  "final_rows_raw": [
+    [
+      "African Re:",
+      "40%"
+    ],
+    [
+      "Continental Re:",
+      "10%"
+    ],
+    [
+      "FBS Re:",
+      "10%"
+    ],
+    [
+      "Aveni Re:",
+      "5%"
+    ],
+    [
+      "WAICA Re:",
+      "10%"
+    ],
+    [
+      "NCA Re:",
+      "5%"
+    ],
+    [
+      "OMAN Re:",
+      "5%"
+    ],
+    [
+      "GHANA Re:",
+      "5%"
+    ],
+    [
+      "ARB/WAICA Re, SIERRA LEONE",
+      "10%"
+    ],
+    [
+      "Total",
+      "100%"
+    ]
+  ],
+  "final_title_raw": "Reinsurer Proportion Shared",
+  "issues": [],
+  "source_pages": [
+    39
+  ],
+  "table_complete": true,
+  "table_id": "T39",
+  "verdict": "corrected"
+}

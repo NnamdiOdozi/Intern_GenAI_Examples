@@ -1,0 +1,388 @@
+{
+  "cell_flags": [
+    {
+      "candidate_readings": [
+        "8,00",
+        "1,00"
+      ],
+      "column_index": 4,
+      "confidence": "high",
+      "inferred_value": "8.00",
+      "normalized_value": 8.0,
+      "printed_value": "8,00",
+      "reason": "Comma used as decimal separator",
+      "row_index": 10,
+      "source_pdf_page": 8,
+      "status": "inferred_not_inserted"
+    }
+  ],
+  "concerns": [],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "footnotes_raw": [
+    "5.1 Table 2 below sets out the direct general insurance business written by the company over the last four years."
+  ],
+  "headers_raw": [
+    "",
+    "2020",
+    "2021",
+    "2022",
+    "2023"
+  ],
+  "normalized_rows": [
+    [
+      "Number of policies written",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "General Accident",
+      877,
+      1263,
+      1251,
+      1163
+    ],
+    [
+      "Motor",
+      2403,
+      3320,
+      3065,
+      3009
+    ],
+    [
+      "Marine",
+      419,
+      662,
+      718,
+      681
+    ],
+    [
+      "Engineering",
+      176,
+      356,
+      353,
+      305
+    ],
+    [
+      "Bond",
+      1249,
+      2520,
+      2635,
+      1767
+    ],
+    [
+      "Fire",
+      963,
+      1670,
+      1500,
+      1390
+    ],
+    [
+      "Oil & Gas",
+      51,
+      137,
+      123,
+      123
+    ],
+    [
+      "Agriculture",
+      null,
+      7,
+      11,
+      2
+    ],
+    [
+      "Aviation",
+      null,
+      null,
+      8.0,
+      1.0
+    ],
+    [
+      "Total",
+      6138,
+      9935,
+      9664,
+      8441
+    ],
+    [
+      "Year on year % increase",
+      "-39,41%",
+      "61,86%",
+      "-2,73%",
+      "-12,66%"
+    ],
+    [
+      "Gross written premiums (NGN'000)",
+      2020,
+      2021,
+      2022,
+      2023
+    ],
+    [
+      "General Accident",
+      339992,
+      446166,
+      394577,
+      438670
+    ],
+    [
+      "Motor",
+      715321,
+      620395,
+      687248,
+      906943
+    ],
+    [
+      "Marine",
+      276428,
+      296746,
+      262270,
+      231167
+    ],
+    [
+      "Engineering",
+      305639,
+      322522,
+      355014,
+      433715
+    ],
+    [
+      "Bonds",
+      142648,
+      221421,
+      352399,
+      387111
+    ],
+    [
+      "Fire",
+      597512,
+      732991,
+      767655,
+      819265
+    ],
+    [
+      "Oil & Gas",
+      1571539,
+      1888875,
+      2049113,
+      2516607
+    ],
+    [
+      "Agriculture",
+      null,
+      147892,
+      59817,
+      1827
+    ],
+    [
+      "Aviation",
+      null,
+      null,
+      1815,
+      599
+    ],
+    [
+      "Total",
+      3949079,
+      4677009,
+      4929908,
+      5735903
+    ],
+    [
+      "Year on year % increase",
+      "2%",
+      "18%",
+      "5%",
+      "16%"
+    ]
+  ],
+  "pages_seen": [
+    8
+  ],
+  "rows_raw": [
+    [
+      "Number of policies written",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "General Accident",
+      "877",
+      "1.263",
+      "1.251",
+      "1.163"
+    ],
+    [
+      "Motor",
+      "2.403",
+      "3.320",
+      "3.065",
+      "3.009"
+    ],
+    [
+      "Marine",
+      "419",
+      "662",
+      "718",
+      "681"
+    ],
+    [
+      "Engineering",
+      "176",
+      "356",
+      "353",
+      "305"
+    ],
+    [
+      "Bond",
+      "1.249",
+      "2.520",
+      "2.635",
+      "1.767"
+    ],
+    [
+      "Fire",
+      "963",
+      "1.670",
+      "1.500",
+      "1.390"
+    ],
+    [
+      "Oil & Gas",
+      "51",
+      "137",
+      "123",
+      "123"
+    ],
+    [
+      "Agriculture",
+      "-",
+      "7",
+      "11",
+      "2"
+    ],
+    [
+      "Aviation",
+      "-",
+      "-",
+      "8,00",
+      "1,00"
+    ],
+    [
+      "Total",
+      "6.138",
+      "9.935",
+      "9.664",
+      "8.441"
+    ],
+    [
+      "Year on year % increase",
+      "-39,41%",
+      "61,86%",
+      "-2,73%",
+      "-12,66%"
+    ],
+    [
+      "Gross written premiums (NGN'000)",
+      "2020",
+      "2021",
+      "2022",
+      "2023"
+    ],
+    [
+      "General Accident",
+      "339.992",
+      "446.166",
+      "394.577",
+      "438.670"
+    ],
+    [
+      "Motor",
+      "715.321",
+      "620.395",
+      "687.248",
+      "906.943"
+    ],
+    [
+      "Marine",
+      "276.428",
+      "296.746",
+      "262.270",
+      "231.167"
+    ],
+    [
+      "Engineering",
+      "305.639",
+      "322.522",
+      "355.014",
+      "433.715"
+    ],
+    [
+      "Bonds",
+      "142.648",
+      "221.421",
+      "352.399",
+      "387.111"
+    ],
+    [
+      "Fire",
+      "597.512",
+      "732.991",
+      "767.655",
+      "819.265"
+    ],
+    [
+      "Oil & Gas",
+      "1.571.539",
+      "1.888.875",
+      "2.049.113",
+      "2.516.607"
+    ],
+    [
+      "Agriculture",
+      "-",
+      "147.892",
+      "59.817",
+      "1.827"
+    ],
+    [
+      "Aviation",
+      "-",
+      "-",
+      "1.815",
+      "599"
+    ],
+    [
+      "Total",
+      "3.949.079",
+      "4.677.009",
+      "4.929.908",
+      "5.735.903"
+    ],
+    [
+      "Year on year % increase",
+      "2%",
+      "18%",
+      "5%",
+      "16%"
+    ]
+  ],
+  "source_pages": [
+    {
+      "pdf_page": 8,
+      "printed_page": null
+    }
+  ],
+  "table_complete": true,
+  "table_id": "T02",
+  "table_number_raw": "Table 2",
+  "title_raw": "Trend of Key Non-life written Business Statistics General Insurance business \u2013 direct",
+  "units_raw": "Number of policies written; Gross written premiums (NGN'000)",
+  "_header_width": 5,
+  "_row_width": 5
+}

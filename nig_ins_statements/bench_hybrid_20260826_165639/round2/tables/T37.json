@@ -1,0 +1,194 @@
+{
+  "cell_flags": [],
+  "concerns": [],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "footnotes_raw": [
+    "From the data on the largest claims in the Engineering branch since 2015, the following can be seen:",
+    "The total sum of the largest net claims paid as a proportion 0.11% on average of the shareholders\u2019 funds appear to be within tolerance.",
+    "All the large Engineering claims appear to be fully settled within 3 years."
+  ],
+  "headers_raw": [
+    "Accident Year",
+    "Largest gross claims (NGN)",
+    "Largest net claims (NGN)",
+    "Proportion recovered",
+    "Net Claims as % of S/H Funds",
+    "Sum of Five Largest Claims (NGN)"
+  ],
+  "normalized_rows": [
+    [
+      2015,
+      11343376,
+      3751913,
+      0.67,
+      0.001,
+      34389763
+    ],
+    [
+      2016,
+      16906221,
+      6309402,
+      0.63,
+      0.002,
+      27855405
+    ],
+    [
+      2017,
+      12152701,
+      4603443,
+      0.62,
+      0.001,
+      19154690
+    ],
+    [
+      2018,
+      3759250,
+      2678356,
+      0.29,
+      0.0006,
+      3759250
+    ],
+    [
+      2019,
+      6621255,
+      6621255,
+      0,
+      0.0014,
+      24786649
+    ],
+    [
+      2020,
+      9924902,
+      2029642,
+      0.8,
+      0.0004,
+      24424522
+    ],
+    [
+      2021,
+      18668231,
+      14841244,
+      0.21,
+      0.0027,
+      35927150
+    ],
+    [
+      2022,
+      3545457,
+      2818638,
+      0.21,
+      0.0005,
+      14941199
+    ],
+    [
+      2023,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      "Average",
+      9213488,
+      4850433,
+      0.38,
+      0.0011,
+      20582070
+    ]
+  ],
+  "pages_seen": [
+    36
+  ],
+  "rows_raw": [
+    [
+      "2015",
+      "11,343,376",
+      "3,751,913",
+      "67%",
+      "0,10%",
+      "34,389,763"
+    ],
+    [
+      "2016",
+      "16,906,221",
+      "6,309,402",
+      "63%",
+      "0,20%",
+      "27,855,405"
+    ],
+    [
+      "2017",
+      "12,152,701",
+      "4,603,443",
+      "62%",
+      "0,10%",
+      "19,154,690"
+    ],
+    [
+      "2018",
+      "3,759,250",
+      "2,678,356",
+      "29%",
+      "0,06%",
+      "3,759,250"
+    ],
+    [
+      "2019",
+      "6,621,255",
+      "6,621,255",
+      "0%",
+      "0,14%",
+      "24,786,649"
+    ],
+    [
+      "2020",
+      "9,924,902",
+      "2,029,642",
+      "80%",
+      "0,04%",
+      "24,424,522"
+    ],
+    [
+      "2021",
+      "18,668,231",
+      "14,841,244",
+      "21%",
+      "0,27%",
+      "35,927,150"
+    ],
+    [
+      "2022",
+      "3,545,457",
+      "2,818,638",
+      "21%",
+      "0,05%",
+      "14,941,199"
+    ],
+    [
+      "2023",
+      "0",
+      "0",
+      "0%",
+      "0,00%",
+      "0"
+    ],
+    [
+      "Average",
+      "9,213,488",
+      "4,850,433",
+      "38%",
+      "0,11%",
+      "20,582,070"
+    ]
+  ],
+  "source_pages": [],
+  "table_complete": true,
+  "table_id": "T37",
+  "table_number_raw": "",
+  "title_raw": "ENGINEERING - Largest Claims Analysis by Accident Year (NGN)",
+  "units_raw": "NGN and % of S/H Funds",
+  "_header_width": 6,
+  "_row_width": 6
+}

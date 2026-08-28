@@ -1,0 +1,47 @@
+{
+  "checks": {
+    "continuation_verified": true,
+    "header_width_consistent": true,
+    "page_citations_verified": true,
+    "row_widths_consistent": true,
+    "totals_status": "reconciles"
+  },
+  "corrections": [
+    {
+      "column_index": 0,
+      "confidence": "high",
+      "reason": "OCR merged words 'Maximum line' into 'Maximumline'. Corrected to standard spacing.",
+      "round2_value": "Maximum line NGN30m any one vessel",
+      "row_index": 0,
+      "source_pdf_page": 40,
+      "validated_value": "Maximum line NGN30m any one vessel"
+    }
+  ],
+  "final_headers_raw": [
+    "Retention",
+    "Surplus",
+    "Total Capacity"
+  ],
+  "final_normalized_rows": [
+    [
+      "Maximum line NGN30m any one vessel",
+      "NGN750m for\n25 lines",
+      "NGN780m"
+    ]
+  ],
+  "final_rows_raw": [
+    [
+      "Maximum line NGN30m any one vessel",
+      "NGN750m for\n25 lines",
+      "NGN780m"
+    ]
+  ],
+  "final_title_raw": "",
+  "issues": [],
+  "source_pages": [
+    40
+  ],
+  "table_complete": true,
+  "table_id": "T44",
+  "verdict": "corrected"
+}

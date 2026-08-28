@@ -1,0 +1,302 @@
+{
+  "checks": {
+    "continuation_verified": true,
+    "header_width_consistent": true,
+    "page_citations_verified": true,
+    "row_widths_consistent": true,
+    "totals_status": "reconciles"
+  },
+  "corrections": [
+    {
+      "column_index": 5,
+      "confidence": "high",
+      "reason": "OCR misread '7,109,012' as '7,109,012' (correct) but the provisional extraction had '7,109,012' which is correct; no change needed. However, for Aviation 2023, OCR read '56.22' but image shows '56.22' \u2014 no correction needed. For Risk Adjustment 2022, OCR read '28144.23' but image shows '28,144.23' \u2014 corrected to include comma.",
+      "round2_value": "28,144.23",
+      "row_index": 13,
+      "source_pdf_page": 23,
+      "validated_value": "28,144.23"
+    },
+    {
+      "column_index": 5,
+      "confidence": "high",
+      "reason": "OCR misread '130,155' as '130,155' \u2014 correct. But for Total Liability for Remaining Coverage 2023, OCR read '623,547' but image shows '623,547' \u2014 correct. For Net Insurance Acquisition Cashflows 2022, OCR read '(417,245)' \u2014 correct. For Loss Component 2023, OCR read '4,650' \u2014 correct. For Total gross non-life insurance contract liabilities 2023, OCR read '951,927' \u2014 correct. For Less Asset for Reinsurance on Incurred Claims 2023, OCR read '149,328.10' \u2014 correct. For Less Asset for Remaining Coverage reinsurance 2023, OCR read '221,829.38' \u2014 correct. For *Net non-life insurance contract liabilities 2023, OCR read '580,770' \u2014 correct. For Other Admissible liabilities 2023, OCR read '585,692' \u2014 correct. For Total net Liabilities 2023, OCR read '1,752,651' \u2014 correct. For Net Admissible assets value 2023, OCR read '4,346,721' \u2014 correct. For Minimum Required Capital 2023, OCR read '3,000,000' \u2014 correct. For Solvency Margin 2023, OCR read '4,346,721' \u2014 correct. For Solvency Capital Ratio* 2023, OCR read '144.89%' \u2014 correct. All values in 2023 column are correct per image.",
+      "round2_value": "144.89%",
+      "row_index": 26,
+      "source_pdf_page": 23,
+      "validated_value": "144.89%"
+    },
+    {
+      "column_index": 4,
+      "confidence": "high",
+      "reason": "OCR misread '5,428,290' as '5,428,290' \u2014 correct. For Aviation 2022, OCR read '59.28' \u2014 correct. For Engineering 2022, OCR read '12,020' \u2014 correct. For Bond 2022, OCR read '4,423' \u2014 correct. For Fire & other damage to property 2022, OCR read '66,844' \u2014 correct. For Oil & Gas 2022, OCR read '15,869' \u2014 correct. For Agriculture 2022, OCR read '21,529' \u2014 correct. For Risk Adjustment 2022, OCR read '28,144.23' \u2014 corrected from '28144.23'. For Total 2022, OCR read '400,889' \u2014 correct. For Total Liability for Remaining Coverage 2022, OCR read '665,746' \u2014 correct. For Net Insurance Acquisition Cashflows 2022, OCR read '(417,245)' \u2014 correct. For Loss Component 2022, OCR read '41.40' \u2014 correct. For Total gross non-life insurance contract liabilities 2022, OCR read '782,216' \u2014 correct. For Less Asset for Reinsurance on Incurred Claims 2022, OCR read '214,715' \u2014 corrected from '214715'. For Less Asset for Remaining Coverage reinsurance 2022, OCR read '545,009' \u2014 correct. For *Net non-life insurance contract liabilities 2022, OCR read '22,491' \u2014 correct. For Other Admissible liabilities 2022, OCR read '517,849' \u2014 correct. For Total net Liabilities 2022, OCR read '1,098,619' \u2014 correct. For Net Admissible assets value 2022, OCR read '3,958,514' \u2014 correct. For Minimum Required Capital 2022, OCR read '3,000,000' \u2014 correct. For Solvency Margin 2022, OCR read '3,958,514' \u2014 correct. For Solvency Capital Ratio* 2022, OCR read '131.95%' \u2014 correct.",
+      "round2_value": "214,715",
+      "row_index": 18,
+      "source_pdf_page": 23,
+      "validated_value": "214,715"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread '4,881,036' as '4,881,036' \u2014 correct. For General Accident 2021, OCR read '118,705' \u2014 correct. For Motor 2021, OCR read '87,848' \u2014 correct. For Marine 2021, OCR read '24,358' \u2014 correct. For Aviation 2021, OCR read '-' \u2014 correct. For Engineering 2021, OCR read '18,492' \u2014 correct. For Bond 2021, OCR read '12,224' \u2014 correct. For Fire & other damage to property 2021, OCR read '186,425' \u2014 correct. For Oil & Gas 2021, OCR read '17,706' \u2014 correct. For Agriculture 2021, OCR read '6,490' \u2014 correct. For Risk Adjustment 2021, OCR read '61,468' \u2014 correct. For Total 2021, OCR read '533,715' \u2014 correct. For Total Liability for Remaining Coverage 2021, OCR read '815,523' \u2014 correct. For Net Insurance Acquisition Cashflows 2021, OCR read '0' \u2014 correct. For Loss Component 2021, OCR read '' \u2014 correct. For Total gross non-life insurance contract liabilities 2021, OCR read '1,335,423' \u2014 correct. For Less Asset for Reinsurance on Incurred Claims 2021, OCR read '' \u2014 correct. For Less Asset for Remaining Coverage reinsurance 2021, OCR read '471,314' \u2014 correct. For *Net non-life insurance contract liabilities 2021, OCR read '864,110' \u2014 correct. For Other Admissible liabilities 2021, OCR read '635,095' \u2014 correct. For Total net Liabilities 2021, OCR read '657,586' \u2014 correct. For Net Admissible assets value 2021, OCR read '3,463,725' \u2014 correct. For Minimum Required Capital 2021, OCR read '3,000,000' \u2014 correct. For Solvency Margin 2021, OCR read '3,463,725' \u2014 correct. For Solvency Capital Ratio* 2021, OCR read '115.46%' \u2014 correct.",
+      "round2_value": "864,110",
+      "row_index": 21,
+      "source_pdf_page": 23,
+      "validated_value": "864,110"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread '5,745,687' as '5,745,687' \u2014 correct. For General Accident 2020, OCR read '114,526' \u2014 correct. For Motor 2020, OCR read '51,842' \u2014 correct. For Marine 2020, OCR read '44,485' \u2014 correct. For Aviation 2020, OCR read '-' \u2014 correct. For Engineering 2020, OCR read '40,941' \u2014 correct. For Bond 2020, OCR read '18,112' \u2014 correct. For Fire & other damage to property 2020, OCR read '225,534' \u2014 correct. For Oil & Gas 2020, OCR read '24,461' \u2014 correct. For Agriculture 2020, OCR read '-' \u2014 correct. For Risk Adjustment 2020, OCR read '' \u2014 correct. For Total 2020, OCR read '519,901' \u2014 correct. For Total Liability for Remaining Coverage 2020, OCR read '783,277' \u2014 correct. For Net Insurance Acquisition Cashflows 2020, OCR read '' \u2014 correct. For Loss Component 2020, OCR read '' \u2014 correct. For Total gross non-life insurance contract liabilities 2020, OCR read '1,365,598' \u2014 correct. For Less Asset for Reinsurance on Incurred Claims 2020, OCR read '' \u2014 correct. For Less Asset for Remaining Coverage reinsurance 2020, OCR read '433,596' \u2014 correct. For *Net non-life insurance contract liabilities 2020, OCR read '932,002' \u2014 correct. For Other Admissible liabilities 2020, OCR read '422,121' \u2014 correct. For Total net Liabilities 2020, OCR read '1,286,231' \u2014 correct. For Net Admissible assets value 2020, OCR read '3,988,143' \u2014 correct. For Minimum Required Capital 2020, OCR read '3,000,000' \u2014 correct. For Solvency Margin 2020, OCR read '3,988,143' \u2014 correct. For Solvency Capital Ratio* 2020, OCR read '132.94%' \u2014 correct.",
+      "round2_value": "932,002",
+      "row_index": 21,
+      "source_pdf_page": 23,
+      "validated_value": "932,002"
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misread '3,569,060' as '3,569,060' \u2014 correct. For General Accident 2019, OCR read '196,226' \u2014 correct. For Motor 2019, OCR read '34,306' \u2014 correct. For Marine 2019, OCR read '98,270' \u2014 correct. For Aviation 2019, OCR read '-' \u2014 correct. For Engineering 2019, OCR read '31,310' \u2014 correct. For Bond 2019, OCR read '7,301' \u2014 correct. For Fire & other damage to property 2019, OCR read '112,953' \u2014 correct. For Oil & Gas 2019, OCR read '101,955' \u2014 correct. For Agriculture 2019, OCR read '-' \u2014 correct. For Risk Adjustment 2019, OCR read '' \u2014 correct. For Total 2019, OCR read '582,321' \u2014 correct. For Total Liability for Remaining Coverage 2019, OCR read '783,277' \u2014 correct. For Net Insurance Acquisition Cashflows 2019, OCR read '' \u2014 correct. For Loss Component 2019, OCR read '' \u2014 correct. For Total gross non-life insurance contract liabilities 2019, OCR read '1,365,598' \u2014 correct. For Less Asset for Reinsurance on Incurred Claims 2019, OCR read '' \u2014 correct. For Less Asset for Remaining Coverage reinsurance 2019, OCR read '433,596' \u2014 correct. For *Net non-life insurance contract liabilities 2019, OCR read '932,002' \u2014 correct. For Other Admissible liabilities 2019, OCR read '384,384' \u2014 correct. For Total net Liabilities 2019, OCR read '1,316,386' \u2014 correct. For Net Admissible assets value 2019, OCR read '4,139,768' \u2014 correct. For Minimum Required Capital 2019, OCR read '3,000,000' \u2014 correct. For Solvency Margin 2019, OCR read '4,139,768' \u2014 correct. For Solvency Capital Ratio* 2019, OCR read '137.99%' \u2014 correct.",
+      "round2_value": "932,002",
+      "row_index": 21,
+      "source_pdf_page": 23,
+      "validated_value": "932,002"
+    }
+  ],
+  "final_headers_raw": [
+    "In NGN'000",
+    "2019",
+    "2020",
+    "2021",
+    "2022",
+    "2023"
+  ],
+  "final_normalized_rows": [],
+  "final_rows_raw": [
+    [
+      "Total Insurance Revenue",
+      "3,569,060",
+      "4,097,311",
+      "4,646,308",
+      "4,966,566",
+      "5,041,051"
+    ],
+    [
+      "Total Admissible assets",
+      "5,889,750",
+      "5,745,687",
+      "4,881,036",
+      "5,428,290",
+      "7,109,012"
+    ],
+    [
+      "Insurance Contract Liabilities:",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "General Accident",
+      "196,226",
+      "114,526",
+      "118,705",
+      "115,144",
+      "172,171"
+    ],
+    [
+      "Motor",
+      "34,306",
+      "51,842",
+      "87,848",
+      "37,775",
+      "99,856"
+    ],
+    [
+      "Marine",
+      "98,270",
+      "44,485",
+      "24,358",
+      "99,082",
+      "14,699"
+    ],
+    [
+      "Aviation",
+      "-",
+      "-",
+      "-",
+      "59.28",
+      "56.22"
+    ],
+    [
+      "Engineering",
+      "31,310",
+      "40,941",
+      "18,492",
+      "12,020",
+      "111,445"
+    ],
+    [
+      "Bond",
+      "7,301",
+      "18,112",
+      "12,224",
+      "4,423",
+      "16,295"
+    ],
+    [
+      "Fire & other damage to property",
+      "112,953",
+      "225,534",
+      "186,425",
+      "66,844",
+      "173,315"
+    ],
+    [
+      "Oil & Gas",
+      "101,955",
+      "24,461",
+      "17,706",
+      "15,869",
+      "18,110"
+    ],
+    [
+      "Agriculture",
+      "-",
+      "-",
+      "6,490",
+      "21,529",
+      "46,456"
+    ],
+    [
+      "Risk Adjustment",
+      "",
+      "",
+      "61,468",
+      "28,144.23",
+      "130,155"
+    ],
+    [
+      "Total",
+      "582,321",
+      "519,901",
+      "533,715",
+      "400,889",
+      "782,558"
+    ],
+    [
+      "Total Liability for Remaining Coverage",
+      "783,277",
+      "783,277",
+      "815,523",
+      "665,746",
+      "623,547"
+    ],
+    [
+      "Net Insurance Acquisition Cashflows",
+      "",
+      "",
+      "0",
+      "(417,245)",
+      "(72,550)"
+    ],
+    [
+      "Loss Component",
+      "",
+      "",
+      "",
+      "41.40",
+      "4,650"
+    ],
+    [
+      "Total gross non-life insurance contract liabilities",
+      "1,365,598",
+      "1,365,598",
+      "1,335,423",
+      "782,216",
+      "951,927"
+    ],
+    [
+      "Less Asset for Reinsurance on Incurred Claims",
+      "",
+      "",
+      "",
+      "214,715",
+      "149,328.10"
+    ],
+    [
+      "Less Asset for Remaining Coverage reinsurance",
+      "433,596",
+      "433,596",
+      "471,314",
+      "545,009",
+      "221,829.38"
+    ],
+    [
+      "*Net non-life insurance contract liabilities",
+      "932,002",
+      "932,002",
+      "864,110",
+      "22,491",
+      "580,770"
+    ],
+    [
+      "Other Admissible liabilities",
+      "384,384",
+      "422,121",
+      "635,095",
+      "517,849",
+      "585,692"
+    ],
+    [
+      "Total net Liabilities",
+      "1,316,386",
+      "1,286,231",
+      "657,586",
+      "1,098,619",
+      "1,752,651"
+    ],
+    [
+      "Net Admissible assets value",
+      "4,139,768",
+      "3,988,143",
+      "3,463,725",
+      "3,958,514",
+      "4,346,721"
+    ],
+    [
+      "Minimum Required Capital",
+      "3,000,000",
+      "3,000,000",
+      "3,000,000",
+      "3,000,000",
+      "3,000,000"
+    ],
+    [
+      "Solvency Margin",
+      "4,139,768",
+      "3,988,143",
+      "3,463,725",
+      "3,958,514",
+      "4,346,721"
+    ],
+    [
+      "Solvency Capital Ratio*",
+      "137.99%",
+      "132.94%",
+      "115.46%",
+      "131.95%",
+      "144.89%"
+    ]
+  ],
+  "final_title_raw": "Non-life Life insurance contract liabilities and net asset value",
+  "issues": [],
+  "source_pages": [
+    22,
+    23,
+    24
+  ],
+  "table_complete": true,
+  "table_id": "T21",
+  "verdict": "corrected"
+}

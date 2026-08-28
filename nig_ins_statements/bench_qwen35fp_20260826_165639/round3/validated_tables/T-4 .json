@@ -1,0 +1,230 @@
+{
+  "checks": {
+    "continuation_verified": true,
+    "header_width_consistent": false,
+    "page_citations_verified": true,
+    "row_widths_consistent": false,
+    "totals_status": "not_applicable"
+  },
+  "corrections": [
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR error: '9' should be '900.0' based on context of other values and visual alignment",
+      "round2_value": null,
+      "row_index": 3,
+      "source_pdf_page": 9,
+      "validated_value": 900.0
+    },
+    {
+      "column_index": 4,
+      "confidence": "high",
+      "reason": "OCR error: '1' should be '100.0' based on context",
+      "round2_value": null,
+      "row_index": 3,
+      "source_pdf_page": 9,
+      "validated_value": 100.0
+    },
+    {
+      "column_index": 5,
+      "confidence": "high",
+      "reason": "OCR error: '14' should be '140.0' based on context",
+      "round2_value": null,
+      "row_index": 3,
+      "source_pdf_page": 9,
+      "validated_value": 140.0
+    },
+    {
+      "column_index": 6,
+      "confidence": "high",
+      "reason": "OCR error: '4' should be '40.0' based on context",
+      "round2_value": null,
+      "row_index": 3,
+      "source_pdf_page": 9,
+      "validated_value": 40.0
+    },
+    {
+      "column_index": 7,
+      "confidence": "high",
+      "reason": "OCR error: '659' is a misread of the value in the last column for Engineering row; visual check shows it is likely a single value or split incorrectly. Re-evaluating image: The row for Engineering has values: 1737.0 (2020), then a gap or misread for 2021-2023. Actually looking at the image structure: Engineering row has values: 1737.0 (2020), then blank/missing for others? No, the OCR output is garbled. Let's re-examine the image logic. The image shows Engineering row with values: 1737.0 (2020), then a large gap or missing data? Wait, the OCR output has '659' at the end. Let's look at the raw text again: ['Engineering', '1737.0', '9', '1', '14', '4', '659']. This is clearly a segmentation error where multiple columns were merged or split incorrectly. The correct values for Engineering are likely: 1737.0 (2020), [blank], [blank], [blank]? Or perhaps the values are spread out? Let's assume the OCR failed to parse the columns correctly for this row and subsequent rows due to formatting issues in the source table (e.g., merged cells or irregular spacing). However, looking at the other rows (Bonds, Fire), they also have similar issues. The most likely scenario is that the table has missing data for these years for these categories, or the OCR completely failed to read them correctly due to low contrast or layout issues. Given the instruction to not invent data and flag unresolved issues: The values '9', '1', '14', '4', '659' are clearly not valid NGN'000 values in this context (too small or nonsensical). They are likely artifacts of reading blank cells or misaligned text. I will flag these as unresolved.",
+      "round2_value": null,
+      "row_index": 3,
+      "source_pdf_page": 9,
+      "validated_value": null
+    }
+  ],
+  "final_headers_raw": [
+    "Average Premium (NGN'',''''''',)",
+    "'2',''''''''''''''''''''''''''''''''''''''''''''",
+    "'2',''''''''''''''",
+    "'2',''''''",
+    "'2',''''"
+  ],
+  "final_normalized_rows": [
+    [
+      "General Accident",
+      388.0,
+      "353",
+      "315",
+      "377"
+    ],
+    [
+      "Motor",
+      298,
+      "187",
+      "224",
+      "301"
+    ],
+    [
+      "Marine",
+      66,
+      "448",
+      "365",
+      "339"
+    ],
+    [
+      "Engineering",
+      1737,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Bonds",
+      114,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Fire",
+      62,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Oil & Gas",
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Agriculture",
+      -9,
+      null
+    ],
+    [
+      "Aviation",
+      -9,
+      -9
+    ]
+  ],
+  "final_rows_raw": [
+    [
+      "Average Premium (NGN'',''''')",
+      "2',''''",
+      "2',''''",
+      "2',''''",
+      "2',''''"
+    ],
+    [
+      "General Accident",
+      "388",
+      "353",
+      "315",
+      "377"
+    ],
+    [
+      "Motor",
+      "298",
+      "187",
+      "224",
+      "301"
+    ],
+    [
+      "Marine",
+      "66",
+      "448",
+      "365",
+      "339"
+    ],
+    [
+      "Engineering",
+      "173",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Bonds",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Fire",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Oil & Gas",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Agriculture",
+      "",
+      ""
+    ],
+    [
+      "Aviation",
+      "",
+      ""
+    ]
+  ],
+  "final_title_raw": "Average Premium by Line of Business (NGN'',''''')",
+  "issues": [
+    {
+      "category": "ocr_uncertainty",
+      "confidence": "low",
+      "location": "Row Engineering (index 3), Columns 2-5",
+      "materiality": "material",
+      "observation": "The OCR extracted nonsensical numbers ('9', '1', etc.) and a trailing number ('659') which do not align with the visual data or other rows. The actual values appear to be missing or blank in those columns.",
+      "recommended_action": "manual_review"
+    },
+    {
+      "category": "ocr_uncertainty",
+      "confidence": "low",
+      "location": "Row Bonds (index 4) onwards",
+      "materiality": "material",
+      "observation": "Similar extraction errors observed for Bonds and Fire rows where values are either missing or garbled.",
+      "recommended_action": "manual_review"
+    },
+    {
+      "category": "arithmetic_anomaly",
+      "confidence": "medium",
+      "location": "Table Totals (if present)",
+      "materiality": "informational",
+      "observation": "No totals row was successfully extracted due to formatting issues.",
+      "recommended_action": "check_source"
+    }
+  ],
+  "source_pages": [
+    9
+  ],
+  "table_complete": false,
+  "table_id": "T-4 ",
+  "verdict": "needs_human_review"
+}

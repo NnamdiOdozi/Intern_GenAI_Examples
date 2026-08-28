@@ -1,0 +1,37 @@
+{
+  "checks": {
+    "continuation_verified": true,
+    "header_width_consistent": true,
+    "page_citations_verified": true,
+    "row_widths_consistent": true,
+    "totals_status": "reconciles"
+  },
+  "corrections": [],
+  "final_headers_raw": [
+    "Retention",
+    "Surplus",
+    "Total Capacity"
+  ],
+  "final_normalized_rows": [
+    [
+      "Maximum line NGN30m any one vessel",
+      "NGN750m for 25 lines",
+      "NGN780m"
+    ]
+  ],
+  "final_rows_raw": [
+    [
+      "Maximum line NGN30m any one vessel",
+      "NGN750m for 25 lines",
+      "NGN780m"
+    ]
+  ],
+  "final_title_raw": "Marine Hull Surplus Treaty",
+  "issues": [],
+  "source_pages": [
+    40
+  ],
+  "table_complete": true,
+  "table_id": "T40",
+  "verdict": "accepted"
+}

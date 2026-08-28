@@ -1,0 +1,185 @@
+{
+  "cell_flags": [],
+  "concerns": [],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "footnotes_raw": [
+    "Source: Figures in the tables were taken from Sterling Premium Production Data"
+  ],
+  "headers_raw": [
+    "Average Premium (NGN'000)",
+    "2020",
+    "2021",
+    "2022",
+    "2023"
+  ],
+  "normalized_rows": [
+    [
+      "General Accident",
+      388,
+      353,
+      315,
+      377
+    ],
+    [
+      "Motor",
+      298,
+      187,
+      224,
+      301
+    ],
+    [
+      "Marine",
+      660,
+      448,
+      365,
+      339
+    ],
+    [
+      "Engineering",
+      1737,
+      906,
+      1006,
+      1422
+    ],
+    [
+      "Bonds",
+      114,
+      88,
+      134,
+      219
+    ],
+    [
+      "Fire",
+      620,
+      439,
+      512,
+      589
+    ],
+    [
+      "Oil & Gas",
+      30814,
+      13787,
+      16659,
+      20460
+    ],
+    [
+      "Agriculture",
+      null,
+      21127,
+      5438,
+      913
+    ],
+    [
+      "Aviation",
+      null,
+      null,
+      227,
+      599
+    ],
+    [
+      "Total",
+      643,
+      471,
+      510,
+      680
+    ],
+    [
+      "",
+      0.68,
+      -0.27,
+      0.08,
+      0.33
+    ]
+  ],
+  "pages_seen": [
+    9
+  ],
+  "rows_raw": [
+    [
+      "General Accident",
+      "388",
+      "353",
+      "315",
+      "377"
+    ],
+    [
+      "Motor",
+      "298",
+      "187",
+      "224",
+      "301"
+    ],
+    [
+      "Marine",
+      "660",
+      "448",
+      "365",
+      "339"
+    ],
+    [
+      "Engineering",
+      "1.737",
+      "906",
+      "1.006",
+      "1.422"
+    ],
+    [
+      "Bonds",
+      "114",
+      "88",
+      "134",
+      "219"
+    ],
+    [
+      "Fire",
+      "620",
+      "439",
+      "512",
+      "589"
+    ],
+    [
+      "Oil & Gas",
+      "30.814",
+      "13.787",
+      "16.659",
+      "20.460"
+    ],
+    [
+      "Agriculture",
+      "-",
+      "21.127",
+      "5.438",
+      "913"
+    ],
+    [
+      "Aviation",
+      "-",
+      "-",
+      "227",
+      "599"
+    ],
+    [
+      "Total",
+      "643",
+      "471",
+      "510",
+      "680"
+    ],
+    [
+      "",
+      "68%",
+      "-27%",
+      "8%",
+      "33%"
+    ]
+  ],
+  "source_pages": [],
+  "table_complete": true,
+  "table_id": "T04",
+  "table_number_raw": "T04",
+  "title_raw": "Average Premium (NGN'000)",
+  "units_raw": "NGN'000",
+  "_header_width": 5,
+  "_row_width": 5
+}

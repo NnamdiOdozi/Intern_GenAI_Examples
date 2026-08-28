@@ -1,0 +1,90 @@
+{
+  "checks": {
+    "continuation_verified": true,
+    "header_width_consistent": true,
+    "page_citations_verified": true,
+    "row_widths_consistent": true,
+    "totals_status": "not_applicable"
+  },
+  "corrections": [
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR error: comma used as decimal separator in source (2,05) converted to dot (2.05) in extraction. Corrected to match source format.",
+      "round2_value": "2,05",
+      "row_index": 1,
+      "source_pdf_page": 27,
+      "validated_value": "2.05"
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR error: comma used as decimal separator in source (1,48) converted to dot (1.48) in extraction. Corrected to match source format.",
+      "round2_value": "1,48",
+      "row_index": 2,
+      "source_pdf_page": 27,
+      "validated_value": "1.48"
+    }
+  ],
+  "final_headers_raw": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "final_normalized_rows": [
+    [
+      "Scenario 1:",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "All Assets",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "All Liabilities",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "final_rows_raw": [
+    [
+      "Scenario 1:",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "All Assets",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "All Liabilities",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "final_title_raw": "Scenario 1: NPV Duration Convexity",
+  "issues": [],
+  "source_pages": [
+    27
+  ],
+  "table_complete": true,
+  "table_id": "T26",
+  "verdict": "corrected"
+}

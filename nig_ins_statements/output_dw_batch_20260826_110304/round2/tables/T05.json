@@ -1,0 +1,32 @@
+{
+  "cell_flags": [],
+  "concerns": [],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "footnotes_raw": [
+    "Source: Annual report and Accounts",
+    "*Note: - Net claims ratio = net claims incurred/net earned premiums",
+    "- Net expense ratio = net operating expenses/net earned premiums",
+    "- Overall Operating ratio = 1- (overall result/net earned premiums)",
+    "- Net Profit margin = insurance profit / net written premium"
+  ],
+  "headers_raw": [
+    "Net Insurance Revenue",
+    "2021",
+    "2022",
+    "2023"
+  ],
+  "normalized_rows": [],
+  "pages_seen": [
+    12
+  ],
+  "rows_raw": [],
+  "source_pages": [],
+  "table_complete": true,
+  "table_id": "T05",
+  "table_number_raw": "",
+  "title_raw": "Net Insurance Revenue",
+  "units_raw": "NGN (in millions)",
+  "_header_width": 4,
+  "_row_width": 0
+}

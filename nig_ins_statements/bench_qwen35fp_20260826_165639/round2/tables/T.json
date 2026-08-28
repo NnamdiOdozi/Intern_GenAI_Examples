@@ -1,0 +1,91 @@
+{
+  "cell_flags": [],
+  "concerns": [],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "footnotes_raw": [],
+  "headers_raw": [
+    "",
+    "2020",
+    "2021",
+    "2022",
+    "2023"
+  ],
+  "normalized_rows": [
+    [
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Number of policies written",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "General Accident",
+      877.0,
+      1263.0,
+      1251.0,
+      1163.0
+    ],
+    [
+      "Motor",
+      2403.0,
+      3320.0,
+      3065.0,
+      3009.0
+    ],
+    [
+      "Marine",
+      419.0,
+      662.0,
+      718.0,
+      681.0
+    ],
+    [
+      "Engineering",
+      176.0,
+      356.0,
+      353.0,
+      305.0
+    ],
+    [
+      "Bond",
+      1249.0,
+      25299999999999848484848484848484848484847777777777777765555555555556666666666
+    ],
+    [
+      null
+    ]
+  ],
+  "pages_seen": [],
+  "rows_raw": [
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "source_pages": [],
+  "table_complete": true,
+  "table_id": "T",
+  "table_number_raw": "\"Table\"",
+  "title_raw": "\"Trend of Key Non-life written Business Statistics General Insurance business \u2013 direct\"",
+  "units_raw": "\"None stated explicitly in table header; values appear to be counts and percentages.",
+  "_header_width": 5,
+  "_row_width": 5
+}

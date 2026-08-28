@@ -1,0 +1,785 @@
+{
+  "checks": {
+    "continuation_verified": true,
+    "header_width_consistent": true,
+    "page_citations_verified": true,
+    "row_widths_consistent": true,
+    "totals_status": "reconciles"
+  },
+  "corrections": [
+    {
+      "column_index": 0,
+      "confidence": "high",
+      "reason": "Header 'NGN'000' was misaligned in provisional extraction; corrected to match image column header.",
+      "round2_value": "NGN'000",
+      "row_index": 0,
+      "source_pdf_page": 20,
+      "validated_value": "NGN'000"
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "Column header '2021' was missing from provisional headers_raw; added based on table structure and image.",
+      "round2_value": "2021",
+      "row_index": 0,
+      "source_pdf_page": 20,
+      "validated_value": "2021"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "Column header '2022' was missing from provisional headers_raw; added based on table structure and image.",
+      "round2_value": "2022",
+      "row_index": 0,
+      "source_pdf_page": 20,
+      "validated_value": "2022"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "Column header '2023' was missing from provisional headers_raw; added based on table structure and image.",
+      "round2_value": "2023",
+      "row_index": 0,
+      "source_pdf_page": 20,
+      "validated_value": "2023"
+    },
+    {
+      "column_index": 4,
+      "confidence": "high",
+      "reason": "Column header 'Percentage change' was incorrectly split into two lines in provisional extraction; corrected to single line as shown in image.",
+      "round2_value": "Percentage change",
+      "row_index": 0,
+      "source_pdf_page": 20,
+      "validated_value": "Percentage change"
+    },
+    {
+      "column_index": 5,
+      "confidence": "high",
+      "reason": "Column header 'Change in total incurred claims.' was truncated in provisional extraction; corrected to full text as shown in image.",
+      "round2_value": "Change in total incurred claims.",
+      "row_index": 0,
+      "source_pdf_page": 20,
+      "validated_value": "Change in total incurred claims."
+    },
+    {
+      "column_index": 0,
+      "confidence": "high",
+      "reason": "Row label 'General Accident' was missing from provisional rows_raw; added based on table content and image.",
+      "round2_value": "General Accident",
+      "row_index": 1,
+      "source_pdf_page": 20,
+      "validated_value": "General Accident"
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "Value '119.088' for General Accident in 2021 was missing from provisional rows_raw; added based on table content and image.",
+      "round2_value": "119.088",
+      "row_index": 1,
+      "source_pdf_page": 20,
+      "validated_value": "119.088"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "Value '114.540' for General Accident in 2022 was missing from provisional rows_raw; added based on table content and image.",
+      "round2_value": "114.540",
+      "row_index": 1,
+      "source_pdf_page": 20,
+      "validated_value": "114.540"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "Value '172.171' for General Accident in 2023 was missing from provisional rows_raw; added based on table content and image.",
+      "round2_value": "172.171",
+      "row_index": 1,
+      "source_pdf_page": 20,
+      "validated_value": "172.171"
+    },
+    {
+      "column_index": 4,
+      "confidence": "high",
+      "reason": "Value '50%' for General Accident percentage change was missing from provisional rows_raw; added based on table content and image.",
+      "round2_value": "50%",
+      "row_index": 1,
+      "source_pdf_page": 20,
+      "validated_value": "50%"
+    },
+    {
+      "column_index": 5,
+      "confidence": "high",
+      "reason": "Value 'Deterioration' for General Accident change in total incurred claims was missing from provisional rows_raw; added based on table content and image.",
+      "round2_value": "Deterioration",
+      "row_index": 1,
+      "source_pdf_page": 20,
+      "validated_value": "Deterioration"
+    },
+    {
+      "column_index": 0,
+      "confidence": "high",
+      "reason": "Row label 'Motor' was missing from provisional rows_raw; added based on table content and image.",
+      "round2_value": "Motor",
+      "row_index": 2,
+      "source_pdf_page": 20,
+      "validated_value": "Motor"
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "Value '87.593' for Motor in 2021 was missing from provisional rows_raw; added based on table content and image.",
+      "round2_value": "87.593",
+      "row_index": 2,
+      "source_pdf_page": 20,
+      "validated_value": "87.593"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "Value '37.811' for Motor in 2022 was missing from provisional rows_raw; added based on table content and image.",
+      "round2_value": "37.811",
+      "row_index": 2,
+      "source_pdf_page": 20,
+      "validated_value": "37.811"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "Value '99.856' for Motor in 2023 was missing from provisional rows_raw; added based on table content and image.",
+      "round2_value": "99.856",
+      "row_index": 2,
+      "source_pdf_page": 20,
+      "validated_value": "99.856"
+    },
+    {
+      "column_index": 4,
+      "confidence": "high",
+      "reason": "Value '164%' for Motor percentage change was missing from provisional rows_raw; added based on table content and image.",
+      "round2_value": "164%",
+      "row_index": 2,
+      "source_pdf_page": 20,
+      "validated_value": "164%"
+    },
+    {
+      "column_index": 5,
+      "confidence": "high",
+      "reason": "Value 'Deterioration' for Motor change in total incurred claims was missing from provisional rows_raw; added based on table content and image.",
+      "round2_value": "Deterioration",
+      "row_index": 2,
+      "source_pdf_page": 20,
+      "validated_value": "Deterioration"
+    },
+    {
+      "column_index": 0,
+      "confidence": "high",
+      "reason": "Row label 'Marine' was missing from provisional rows_raw; added based on table content and image.",
+      "round2_value": "Marine",
+      "row_index": 3,
+      "source_pdf_page": 20,
+      "validated_value": "Marine"
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "Value '24.049' for Marine in 2021 was missing from provisional rows_raw; added based on table content and image.",
+      "round2_value": "24.049",
+      "row_index": 3,
+      "source_pdf_page": 20,
+      "validated_value": "24.049"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "Value '96.230' for Marine in 2022 was missing from provisional rows_raw; added based on table content and image.",
+      "round2_value": "96.230",
+      "row_index": 3,
+      "source_pdf_page": 20,
+      "validated_value": "96.230"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "Value '14.699' for Marine in 2023 was missing from provisional rows_raw; added based on table content and image.",
+      "round2_value": "14.699",
+      "row_index": 3,
+      "source_pdf_page": 20,
+      "validated_value": "14.699"
+    },
+    {
+      "column_index": 4,
+      "confidence": "high",
+      "reason": "Value '-85%' for Marine percentage change was missing from provisional rows_raw; added based on table content and image.",
+      "round2_value": "-85%",
+      "row_index": 3,
+      "source_pdf_page": 20,
+      "validated_value": "-85%"
+    },
+    {
+      "column_index": 5,
+      "confidence": "high",
+      "reason": "Value 'Improvement' for Marine change in total incurred claims was missing from provisional rows_raw; added based on table content and image.",
+      "round2_value": "Improvement",
+      "row_index": 3,
+      "source_pdf_page": 20,
+      "validated_value": "Improvement"
+    },
+    {
+      "column_index": 0,
+      "confidence": "high",
+      "reason": "Row label 'Engineering' was missing from provisional rows_raw; added based on table content and image.",
+      "round2_value": "Engineering",
+      "row_index": 4,
+      "source_pdf_page": 20,
+      "validated_value": "Engineering"
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "Value '18.477' for Engineering in 2021 was missing from provisional rows_raw; added based on table content and image.",
+      "round2_value": "18.477",
+      "row_index": 4,
+      "source_pdf_page": 20,
+      "validated_value": "18.477"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "Value '12.020' for Engineering in 2022 was missing from provisional rows_raw; added based on table content and image.",
+      "round2_value": "12.020",
+      "row_index": 4,
+      "source_pdf_page": 20,
+      "validated_value": "12.020"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "Value '111.445' for Engineering in 2023 was missing from provisional rows_raw; added based on table content and image.",
+      "round2_value": "111.445",
+      "row_index": 4,
+      "source_pdf_page": 20,
+      "validated_value": "111.445"
+    },
+    {
+      "column_index": 4,
+      "confidence": "high",
+      "reason": "Value '827%' for Engineering percentage change was missing from provisional rows_raw; added based on table content and image.",
+      "round2_value": "827%",
+      "row_index": 4,
+      "source_pdf_page": 20,
+      "validated_value": "827%"
+    },
+    {
+      "column_index": 5,
+      "confidence": "high",
+      "reason": "Value 'Deterioration' for Engineering change in total incurred claims was missing from provisional rows_raw; added based on table content and image.",
+      "round2_value": "Deterioration",
+      "row_index": 4,
+      "source_pdf_page": 20,
+      "validated_value": "Deterioration"
+    },
+    {
+      "column_index": 0,
+      "confidence": "high",
+      "reason": "Row label 'Bond' was missing from provisional rows_raw; added based on table content and image.",
+      "round2_value": "Bond",
+      "row_index": 5,
+      "source_pdf_page": 20,
+      "validated_value": "Bond"
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "Value '11.038' for Bond in 2021 was missing from provisional rows_raw; added based on table content and image.",
+      "round2_value": "11.038",
+      "row_index": 5,
+      "source_pdf_page": 20,
+      "validated_value": "11.038"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "Value '4.423' for Bond in 2022 was missing from provisional rows_raw; added based on table content and image.",
+      "round2_value": "4.423",
+      "row_index": 5,
+      "source_pdf_page": 20,
+      "validated_value": "4.423"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "Value '16.295' for Bond in 2023 was missing from provisional rows_raw; added based on table content and image.",
+      "round2_value": "16.295",
+      "row_index": 5,
+      "source_pdf_page": 20,
+      "validated_value": "16.295"
+    },
+    {
+      "column_index": 4,
+      "confidence": "high",
+      "reason": "Value '268%' for Bond percentage change was missing from provisional rows_raw; added based on table content and image.",
+      "round2_value": "268%",
+      "row_index": 5,
+      "source_pdf_page": 20,
+      "validated_value": "268%"
+    },
+    {
+      "column_index": 5,
+      "confidence": "high",
+      "reason": "Value 'Deterioration' for Bond change in total incurred claims was missing from provisional rows_raw; added based on table content and image.",
+      "round2_value": "Deterioration",
+      "row_index": 5,
+      "source_pdf_page": 20,
+      "validated_value": "Deterioration"
+    },
+    {
+      "column_index": 0,
+      "confidence": "high",
+      "reason": "Row label 'Fire' was missing from provisional rows_raw; added based on table content and image.",
+      "round2_value": "Fire",
+      "row_index": 6,
+      "source_pdf_page": 20,
+      "validated_value": "Fire"
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "Value '185.678' for Fire in 2021 was missing from provisional rows_raw; added based on table content and image.",
+      "round2_value": "185.678",
+      "row_index": 6,
+      "source_pdf_page": 20,
+      "validated_value": "185.678"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "Value '58.220' for Fire in 2022 was missing from provisional rows_raw; added based on table content and image.",
+      "round2_value": "58.220",
+      "row_index": 6,
+      "source_pdf_page": 20,
+      "validated_value": "58.220"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "Value '173.315' for Fire in 2023 was missing from provisional rows_raw; added based on table content and image.",
+      "round2_value": "173.315",
+      "row_index": 6,
+      "source_pdf_page": 20,
+      "validated_value": "173.315"
+    },
+    {
+      "column_index": 4,
+      "confidence": "high",
+      "reason": "Value '198%' for Fire percentage change was missing from provisional rows_raw; added based on table content and image.",
+      "round2_value": "198%",
+      "row_index": 6,
+      "source_pdf_page": 20,
+      "validated_value": "198%"
+    },
+    {
+      "column_index": 5,
+      "confidence": "high",
+      "reason": "Value 'Deterioration' for Fire change in total incurred claims was missing from provisional rows_raw; added based on table content and image.",
+      "round2_value": "Deterioration",
+      "row_index": 6,
+      "source_pdf_page": 20,
+      "validated_value": "Deterioration"
+    },
+    {
+      "column_index": 0,
+      "confidence": "high",
+      "reason": "Row label 'Oil & Gas' was missing from provisional rows_raw; added based on table content and image.",
+      "round2_value": "Oil & Gas",
+      "row_index": 7,
+      "source_pdf_page": 20,
+      "validated_value": "Oil & Gas"
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "Value '17.683' for Oil & Gas in 2021 was missing from provisional rows_raw; added based on table content and image.",
+      "round2_value": "17.683",
+      "row_index": 7,
+      "source_pdf_page": 20,
+      "validated_value": "17.683"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "Value '15.608' for Oil & Gas in 2022 was missing from provisional rows_raw; added based on table content and image.",
+      "round2_value": "15.608",
+      "row_index": 7,
+      "source_pdf_page": 20,
+      "validated_value": "15.608"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "Value '18.110' for Oil & Gas in 2023 was missing from provisional rows_raw; added based on table content and image.",
+      "round2_value": "18.110",
+      "row_index": 7,
+      "source_pdf_page": 20,
+      "validated_value": "18.110"
+    },
+    {
+      "column_index": 4,
+      "confidence": "high",
+      "reason": "Value '16%' for Oil & Gas percentage change was missing from provisional rows_raw; added based on table content and image.",
+      "round2_value": "16%",
+      "row_index": 7,
+      "source_pdf_page": 20,
+      "validated_value": "16%"
+    },
+    {
+      "column_index": 5,
+      "confidence": "high",
+      "reason": "Value 'Deterioration' for Oil & Gas change in total incurred claims was missing from provisional rows_raw; added based on table content and image.",
+      "round2_value": "Deterioration",
+      "row_index": 7,
+      "source_pdf_page": 20,
+      "validated_value": "Deterioration"
+    },
+    {
+      "column_index": 0,
+      "confidence": "high",
+      "reason": "Row label 'Agriculture' was missing from provisional rows_raw; added based on table content and image.",
+      "round2_value": "Agriculture",
+      "row_index": 8,
+      "source_pdf_page": 20,
+      "validated_value": "Agriculture"
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "Value '6.363' for Agriculture in 2021 was missing from provisional rows_raw; added based on table content and image.",
+      "round2_value": "6.363",
+      "row_index": 8,
+      "source_pdf_page": 20,
+      "validated_value": "6.363"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "Value '21.529' for Agriculture in 2022 was missing from provisional rows_raw; added based on table content and image.",
+      "round2_value": "21.529",
+      "row_index": 8,
+      "source_pdf_page": 20,
+      "validated_value": "21.529"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "Value '46.456' for Agriculture in 2023 was missing from provisional rows_raw; added based on table content and image.",
+      "round2_value": "46.456",
+      "row_index": 8,
+      "source_pdf_page": 20,
+      "validated_value": "46.456"
+    },
+    {
+      "column_index": 4,
+      "confidence": "high",
+      "reason": "Value '116%' for Agriculture percentage change was missing from provisional rows_raw; added based on table content and image.",
+      "round2_value": "116%",
+      "row_index": 8,
+      "source_pdf_page": 20,
+      "validated_value": "116%"
+    },
+    {
+      "column_index": 5,
+      "confidence": "high",
+      "reason": "Value 'Deterioration' for Agriculture change in total incurred claims was missing from provisional rows_raw; added based on table content and image.",
+      "round2_value": "Deterioration",
+      "row_index": 8,
+      "source_pdf_page": 20,
+      "validated_value": "Deterioration"
+    },
+    {
+      "column_index": 0,
+      "confidence": "high",
+      "reason": "Row label 'Aviation' was missing from provisional rows_raw; added based on table content and image.",
+      "round2_value": "Aviation",
+      "row_index": 9,
+      "source_pdf_page": 20,
+      "validated_value": "Aviation"
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "Value '0' for Aviation in 2021 was missing from provisional rows_raw; added based on table content and image.",
+      "round2_value": "0",
+      "row_index": 9,
+      "source_pdf_page": 20,
+      "validated_value": "0"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "Value '59' for Aviation in 2022 was missing from provisional rows_raw; added based on table content and image.",
+      "round2_value": "59",
+      "row_index": 9,
+      "source_pdf_page": 20,
+      "validated_value": "59"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "Value '56' for Aviation in 2023 was missing from provisional rows_raw; added based on table content and image.",
+      "round2_value": "56",
+      "row_index": 9,
+      "source_pdf_page": 20,
+      "validated_value": "56"
+    },
+    {
+      "column_index": 4,
+      "confidence": "high",
+      "reason": "Value '-' for Aviation percentage change was missing from provisional rows_raw; added based on table content and image (cell is blank).",
+      "round2_value": "-",
+      "row_index": 9,
+      "source_pdf_page": 20,
+      "validated_value": "-"
+    },
+    {
+      "column_index": 5,
+      "confidence": "high",
+      "reason": "Value 'Deterioration' for Aviation change in total incurred claims was missing from provisional rows_raw; added based on table content and image.",
+      "round2_value": "Deterioration",
+      "row_index": 9,
+      "source_pdf_page": 20,
+      "validated_value": "Deterioration"
+    },
+    {
+      "column_index": 0,
+      "confidence": "high",
+      "reason": "Row label 'Total Outstanding Claims' was missing from provisional rows_raw; added based on table content and image.",
+      "round2_value": "Total Outstanding Claims",
+      "row_index": 10,
+      "source_pdf_page": 20,
+      "validated_value": "Total Outstanding Claims"
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "Value '469.968' for Total Outstanding Claims in 2021 was missing from provisional rows_raw; added based on table content and image.",
+      "round2_value": "469.968",
+      "row_index": 10,
+      "source_pdf_page": 20,
+      "validated_value": "469.968"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "Value '360.440' for Total Outstanding Claims in 2022 was missing from provisional rows_raw; added based on table content and image.",
+      "round2_value": "360.440",
+      "row_index": 10,
+      "source_pdf_page": 20,
+      "validated_value": "360.440"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "Value '652.403' for Total Outstanding Claims in 2023 was missing from provisional rows_raw; added based on table content and image.",
+      "round2_value": "652.403",
+      "row_index": 10,
+      "source_pdf_page": 20,
+      "validated_value": "652.403"
+    },
+    {
+      "column_index": 4,
+      "confidence": "high",
+      "reason": "Value '81%' for Total Outstanding Claims percentage change was missing from provisional rows_raw; added based on table content and image.",
+      "round2_value": "81%",
+      "row_index": 10,
+      "source_pdf_page": 20,
+      "validated_value": "81%"
+    },
+    {
+      "column_index": 5,
+      "confidence": "high",
+      "reason": "Value 'Deterioration' for Total Outstanding Claims change in total incurred claims was missing from provisional rows_raw; added based on table content and image.",
+      "round2_value": "Deterioration",
+      "row_index": 10,
+      "source_pdf_page": 20,
+      "validated_value": "Deterioration"
+    }
+  ],
+  "final_headers_raw": [
+    "NGN'000",
+    "2021",
+    "2022",
+    "2023",
+    "Percentage change",
+    "Change in total incurred claims."
+  ],
+  "final_normalized_rows": [
+    [
+      "General Accident",
+      119.088,
+      114.54,
+      172.171,
+      50,
+      "Deterioration"
+    ],
+    [
+      "Motor",
+      87.593,
+      37.811,
+      99.856,
+      164,
+      "Deterioration"
+    ],
+    [
+      "Marine",
+      24.049,
+      96.23,
+      14.699,
+      -85,
+      "Improvement"
+    ],
+    [
+      "Engineering",
+      18.477,
+      12.02,
+      111.445,
+      827,
+      "Deterioration"
+    ],
+    [
+      "Bond",
+      11.038,
+      4.423,
+      16.295,
+      268,
+      "Deterioration"
+    ],
+    [
+      "Fire",
+      185.678,
+      58.22,
+      173.315,
+      198,
+      "Deterioration"
+    ],
+    [
+      "Oil & Gas",
+      17.683,
+      15.608,
+      18.11,
+      16,
+      "Deterioration"
+    ],
+    [
+      "Agriculture",
+      6.363,
+      21.529,
+      46.456,
+      116,
+      "Deterioration"
+    ],
+    [
+      "Aviation",
+      0,
+      59,
+      56,
+      null,
+      "Deterioration"
+    ],
+    [
+      "Total Outstanding Claims",
+      469.968,
+      360.44,
+      652.403,
+      81,
+      "Deterioration"
+    ]
+  ],
+  "final_rows_raw": [
+    [
+      "General Accident",
+      "119.088",
+      "114.540",
+      "172.171",
+      "50%",
+      "Deterioration"
+    ],
+    [
+      "Motor",
+      "87.593",
+      "37.811",
+      "99.856",
+      "164%",
+      "Deterioration"
+    ],
+    [
+      "Marine",
+      "24.049",
+      "96.230",
+      "14.699",
+      "-85%",
+      "Improvement"
+    ],
+    [
+      "Engineering",
+      "18.477",
+      "12.020",
+      "111.445",
+      "827%",
+      "Deterioration"
+    ],
+    [
+      "Bond",
+      "11.038",
+      "4.423",
+      "16.295",
+      "268%",
+      "Deterioration"
+    ],
+    [
+      "Fire",
+      "185.678",
+      "58.220",
+      "173.315",
+      "198%",
+      "Deterioration"
+    ],
+    [
+      "Oil & Gas",
+      "17.683",
+      "15.608",
+      "18.110",
+      "16%",
+      "Deterioration"
+    ],
+    [
+      "Agriculture",
+      "6.363",
+      "21.529",
+      "46.456",
+      "116%",
+      "Deterioration"
+    ],
+    [
+      "Aviation",
+      "0",
+      "59",
+      "56",
+      "-",
+      "Deterioration"
+    ],
+    [
+      "Total Outstanding Claims",
+      "469.968",
+      "360.440",
+      "652.403",
+      "81%",
+      "Deterioration"
+    ]
+  ],
+  "final_title_raw": "Accident Year 2023 as reported Source: Valuation Report",
+  "issues": [],
+  "source_pages": [
+    20
+  ],
+  "table_complete": true,
+  "table_id": "T18",
+  "verdict": "corrected"
+}

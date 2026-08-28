@@ -1,0 +1,93 @@
+{
+  "cell_flags": [],
+  "concerns": [],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "footnotes_raw": [
+    "9.9 The company's investment exposure to private sector companies expected to suffer credit losses over the next 12 months is about 12.024mn out of which over 6mn relates to impairments. We had noted that as the unquoted equities carry higher level of risks than quoted shares. The unquoted investments of 8.8% of the company\u2019s total net asset value held in private equities are considered investments with potentially higher risks (default, marketability, illiquidity, higher volatility of income) than other investments and should be actively monitored. We have not been able to confirm the current worth of the shares.",
+    "9.10 Most of the company\u2019s assets type fall within the regulatory requirements for investments of insurance funds and are viewed as admissible."
+  ],
+  "headers_raw": [
+    "Asset Category",
+    "Percentage"
+  ],
+  "normalized_rows": [
+    [
+      "Cash and cash equivalents",
+      16.8
+    ],
+    [
+      "Reinsurance Assets",
+      20.1
+    ],
+    [
+      "Financial Asset",
+      29.9
+    ],
+    [
+      "Trade receivable",
+      15.9
+    ],
+    [
+      "Other receivables and prepayment",
+      1.7
+    ],
+    [
+      "Investment Properties",
+      2.0
+    ],
+    [
+      "Property and equipment, including Land and Building",
+      10.4
+    ],
+    [
+      "Statutory deposit",
+      3.3
+    ]
+  ],
+  "pages_seen": [
+    30
+  ],
+  "rows_raw": [
+    [
+      "Cash and cash equivalents",
+      "16,8%"
+    ],
+    [
+      "Reinsurance Assets",
+      "20,1%"
+    ],
+    [
+      "Financial Asset",
+      "29,9%"
+    ],
+    [
+      "Trade receivable",
+      "15,9%"
+    ],
+    [
+      "Other receivables and prepayment",
+      "1,7%"
+    ],
+    [
+      "Investment Properties",
+      "2,0%"
+    ],
+    [
+      "Property and equipment, including Land and Building",
+      "10,4%"
+    ],
+    [
+      "Statutory deposit",
+      "3,3%"
+    ]
+  ],
+  "source_pages": [],
+  "table_complete": true,
+  "table_id": "T27",
+  "table_number_raw": "",
+  "title_raw": "Sterling Assurance Nigeria General Business Assets Grouping as at December 2023",
+  "units_raw": "Percentages",
+  "_header_width": 2,
+  "_row_width": 2
+}

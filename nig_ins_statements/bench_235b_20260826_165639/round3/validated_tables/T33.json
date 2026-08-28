@@ -1,0 +1,137 @@
+{
+  "checks": {
+    "continuation_verified": true,
+    "header_width_consistent": true,
+    "page_citations_verified": true,
+    "row_widths_consistent": true,
+    "totals_status": "reconciles"
+  },
+  "corrections": [
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread 'S&P' as 'S& P' in African Re row; corrected to match image.",
+      "round2_value": "A by A.M Best and A- by S&P",
+      "row_index": 0,
+      "source_pdf_page": 36,
+      "validated_value": "A by A.M Best and A- by S&P"
+    }
+  ],
+  "final_headers_raw": [
+    "Reinsurer",
+    "Proportion Shared",
+    "Rating"
+  ],
+  "final_normalized_rows": [
+    [
+      "African Re:",
+      0.4,
+      "A by A.M Best and A- by S&P"
+    ],
+    [
+      "Continental Re:",
+      0.1,
+      "B+ by A.M Best"
+    ],
+    [
+      "FBS Re:",
+      0.1,
+      "B by A.M Best"
+    ],
+    [
+      "AVENI Re:",
+      0.05,
+      null
+    ],
+    [
+      "WAICA Re:",
+      0.1,
+      null
+    ],
+    [
+      "NCA Re:",
+      0.05,
+      null
+    ],
+    [
+      "OMAN Re:",
+      0.05,
+      null
+    ],
+    [
+      "GHANA Re:",
+      0.05,
+      null
+    ],
+    [
+      "ARB/WAICA RE, SERRA LEONE",
+      0.1,
+      null
+    ],
+    [
+      "Total",
+      1.0,
+      null
+    ]
+  ],
+  "final_rows_raw": [
+    [
+      "African Re:",
+      "40%",
+      "A by A.M Best and A- by S&P"
+    ],
+    [
+      "Continental Re:",
+      "10%",
+      "B+ by A.M Best"
+    ],
+    [
+      "FBS Re:",
+      "10%",
+      "B by A.M Best"
+    ],
+    [
+      "AVENI Re:",
+      "5%",
+      ""
+    ],
+    [
+      "WAICA Re:",
+      "10%",
+      ""
+    ],
+    [
+      "NCA Re:",
+      "5%",
+      ""
+    ],
+    [
+      "OMAN Re:",
+      "5%",
+      ""
+    ],
+    [
+      "GHANA Re:",
+      "5%",
+      ""
+    ],
+    [
+      "ARB/WAICA RE, SERRA LEONE",
+      "10%",
+      ""
+    ],
+    [
+      "Total",
+      "100%",
+      ""
+    ]
+  ],
+  "final_title_raw": "Reinsurer Proportion Shared Rating",
+  "issues": [],
+  "source_pages": [
+    36
+  ],
+  "table_complete": true,
+  "table_id": "T33",
+  "verdict": "corrected"
+}

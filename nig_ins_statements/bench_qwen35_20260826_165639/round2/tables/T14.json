@@ -1,0 +1,162 @@
+{
+  "cell_flags": [
+    {
+      "candidate_readings": [
+        "blank"
+      ],
+      "column_index": 5,
+      "confidence": "high",
+      "inferred_value": null,
+      "normalized_value": null,
+      "printed_value": "",
+      "reason": "Cell is visually empty",
+      "row_index": 2,
+      "source_pdf_page": 18,
+      "status": "blank"
+    }
+  ],
+  "concerns": [],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "footnotes_raw": [],
+  "headers_raw": [
+    "Class",
+    "2019",
+    "2020",
+    "2021",
+    "2022",
+    "2023"
+  ],
+  "normalized_rows": [
+    [
+      "General Accident",
+      91,
+      58,
+      85,
+      75,
+      81
+    ],
+    [
+      "Motor",
+      71,
+      61,
+      73,
+      92,
+      69
+    ],
+    [
+      "Marine",
+      72,
+      53,
+      64,
+      92,
+      null
+    ],
+    [
+      "Engineering",
+      60,
+      40,
+      60,
+      41,
+      63
+    ],
+    [
+      "Bond",
+      56,
+      42,
+      48,
+      49,
+      49
+    ],
+    [
+      "Fire",
+      96,
+      75,
+      97,
+      81,
+      80
+    ],
+    [
+      "Oil & Gas",
+      63,
+      49,
+      75,
+      41,
+      54
+    ]
+  ],
+  "pages_seen": [
+    18
+  ],
+  "rows_raw": [
+    [
+      "General Accident",
+      "91%",
+      "58%",
+      "85%",
+      "75%",
+      "81%"
+    ],
+    [
+      "Motor",
+      "71%",
+      "61%",
+      "73%",
+      "92%",
+      "69%"
+    ],
+    [
+      "Marine",
+      "72%",
+      "53%",
+      "64%",
+      "92%",
+      ""
+    ],
+    [
+      "Engineering",
+      "60%",
+      "40%",
+      "60%",
+      "41%",
+      "63%"
+    ],
+    [
+      "Bond",
+      "56%",
+      "42%",
+      "48%",
+      "49%",
+      "49%"
+    ],
+    [
+      "Fire",
+      "96%",
+      "75%",
+      "97%",
+      "81%",
+      "80%"
+    ],
+    [
+      "Oil & Gas",
+      "63%",
+      "49%",
+      "75%",
+      "41%",
+      "54%"
+    ]
+  ],
+  "source_pages": [
+    {
+      "pdf_page": 18,
+      "printed_page": "17"
+    }
+  ],
+  "table_complete": true,
+  "table_id": "T14",
+  "table_number_raw": "Table 9",
+  "title_raw": "Table 9: Historical Combined ratio in each accident year",
+  "units_raw": "%",
+  "_header_width": 6,
+  "_row_width": 6
+}

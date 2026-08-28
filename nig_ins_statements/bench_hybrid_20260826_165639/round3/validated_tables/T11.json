@@ -1,0 +1,722 @@
+{
+  "checks": {
+    "continuation_verified": true,
+    "header_width_consistent": true,
+    "page_citations_verified": true,
+    "row_widths_consistent": true,
+    "totals_status": "reconciles"
+  },
+  "corrections": [
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '901.865' not '901865'",
+      "round2_value": 901865,
+      "row_index": 0,
+      "source_pdf_page": 15,
+      "validated_value": 901.865
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '14.860.336' not '14860336'",
+      "round2_value": 14860336,
+      "row_index": 0,
+      "source_pdf_page": 15,
+      "validated_value": 14860336.0
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '4.847,00' not '4847000'",
+      "round2_value": 4847000,
+      "row_index": 0,
+      "source_pdf_page": 15,
+      "validated_value": 4847.0
+    },
+    {
+      "column_index": 4,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '1,36' not '1.36'",
+      "round2_value": 1.36,
+      "row_index": 0,
+      "source_pdf_page": 15,
+      "validated_value": 1.36
+    },
+    {
+      "column_index": 5,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '13,28' not '13.28'",
+      "round2_value": 13.28,
+      "row_index": 0,
+      "source_pdf_page": 15,
+      "validated_value": 13.28
+    },
+    {
+      "column_index": 6,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '147.905.846' not '147905846'",
+      "round2_value": 147905846,
+      "row_index": 0,
+      "source_pdf_page": 15,
+      "validated_value": 147905846.0
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '427.603' not '427603'",
+      "round2_value": 427603,
+      "row_index": 1,
+      "source_pdf_page": 15,
+      "validated_value": 427.603
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '8.101.578' not '8101578'",
+      "round2_value": 8101578,
+      "row_index": 1,
+      "source_pdf_page": 15,
+      "validated_value": 8101578.0
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '1.750,00' not '1750000'",
+      "round2_value": 1750000,
+      "row_index": 1,
+      "source_pdf_page": 15,
+      "validated_value": 1750.0
+    },
+    {
+      "column_index": 4,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '0,25' not '0.25'",
+      "round2_value": 0.25,
+      "row_index": 1,
+      "source_pdf_page": 15,
+      "validated_value": 0.25
+    },
+    {
+      "column_index": 5,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '4,79' not '4.79'",
+      "round2_value": 4.79,
+      "row_index": 1,
+      "source_pdf_page": 15,
+      "validated_value": 4.79
+    },
+    {
+      "column_index": 6,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '214.229.113' not '214229113'",
+      "round2_value": 214229113,
+      "row_index": 1,
+      "source_pdf_page": 15,
+      "validated_value": 214229113.0
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '3.579.581' not '3579581'",
+      "round2_value": 3579581,
+      "row_index": 2,
+      "source_pdf_page": 15,
+      "validated_value": 3579581.0
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '67.235.121' not '67235121'",
+      "round2_value": 67235121,
+      "row_index": 2,
+      "source_pdf_page": 15,
+      "validated_value": 67235121.0
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '1.215,00' not '1215000'",
+      "round2_value": 1215000,
+      "row_index": 2,
+      "source_pdf_page": 15,
+      "validated_value": 1215.0
+    },
+    {
+      "column_index": 4,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '1,15' not '1.15'",
+      "round2_value": 1.15,
+      "row_index": 2,
+      "source_pdf_page": 15,
+      "validated_value": 1.15
+    },
+    {
+      "column_index": 5,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '3,33' not '3.33'",
+      "round2_value": 3.33,
+      "row_index": 2,
+      "source_pdf_page": 15,
+      "validated_value": 3.33
+    },
+    {
+      "column_index": 6,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '82.330.365' not '82330365'",
+      "round2_value": 82330365,
+      "row_index": 2,
+      "source_pdf_page": 15,
+      "validated_value": 82330365.0
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '3.457.370' not '3457370'",
+      "round2_value": 3457370,
+      "row_index": 3,
+      "source_pdf_page": 15,
+      "validated_value": 3457370.0
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '80.382.157' not '80382157'",
+      "round2_value": 80382157,
+      "row_index": 3,
+      "source_pdf_page": 15,
+      "validated_value": 80382157.0
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '1.521,00' not '1521000'",
+      "round2_value": 1521000,
+      "row_index": 3,
+      "source_pdf_page": 15,
+      "validated_value": 1521.0
+    },
+    {
+      "column_index": 4,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '0,94' not '0.94'",
+      "round2_value": 0.94,
+      "row_index": 3,
+      "source_pdf_page": 15,
+      "validated_value": 0.94
+    },
+    {
+      "column_index": 5,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '4,17' not '4.17'",
+      "round2_value": 4.17,
+      "row_index": 3,
+      "source_pdf_page": 15,
+      "validated_value": 4.17
+    },
+    {
+      "column_index": 6,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '169.411.152' not '169411152'",
+      "round2_value": 169411152,
+      "row_index": 3,
+      "source_pdf_page": 15,
+      "validated_value": 169411152.0
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '12.818.742' not '12818742'",
+      "round2_value": 12818742,
+      "row_index": 4,
+      "source_pdf_page": 15,
+      "validated_value": 12818742.0
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '21.328.353' not '21328353'",
+      "round2_value": 21328353,
+      "row_index": 4,
+      "source_pdf_page": 15,
+      "validated_value": 21328353.0
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '4.481,00' not '4481000'",
+      "round2_value": 4481000,
+      "row_index": 4,
+      "source_pdf_page": 15,
+      "validated_value": 4481.0
+    },
+    {
+      "column_index": 4,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '4,32' not '4.32'",
+      "round2_value": 4.32,
+      "row_index": 4,
+      "source_pdf_page": 15,
+      "validated_value": 4.32
+    },
+    {
+      "column_index": 5,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '12,28' not '12.28'",
+      "round2_value": 12.28,
+      "row_index": 4,
+      "source_pdf_page": 15,
+      "validated_value": 12.28
+    },
+    {
+      "column_index": 6,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '38.456.225' not '38456225'",
+      "round2_value": 38456225,
+      "row_index": 4,
+      "source_pdf_page": 15,
+      "validated_value": 38456225.0
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '1.293.040' not '1293040'",
+      "round2_value": 1293040,
+      "row_index": 5,
+      "source_pdf_page": 15,
+      "validated_value": 1293040.0
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '35.839.901' not '35839901'",
+      "round2_value": 35839901,
+      "row_index": 5,
+      "source_pdf_page": 15,
+      "validated_value": 35839901.0
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '4.615,00' not '4615000'",
+      "round2_value": 4615000,
+      "row_index": 5,
+      "source_pdf_page": 15,
+      "validated_value": 4615.0
+    },
+    {
+      "column_index": 4,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '0,69' not '0.69'",
+      "round2_value": 0.69,
+      "row_index": 5,
+      "source_pdf_page": 15,
+      "validated_value": 0.69
+    },
+    {
+      "column_index": 5,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '12,64' not '12.64'",
+      "round2_value": 12.64,
+      "row_index": 5,
+      "source_pdf_page": 15,
+      "validated_value": 12.64
+    },
+    {
+      "column_index": 6,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '301.278.283' not '301278283'",
+      "round2_value": 301278283,
+      "row_index": 5,
+      "source_pdf_page": 15,
+      "validated_value": 301278283.0
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '56.905.019' not '56905019'",
+      "round2_value": 56905019,
+      "row_index": 6,
+      "source_pdf_page": 15,
+      "validated_value": 56905019.0
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '266.674.799' not '266674799'",
+      "round2_value": 266674799,
+      "row_index": 6,
+      "source_pdf_page": 15,
+      "validated_value": 266674799.0
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '3.128,00' not '3128000'",
+      "round2_value": 3128000,
+      "row_index": 6,
+      "source_pdf_page": 15,
+      "validated_value": 3128.0
+    },
+    {
+      "column_index": 4,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '3,22' not '3.22'",
+      "round2_value": 3.22,
+      "row_index": 6,
+      "source_pdf_page": 15,
+      "validated_value": 3.22
+    },
+    {
+      "column_index": 5,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '8,57' not '8.57'",
+      "round2_value": 8.57,
+      "row_index": 6,
+      "source_pdf_page": 15,
+      "validated_value": 8.57
+    },
+    {
+      "column_index": 6,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '512.145.167' not '512145167'",
+      "round2_value": 512145167,
+      "row_index": 6,
+      "source_pdf_page": 15,
+      "validated_value": 512145167.0
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '359.920' not '359920'",
+      "round2_value": 359920,
+      "row_index": 7,
+      "source_pdf_page": 15,
+      "validated_value": 359920.0
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '674.525' not '674525'",
+      "round2_value": 674525,
+      "row_index": 7,
+      "source_pdf_page": 15,
+      "validated_value": 674525.0
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '429,00' not '429000'",
+      "round2_value": 429000,
+      "row_index": 7,
+      "source_pdf_page": 15,
+      "validated_value": 429.0
+    },
+    {
+      "column_index": 4,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '0,73' not '0.73'",
+      "round2_value": 0.73,
+      "row_index": 7,
+      "source_pdf_page": 15,
+      "validated_value": 0.73
+    },
+    {
+      "column_index": 5,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '1,18' not '1.18'",
+      "round2_value": 1.18,
+      "row_index": 7,
+      "source_pdf_page": 15,
+      "validated_value": 1.18
+    },
+    {
+      "column_index": 6,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '719.840' not '719840'",
+      "round2_value": 719840,
+      "row_index": 7,
+      "source_pdf_page": 15,
+      "validated_value": 719840.0
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '79.743.139' not '79743139'",
+      "round2_value": 79743139,
+      "row_index": 9,
+      "source_pdf_page": 15,
+      "validated_value": 79743139.0
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '495.096.770' not '495096770'",
+      "round2_value": 495096770,
+      "row_index": 9,
+      "source_pdf_page": 15,
+      "validated_value": 495096770.0
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '21.986' not '21986'",
+      "round2_value": 21986,
+      "row_index": 9,
+      "source_pdf_page": 15,
+      "validated_value": 21986.0
+    },
+    {
+      "column_index": 6,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '1.466.475.990' not '1466475990'",
+      "round2_value": 1466475990,
+      "row_index": 9,
+      "source_pdf_page": 15,
+      "validated_value": 1466475990.0
+    }
+  ],
+  "final_headers_raw": [
+    "Table 5",
+    "Number of claims",
+    "Average Amount paid (NGN'000)",
+    "Maximum single claim amount (NGN'000)",
+    "Average payment delay (days)",
+    "Maximum payment delay (days)",
+    "Average payment delay (years)",
+    "Maximum payment delay (years)",
+    "Total Claims Paid (NGN'000)"
+  ],
+  "final_normalized_rows": [
+    [
+      "General Accident",
+      164,
+      901.865,
+      14860336.0,
+      495,
+      4847.0,
+      1.36,
+      13.28,
+      147905846.0
+    ],
+    [
+      "Motor",
+      501,
+      427.603,
+      8101578.0,
+      92,
+      1750.0,
+      0.25,
+      4.79,
+      214229113.0
+    ],
+    [
+      "Marine",
+      23,
+      3579581.0,
+      67235121.0,
+      419,
+      1215.0,
+      1.15,
+      3.33,
+      82330365.0
+    ],
+    [
+      "Engineering",
+      49,
+      3457370.0,
+      80382157.0,
+      343,
+      1521.0,
+      0.94,
+      4.17,
+      169411152.0
+    ],
+    [
+      "Bond",
+      3,
+      12818742.0,
+      21328353.0,
+      1577,
+      4481.0,
+      4.32,
+      12.28,
+      38456225.0
+    ],
+    [
+      "Fire",
+      233,
+      1293040.0,
+      35839901.0,
+      251,
+      4615.0,
+      0.69,
+      12.64,
+      301278283.0
+    ],
+    [
+      "Oil & Gas",
+      9,
+      56905019.0,
+      266674799.0,
+      1174,
+      3128.0,
+      3.22,
+      8.57,
+      512145167.0
+    ],
+    [
+      "Agriculture",
+      2,
+      359920.0,
+      674525.0,
+      267,
+      429.0,
+      0.73,
+      1.18,
+      719840.0
+    ],
+    [
+      "Aviation",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "TOTAL",
+      984,
+      79743139.0,
+      495096770.0,
+      4618,
+      21986.0,
+      13,
+      60,
+      1466475990.0
+    ]
+  ],
+  "final_rows_raw": [
+    [
+      "General Accident",
+      "164",
+      "901.865",
+      "14.860.336",
+      "495",
+      "4.847,00",
+      "1,36",
+      "13,28",
+      "147.905.846"
+    ],
+    [
+      "Motor",
+      "501",
+      "427.603",
+      "8.101.578",
+      "92",
+      "1.750,00",
+      "0,25",
+      "4,79",
+      "214.229.113"
+    ],
+    [
+      "Marine",
+      "23",
+      "3.579.581",
+      "67.235.121",
+      "419",
+      "1.215,00",
+      "1,15",
+      "3,33",
+      "82.330.365"
+    ],
+    [
+      "Engineering",
+      "49",
+      "3.457.370",
+      "80.382.157",
+      "343",
+      "1.521,00",
+      "0,94",
+      "4,17",
+      "169.411.152"
+    ],
+    [
+      "Bond",
+      "3",
+      "12.818.742",
+      "21.328.353",
+      "1.577",
+      "4.481,00",
+      "4,32",
+      "12,28",
+      "38.456.225"
+    ],
+    [
+      "Fire",
+      "233",
+      "1.293.040",
+      "35.839.901",
+      "251",
+      "4.615,00",
+      "0,69",
+      "12,64",
+      "301.278.283"
+    ],
+    [
+      "Oil & Gas",
+      "9",
+      "56.905.019",
+      "266.674.799",
+      "1.174",
+      "3.128,00",
+      "3,22",
+      "8,57",
+      "512.145.167"
+    ],
+    [
+      "Agriculture",
+      "2",
+      "359.920",
+      "674.525",
+      "267",
+      "429,00",
+      "0,73",
+      "1,18",
+      "719.840"
+    ],
+    [
+      "Aviation",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    [
+      "TOTAL",
+      "984",
+      "79.743.139",
+      "495.096.770",
+      "4.618",
+      "21.986",
+      "13",
+      "60",
+      "1.466.475.990"
+    ]
+  ],
+  "final_title_raw": "Proportion of ultimate claims paid as at 31 December 2023",
+  "issues": [],
+  "source_pages": [
+    15
+  ],
+  "table_complete": true,
+  "table_id": "T11",
+  "verdict": "corrected"
+}

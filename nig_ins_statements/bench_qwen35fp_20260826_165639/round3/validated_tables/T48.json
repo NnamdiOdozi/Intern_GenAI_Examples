@@ -1,0 +1,244 @@
+{
+  "checks": {
+    "continuation_verified": true,
+    "header_width_consistent": true,
+    "page_citations_verified": true,
+    "row_widths_consistent": true,
+    "totals_status": "not_applicable"
+  },
+  "corrections": [],
+  "final_headers_raw": [
+    "",
+    "Coverage",
+    "Excess of loss",
+    "Annual Aggregate Limit"
+  ],
+  "final_normalized_rows": [
+    [
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Layer 1",
+      null,
+      null,
+      null
+    ]
+  ],
+  "final_rows_raw": [
+    [
+      "",
+      "Coverage",
+      "Excess of loss",
+      "Annual Aggregate Limit"
+    ],
+    [
+      "Layer 1",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      ""
+    ],
+    [
+      "Layer 1",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Layer 1",
+      ""
+    ],
+    [
+      "Layer 1",
+      ""
+    ],
+    [
+      "Layer 1",
+      ""
+    ],
+    [
+      "Layer 1",
+      ""
+    ],
+    [
+      "Layer 1",
+      ""
+    ],
+    [
+      "Layer 1",
+      ""
+    ],
+    [
+      "Layer 1",
+      ""
+    ],
+    [
+      "Layer 1",
+      ""
+    ],
+    [
+      "Layer 1",
+      ""
+    ],
+    [
+      "Layer 1",
+      ""
+    ],
+    [
+      "Layer 1",
+      ""
+    ],
+    [
+      "Layer 1",
+      ""
+    ],
+    [
+      "Layer 1",
+      ""
+    ],
+    [
+      "Layer 1",
+      ""
+    ],
+    [
+      "Layer 1",
+      ""
+    ],
+    [
+      "Layer 1",
+      ""
+    ],
+    [
+      "Layer 1",
+      ""
+    ],
+    [
+      "Layer 1",
+      ""
+    ],
+    [
+      "Layer 1",
+      ""
+    ],
+    [
+      "Layer 1",
+      ""
+    ],
+    [
+      "Layer 1",
+      ""
+    ],
+    [
+      "Layer 1",
+      ""
+    ],
+    [
+      "Layer 1",
+      ""
+    ],
+    [
+      "Layer 1",
+      ""
+    ],
+    [
+      "Layer 1",
+      ""
+    ],
+    [
+      "Layer 1",
+      ""
+    ],
+    [
+      "Layer 1",
+      ""
+    ],
+    [
+      "Layer 1",
+      ""
+    ],
+    [
+      "Layer 1"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    []
+  ],
+  "final_title_raw": "None",
+  "issues": [],
+  "source_pages": [
+    42
+  ],
+  "table_complete": true,
+  "table_id": "T48",
+  "verdict": "accepted"
+}

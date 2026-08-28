@@ -1,0 +1,480 @@
+{
+  "cell_flags": [
+    {
+      "candidate_readings": [
+        "Net Insurance Revenue",
+        "3,373,639",
+        "4,096,304",
+        "4,078,304"
+      ],
+      "column_index": 0,
+      "confidence": "high",
+      "inferred_value": null,
+      "normalized_value": "Net Insurance Revenue",
+      "printed_value": "Net Insurance Revenue",
+      "reason": "header",
+      "row_index": 0,
+      "source_pdf_page": 12,
+      "status": "printed"
+    },
+    {
+      "candidate_readings": [
+        "3,373,639",
+        "4,096,304",
+        "4,078,304"
+      ],
+      "column_index": 1,
+      "confidence": "high",
+      "inferred_value": null,
+      "normalized_value": 3373639,
+      "printed_value": "3,373,639",
+      "reason": "data",
+      "row_index": 0,
+      "source_pdf_page": 12,
+      "status": "printed"
+    },
+    {
+      "candidate_readings": [
+        "4,096,304"
+      ],
+      "column_index": 2,
+      "confidence": "high",
+      "inferred_value": null,
+      "normalized_value": 4096304,
+      "printed_value": "4,096,304",
+      "reason": "data",
+      "row_index": 0,
+      "source_pdf_page": 12,
+      "status": "printed"
+    },
+    {
+      "candidate_readings": [
+        "4,078,304"
+      ],
+      "column_index": 3,
+      "confidence": "high",
+      "inferred_value": null,
+      "normalized_value": 4078304,
+      "printed_value": "4,078,304",
+      "reason": "data",
+      "row_index": 0,
+      "source_pdf_page": 12,
+      "status": "printed"
+    }
+  ],
+  "concerns": [],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "footnotes_raw": [
+    "Source: Annual report and Accounts",
+    "*Note: - Net claims ratio = net claims incurred/net earned premiums",
+    "- Net expense ratio = net operating expenses/net earned premiums",
+    "- Overall Operating ratio = 1 - (overall result/net earned premiums)",
+    "- Net Profit margin = insurance profit/ net written premium"
+  ],
+  "headers_raw": [],
+  "normalized_rows": [
+    [
+      "Net Insurance Revenue",
+      3373639,
+      4096304,
+      4078304
+    ],
+    [
+      "Insurance Service Expense:",
+      null,
+      null,
+      null
+    ],
+    [
+      "Net Liability for claims incurred",
+      -925320,
+      -1742635,
+      -1814830
+    ],
+    [
+      "Net loss component & Net interest accretion",
+      null,
+      -41,
+      -4609
+    ],
+    [
+      "- Commission and Acquisition expenses",
+      -166845,
+      -1048816,
+      -1618477
+    ],
+    [
+      "- Maintenance",
+      -389304,
+      null,
+      null
+    ],
+    [
+      "- Reinsurance commission",
+      153109,
+      null,
+      null
+    ],
+    [
+      "Insurance result",
+      2045280,
+      1304812,
+      640386
+    ],
+    [
+      "Net non underwriting expenses:",
+      null,
+      null,
+      null
+    ],
+    [
+      "- Management expenses",
+      -966591,
+      -888443,
+      -1192492
+    ],
+    [
+      "- Employee Benefit",
+      -781691,
+      null,
+      null
+    ],
+    [
+      "- Finance Costs",
+      -20866,
+      -23472,
+      -24959
+    ],
+    [
+      "Allowance for impairment of receivables",
+      -122952.0,
+      null,
+      null
+    ],
+    [
+      "Net insurance finance income/(expense)",
+      null,
+      -21036,
+      -15879
+    ],
+    [
+      "Impairment loss on non-financial assets",
+      null,
+      -453510,
+      -192459
+    ],
+    [
+      "Total Net non underwriting expenses:",
+      -1892100,
+      -1386460,
+      -1425789
+    ],
+    [
+      null,
+      -0.56,
+      -0.34,
+      -0.35
+    ],
+    [
+      "Investment result:",
+      null,
+      null,
+      null
+    ],
+    [
+      "Investment Income",
+      89802,
+      90519,
+      248102
+    ],
+    [
+      "Net realized gains/loss (Dividend on quoted equities)",
+      71510,
+      476733,
+      1305843
+    ],
+    [
+      "Other operating income",
+      17981,
+      116362,
+      25762
+    ],
+    [
+      "Fair value change in financial assets",
+      null,
+      null,
+      null
+    ],
+    [
+      "Fair value change in investment in property",
+      null,
+      null,
+      null
+    ],
+    [
+      "Investment Operations",
+      179293,
+      683614,
+      1579708
+    ],
+    [
+      "Overall result before tax",
+      332473,
+      601965,
+      794305
+    ],
+    [
+      "Acquisition cost as a % of net premium",
+      "5%",
+      "26%",
+      "40%"
+    ],
+    [
+      "Maintenance expense as % of net Earned premium",
+      "12%",
+      "0%",
+      "0%"
+    ],
+    [
+      "overall Net claim ratio*",
+      "27.4%",
+      "42.5%",
+      "44%"
+    ],
+    [
+      "overall Net expense ratio*",
+      "68%",
+      "59%",
+      "75%"
+    ],
+    [
+      "Management expense ratio",
+      "52%",
+      "22%",
+      "30%"
+    ],
+    [
+      "Overall Operating ratio*",
+      "90.1%",
+      "85.3%",
+      "80.5%"
+    ],
+    [
+      "Net profit margin*",
+      "9.9%",
+      "14.7%",
+      "19.5%"
+    ]
+  ],
+  "pages_seen": [
+    12
+  ],
+  "rows_raw": [
+    [
+      "Net Insurance Revenue",
+      "3,373,639",
+      "4,096,304",
+      "4,078,304"
+    ],
+    [
+      "Insurance Service Expense:",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Net Liability for claims incurred",
+      "(925,320)",
+      "(1,742,635)",
+      "(1,814,830)"
+    ],
+    [
+      "Net loss component & Net interest accretion",
+      "",
+      "(41)",
+      "(4,609)"
+    ],
+    [
+      "- Commission and Acquisition expenses",
+      "(166,845)",
+      "(1,048,816)",
+      "(1,618,477)"
+    ],
+    [
+      "- Maintenance",
+      "(389,304)",
+      "-",
+      "-"
+    ],
+    [
+      "- Reinsurance commission",
+      "153,109",
+      "-",
+      "-"
+    ],
+    [
+      "Insurance result",
+      "2,045,280",
+      "1,304,812",
+      "640,386"
+    ],
+    [
+      "Net non underwriting expenses:",
+      "",
+      "",
+      ""
+    ],
+    [
+      "- Management expenses",
+      "(966,591)",
+      "(888,443)",
+      "(1,192,492)"
+    ],
+    [
+      "- Employee Benefit",
+      "(781,691)",
+      "-",
+      "-"
+    ],
+    [
+      "- Finance Costs",
+      "(20,866)",
+      "(23,472)",
+      "(24,959)"
+    ],
+    [
+      "Allowance for impairment of receivables",
+      "(122,952.00)",
+      "",
+      ""
+    ],
+    [
+      "Net insurance finance income/(expense)",
+      "",
+      "(21,036)",
+      "(15,879)"
+    ],
+    [
+      "Impairment loss on non-financial assets",
+      "",
+      "(453,510)",
+      "(192,459)"
+    ],
+    [
+      "Total Net non underwriting expenses:",
+      "(1,892,100)",
+      "(1,386,460)",
+      "(1,425,789)"
+    ],
+    [
+      "",
+      "(0.56)",
+      "(0.34)",
+      "(0.35)"
+    ],
+    [
+      "Investment result:",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Investment Income",
+      "89,802",
+      "90,519",
+      "248,102"
+    ],
+    [
+      "Net realized gains/loss (Dividend on quoted equities)",
+      "71,510",
+      "476,733",
+      "1,305,843"
+    ],
+    [
+      "Other operating income",
+      "17,981",
+      "116,362",
+      "25,762"
+    ],
+    [
+      "Fair value change in financial assets",
+      "-",
+      "-",
+      "-"
+    ],
+    [
+      "Fair value change in investment in property",
+      "-",
+      "-",
+      "-"
+    ],
+    [
+      "Investment Operations",
+      "179,293",
+      "683,614",
+      "1,579,708"
+    ],
+    [
+      "Overall result before tax",
+      "332,473",
+      "601,965",
+      "794,305"
+    ],
+    [
+      "Acquisition cost as a % of net premium",
+      "5%",
+      "26%",
+      "40%"
+    ],
+    [
+      "Maintenance expense as % of net Earned premium",
+      "12%",
+      "0%",
+      "0%"
+    ],
+    [
+      "overall Net claim ratio*",
+      "27.4%",
+      "42.5%",
+      "44%"
+    ],
+    [
+      "overall Net expense ratio*",
+      "68%",
+      "59%",
+      "75%"
+    ],
+    [
+      "Management expense ratio",
+      "52%",
+      "22%",
+      "30%"
+    ],
+    [
+      "Overall Operating ratio*",
+      "90.1%",
+      "85.3%",
+      "80.5%"
+    ],
+    [
+      "Net profit margin*",
+      "9.9%",
+      "14.7%",
+      "19.5%"
+    ]
+  ],
+  "source_pages": [
+    {
+      "pdf_page": 12,
+      "printed_page": "11"
+    }
+  ],
+  "table_complete": true,
+  "table_id": "T05",
+  "table_number_raw": null,
+  "title_raw": null,
+  "units_raw": null,
+  "_header_width": 0,
+  "_row_width": 4
+}

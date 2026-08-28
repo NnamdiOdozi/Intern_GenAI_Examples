@@ -1,0 +1,86 @@
+{
+  "checks": {
+    "continuation_verified": true,
+    "header_width_consistent": true,
+    "page_citations_verified": true,
+    "row_widths_consistent": true,
+    "totals_status": "reconciles"
+  },
+  "corrections": [
+    {
+      "column_index": 0,
+      "confidence": "high",
+      "reason": "OCR error: '393%' extracted as '393.0' in normalized_rows; should be '393%'",
+      "round2_value": null,
+      "row_index": 1,
+      "source_pdf_page": 48,
+      "validated_value": null
+    }
+  ],
+  "final_headers_raw": [
+    "",
+    "Loss Ratio",
+    "Expense Ratio",
+    "Combined Ratio"
+  ],
+  "final_normalized_rows": [
+    [
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      393.0,
+      58.0,
+      451.0
+    ],
+    [
+      "Agriculture (2022)",
+      64.0,
+      58.0,
+      122.0
+    ],
+    [
+      "Agriculture (2021)",
+      28.0,
+      4.0,
+      32.0
+    ]
+  ],
+  "final_rows_raw": [
+    [
+      null,
+      "Loss Ratio",
+      "Expense Ratio",
+      "Combined Ratio"
+    ],
+    [
+      "",
+      "393%",
+      "58%",
+      "451%"
+    ],
+    [
+      "Agriculture (2022)",
+      "64%",
+      "58%",
+      "122%"
+    ],
+    [
+      "Agriculture (2021)",
+      "28%",
+      "4%",
+      "32%"
+    ]
+  ],
+  "final_title_raw": null,
+  "issues": [],
+  "source_pages": [
+    48
+  ],
+  "table_complete": true,
+  "table_id": "T57",
+  "verdict": "corrected"
+}

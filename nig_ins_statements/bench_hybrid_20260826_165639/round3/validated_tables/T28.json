@@ -1,0 +1,155 @@
+{
+  "checks": {
+    "continuation_verified": true,
+    "header_width_consistent": true,
+    "page_citations_verified": true,
+    "row_widths_consistent": true,
+    "totals_status": "not_applicable"
+  },
+  "corrections": [
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as comma in percentage; corrected to match image.",
+      "round2_value": "0.033",
+      "row_index": 4,
+      "source_pdf_page": 29,
+      "validated_value": "0.033"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as comma in percentage; corrected to match image.",
+      "round2_value": "0.111",
+      "row_index": 4,
+      "source_pdf_page": 29,
+      "validated_value": "0.111"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as comma in percentage; corrected to match image.",
+      "round2_value": "0.102",
+      "row_index": 4,
+      "source_pdf_page": 29,
+      "validated_value": "0.102"
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as comma in percentage; corrected to match image.",
+      "round2_value": "0.0692",
+      "row_index": 5,
+      "source_pdf_page": 29,
+      "validated_value": "0.0692"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as comma in percentage; corrected to match image.",
+      "round2_value": "0.0914",
+      "row_index": 5,
+      "source_pdf_page": 29,
+      "validated_value": "0.0914"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as comma in percentage; corrected to match image.",
+      "round2_value": "0.1334",
+      "row_index": 5,
+      "source_pdf_page": 29,
+      "validated_value": "0.1334"
+    }
+  ],
+  "final_headers_raw": [
+    "Table 15: Estimated yield on non-life fund assets",
+    "2021",
+    "2022",
+    "2023"
+  ],
+  "final_normalized_rows": [
+    [
+      "Total investment income plus net gains",
+      161312,
+      567130,
+      567130
+    ],
+    [
+      "Opening asset value",
+      5053990,
+      4935825,
+      5835454
+    ],
+    [
+      "Closing asset value",
+      4935825,
+      5835454,
+      5835995
+    ],
+    [
+      "Mean fund",
+      4914252,
+      5102074,
+      5552159
+    ],
+    [
+      "Actual rate of return from investments",
+      0.033,
+      0.111,
+      0.102
+    ],
+    [
+      "Expected rate of return from investments",
+      0.0692,
+      0.0914,
+      0.1334
+    ]
+  ],
+  "final_rows_raw": [
+    [
+      "Total investment income plus net gains",
+      "161.312",
+      "567.130",
+      "567.130"
+    ],
+    [
+      "Opening asset value",
+      "5.053.990",
+      "4.935.825",
+      "5.835.454"
+    ],
+    [
+      "Closing asset value",
+      "4.935.825",
+      "5.835.454",
+      "5.835.995"
+    ],
+    [
+      "Mean fund",
+      "4.914.252",
+      "5.102.074",
+      "5.552.159"
+    ],
+    [
+      "Actual rate of return from investments",
+      "3,3%",
+      "11,1%",
+      "10,2%"
+    ],
+    [
+      "Expected rate of return from investments",
+      "6,92%",
+      "9,14%",
+      "13,34%"
+    ]
+  ],
+  "final_title_raw": "Estimated yield on non-life fund assets",
+  "issues": [],
+  "source_pages": [
+    29
+  ],
+  "table_complete": true,
+  "table_id": "T28",
+  "verdict": "corrected"
+}

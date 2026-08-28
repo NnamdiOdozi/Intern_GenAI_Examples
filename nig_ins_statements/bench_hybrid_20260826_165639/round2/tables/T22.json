@@ -1,0 +1,123 @@
+{
+  "cell_flags": [],
+  "concerns": [],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "footnotes_raw": [
+    "Source: Company's accounts",
+    "Note: - Return on capital = post -tax profits / net assets value at year end",
+    "- Solvency ratio = Net assets value / net written premium"
+  ],
+  "headers_raw": [
+    "profit before tax",
+    "Post -tax profit (NGN)",
+    "Total Net admissible asset value (NGN)",
+    "Growth in Net Premiums",
+    "Net Claim Ratio",
+    "Net Expense Ratio",
+    "Combined Ratio",
+    "Proportion reinsured",
+    "Return on Capital",
+    "Net Profit Margin",
+    "Statutory Solvency Ratio",
+    "Assets to Liabilities"
+  ],
+  "normalized_rows": [],
+  "pages_seen": [
+    22
+  ],
+  "rows_raw": [
+    [
+      "419,046",
+      "1,128,728",
+      "332,473",
+      "1,076,552",
+      "1,007,254"
+    ],
+    [
+      "504,911",
+      "-61,042,762",
+      "446,858",
+      "535,165",
+      "794,305"
+    ],
+    [
+      "4,139,768",
+      "3,988,143",
+      "3,463,725",
+      "3,958,514",
+      "4,346,721"
+    ],
+    [
+      "79%",
+      "-4%",
+      "6%",
+      "1%",
+      "23%"
+    ],
+    [
+      "24%",
+      "31%",
+      "27%",
+      "43%",
+      "44%"
+    ],
+    [
+      "75%",
+      "49%",
+      "45%",
+      "47%",
+      "69%"
+    ],
+    [
+      "99%",
+      "80%",
+      "73%",
+      "90%",
+      "113%"
+    ],
+    [
+      "14%",
+      "19%",
+      "27%",
+      "30%",
+      "26%"
+    ],
+    [
+      "15%",
+      "-176%",
+      "13%",
+      "16%",
+      "21%"
+    ],
+    [
+      "15%",
+      "35%",
+      "10%",
+      "15%",
+      "19%"
+    ],
+    [
+      "138%",
+      "133%",
+      "115%",
+      "132%",
+      "145%"
+    ],
+    [
+      "298%",
+      "316%",
+      "474%",
+      "466%",
+      "311%"
+    ]
+  ],
+  "source_pages": [],
+  "table_complete": true,
+  "table_id": "T22",
+  "table_number_raw": "",
+  "title_raw": "Financial Performance and Ratios Summary (partial)",
+  "units_raw": "NGN and percentages",
+  "_header_width": 12,
+  "_row_width": 5
+}

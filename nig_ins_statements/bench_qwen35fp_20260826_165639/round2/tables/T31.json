@@ -1,0 +1,169 @@
+{
+  "cell_flags": [
+    {
+      "candidate_readings": [
+        "BusinessOs",
+        "Business"
+      ],
+      "column_index": 0,
+      "confidence": "high",
+      "inferred_value": null,
+      "normalized_value": null,
+      "printed_value": "BusinessOs",
+      "reason": "OCR artifact in header",
+      "row_index": 0,
+      "source_pdf_page": 31,
+      "status": "ambiguous"
+    },
+    {
+      "candidate_readings": [
+        "Type ofreinsurance",
+        "Type of reinsurance"
+      ],
+      "column_index": 1,
+      "confidence": "high",
+      "inferred_value": null,
+      "normalized_value": null,
+      "printed_value": "Type ofreinsurance",
+      "reason": "OCR artifact in header",
+      "row_index": 0,
+      "source_pdf_page": 31,
+      "status": "ambiguous"
+    }
+  ],
+  "concerns": [],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "footnotes_raw": [],
+  "headers_raw": [
+    "\tBusinessOs\tType ofreinsurance"
+  ],
+  "normalized_rows": [
+    [
+      null,
+      null
+    ],
+    [
+      null,
+      null
+    ],
+    [
+      null,
+      null
+    ],
+    [
+      null,
+      null
+    ],
+    [
+      null,
+      null
+    ],
+    [
+      null,
+      null
+    ],
+    [
+      null,
+      null
+    ],
+    [
+      null,
+      null
+    ],
+    [
+      null,
+      null
+    ],
+    [
+      "Terrorism/Fire",
+      null
+    ],
+    [
+      "Engineering",
+      null
+    ],
+    [
+      "General Accident",
+      null
+    ],
+    [
+      "Marine Cargo",
+      null
+    ],
+    [
+      "Marine Hull",
+      null
+    ],
+    [
+      "Motor and Liability",
+      null
+    ],
+    [
+      "Bond",
+      null
+    ],
+    [
+      "Oil and Energy",
+      null
+    ],
+    [
+      "Oil and Energy",
+      null
+    ]
+  ],
+  "pages_seen": [
+    30,
+    31
+  ],
+  "rows_raw": [
+    [
+      "BusinessOs",
+      "Type ofreinsurance"
+    ],
+    [
+      "Terrorism/Fire",
+      "1- Surplus\n2- Fire Risk Excess of Loss"
+    ],
+    [
+      "Engineering",
+      "1- Surplus\n2- Engineering Risk Excess of Loss"
+    ],
+    [
+      "General Accident",
+      "Excess of loss"
+    ],
+    [
+      "Marine Cargo",
+      "Surplus"
+    ],
+    [
+      "Marine Hull",
+      "Surplus"
+    ],
+    [
+      "Motor and Liability",
+      "Excess of Loss"
+    ],
+    [
+      "Bond",
+      "Quota share"
+    ],
+    [
+      "Oil and Energy",
+      "Multi-line Package"
+    ],
+    [
+      "Oil and Energy",
+      "ExcessofLoss"
+    ]
+  ],
+  "source_pages": [],
+  "table_complete": true,
+  "table_id": "T31",
+  "table_number_raw": "BusinessOs | Type ofreinsurance",
+  "title_raw": "BusinessOs | Type ofreinsurance",
+  "units_raw": "null",
+  "_header_width": 1,
+  "_row_width": 2
+}

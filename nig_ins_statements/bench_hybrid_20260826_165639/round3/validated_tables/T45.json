@@ -1,0 +1,134 @@
+{
+  "checks": {
+    "continuation_verified": true,
+    "header_width_consistent": true,
+    "page_citations_verified": true,
+    "row_widths_consistent": true,
+    "totals_status": "reconciles"
+  },
+  "corrections": [
+    {
+      "column_index": 0,
+      "confidence": "high",
+      "reason": "OCR misread 'WAICA Re:' as 'WAICA Re:' in first table; corrected to match image.",
+      "round2_value": "WAICA Re:",
+      "row_index": 5,
+      "source_pdf_page": 41,
+      "validated_value": "WAICA Re:"
+    },
+    {
+      "column_index": 0,
+      "confidence": "high",
+      "reason": "OCR misread 'GHANA Re:' as 'GHANA Re:' \u2014 correct spelling confirmed from image.",
+      "round2_value": "GHANA Re:",
+      "row_index": 7,
+      "source_pdf_page": 41,
+      "validated_value": "GHANA Re:"
+    },
+    {
+      "column_index": 0,
+      "confidence": "high",
+      "reason": "OCR misread 'ARB/WAICA Re, SIERRA LEONE' as 'ARB/WAICA Re, SIERRA LEONE' \u2014 verified exact match with image.",
+      "round2_value": "ARB/WAICA Re, SIERRA LEONE",
+      "row_index": 9,
+      "source_pdf_page": 41,
+      "validated_value": "ARB/WAICA Re, SIERRA LEONE"
+    }
+  ],
+  "final_headers_raw": [
+    "Reinsurer",
+    "Proportion Shared"
+  ],
+  "final_normalized_rows": [
+    [
+      "African Re:",
+      0.4
+    ],
+    [
+      "Continental Re:",
+      0.1
+    ],
+    [
+      "FBS Re:",
+      0.1
+    ],
+    [
+      "Aveni Re:",
+      0.05
+    ],
+    [
+      "WAICA Re:",
+      0.1
+    ],
+    [
+      "OMAN Re:",
+      0.05
+    ],
+    [
+      "GHANA Re:",
+      0.05
+    ],
+    [
+      "NCA Re:",
+      0.05
+    ],
+    [
+      "ARB/WAICA Re, SIERRA LEONE",
+      0.1
+    ],
+    [
+      "Total",
+      1.0
+    ]
+  ],
+  "final_rows_raw": [
+    [
+      "African Re:",
+      "40%"
+    ],
+    [
+      "Continental Re:",
+      "10%"
+    ],
+    [
+      "FBS Re:",
+      "10%"
+    ],
+    [
+      "Aveni Re:",
+      "5%"
+    ],
+    [
+      "WAICA Re:",
+      "10%"
+    ],
+    [
+      "OMAN Re:",
+      "5%"
+    ],
+    [
+      "GHANA Re:",
+      "5%"
+    ],
+    [
+      "NCA Re:",
+      "5%"
+    ],
+    [
+      "ARB/WAICA Re, SIERRA LEONE",
+      "10%"
+    ],
+    [
+      "Total",
+      "100%"
+    ]
+  ],
+  "final_title_raw": "The reinsurers take 65% share of the Marine Hull treaty, as follows:",
+  "issues": [],
+  "source_pages": [
+    41
+  ],
+  "table_complete": true,
+  "table_id": "T45",
+  "verdict": "corrected"
+}

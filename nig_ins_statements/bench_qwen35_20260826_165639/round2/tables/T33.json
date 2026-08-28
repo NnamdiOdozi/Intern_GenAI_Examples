@@ -1,0 +1,125 @@
+{
+  "cell_flags": [
+    {
+      "candidate_readings": [],
+      "column_index": 0,
+      "confidence": "high",
+      "inferred_value": null,
+      "normalized_value": null,
+      "printed_value": "Maximum line NGN50mn",
+      "reason": "normal",
+      "row_index": 0,
+      "source_pdf_page": 41,
+      "status": "inferred_not_inserted"
+    },
+    {
+      "candidate_readings": [],
+      "column_index": 1,
+      "confidence": "high",
+      "inferred_value": null,
+      "normalized_value": null,
+      "printed_value": "NGN1,000mn for 20 lines",
+      "reason": "normal",
+      "row_index": 0,
+      "source_pdf_page": 41,
+      "status": "inferred_not_inserted"
+    },
+    {
+      "candidate_readings": [],
+      "column_index": 2,
+      "confidence": "high",
+      "inferred_value": null,
+      "normalized_value": null,
+      "printed_value": "NGN1,050mn",
+      "reason": "normal",
+      "row_index": 0,
+      "source_pdf_page": 41,
+      "status": "inferred_not_inserted"
+    },
+    {
+      "candidate_readings": [],
+      "column_index": 0,
+      "confidence": "high",
+      "inferred_value": null,
+      "normalized_value": null,
+      "printed_value": "Facultative inwards Retrocession- Property All Risks: NGN25mn any one risk",
+      "reason": "normal",
+      "row_index": 1,
+      "source_pdf_page": 41,
+      "status": "inferred_not_inserted"
+    },
+    {
+      "candidate_readings": [],
+      "column_index": 1,
+      "confidence": "high",
+      "inferred_value": null,
+      "normalized_value": null,
+      "printed_value": "NGN500mn 10 lines",
+      "reason": "normal",
+      "row_index": 1,
+      "source_pdf_page": 41,
+      "status": "inferred_not_inserted"
+    },
+    {
+      "candidate_readings": [],
+      "column_index": 2,
+      "confidence": "high",
+      "inferred_value": null,
+      "normalized_value": null,
+      "printed_value": "NGN525mn",
+      "reason": "normal",
+      "row_index": 1,
+      "source_pdf_page": 41,
+      "status": "inferred_not_inserted"
+    }
+  ],
+  "concerns": [],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "footnotes_raw": [],
+  "headers_raw": [
+    "Retention",
+    "Surplus",
+    "Treaty totalCapacity"
+  ],
+  "normalized_rows": [
+    [
+      "Maximum line NGN50mn",
+      "NGN1,000mn for 20 lines",
+      "NGN1,050mn"
+    ],
+    [
+      "Facultative inwards Retrocession- Property All Risks: NGN25mn any one risk",
+      "NGN500mn 10 lines",
+      "NGN525mn"
+    ]
+  ],
+  "pages_seen": [
+    41
+  ],
+  "rows_raw": [
+    [
+      "Maximum line NGN50mn",
+      "NGN1,000mn for 20 lines",
+      "NGN1,050mn"
+    ],
+    [
+      "Facultative inwards Retrocession- Property All Risks: NGN25mn any one risk",
+      "NGN500mn 10 lines",
+      "NGN525mn"
+    ]
+  ],
+  "source_pages": [
+    {
+      "pdf_page": 41,
+      "printed_page": "40"
+    }
+  ],
+  "table_complete": true,
+  "table_id": "T33",
+  "table_number_raw": null,
+  "title_raw": "Marine Cargo Insurance Marine Cargo Surplus Treaty",
+  "units_raw": "NGN",
+  "_header_width": 3,
+  "_row_width": 3
+}

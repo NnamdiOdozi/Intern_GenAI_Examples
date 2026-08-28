@@ -1,0 +1,137 @@
+{
+  "checks": {
+    "continuation_verified": true,
+    "header_width_consistent": true,
+    "page_citations_verified": true,
+    "row_widths_consistent": true,
+    "totals_status": "reconciles"
+  },
+  "corrections": [
+    {
+      "column_index": 0,
+      "confidence": "high",
+      "reason": "OCR error: 'N187.5mn' merged with 'Maximum per line'",
+      "round2_value": "",
+      "row_index": 2,
+      "source_pdf_page": 34,
+      "validated_value": ""
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR error: 'N187.5mn' merged with 'Maximum per line'",
+      "round2_value": "",
+      "row_index": 2,
+      "source_pdf_page": 34,
+      "validated_value": ""
+    },
+    {
+      "column_index": 0,
+      "confidence": "high",
+      "reason": "OCR error: 'N125mn' merged with 'Maximum per line'",
+      "round2_value": "",
+      "row_index": 3,
+      "source_pdf_page": 34,
+      "validated_value": ""
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR error: 'N125mn' merged with 'Maximum per line'",
+      "round2_value": "",
+      "row_index": 3,
+      "source_pdf_page": 34,
+      "validated_value": ""
+    }
+  ],
+  "final_headers_raw": [
+    "Class of Business",
+    "Retention",
+    "Treaty Capacity"
+  ],
+  "final_normalized_rows": [
+    [
+      "The best Risks",
+      "Maximum per line N250mn on any one risk on sum insured or Probable Maximum Loss (PML)",
+      "NGN5.25bn for\n20 lines"
+    ],
+    [
+      "Boiler and Pressure Vessel and Consequential Loss Combined",
+      "Maximum per line N187.5mn on any one risk on sum insured or Probable Maximum Loss (PML)",
+      "NGN3.94bn for\n20 lines"
+    ],
+    [
+      "Machinery Breakdown and Consequential Loss Deterioration of Stock following Machinery Breakdown",
+      "Maximum per line N125mn on any one risk on sum insured or Probable Maximum Loss (PML)",
+      "NGN2.625bn for\n20 lines"
+    ],
+    [
+      "Erection All risks and Contractors All-risks",
+      "Maximum per line N250mn on any one risk on sum insured or Probable Maximum Loss (PML)",
+      "NGN5.25bn for\n20 lines"
+    ],
+    [
+      "Third Party Liability",
+      "Maximum per line N0.5bn in proportion",
+      "500mn same proportion"
+    ],
+    [
+      "Electronic Equipment and Increased Cost of Working Combined",
+      "Maximum per line N125mn on any one risk on sum insured or Probable Maximum Loss (PML)",
+      "NGN2.625bn for\n20 lines"
+    ],
+    [
+      "Facultative",
+      "limited to 50% of one gross line specified herein this Table",
+      "limited to 50% of one gross line specified herein this Table"
+    ]
+  ],
+  "final_rows_raw": [
+    [
+      "Class of Business",
+      "Retention",
+      "Treaty Capacity"
+    ],
+    [
+      "The best Risks",
+      "Maximum per line N250mn on any one risk on sum insured or Probable Maximum Loss (PML)",
+      "NGN5.25bn for\n20 lines"
+    ],
+    [
+      "Boiler and Pressure Vessel and Consequential Loss Combined",
+      "Maximum per line N187.5mn on any one risk on sum insured or Probable Maximum Loss (PML)",
+      "NGN3.94bn for\n20 lines"
+    ],
+    [
+      "Machinery Breakdown and Consequential Loss Deterioration of Stock following Machinery Breakdown",
+      "Maximum per line N125mn on any one risk on sum insured or Probable Maximum Loss (PML)",
+      "NGN2.625bn for\n20 lines"
+    ],
+    [
+      "Erection All risks and Contractors All-risks",
+      "Maximum per line N250mn on any one risk on sum insured or Probable Maximum Loss (PML)",
+      "NGN5.25bn for\n20 lines"
+    ],
+    [
+      "Third Party Liability",
+      "Maximum per line N0.5bn in proportion",
+      "500mn same proportion"
+    ],
+    [
+      "Electronic Equipment and Increased Cost of Working Combined",
+      "Maximum per line N125mn on any one risk on sum insured or Probable Maximum Loss (PML)",
+      "NGN2.625bn for\n20 lines"
+    ],
+    [
+      "Facultative",
+      "limited to 50% of one gross line specified herein this Table",
+      "limited to 50% of one gross line specified herein this Table"
+    ]
+  ],
+  "final_title_raw": "Engineering Surplus Reinsurance Treaty",
+  "issues": [],
+  "source_pages": [],
+  "table_complete": true,
+  "table_id": "T36",
+  "verdict": "corrected"
+}

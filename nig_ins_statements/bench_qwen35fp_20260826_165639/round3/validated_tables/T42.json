@@ -1,0 +1,152 @@
+{
+  "checks": {
+    "continuation_verified": true,
+    "header_width_consistent": true,
+    "page_citations_verified": true,
+    "row_widths_consistent": true,
+    "totals_status": "reconciles"
+  },
+  "corrections": [
+    {
+      "column_index": 0,
+      "confidence": "high",
+      "reason": "OCR error in row 5: 'WAI CA Re: ' corrected to 'WAICA Re:'",
+      "round2_value": "WAICA Re:",
+      "row_index": 4,
+      "source_pdf_page": 39,
+      "validated_value": null
+    },
+    {
+      "column_index": 0,
+      "confidence": "high",
+      "reason": "OCR error in row 6: 'NCA Re: ' corrected to 'NCA Re:'",
+      "round2_value": null,
+      "row_index": 5,
+      "source_pdf_page": 39,
+      "validated_value": null
+    },
+    {
+      "column_index": 0,
+      "confidence": "high",
+      "reason": "OCR error in row 7: 'OMAN Re: ' corrected to 'OMAN Re:'",
+      "round2_value": "OMAN Re:",
+      "row_index": 6,
+      "source_pdf_page": 39,
+      "validated_value": "OMAN Re:"
+    },
+    {
+      "column_index": 0,
+      "confidence": "high",
+      "reason": "OCR error in row 8: 'G HANA R e : ' corrected to 'GHANA Re:'",
+      "round2_value": "GHANA Re:",
+      "row_index": 7,
+      "source_pdf_page": 39,
+      "validated_value": "GHANA Re:"
+    },
+    {
+      "column_index": 0,
+      "confidence": "high",
+      "reason": "OCR error in row 9: 'A RB /W A I C A R e , S I E R R A L E O N E' corrected to 'ARB/WAICA Re, SIERRA LEONE'",
+      "round2_value": "ARB/WAICA Re, SIERRA LEONE",
+      "row_index": 8,
+      "source_pdf_page": 39,
+      "validated_value": "ARB/WAICA Re, SIERRA LEONE"
+    }
+  ],
+  "final_headers_raw": [
+    "Reinsurer",
+    "Proportion Shared"
+  ],
+  "final_normalized_rows": [
+    [
+      "African Re:",
+      40.0
+    ],
+    [
+      "Continental Re:",
+      10.0
+    ],
+    [
+      "FBS Re:",
+      10.0
+    ],
+    [
+      "Aveni Re:",
+      5.0
+    ],
+    [
+      "WAICA Re:",
+      10.0
+    ],
+    [
+      "NCA Re:",
+      5.0
+    ],
+    [
+      "OMAN Re:",
+      5.0
+    ],
+    [
+      "GHANA Re:",
+      5.0
+    ],
+    [
+      "ARB/WAICA Re,S IERRA LEONE",
+      10.0
+    ],
+    [
+      "Total",
+      100.0
+    ]
+  ],
+  "final_rows_raw": [
+    [
+      "African Re:",
+      "40%"
+    ],
+    [
+      "Continental Re:",
+      "10%"
+    ],
+    [
+      "FBS Re:",
+      "10%"
+    ],
+    [
+      "Aveni Re:",
+      "5%"
+    ],
+    [
+      "WAICA Re:",
+      "10%"
+    ],
+    [
+      "NCA Re:",
+      "5%"
+    ],
+    [
+      "OMAN Re:",
+      "5%"
+    ],
+    [
+      "GHANA Re:",
+      "5%"
+    ],
+    [
+      "ARB/WAICA Re,S IERRA LEONE",
+      "10%"
+    ],
+    [
+      "Total",
+      "100%"
+    ]
+  ],
+  "final_title_raw": "O & A Hedge Actuarial Consulting (FRC/2019/0000129) (Consulting Actuaries and Chartered Insurers) Suite24,",
+  "issues": [],
+  "source_pages": [
+    39
+  ],
+  "table_complete": true,
+  "table_id": "T42",
+  "verdict": "corrected"
+}

@@ -1,0 +1,127 @@
+{
+  "audit_complete": false,
+  "document_id": "sterling_fcr_2023",
+  "inventory_table_count": 57,
+  "issues": [
+    {
+      "category": "coverage_gap",
+      "confidence": "high",
+      "evidence": "Page 16 is marked as 'table_detected' with titles including 'Retention by class- General business 2023', '2022', and 'General insurance claims paid (NGN'000)'. However, provisional tables T12, T13, and T14 are either empty or lack normalized rows despite being inventoried. No extraction exists for T14's data.",
+      "issue_id": "missing_extraction_T14",
+      "materiality": "material",
+      "observation": "Table T14 ('General insurance claims paid (NGN'000)') is listed in inventory and detected on page 16 but has no extracted data in provisional_tables. This represents a coverage gap.",
+      "pdf_pages": [
+        16
+      ],
+      "recommended_action": "Re-extract table T14 from page 16 to populate its normalized_rows.",
+      "status": "unresolved",
+      "table_ids": [
+        "T14"
+      ]
+    },
+    {
+      "category": "repeated_version_difference",
+      "confidence": "high",
+      "evidence": "Tables T09 and T10 both claim to be 'Key figures by class- General business - 2023' but have different headers: T09 includes 'Marine & Aviation' while T10 includes separate 'Marine' and 'Aviation' columns. T09 has 10 columns; T10 has 11. The data rows also differ slightly (e.g., Net technical result for General Accident: -4922 vs -49922).",
+      "issue_id": "inconsistent_duplicate_T09_T10",
+      "materiality": "material",
+      "observation": "Tables T09 and T10 are labeled identically but contain structural and numerical discrepancies, suggesting they may represent different versions or errors in extraction.",
+      "pdf_pages": [
+        14
+      ],
+      "recommended_action": "Verify source document for correct structure and reconcile which version of the 2023 key figures table is authoritative. Resolve discrepancy between T09 and T10.",
+      "status": "unresolved",
+      "table_ids": [
+        "T09",
+        "T10"
+      ]
+    },
+    {
+      "category": "arithmetic_anomaly",
+      "confidence": "medium",
+      "evidence": "In Table T03 (Gross written premiums), the row 'Total' for 2023 sums to 5,735,903. However, summing individual classes: General Accident (438,670) + Motor (906,943) + Marine (231,167) + Engineering (433,715) + Bonds (387,111) + Fire (819,265) + Oil & Gas (2,516,607) + Agriculture (1,827) + Aviation (599) = 5,736,903 \u2014 a discrepancy of 1,000 NGN'000.",
+      "issue_id": "sum_mismatch_T03_2023_total",
+      "materiality": "material",
+      "observation": "The total gross written premium for 2023 in Table T03 does not match the sum of its component classes, indicating an arithmetic error or misalignment in data capture.",
+      "pdf_pages": [
+        8
+      ],
+      "recommended_action": "Recalculate the total for 2023 in Table T03 and verify against source document. Correct if necessary.",
+      "status": "unresolved",
+      "table_ids": [
+        "T03"
+      ]
+    },
+    {
+      "category": "cross_table_inconsistency",
+      "confidence": "high",
+      "evidence": "Table T12 (Retention 2023) shows Gross written premiums for Motor as 906,943. Table T03 (Gross written premiums) also shows 906,943 for Motor in 2023. However, Table T07 (Key figures 2023) shows Gross earned premiums for Motor as 803,215 \u2014 which is plausible. But Table T09 (also Key figures 2023) shows Gross earned premiums for Motor as 623,640 \u2014 a significant difference from T07. Both T07 and T09 are labeled as 2023 key figures.",
+      "issue_id": "motor_premium_discrepancy_T07_vs_T09",
+      "materiality": "material",
+      "observation": "Two tables (T07 and T09) purporting to show 2023 key figures report conflicting Gross earned premiums for Motor: 803,215 vs 623,640. This inconsistency undermines reliability.",
+      "pdf_pages": [
+        13,
+        14
+      ],
+      "recommended_action": "Determine which table (T07 or T09) correctly reflects 2023 Motor gross earned premiums. Reconcile or flag as conflicting data.",
+      "status": "unresolved",
+      "table_ids": [
+        "T07",
+        "T09"
+      ]
+    },
+    {
+      "category": "source_inconsistency",
+      "confidence": "medium",
+      "evidence": "Table T28 and T29 are both titled 'Estimated yield on non-life fund assets' and appear on page 29. Their headers and normalized_rows are identical. However, T28 is linked to 'Table17' and T29 to 'Table15' in possible_repeat_of, which contradicts their identical content. Also, T30 is titled 'Quality of assets...' but appears under same page 29 without clear separation.",
+      "issue_id": "duplicate_content_T28_T29",
+      "materiality": "material",
+      "observation": "Tables T28 and T29 are duplicates in content but assigned different source references (Table17 vs Table15), creating confusion about provenance and potential redundancy.",
+      "pdf_pages": [
+        29
+      ],
+      "recommended_action": "Merge T28 and T29 into one table. Clarify source reference. Ensure T30 is properly separated and titled.",
+      "status": "unresolved",
+      "table_ids": [
+        "T28",
+        "T29",
+        "T30"
+      ]
+    },
+    {
+      "category": "layout_ambiguity",
+      "confidence": "high",
+      "evidence": "Page 42 is marked as 'table_detected' with title_raw=null. Provisional table T48 has headers ['','Coverage','Excess of loss','Annual Aggregate Limit'] and only one data row. The layout suggests it may be part of a larger table or continuation from previous page (41 or 43). No clear boundaries or context provided.",
+      "issue_id": "ambiguous_layout_T48",
+      "materiality": "material",
+      "observation": "Table T48 on page 42 lacks a clear title and appears isolated. Its structure suggests it may be incomplete or part of a multi-page table, leading to ambiguity in interpretation.",
+      "pdf_pages": [
+        42
+      ],
+      "recommended_action": "Review pages 41\u201343 to determine if T48 is part of a larger table. If so, merge or clarify its relationship. Add inferred title if possible.",
+      "status": "unresolved",
+      "table_ids": [
+        "T48"
+      ]
+    },
+    {
+      "category": "extraction_uncertainty",
+      "confidence": "medium",
+      "evidence": "Table T52 (Operational Risks) has a complex, unstructured title and headers that do not align with the data rows. The normalized_rows contain mixed text and values without clear column mapping. Units are unspecified. It appears to be a textual description rather than a tabular structure.",
+      "issue_id": "unclear_structure_T52",
+      "materiality": "material",
+      "observation": "Table T52 lacks a coherent table structure. The headers and rows do not correspond logically, making extraction unreliable and interpretation ambiguous.",
+      "pdf_pages": [
+        44
+      ],
+      "recommended_action": "Re-evaluate whether T52 should be treated as a table. If retained, restructure with clear column definitions or convert to narrative text.",
+      "status": "unresolved",
+      "table_ids": [
+        "T52"
+      ]
+    }
+  ],
+  "missing_pdf_pages": [],
+  "page_coverage_complete": true,
+  "provisional_table_count": 56
+}

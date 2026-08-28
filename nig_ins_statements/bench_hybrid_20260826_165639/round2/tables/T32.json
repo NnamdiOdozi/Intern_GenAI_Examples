@@ -1,0 +1,244 @@
+{
+  "cell_flags": [],
+  "concerns": [],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "footnotes_raw": [],
+  "headers_raw": [
+    "As at 31 December ......",
+    "EPI AS AT 31/12/2021",
+    "GWP AS AT 31/12/2023",
+    "GWP AS AT 31/12/2022"
+  ],
+  "normalized_rows": [
+    [
+      "Surplus",
+      null,
+      null,
+      0
+    ],
+    [
+      "Fire Surplus",
+      null,
+      948.317,
+      767.655
+    ],
+    [
+      "Fire WXL (net retained)",
+      200.0,
+      null,
+      null
+    ],
+    [
+      "Fire",
+      200.0,
+      null,
+      null
+    ],
+    [
+      "Terrorism",
+      5.0,
+      null,
+      null
+    ],
+    [
+      "Engineering",
+      75.0,
+      442.353,
+      355.014
+    ],
+    [
+      "Bond (Quota Share)",
+      45.0,
+      387.306,
+      352.399
+    ],
+    [
+      "Marine Cargo",
+      30.0,
+      null,
+      null
+    ],
+    [
+      "Marine Hull",
+      50.0,
+      246.32,
+      260.241
+    ],
+    [
+      "Excess of Loss",
+      null,
+      null,
+      null
+    ],
+    [
+      "General Accident XL",
+      200.0,
+      440.09,
+      394.577
+    ],
+    [
+      "Motor XL",
+      750.0,
+      944.701,
+      687.248
+    ],
+    [
+      "Oil & Gas XL",
+      927.0,
+      2516.567,
+      2054.282
+    ],
+    [
+      "TOTAL",
+      2282.0,
+      5925.654,
+      4871.416
+    ],
+    [
+      "Facultative",
+      205.0,
+      196.35,
+      205.0
+    ],
+    [
+      "Grand Total",
+      2487.0,
+      6122.004,
+      5076.416
+    ],
+    [
+      "Treaty/GWP",
+      0.385105167,
+      null,
+      null
+    ],
+    [
+      "(Treaty+ FAC)/GWP",
+      0.4062,
+      null,
+      null
+    ]
+  ],
+  "pages_seen": [
+    31
+  ],
+  "rows_raw": [
+    [
+      "Surplus",
+      "",
+      "",
+      "0"
+    ],
+    [
+      "Fire Surplus",
+      "",
+      "948.317",
+      "767.655"
+    ],
+    [
+      "Fire WXL (net retained)",
+      "200.000",
+      "",
+      ""
+    ],
+    [
+      "Fire",
+      "200.000",
+      "",
+      ""
+    ],
+    [
+      "Terrorism",
+      "5.000",
+      "",
+      ""
+    ],
+    [
+      "Engineering",
+      "75.000",
+      "442.353",
+      "355.014"
+    ],
+    [
+      "Bond (Quota Share)",
+      "45.000",
+      "387.306",
+      "352.399"
+    ],
+    [
+      "Marine Cargo",
+      "30.000",
+      "",
+      ""
+    ],
+    [
+      "Marine Hull",
+      "50.000",
+      "246.320",
+      "260.241"
+    ],
+    [
+      "Excess of Loss",
+      "",
+      "",
+      ""
+    ],
+    [
+      "General Accident XL",
+      "200.000",
+      "440.090",
+      "394.577"
+    ],
+    [
+      "Motor XL",
+      "750.000",
+      "944.701",
+      "687.248"
+    ],
+    [
+      "Oil & Gas XL",
+      "927.000",
+      "2.516.567",
+      "2.054.282"
+    ],
+    [
+      "TOTAL",
+      "2.282.000",
+      "5.925.654",
+      "4.871.416"
+    ],
+    [
+      "Facultative",
+      "205.000",
+      "196.350",
+      "205.000"
+    ],
+    [
+      "Grand Total",
+      "2.487.000",
+      "6.122.004",
+      "5.076.416"
+    ],
+    [
+      "Treaty/GWP",
+      "0,385105167",
+      "",
+      ""
+    ],
+    [
+      "(Treaty+ FAC)/GWP",
+      "40,62%",
+      "",
+      ""
+    ]
+  ],
+  "source_pages": [],
+  "table_complete": true,
+  "table_id": "T32",
+  "table_number_raw": "32",
+  "title_raw": "As at 31 December ...... | EPI AS AT | GWP AS AT | GWP AS AT",
+  "units_raw": "NGN'000 (all columns)",
+  "_header_width": 4,
+  "_row_width": 4
+}

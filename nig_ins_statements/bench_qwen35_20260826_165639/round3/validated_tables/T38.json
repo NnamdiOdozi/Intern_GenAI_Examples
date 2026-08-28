@@ -1,0 +1,64 @@
+{
+  "checks": {
+    "continuation_verified": true,
+    "header_width_consistent": true,
+    "page_citations_verified": true,
+    "row_widths_consistent": true,
+    "totals_status": "reconciles"
+  },
+  "corrections": [],
+  "final_headers_raw": [
+    "",
+    "Loss Ratio",
+    "Expense Ratio",
+    "Combined Ratio"
+  ],
+  "final_normalized_rows": [
+    [
+      null,
+      393,
+      58,
+      451
+    ],
+    [
+      "Agriculture (2022)",
+      64,
+      58,
+      122
+    ],
+    [
+      "Agriculture (2021)",
+      28,
+      4,
+      32
+    ]
+  ],
+  "final_rows_raw": [
+    [
+      "",
+      "393%",
+      "58%",
+      "451%"
+    ],
+    [
+      "Agriculture (2022)",
+      "64%",
+      "58%",
+      "122%"
+    ],
+    [
+      "Agriculture (2021)",
+      "28%",
+      "4%",
+      "32%"
+    ]
+  ],
+  "final_title_raw": "Agriculture class",
+  "issues": [],
+  "source_pages": [
+    48
+  ],
+  "table_complete": true,
+  "table_id": "T38",
+  "verdict": "accepted"
+}

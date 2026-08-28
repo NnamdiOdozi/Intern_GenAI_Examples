@@ -1,0 +1,134 @@
+[
+  {
+    "table_id": "T05",
+    "reason": "table_complete_false"
+  },
+  {
+    "table_id": "T24",
+    "reason": "ragged_rows:{1: 2, 6: 1}"
+  },
+  {
+    "table_id": "T39",
+    "reason": "ragged_rows:{9: 1, 8: 1, 7: 2, 4: 1, 3: 1, 2: 1}"
+  },
+  {
+    "table_id": "T54",
+    "reason": "ragged_rows:{6: 1, 5: 1, 1: 1}"
+  },
+  {
+    "table_id": "T23",
+    "reason": "table_complete_false"
+  },
+  {
+    "table_id": "T21",
+    "reason": "ragged_rows:{6: 6, 2: 1}"
+  },
+  {
+    "table_id": "T36",
+    "reason": "ragged_rows:{3: 4, 2: 6}"
+  },
+  {
+    "table_id": "T28",
+    "reason": "ragged_rows:{1: 2, 4: 6}"
+  },
+  {
+    "table_id": "T29",
+    "reason": "ragged_rows:{1: 1, 4: 6}"
+  },
+  {
+    "table_id": "T11",
+    "reason": "ragged_rows:{9: 1, 8: 1, 2: 3, 1: 6}"
+  },
+  {
+    "table_id": "T06",
+    "reason": "ragged_rows:{2: 1, 4: 2, 5: 3, 0: 1}"
+  },
+  {
+    "table_id": "T30",
+    "reason": "ragged_rows:{3: 2, 17: 1, 1: 17}"
+  },
+  {
+    "table_id": "T03",
+    "reason": "ragged_rows:{18: 1, 1: 2}"
+  },
+  {
+    "table_id": "T33",
+    "reason": "ragged_rows:{3: 14, 1: 5}"
+  },
+  {
+    "table_id": "T35",
+    "reason": "ragged_rows:{3: 7, 4: 1}"
+  },
+  {
+    "table_id": "T08",
+    "reason": "table_complete_false"
+  },
+  {
+    "table_id": "T31",
+    "reason": "ragged_rows:{4: 15, 3: 2}"
+  },
+  {
+    "table_id": "T16",
+    "reason": "table_complete_false"
+  },
+  {
+    "table_id": "T40",
+    "reason": "ragged_rows:{6: 3, 2: 1, 1: 2}"
+  },
+  {
+    "table_id": "T41",
+    "reason": "table_complete_false"
+  },
+  {
+    "table_id": "T10",
+    "reason": "ragged_rows:{9: 1, 2: 1, 1: 4}"
+  },
+  {
+    "table_id": "T22",
+    "reason": "ragged_rows:{6: 4, 7: 6, 1: 3}"
+  },
+  {
+    "table_id": "T20",
+    "reason": "ragged_rows:{6: 6, 2: 2}"
+  },
+  {
+    "table_id": "T07",
+    "reason": "ragged_rows:{8: 1, 2: 1, 1: 2}"
+  },
+  {
+    "table_id": "T55",
+    "reason": "ragged_rows:{5: 1, 69: 1, 13: 2, 4: 1}"
+  },
+  {
+    "table_id": "T18",
+    "reason": "ragged_rows:{10: 12, 11: 3, 18: 1}"
+  },
+  {
+    "table_id": "T12",
+    "reason": "ragged_rows:{9: 1, 5: 1, 1: 3}"
+  },
+  {
+    "table_id": "T09",
+    "reason": "ragged_rows:{9: 1, 2: 1, 1: 3}"
+  },
+  {
+    "table_id": "T14",
+    "reason": "ragged_rows:{9: 1, 4: 1, 1: 3}"
+  },
+  {
+    "table_id": "T13",
+    "reason": "ragged_rows:{11: 2, 12: 1, 14: 1, 1: 13}"
+  },
+  {
+    "table_id": "T17",
+    "reason": "ragged_rows:{6: 4, 5: 1, 4: 1, 1: 4}"
+  },
+  {
+    "table_id": "T51",
+    "reason": "ragged_rows:{6: 4, 2: 1, 1: 10, 23: 1}"
+  },
+  {
+    "table_id": "T47",
+    "reason": "truncated_finish_length"
+  }
+]

@@ -1,0 +1,76 @@
+{
+  "cell_flags": [],
+  "concerns": [],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "footnotes_raw": [],
+  "headers_raw": [
+    "Reinsurer",
+    "Proportion Shared"
+  ],
+  "normalized_rows": [
+    [
+      "African Re:",
+      45
+    ],
+    [
+      "Continental Re:",
+      25
+    ],
+    [
+      "WAICA Re:",
+      10
+    ],
+    [
+      "Nigeria Reinsurance Corporation:",
+      10
+    ],
+    [
+      "FBS Re:",
+      10
+    ],
+    [
+      "Total",
+      100
+    ]
+  ],
+  "pages_seen": [
+    37,
+    38,
+    39
+  ],
+  "rows_raw": [
+    [
+      "African Re:",
+      "45%"
+    ],
+    [
+      "Continental Re:",
+      "25%"
+    ],
+    [
+      "WAICA Re:",
+      "10%"
+    ],
+    [
+      "Nigeria Reinsurance Corporation:",
+      "10%"
+    ],
+    [
+      "FBS Re:",
+      "10%"
+    ],
+    [
+      "Total",
+      "100%"
+    ]
+  ],
+  "source_pages": [],
+  "table_complete": true,
+  "table_id": "T29",
+  "table_number_raw": "T29",
+  "title_raw": "Reinsurer / Proportion Shared",
+  "units_raw": "Percentages (%)",
+  "_header_width": 2,
+  "_row_width": 2
+}

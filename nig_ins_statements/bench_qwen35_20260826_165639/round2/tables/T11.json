@@ -1,0 +1,141 @@
+{
+  "cell_flags": [],
+  "concerns": [],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "footnotes_raw": [
+    "*Source: Sterling's audited accounts"
+  ],
+  "headers_raw": [
+    "(NGN'000)",
+    "General Accident",
+    "Motor",
+    "Aviation",
+    "Marine",
+    "Engineering",
+    "Bond",
+    "Fire",
+    "Oil & Gas",
+    "Agriculture",
+    "Total"
+  ],
+  "normalized_rows": [
+    [
+      "Gross written premiums",
+      446166,
+      620395,
+      null,
+      296746,
+      322522,
+      221421,
+      732991,
+      1888875,
+      147892,
+      4677009
+    ],
+    [
+      "Reinsurance premiums",
+      22861,
+      27776,
+      null,
+      78729,
+      93089,
+      46994,
+      146327,
+      753892,
+      103000,
+      1272668
+    ],
+    [
+      "Net written premiums",
+      423306,
+      592619,
+      null,
+      218018,
+      229433,
+      174426,
+      586664,
+      1134983,
+      null,
+      3359449
+    ],
+    [
+      "Retention",
+      "95%",
+      "96%",
+      "0%",
+      "73%",
+      "71%",
+      "79%",
+      "80%",
+      "60%",
+      "0%",
+      "72%"
+    ]
+  ],
+  "pages_seen": [
+    16
+  ],
+  "rows_raw": [
+    [
+      "Gross written premiums",
+      "446.166",
+      "620.395",
+      "-",
+      "296.746",
+      "322.522",
+      "221.421",
+      "732.991",
+      "1.888.875",
+      "147.892",
+      "4.677.009"
+    ],
+    [
+      "Reinsurance premiums",
+      "22.861",
+      "27.776",
+      "-",
+      "78.729",
+      "93.089",
+      "46.994",
+      "146.327",
+      "753.892",
+      "103.000",
+      "1.272.668"
+    ],
+    [
+      "Net written premiums",
+      "423.306",
+      "592.619",
+      "-",
+      "218.018",
+      "229.433",
+      "174.426",
+      "586.664",
+      "1.134.983",
+      "",
+      "3.359.449"
+    ],
+    [
+      "Retention",
+      "95%",
+      "96%",
+      "0%",
+      "73%",
+      "71%",
+      "79%",
+      "80%",
+      "60%",
+      "0%",
+      "72%"
+    ]
+  ],
+  "source_pages": [],
+  "table_complete": true,
+  "table_id": "T11",
+  "table_number_raw": "6c",
+  "title_raw": "Table 6c: Retention by class- General business 2021",
+  "units_raw": "(NGN'000)",
+  "_header_width": 11,
+  "_row_width": 11
+}

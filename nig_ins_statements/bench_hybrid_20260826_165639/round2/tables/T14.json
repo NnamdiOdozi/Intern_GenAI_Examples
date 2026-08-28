@@ -1,0 +1,32 @@
+{
+  "cell_flags": [],
+  "concerns": [],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "footnotes_raw": [
+    "Source: Sterling accounts"
+  ],
+  "headers_raw": [
+    "Class of Insurance",
+    "2019",
+    "2020",
+    "2021",
+    "2022",
+    "2023"
+  ],
+  "normalized_rows": [],
+  "pages_seen": [
+    15,
+    16,
+    17
+  ],
+  "rows_raw": [],
+  "source_pages": [],
+  "table_complete": true,
+  "table_id": "T14",
+  "table_number_raw": "Table 7",
+  "title_raw": "General insurance claims paid (NGN'000)",
+  "units_raw": "(NGN'000)",
+  "_header_width": 6,
+  "_row_width": 0
+}

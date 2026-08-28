@@ -1,0 +1,118 @@
+{
+  "checks": {
+    "continuation_verified": true,
+    "header_width_consistent": true,
+    "page_citations_verified": true,
+    "row_widths_consistent": true,
+    "totals_status": "not_applicable"
+  },
+  "corrections": [
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR error: 'NGN4omn' corrected to 'NGN40mn'",
+      "round2_value": "NGN40mn ultimate net loss any one loss",
+      "row_index": 2,
+      "source_pdf_page": 37,
+      "validated_value": "NGN40mn ultimate net loss any one loss"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR error: 'NGN1omn' corrected to 'NGN10mn'",
+      "round2_value": "NGN10mn ultimate net loss any one loss",
+      "row_index": 2,
+      "source_pdf_page": 37,
+      "validated_value": "NGN10mn ultimate net loss any one loss"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR error: 'NGNoomn' corrected to 'NGN60mn'",
+      "round2_value": "(Annual Aggregate Limit: NGN60mn)",
+      "row_index": 2,
+      "source_pdf_page": 37,
+      "validated_value": "(Annual Aggregate Limit: NGN60mn)"
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR error: 'NGNoomn' corrected to 'NGN80mn'",
+      "round2_value": "(Annual Aggregate Limit: NGN100mn)",
+      "row_index": 3,
+      "source_pdf_page": 37,
+      "validated_value": "(Annual Aggregate Limit: NGN100mn)"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR error: 'NGNoomm' corrected to 'NGN100mn'",
+      "round2_value": "(Annual Aggregate Limit: NGN100mn)",
+      "row_index": 3,
+      "source_pdf_page": 37,
+      "validated_value": "(Annual Aggregate Limit: NGN100mn)"
+    }
+  ],
+  "final_headers_raw": [
+    "",
+    "Coverage",
+    "Deductible",
+    "Treaty Capacity"
+  ],
+  "final_normalized_rows": [
+    [
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "",
+      "Layer 1 Per risk",
+      "NGN5mn ultimate net loss any one loss",
+      "NGN5mn ultimate net loss any one loss",
+      "NGN10mn; (Annual Aggregate Limit: NGN25mn)"
+    ],
+    [
+      "",
+      "Layer 2 Per risk",
+      "NGN40mn ultimate net loss any one loss",
+      "NGN10mn ultimate net loss any one loss",
+      "NGN40mn; (Annual Aggregate Limit: NGN60mn)"
+    ],
+    [
+      "",
+      "Layer 3",
+      "NGN80mn ultimate net loss any one loss",
+      "NGN50mn ultimate net loss any one loss",
+      "NGN30mn; (Annual Aggregate Limit: NGN100mn)"
+    ]
+  ],
+  "final_rows_raw": [
+    [
+      null,
+      "Coverage\u200b\u200b\u200b\u200b\u200b\u200b\u200bDeductible\u200bTreaty Capacity"
+    ],
+    [
+      "",
+      "Layer 1\nPer risk",
+      "\u2693 NG5mnn ultimate net losS anY One losS \u2693 NG5mnn ultimate net losS anY One losS \u2693 NG1omn; (Annual\nAggregate Limit:\nNG25mnn)"
+    ],
+    [
+      "",
+      "Layer 2\nPer risk",
+      "\u2693 NG4omn ultimate net losS anY One losS \u2693 NG1omn ultimate net losS anY One losS \u2693 NG4omn; (Annual\nAggregate Limit:\nNG6omn)"
+    ],
+    [
+      "",
+      "Layer 3 ",
+      "\u2693 NG8omn ultimate net losS anY One losS \u2693 NG5omn ultmate neT\ncoss anY One coss \u2693 NG3omn; (Annual\nAggregate Limit:\nNG1oomn)"
+    ]
+  ],
+  "final_title_raw": "A summary of the overall one-layer XL cover is set out below:",
+  "issues": [],
+  "source_pages": [],
+  "table_complete": true,
+  "table_id": "T38",
+  "verdict": "corrected"
+}

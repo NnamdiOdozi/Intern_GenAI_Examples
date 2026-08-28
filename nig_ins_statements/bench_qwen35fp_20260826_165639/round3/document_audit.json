@@ -1,0 +1,27 @@
+{
+  "audit_complete": true,
+  "document_id": "sterling_fcr_2023",
+  "inventory_table_count": 57,
+  "issues": [
+    {
+      "category": "coverage_gap",
+      "confidence": "high",
+      "evidence": "Inventory T01 and T23 share the exact same title 'Non-life Life insurance contract liabilities and net asset value' on pages 3 and 23 respectively. Provisional extraction for T01 exists, but T23 has no corresponding provisional table with matching content or ID, suggesting a missing extraction for the second instance.",
+      "issue_id": "CG-001",
+      "materiality": "informational",
+      "observation": "Page 23 contains a table with the same title as Page 3 (T01), but no provisional table (T-xxx) matches this specific page's content in the provided list. T23 in inventory is unlinked to a valid provisional table.",
+      "pdf_pages": [
+        23
+      ],
+      "recommended_action": "Verify if Page 23 table is a duplicate of Page 3 or a distinct update. Extract missing data for T23.",
+      "status": "unresolved",
+      "table_ids": [
+        "T01",
+        "T23"
+      ]
+    }
+  ],
+  "missing_pdf_pages": [],
+  "page_coverage_complete": true,
+  "provisional_table_count": 26
+}

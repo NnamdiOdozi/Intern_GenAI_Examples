@@ -1,0 +1,66 @@
+{
+  "checks": {
+    "continuation_verified": true,
+    "header_width_consistent": true,
+    "page_citations_verified": true,
+    "row_widths_consistent": true,
+    "totals_status": "not_applicable"
+  },
+  "corrections": [
+    {
+      "column_index": 0,
+      "confidence": "high",
+      "reason": "OCR misread 'NGN150mn' as 'NGN150mn]' in the first cell; corrected to match image.",
+      "round2_value": "30%[2022:40%] of NGN400mn[2022:NGN150mn] any one contractor or Group for 100%",
+      "row_index": 0,
+      "source_pdf_page": 39,
+      "validated_value": "30%[2022:40%] of NGN400mn[2022:NGN150mn] any one contractor or Group for 100%"
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misread 'NGN150mn' as 'NGN150mn]' in the second cell; corrected to match image.",
+      "round2_value": "70%[2022:60%] of NGN400mn[2022:NGN150mn] any one contractor or Group for 100%",
+      "row_index": 0,
+      "source_pdf_page": 39,
+      "validated_value": "70%[2022:60%] of NGN400mn[2022:NGN150mn] any one contractor or Group for 100%"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR truncated '2022' to '202' in the third cell; corrected to '2022' based on image.",
+      "round2_value": "NGN400mn[202:NGN150mn]",
+      "row_index": 0,
+      "source_pdf_page": 39,
+      "validated_value": "NGN400mn[2022:NGN150mn]"
+    }
+  ],
+  "final_headers_raw": [
+    "Quota Share Retention",
+    "Quota Share Maximum",
+    "Total Capacity"
+  ],
+  "final_normalized_rows": [
+    [
+      "30%[2022:40%] of NGN400mn[2022:NGN150mn] any one contractor or Group for 100%",
+      "70%[2022:60%] of NGN400mn[2022:NGN150mn] any one contractor or Group for 100%",
+      "NGN400mn[2022:NGN150mn]"
+    ]
+  ],
+  "final_rows_raw": [
+    [
+      "30%[2022:40%] of NGN400mn[2022:NGN150mn] any one contractor or Group for 100%",
+      "70%[2022:60%] of NGN400mn[2022:NGN150mn] any one contractor or Group for 100%",
+      "NGN400mn[2022:NGN150mn]"
+    ]
+  ],
+  "final_title_raw": "Treaty retention and capacity (Bond)",
+  "issues": [],
+  "source_pages": [
+    38,
+    39
+  ],
+  "table_complete": true,
+  "table_id": "T41",
+  "verdict": "corrected"
+}

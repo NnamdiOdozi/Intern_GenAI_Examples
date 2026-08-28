@@ -1,0 +1,141 @@
+{
+  "cell_flags": [],
+  "concerns": [],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "footnotes_raw": [
+    "Please note that the net technical results in the tables below exclude non-underwriting and management expenses."
+  ],
+  "headers_raw": [
+    "(NGN'000)",
+    "General Accident",
+    "Motor",
+    "Marine",
+    "Engineering",
+    "Bond",
+    "Fire",
+    "Oil & Gas",
+    "Agriculture",
+    "Aviation",
+    "Total"
+  ],
+  "normalized_rows": [
+    [
+      "Gross earned premiums",
+      374464,
+      803215,
+      206016,
+      375876,
+      329101,
+      805644,
+      2141126,
+      5608,
+      null,
+      5041050
+    ],
+    [
+      "Gross claims incurred",
+      183040,
+      265118,
+      101887,
+      209653,
+      47593,
+      372845,
+      633802,
+      892,
+      null,
+      1814830
+    ],
+    [
+      "Claims ratio*",
+      0.49,
+      0.33,
+      0.49,
+      0.56,
+      0.14,
+      0.46,
+      0.3,
+      0.16,
+      0.0,
+      0.36
+    ],
+    [
+      "Net technical result",
+      102462,
+      345286,
+      23857,
+      51387,
+      49985,
+      57373,
+      2702,
+      7334,
+      null,
+      640386
+    ]
+  ],
+  "pages_seen": [
+    13
+  ],
+  "rows_raw": [
+    [
+      "Gross earned premiums",
+      "374,464",
+      "803,215",
+      "206,016",
+      "375,876",
+      "329,101",
+      "805,644",
+      "2,141,126",
+      "5,608",
+      "-",
+      "5,041,050"
+    ],
+    [
+      "Gross claims incurred",
+      "183,040",
+      "265,118",
+      "101,887",
+      "209,653",
+      "47,593",
+      "372,845",
+      "633,802",
+      "892",
+      "-",
+      "1,814,830"
+    ],
+    [
+      "Claims ratio*",
+      "49%",
+      "33%",
+      "49%",
+      "56%",
+      "14%",
+      "46%",
+      "30%",
+      "16%",
+      "0%",
+      "36.00%"
+    ],
+    [
+      "Net technical result",
+      "102,462",
+      "345,286",
+      "23,857",
+      "51,387",
+      "49,985",
+      "57,373",
+      "2,702",
+      "7,334",
+      "-",
+      "640,386"
+    ]
+  ],
+  "source_pages": [],
+  "table_complete": true,
+  "table_id": "T05",
+  "table_number_raw": "Table 3a",
+  "title_raw": "Key figures by class- General business - 2023",
+  "units_raw": "(NGN'000)",
+  "_header_width": 11,
+  "_row_width": 11
+}

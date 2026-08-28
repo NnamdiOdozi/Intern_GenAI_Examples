@@ -1,0 +1,25 @@
+{
+  "checks": {
+    "continuation_verified": true,
+    "header_width_consistent": true,
+    "page_citations_verified": true,
+    "row_widths_consistent": true,
+    "totals_status": "not_applicable"
+  },
+  "corrections": [],
+  "final_headers_raw": [
+    "Quota Share Retention",
+    "Quota Share Maximum",
+    "Total Capacity"
+  ],
+  "final_normalized_rows": [],
+  "final_rows_raw": [],
+  "final_title_raw": "Treaty retention and capacity",
+  "issues": [],
+  "source_pages": [
+    38
+  ],
+  "table_complete": true,
+  "table_id": "T38",
+  "verdict": "accepted"
+}

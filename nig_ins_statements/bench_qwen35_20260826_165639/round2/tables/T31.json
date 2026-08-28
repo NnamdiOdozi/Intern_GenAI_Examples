@@ -1,0 +1,139 @@
+{
+  "cell_flags": [
+    {
+      "candidate_readings": [
+        "Quota Share Retention",
+        "Quota Share Maximum",
+        "Total Capacity"
+      ],
+      "column_index": 0,
+      "confidence": "high",
+      "inferred_value": null,
+      "normalized_value": "Quota Share Retention",
+      "printed_value": "Quota Share Retention",
+      "reason": "Header cell",
+      "row_index": 0,
+      "source_pdf_page": 37,
+      "status": "printed"
+    },
+    {
+      "candidate_readings": [
+        "Quota Share Maximum",
+        "Quota Share Maximum"
+      ],
+      "column_index": 1,
+      "confidence": "high",
+      "inferred_value": null,
+      "normalized_value": "Quota Share Maximum",
+      "printed_value": "Quota Share Maximum",
+      "reason": "Header cell",
+      "row_index": 0,
+      "source_pdf_page": 37,
+      "status": "printed"
+    },
+    {
+      "candidate_readings": [
+        "Total Capacity",
+        "Total Capacity"
+      ],
+      "column_index": 2,
+      "confidence": "high",
+      "inferred_value": null,
+      "normalized_value": "Total Capacity",
+      "printed_value": "Total Capacity",
+      "reason": "Header cell",
+      "row_index": 0,
+      "source_pdf_page": 37,
+      "status": "printed"
+    },
+    {
+      "candidate_readings": [
+        "30%[2022:40%] of NGN400mn[2022:NGN 150mn] any one contractor or Group for 100%",
+        "30%[2022:40%] of NGN400mn[2022:NGN 150mn] any one contractor or Group for 100%"
+      ],
+      "column_index": 0,
+      "confidence": "high",
+      "inferred_value": null,
+      "normalized_value": "30%[2022:40%] of NGN400mn[2022:NGN 150mn] any one contractor or Group for 100%",
+      "printed_value": "30%[2022:40%] of NGN400mn[2022:NGN 150mn] any one contractor or Group for 100%",
+      "reason": "Data cell",
+      "row_index": 1,
+      "source_pdf_page": 38,
+      "status": "printed"
+    },
+    {
+      "candidate_readings": [
+        "70%[2022:60%] of NGN400mn[2022 :NGN150mn] any one contractor or Group for 100%",
+        "70%[2022:60%] of NGN400mn[2022 :NGN150mn] any one contractor or Group for 100%"
+      ],
+      "column_index": 1,
+      "confidence": "high",
+      "inferred_value": null,
+      "normalized_value": "70%[2022:60%] of NGN400mn[2022 :NGN150mn] any one contractor or Group for 100%",
+      "printed_value": "70%[2022:60%] of NGN400mn[2022 :NGN150mn] any one contractor or Group for 100%",
+      "reason": "Data cell",
+      "row_index": 1,
+      "source_pdf_page": 38,
+      "status": "printed"
+    },
+    {
+      "candidate_readings": [
+        "NGN400mn[202 2:NGN150mn]",
+        "NGN400mn[2022:NGN150mn]"
+      ],
+      "column_index": 2,
+      "confidence": "high",
+      "inferred_value": null,
+      "normalized_value": "NGN400mn[202 2:NGN150mn]",
+      "printed_value": "NGN400mn[202 2:NGN150mn]",
+      "reason": "Data cell",
+      "row_index": 1,
+      "source_pdf_page": 38,
+      "status": "printed"
+    }
+  ],
+  "concerns": [],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "footnotes_raw": [],
+  "headers_raw": [
+    "Quota Share Retention",
+    "Quota Share Maximum",
+    "Total Capacity"
+  ],
+  "normalized_rows": [
+    [
+      "30%[2022:40%] of NGN400mn[2022:NGN 150mn] any one contractor or Group for 100%",
+      "70%[2022:60%] of NGN400mn[2022 :NGN150mn] any one contractor or Group for 100%",
+      "NGN400mn[202 2:NGN150mn]"
+    ]
+  ],
+  "pages_seen": [
+    37,
+    38
+  ],
+  "rows_raw": [
+    [
+      "30%[2022:40%] of NGN400mn[2022:NGN 150mn] any one contractor or Group for 100%",
+      "70%[2022:60%] of NGN400mn[2022 :NGN150mn] any one contractor or Group for 100%",
+      "NGN400mn[202 2:NGN150mn]"
+    ]
+  ],
+  "source_pages": [
+    {
+      "pdf_page": 37,
+      "printed_page": "37"
+    },
+    {
+      "pdf_page": 38,
+      "printed_page": "38"
+    }
+  ],
+  "table_complete": true,
+  "table_id": "T31",
+  "table_number_raw": null,
+  "title_raw": "Treaty retention and capacity",
+  "units_raw": "Unknown",
+  "_header_width": 3,
+  "_row_width": 3
+}

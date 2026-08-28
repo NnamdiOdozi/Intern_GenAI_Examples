@@ -1,0 +1,88 @@
+{
+  "cell_flags": [],
+  "concerns": [],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "footnotes_raw": [],
+  "headers_raw": [
+    "Reinsurer",
+    "Proportion shared"
+  ],
+  "normalized_rows": [
+    [
+      "African Re:",
+      45.0
+    ],
+    [
+      "Continental Re:",
+      25.0
+    ],
+    [
+      "Waica Re:",
+      10.0
+    ],
+    [
+      "Nigeria Reinsurance Corporation",
+      10.0
+    ],
+    [
+      "FBS Re",
+      10.0,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ]
+  ],
+  "pages_seen": [
+    43
+  ],
+  "rows_raw": [
+    [
+      "African Re:",
+      "45%"
+    ],
+    [
+      "Continental Re:",
+      "25%"
+    ],
+    [
+      "Waica Re:",
+      "10%"
+    ],
+    [
+      "Nigeria Reinsurance Corporation",
+      "10%"
+    ],
+    [
+      "FBS Re",
+      "10%"
+    ],
+    [
+      "Total",
+      "100%"
+    ]
+  ],
+  "source_pages": [
+    {
+      "pdf_page": 43,
+      "printed_page": "42"
+    }
+  ],
+  "table_complete": true,
+  "table_id": "T50",
+  "table_number_raw": "T50",
+  "title_raw": "Reinsurer proportion shared (Motor & Liability XL)",
+  "units_raw": "%",
+  "_header_width": 2,
+  "_row_width": 2
+}

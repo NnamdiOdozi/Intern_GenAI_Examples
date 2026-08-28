@@ -1,0 +1,195 @@
+{
+  "audit_complete": false,
+  "document_id": "sterling_fcr_2023",
+  "inventory_table_count": 52,
+  "issues": [
+    {
+      "category": "coverage_gap",
+      "confidence": "high",
+      "evidence": "Table 1 (T01) is inventoried for page 3, but provisional table T01 has empty normalized_rows. Similarly, T07 (2022 Key figures), T13 (General insurance claims paid), T14 (Ultimate Loss Ratio), T15 (Gross loss ratio 2023), T16 (Accident Year 2023 as reported), T21 (Non-life liabilities history), T22 (Capital Management), T25 (Estimated yield on assets), T26 (Quality of assets), T50 (Panel of Reinsurer), T51 (Facultative Obligatory Treaty Reinsurers), and T52 (Agriculture class) are inventoried but have no data in provisional tables.",
+      "issue_id": "missing_data_for_inventoried_tables",
+      "materiality": "material",
+      "observation": "Multiple inventoried tables lack extracted row data, indicating either extraction failure or missing content in source.",
+      "pdf_pages": [
+        3,
+        13,
+        16,
+        17,
+        20,
+        22,
+        23,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        34,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        45,
+        46,
+        48
+      ],
+      "recommended_action": "Re-extract or manually verify these tables from source PDF pages.",
+      "status": "unresolved",
+      "table_ids": [
+        "T01",
+        "T07",
+        "T13",
+        "T14",
+        "T15",
+        "T16",
+        "T21",
+        "T22",
+        "T25",
+        "T26",
+        "T50",
+        "T51",
+        "T52"
+      ]
+    },
+    {
+      "category": "repeated_version_difference",
+      "confidence": "high",
+      "evidence": "T06 and T08 both titled 'Key figures by class- General business - 2023' but have different headers: T06 includes 'Aviation' while T08 combines 'Marine & Aviation'. Also, T18 and T19 are identical tables with same title and data, appearing on same page 21. T48 and T49 are identical tables titled 'Excess of Loss treaty' with same headers and rows, appearing on page 45.",
+      "issue_id": "duplicate_or_conflicting_table_versions",
+      "materiality": "material",
+      "observation": "Same table titles appear with structural or content differences, suggesting versioning or duplication errors.",
+      "pdf_pages": [
+        13,
+        14,
+        21,
+        45
+      ],
+      "recommended_action": "Verify which version is authoritative; merge or reconcile discrepancies if valid.",
+      "status": "unresolved",
+      "table_ids": [
+        "T06",
+        "T08",
+        "T18",
+        "T19",
+        "T48",
+        "T49"
+      ]
+    },
+    {
+      "category": "arithmetic_anomaly",
+      "confidence": "medium",
+      "evidence": "In T04 (General business revenue account), the 'Insurance result' row for 2023 is 640,386, but summing components: Net Insurance Revenue (4,078,304) + Net Liability for claims incurred (-1,814,830) + Net loss component & Net interest accretion (-4,609) + Commission and Acquisition expenses (-1,618,477) + Maintenance (0) + Reinsurance commission (0) = 640,388 \u2014 off by 2,000 NGN'000. Also, 'Overall Operating ratio*' for 2023 is 80.5%, but sum of 'overall Net claim ratio*' (44%) + 'overall Net expense ratio*' (75%) = 119%, not 80.5%.",
+      "issue_id": "component_sum_mismatch_in_revenue_account",
+      "materiality": "material",
+      "observation": "Calculated totals do not match printed values, suggesting rounding or transcription error.",
+      "pdf_pages": [
+        11
+      ],
+      "recommended_action": "Recalculate using raw components; flag for manual review if discrepancy persists.",
+      "status": "unresolved",
+      "table_ids": [
+        "T04"
+      ]
+    },
+    {
+      "category": "cross_table_inconsistency",
+      "confidence": "high",
+      "evidence": "T04 reports 'Net Insurance Revenue' for 2023 as 4,078,304 NGN'000. T05 (same metric) has no data. T06 (2023 class breakdown) sums 'Gross earned premiums' to 5,041,050 NGN'000, but does not include reinsurance adjustments. T10 (Retention 2023) shows 'Net written premiums' total 4,254,964 NGN'000 \u2014 inconsistent with T04's net revenue. Also, T18/T19 show 'Total Net Written Premium (NGN)' for 2023 as 4,254,964, matching T10, but T04's 'Net Insurance Revenue' is 4,078,304 \u2014 difference of 176,660 NGN'000 unexplained.",
+      "issue_id": "net_premium_revenue_discrepancy_across_tables",
+      "materiality": "material",
+      "observation": "Different tables report conflicting values for net premium-related metrics without explanation.",
+      "pdf_pages": [
+        11,
+        13,
+        16,
+        21
+      ],
+      "recommended_action": "Clarify definitions: 'Net written premiums' vs 'Net Insurance Revenue'; reconcile with reinsurance ceded data.",
+      "status": "unresolved",
+      "table_ids": [
+        "T04",
+        "T05",
+        "T06",
+        "T10",
+        "T18",
+        "T19"
+      ]
+    },
+    {
+      "category": "source_inconsistency",
+      "confidence": "medium",
+      "evidence": "T28 and T29 both titled 'Reinsurance Documents Provided' and 'Analysis' respectively, but contain identical headers and rows, suggesting they are duplicates or mislabeled. T31 and T36 both list reinsurers for Fire/Property treaties with similar structures but different proportions (T31: African Re 50%, T36: African Re 45%).",
+      "issue_id": "duplicated_or_mislabeled_source_tables",
+      "materiality": "material",
+      "observation": "Tables appear to be copies or misattributed, risking misinterpretation of reinsurance structure.",
+      "pdf_pages": [
+        31,
+        34,
+        36,
+        38
+      ],
+      "recommended_action": "Confirm source document intent; merge or relabel if duplicate; validate proportions if distinct.",
+      "status": "unresolved",
+      "table_ids": [
+        "T28",
+        "T29",
+        "T31",
+        "T36"
+      ]
+    },
+    {
+      "category": "layout_ambiguity",
+      "confidence": "medium",
+      "evidence": "T35 (Excess of Loss treaty) has 3 columns in header but 4 values per row (Coverage, Deductible, Treaty Capacity, Annual Aggregate Limit). T44 (Motor XL Layer 1) has 4 columns but only 3 values per row. T38 (Treaty retention and capacity) has headers but no rows. T20 (textual paragraph) is treated as a table but lacks structured headers/rows.",
+      "issue_id": "malformed_table_layouts",
+      "materiality": "material",
+      "observation": "Table structures are malformed or incomplete, making data interpretation unreliable.",
+      "pdf_pages": [
+        37,
+        42,
+        38,
+        22
+      ],
+      "recommended_action": "Reconstruct table layouts based on visual alignment; treat T20 as narrative text unless structured data exists.",
+      "status": "unresolved",
+      "table_ids": [
+        "T35",
+        "T44",
+        "T38",
+        "T20"
+      ]
+    },
+    {
+      "category": "extraction_uncertainty",
+      "confidence": "high",
+      "evidence": "T15 (Gross loss ratio 2023) has no data despite being inventoried. T22 (Capital Management) has no headers or rows. T25 (Estimated yield) has no data. T26 (Quality of assets) has no data. T50 and T51 (Reinsurer ratings) have no data. These may be non-tabular or poorly scanned sections.",
+      "issue_id": "empty_tables_with_no_explanation",
+      "materiality": "material",
+      "observation": "Multiple tables extracted as empty, raising doubt about whether data was present or extraction failed.",
+      "pdf_pages": [
+        17,
+        27,
+        29,
+        30,
+        46
+      ],
+      "recommended_action": "Manually inspect source pages; if data exists, re-extract with layout-aware tool; if absent, mark as 'not applicable'.",
+      "status": "unresolved",
+      "table_ids": [
+        "T15",
+        "T22",
+        "T25",
+        "T26",
+        "T50",
+        "T51"
+      ]
+    }
+  ],
+  "missing_pdf_pages": [],
+  "page_coverage_complete": true,
+  "provisional_table_count": 52
+}

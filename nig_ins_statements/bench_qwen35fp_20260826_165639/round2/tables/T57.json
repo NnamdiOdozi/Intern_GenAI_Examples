@@ -1,0 +1,81 @@
+{
+  "cell_flags": [],
+  "concerns": [],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "footnotes_raw": [],
+  "headers_raw": [
+    "",
+    "Loss Ratio",
+    "Expense Ratio",
+    "Combined Ratio"
+  ],
+  "normalized_rows": [
+    [
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      393.0,
+      58.0,
+      451.0
+    ],
+    [
+      "Agriculture (2022)",
+      64.0,
+      58.0,
+      122.0
+    ],
+    [
+      "Agriculture (2021)",
+      28.0,
+      4.0,
+      32.0
+    ]
+  ],
+  "pages_seen": [
+    48
+  ],
+  "rows_raw": [
+    [
+      null,
+      "Loss Ratio",
+      "Expense Ratio",
+      "Combined Ratio"
+    ],
+    [
+      "",
+      "393%",
+      "58%",
+      "451%"
+    ],
+    [
+      "Agriculture (2022)",
+      "64%",
+      "58%",
+      "122%"
+    ],
+    [
+      "Agriculture (2021)",
+      "28%",
+      "4%",
+      "32%"
+    ]
+  ],
+  "source_pages": [
+    {
+      "pdf_page": 48,
+      "printed_page": "47"
+    }
+  ],
+  "table_complete": true,
+  "table_id": "T57",
+  "table_number_raw": "T57",
+  "title_raw": "Agriculture class - Loss Ratio / Expense Ratio / Combined Ratio (2021-2023)",
+  "units_raw": "percentages (%)",
+  "_header_width": 4,
+  "_row_width": 4
+}

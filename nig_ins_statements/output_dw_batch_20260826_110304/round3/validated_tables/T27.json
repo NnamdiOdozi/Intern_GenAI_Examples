@@ -1,0 +1,90 @@
+{
+  "checks": {
+    "continuation_verified": true,
+    "header_width_consistent": true,
+    "page_citations_verified": true,
+    "row_widths_consistent": true,
+    "totals_status": "not_applicable"
+  },
+  "corrections": [],
+  "final_headers_raw": [
+    "Asset Category",
+    "Percentage"
+  ],
+  "final_normalized_rows": [
+    [
+      "Cash and cash equivalents",
+      16.8
+    ],
+    [
+      "Reinsurance Assets",
+      20.1
+    ],
+    [
+      "Financial Asset",
+      29.9
+    ],
+    [
+      "Trade receivable",
+      15.9
+    ],
+    [
+      "Other receivables and prepayment",
+      1.7
+    ],
+    [
+      "Investment Properties",
+      2.0
+    ],
+    [
+      "Property and equipment, including Land and Building",
+      10.4
+    ],
+    [
+      "Statutory deposit",
+      3.3
+    ]
+  ],
+  "final_rows_raw": [
+    [
+      "Cash and cash equivalents",
+      "16,8%"
+    ],
+    [
+      "Reinsurance Assets",
+      "20,1%"
+    ],
+    [
+      "Financial Asset",
+      "29,9%"
+    ],
+    [
+      "Trade receivable",
+      "15,9%"
+    ],
+    [
+      "Other receivables and prepayment",
+      "1,7%"
+    ],
+    [
+      "Investment Properties",
+      "2,0%"
+    ],
+    [
+      "Property and equipment, including Land and Building",
+      "10,4%"
+    ],
+    [
+      "Statutory deposit",
+      "3,3%"
+    ]
+  ],
+  "final_title_raw": "Sterling Assurance Nigeria General Business Assets Grouping as at December 2023",
+  "issues": [],
+  "source_pages": [
+    30
+  ],
+  "table_complete": true,
+  "table_id": "T27",
+  "verdict": "accepted"
+}

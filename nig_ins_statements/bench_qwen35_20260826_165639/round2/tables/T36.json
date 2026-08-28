@@ -1,0 +1,60 @@
+{
+  "cell_flags": [
+    {
+      "candidate_readings": [
+        "blank"
+      ],
+      "column_index": 0,
+      "confidence": "high",
+      "inferred_value": null,
+      "normalized_value": null,
+      "printed_value": "",
+      "reason": "The cell is visually empty in the header row.",
+      "row_index": 0,
+      "source_pdf_page": 45,
+      "status": "blank"
+    }
+  ],
+  "concerns": [],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "footnotes_raw": [],
+  "headers_raw": [
+    "",
+    "Coverage",
+    "Excess of",
+    "Reinstatements"
+  ],
+  "normalized_rows": [
+    [
+      "Layer 1 Per risk",
+      "USD600mn each and every loss per event",
+      "USD1.4m (Construction All Risk: USD0.7mn) each loss per event or 2.5% of shareholders 'funds",
+      "1 full reinstatement at 100% additional premium but pro-rata as to amount only"
+    ]
+  ],
+  "pages_seen": [
+    45
+  ],
+  "rows_raw": [
+    [
+      "Layer 1 Per risk",
+      "USD600mn each and every loss per event",
+      "USD1.4m (Construction All Risk: USD0.7mn) each loss per event or 2.5% of shareholders 'funds",
+      "1 full reinstatement at 100% additional premium but pro-rata as to amount only"
+    ]
+  ],
+  "source_pages": [
+    {
+      "pdf_page": 45,
+      "printed_page": "44"
+    }
+  ],
+  "table_complete": true,
+  "table_id": "T36",
+  "table_number_raw": null,
+  "title_raw": "The treaty has one layer:",
+  "units_raw": "USD",
+  "_header_width": 4,
+  "_row_width": 4
+}

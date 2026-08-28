@@ -1,0 +1,37 @@
+{
+  "checks": {
+    "continuation_verified": true,
+    "header_width_consistent": true,
+    "page_citations_verified": true,
+    "row_widths_consistent": true,
+    "totals_status": "not_applicable"
+  },
+  "corrections": [],
+  "final_headers_raw": [
+    "Quota Share Retention",
+    "Quota Share Maximum",
+    "Total Capacity"
+  ],
+  "final_normalized_rows": [
+    [
+      "30%[2022:40%] of NGN400mn[2022:NGN150mn] any one contractor or Group for 100%",
+      "70%[2022:60%] of NGN400mn[2022:NGN150mn] any one contractor or Group for 100%",
+      "NGN400mn[2022:NGN150mn]"
+    ]
+  ],
+  "final_rows_raw": [
+    [
+      "30%[2022:40%] of NGN400mn[2022:NGN150mn] any one contractor or Group for 100%",
+      "70%[2022:60%] of NGN400mn[2022:NGN150mn] any one contractor or Group for 100%",
+      "NGN400mn[2022:NGN150mn]"
+    ]
+  ],
+  "final_title_raw": "Treaty retention andcapacity",
+  "issues": [],
+  "source_pages": [
+    38
+  ],
+  "table_complete": true,
+  "table_id": "T38",
+  "verdict": "accepted"
+}

@@ -1,0 +1,183 @@
+{
+  "checks": {
+    "continuation_verified": true,
+    "header_width_consistent": true,
+    "page_citations_verified": true,
+    "row_widths_consistent": true,
+    "totals_status": "reconciles"
+  },
+  "corrections": [],
+  "final_headers_raw": [
+    "Average Premium (NGN'000)",
+    "2020",
+    "2021",
+    "2022",
+    "2023"
+  ],
+  "final_normalized_rows": [
+    [
+      "General Accident",
+      388,
+      353,
+      315,
+      377
+    ],
+    [
+      "Motor",
+      298,
+      187,
+      224,
+      301
+    ],
+    [
+      "Marine",
+      660,
+      448,
+      365,
+      339
+    ],
+    [
+      "Engineering",
+      1737,
+      906,
+      1006,
+      1422
+    ],
+    [
+      "Bonds",
+      114,
+      88,
+      134,
+      219
+    ],
+    [
+      "Fire",
+      620,
+      439,
+      512,
+      589
+    ],
+    [
+      "Oil & Gas",
+      30814,
+      13787,
+      16659,
+      20460
+    ],
+    [
+      "Agriculture",
+      null,
+      21127,
+      5438,
+      913
+    ],
+    [
+      "Aviation",
+      null,
+      null,
+      227,
+      599
+    ],
+    [
+      "Total",
+      643,
+      471,
+      510,
+      680
+    ],
+    [
+      null,
+      "68%",
+      "-27%",
+      "8%",
+      "33%"
+    ]
+  ],
+  "final_rows_raw": [
+    [
+      "General Accident",
+      "388",
+      "353",
+      "315",
+      "377"
+    ],
+    [
+      "Motor",
+      "298",
+      "187",
+      "224",
+      "301"
+    ],
+    [
+      "Marine",
+      "660",
+      "448",
+      "365",
+      "339"
+    ],
+    [
+      "Engineering",
+      "1.737",
+      "906",
+      "1.006",
+      "1.422"
+    ],
+    [
+      "Bonds",
+      "114",
+      "88",
+      "134",
+      "219"
+    ],
+    [
+      "Fire",
+      "620",
+      "439",
+      "512",
+      "589"
+    ],
+    [
+      "Oil & Gas",
+      "30.814",
+      "13.787",
+      "16.659",
+      "20.460"
+    ],
+    [
+      "Agriculture",
+      "-",
+      "21.127",
+      "5.438",
+      "913"
+    ],
+    [
+      "Aviation",
+      "-",
+      "-",
+      "227",
+      "599"
+    ],
+    [
+      "Total",
+      "643",
+      "471",
+      "510",
+      "680"
+    ],
+    [
+      "",
+      "68%",
+      "-27%",
+      "8%",
+      "33%"
+    ]
+  ],
+  "final_title_raw": "Average Premium (NGN'000)",
+  "issues": [],
+  "source_pages": [
+    9
+  ],
+  "table_complete": true,
+  "table_id": "T03",
+  "verdict": "accepted"
+}

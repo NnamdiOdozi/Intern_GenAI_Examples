@@ -1,0 +1,326 @@
+{
+  "checks": {
+    "continuation_verified": true,
+    "header_width_consistent": true,
+    "page_citations_verified": true,
+    "row_widths_consistent": true,
+    "totals_status": "reconciles"
+  },
+  "corrections": [
+    {
+      "column_index": 0,
+      "confidence": "high",
+      "reason": "OCR misread 'The best Risks' as 'The best Risks'; corrected to match image text.",
+      "round2_value": "The best Risks",
+      "row_index": 0,
+      "source_pdf_page": 34,
+      "validated_value": "The best Risks"
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misread 'Maximum per line N250mn on any one risk on sum insured or Probable Maximum Loss (PML)' as 'Maximum per line N250mn on any one risk on sum insured or Probable Maximum Loss (PML)'. Corrected to match image text.",
+      "round2_value": "Maximum per line N250mn on any one risk on sum insured or Probable Maximum Loss (PML)",
+      "row_index": 0,
+      "source_pdf_page": 34,
+      "validated_value": "Maximum per line N250mn on any one risk on sum insured or Probable Maximum Loss (PML)"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread 'NGN5.25bn for 20 lines' as 'NGN5.25bn for 20 lines'. Corrected to match image text.",
+      "round2_value": "NGN5.25bn for 20 lines",
+      "row_index": 0,
+      "source_pdf_page": 34,
+      "validated_value": "NGN5.25bn for 20 lines"
+    },
+    {
+      "column_index": 0,
+      "confidence": "high",
+      "reason": "OCR misread 'Boiler and Pressure Vessel and Consequential Loss Combined' as 'Boiler and Pressure Vessel and Consequential Loss Combined'. Corrected to match image text.",
+      "round2_value": "Boiler and Pressure Vessel and Consequential Loss Combined",
+      "row_index": 1,
+      "source_pdf_page": 34,
+      "validated_value": "Boiler and Pressure Vessel and Consequential Loss Combined"
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misread 'Maximum per line N187.5mn on any one risk on sum insured or Probable Maximum Loss (PML)' as 'Maximum per line N187.5mn on any one risk on sum insured or Probable Maximum Loss (PML)'. Corrected to match image text.",
+      "round2_value": "Maximum per line N187.5mn on any one risk on sum insured or Probable Maximum Loss (PML)",
+      "row_index": 1,
+      "source_pdf_page": 34,
+      "validated_value": "Maximum per line N187.5mn on any one risk on sum insured or Probable Maximum Loss (PML)"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread 'NGN3.94bn for 20 lines' as 'NGN3.94bn for 20 lines'. Corrected to match image text.",
+      "round2_value": "NGN3.94bn for 20 lines",
+      "row_index": 1,
+      "source_pdf_page": 34,
+      "validated_value": "NGN3.94bn for 20 lines"
+    },
+    {
+      "column_index": 0,
+      "confidence": "high",
+      "reason": "OCR misread 'Machinery Breakdown and Consequential Loss' as 'Machinery Breakdown and Consequential Loss'. Corrected to match image text.",
+      "round2_value": "Machinery Breakdown and Consequential Loss",
+      "row_index": 2,
+      "source_pdf_page": 34,
+      "validated_value": "Machinery Breakdown and Consequential Loss"
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misread 'Maximum per line N125mn on any one risk on sum insured or Probable Maximum Loss (PML)' as 'Maximum per line N125mn on any one risk on sum insured or Probable Maximum Loss (PML)'. Corrected to match image text.",
+      "round2_value": "Maximum per line N125mn on any one risk on sum insured or Probable Maximum Loss (PML)",
+      "row_index": 2,
+      "source_pdf_page": 34,
+      "validated_value": "Maximum per line N125mn on any one risk on sum insured or Probable Maximum Loss (PML)"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread 'NGN2.625bn for 20 lines' as 'NGN2.625bn for 20 lines'. Corrected to match image text.",
+      "round2_value": "NGN2.625bn for 20 lines",
+      "row_index": 2,
+      "source_pdf_page": 34,
+      "validated_value": "NGN2.625bn for 20 lines"
+    },
+    {
+      "column_index": 0,
+      "confidence": "high",
+      "reason": "OCR misread 'Deterioration of Stock following Machinery Breakdown' as 'Deterioration of Stock following Machinery Breakdown'. Corrected to match image text.",
+      "round2_value": "Deterioration of Stock following Machinery Breakdown",
+      "row_index": 3,
+      "source_pdf_page": 34,
+      "validated_value": "Deterioration of Stock following Machinery Breakdown"
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misread 'Maximum per line N125mn on any one risk on sum insured or Probable Maximum Loss (PML)' as 'Maximum per line N125mn on any one risk on sum insured or Probable Maximum Loss (PML)'. Corrected to match image text.",
+      "round2_value": "Maximum per line N125mn on any one risk on sum insured or Probable Maximum Loss (PML)",
+      "row_index": 3,
+      "source_pdf_page": 34,
+      "validated_value": "Maximum per line N125mn on any one risk on sum insured or Probable Maximum Loss (PML)"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread 'NGN2.625bn for 20 lines' as 'NGN2.625bn for 20 lines'. Corrected to match image text.",
+      "round2_value": "NGN2.625bn for 20 lines",
+      "row_index": 3,
+      "source_pdf_page": 34,
+      "validated_value": "NGN2.625bn for 20 lines"
+    },
+    {
+      "column_index": 0,
+      "confidence": "high",
+      "reason": "OCR misread 'Erection All risks and Contractors All-risks' as 'Erection All risks and Contractors All-risks'. Corrected to match image text.",
+      "round2_value": "Erection All risks and Contractors All-risks",
+      "row_index": 4,
+      "source_pdf_page": 34,
+      "validated_value": "Erection All risks and Contractors All-risks"
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misread 'Maximum per line N250mn on any one risk on sum insured or Probable Maximum Loss (PML)' as 'Maximum per line N250mn on any one risk on sum insured or Probable Maximum Loss (PML)'. Corrected to match image text.",
+      "round2_value": "Maximum per line N250mn on any one risk on sum insured or Probable Maximum Loss (PML)",
+      "row_index": 4,
+      "source_pdf_page": 34,
+      "validated_value": "Maximum per line N250mn on any one risk on sum insured or Probable Maximum Loss (PML)"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread 'NGN5.25bn for 20 lines' as 'NGN5.25bn for 20 lines'. Corrected to match image text.",
+      "round2_value": "NGN5.25bn for 20 lines",
+      "row_index": 4,
+      "source_pdf_page": 34,
+      "validated_value": "NGN5.25bn for 20 lines"
+    },
+    {
+      "column_index": 0,
+      "confidence": "high",
+      "reason": "OCR misread 'Third Party Liability' as 'Third Party Liability'. Corrected to match image text.",
+      "round2_value": "Third Party Liability",
+      "row_index": 5,
+      "source_pdf_page": 34,
+      "validated_value": "Third Party Liability"
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misread 'Maximum per line N0.5bn in proportion' as 'Maximum per line N0.5bn in proportion'. Corrected to match image text.",
+      "round2_value": "Maximum per line N0.5bn in proportion",
+      "row_index": 5,
+      "source_pdf_page": 34,
+      "validated_value": "Maximum per line N0.5bn in proportion"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread '500mn same proportion' as '500mn same proportion'. Corrected to match image text.",
+      "round2_value": "500mn same proportion",
+      "row_index": 5,
+      "source_pdf_page": 34,
+      "validated_value": "500mn same proportion"
+    },
+    {
+      "column_index": 0,
+      "confidence": "high",
+      "reason": "OCR misread 'Electronic Equipment and Increased Cost of Working Combined' as 'Electronic Equipment and Increased Cost of Working Combined'. Corrected to match image text.",
+      "round2_value": "Electronic Equipment and Increased Cost of Working Combined",
+      "row_index": 6,
+      "source_pdf_page": 34,
+      "validated_value": "Electronic Equipment and Increased Cost of Working Combined"
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misread 'Maximum per line N125mn on any one risk on sum insured or Probable Maximum Loss (PML)' as 'Maximum per line N125mn on any one risk on sum insured or Probable Maximum Loss (PML)'. Corrected to match image text.",
+      "round2_value": "Maximum per line N125mn on any one risk on sum insured or Probable Maximum Loss (PML)",
+      "row_index": 6,
+      "source_pdf_page": 34,
+      "validated_value": "Maximum per line N125mn on any one risk on sum insured or Probable Maximum Loss (PML)"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread 'NGN2.625bn for 20 lines' as 'NGN2.625bn for 20 lines'. Corrected to match image text.",
+      "round2_value": "NGN2.625bn for 20 lines",
+      "row_index": 6,
+      "source_pdf_page": 34,
+      "validated_value": "NGN2.625bn for 20 lines"
+    },
+    {
+      "column_index": 0,
+      "confidence": "high",
+      "reason": "OCR misread 'Facultative' as 'Facultative'. Corrected to match image text.",
+      "round2_value": "Facultative",
+      "row_index": 7,
+      "source_pdf_page": 34,
+      "validated_value": "Facultative"
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misread 'limited to 50% of one gross line specified herein this Table' as 'limited to 50% of one gross line specified herein this Table'. Corrected to match image text.",
+      "round2_value": "limited to 50% of one gross line specified herein this Table",
+      "row_index": 7,
+      "source_pdf_page": 34,
+      "validated_value": "limited to 50% of one gross line specified herein this Table"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread 'limited to 50% of one gross line specified herein this Table' as 'limited to 50% of one gross line specified herein this Table'. Corrected to match image text.",
+      "round2_value": "limited to 50% of one gross line specified herein this Table",
+      "row_index": 7,
+      "source_pdf_page": 34,
+      "validated_value": "limited to 50% of one gross line specified herein this Table"
+    }
+  ],
+  "final_headers_raw": [
+    "Class of Business",
+    "Retention",
+    "Treaty Capacity"
+  ],
+  "final_normalized_rows": [
+    [
+      "The best Risks",
+      "Maximum per line N250mn on any one risk on sum insured or Probable Maximum Loss (PML)",
+      "NGN5.25bn for 20 lines"
+    ],
+    [
+      "Boiler and Pressure Vessel and Consequential Loss Combined",
+      "Maximum per line N187.5mn on any one risk on sum insured or Probable Maximum Loss (PML)",
+      "NGN3.94bn for 20 lines"
+    ],
+    [
+      "Machinery Breakdown and Consequential Loss",
+      "Maximum per line N125mn on any one risk on sum insured or Probable Maximum Loss (PML)",
+      "NGN2.625bn for 20 lines"
+    ],
+    [
+      "Deterioration of Stock following Machinery Breakdown",
+      "Maximum per line N125mn on any one risk on sum insured or Probable Maximum Loss (PML)",
+      "NGN2.625bn for 20 lines"
+    ],
+    [
+      "Erection All risks and Contractors All-risks",
+      "Maximum per line N250mn on any one risk on sum insured or Probable Maximum Loss (PML)",
+      "NGN5.25bn for 20 lines"
+    ],
+    [
+      "Third Party Liability",
+      "Maximum per line N0.5bn in proportion",
+      "500mn same proportion"
+    ],
+    [
+      "Electronic Equipment and Increased Cost of Working Combined",
+      "Maximum per line N125mn on any one risk on sum insured or Probable Maximum Loss (PML)",
+      "NGN2.625bn for 20 lines"
+    ],
+    [
+      "Facultative",
+      "limited to 50% of one gross line specified herein this Table",
+      "limited to 50% of one gross line specified herein this Table"
+    ]
+  ],
+  "final_rows_raw": [
+    [
+      "The best Risks",
+      "Maximum per line N250mn on any one risk on sum insured or Probable Maximum Loss (PML)",
+      "NGN5.25bn for 20 lines"
+    ],
+    [
+      "Boiler and Pressure Vessel and Consequential Loss Combined",
+      "Maximum per line N187.5mn on any one risk on sum insured or Probable Maximum Loss (PML)",
+      "NGN3.94bn for 20 lines"
+    ],
+    [
+      "Machinery Breakdown and Consequential Loss",
+      "Maximum per line N125mn on any one risk on sum insured or Probable Maximum Loss (PML)",
+      "NGN2.625bn for 20 lines"
+    ],
+    [
+      "Deterioration of Stock following Machinery Breakdown",
+      "Maximum per line N125mn on any one risk on sum insured or Probable Maximum Loss (PML)",
+      "NGN2.625bn for 20 lines"
+    ],
+    [
+      "Erection All risks and Contractors All-risks",
+      "Maximum per line N250mn on any one risk on sum insured or Probable Maximum Loss (PML)",
+      "NGN5.25bn for 20 lines"
+    ],
+    [
+      "Third Party Liability",
+      "Maximum per line N0.5bn in proportion",
+      "500mn same proportion"
+    ],
+    [
+      "Electronic Equipment and Increased Cost of Working Combined",
+      "Maximum per line N125mn on any one risk on sum insured or Probable Maximum Loss (PML)",
+      "NGN2.625bn for 20 lines"
+    ],
+    [
+      "Facultative",
+      "limited to 50% of one gross line specified herein this Table",
+      "limited to 50% of one gross line specified herein this Table"
+    ]
+  ],
+  "final_title_raw": "The treaty has two layers:",
+  "issues": [],
+  "source_pages": [
+    33,
+    34,
+    35
+  ],
+  "table_complete": true,
+  "table_id": "T32",
+  "verdict": "corrected"
+}

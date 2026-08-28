@@ -1,0 +1,142 @@
+{
+  "checks": {
+    "continuation_verified": true,
+    "header_width_consistent": true,
+    "page_citations_verified": false,
+    "row_widths_consistent": false,
+    "totals_status": "not_applicable"
+  },
+  "corrections": [
+    {
+      "column_index": 4,
+      "confidence": "high",
+      "reason": "OCR error: The value for Bond in 2021 is clearly a massive string of digits due to noise/OCR failure. The image shows '2529' or similar small number. Based on context of other rows (hundreds/thousands), '2529' is the only plausible value. The extracted string '25299999999999848484848484848484848484847777777777777765555555555556666666666' is garbage.",
+      "round2_value": 2529.0,
+      "row_index": 5,
+      "source_pdf_page": 1,
+      "validated_value": null
+    }
+  ],
+  "final_headers_raw": [
+    "",
+    "2020",
+    "2021",
+    "2022",
+    "2023"
+  ],
+  "final_normalized_rows": [
+    [
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Number of policies written",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "General Accident",
+      877.0,
+      1263.0,
+      1251.0,
+      1163.0
+    ],
+    [
+      "Motor",
+      2403.0,
+      3320.0,
+      3065.0,
+      3009.0
+    ],
+    [
+      "Marine",
+      419.0,
+      662.0,
+      718.0,
+      681.0
+    ],
+    [
+      "Engineering",
+      176.0,
+      356.0,
+      353.0,
+      305.0
+    ],
+    [
+      "Bond",
+      1249.0,
+      2529.0,
+      null,
+      null
+    ]
+  ],
+  "final_rows_raw": [
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Number of policies written",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "General Accident",
+      "877",
+      "1263",
+      "1251",
+      "1163"
+    ],
+    [
+      "Motor",
+      "2403",
+      "3320",
+      "3065",
+      "3009"
+    ],
+    [
+      "Marine",
+      "419",
+      "662",
+      "718",
+      "681"
+    ],
+    [
+      "Engineering",
+      "176",
+      "356",
+      "353",
+      "305"
+    ],
+    [
+      "Bond",
+      "1249",
+      "2529"
+    ]
+  ],
+  "final_title_raw": "\"Trend of Key Non-life written Business Statistics General Insurance business \u2013 direct\"",
+  "issues": [
+    {
+      "category": "arithmetic_anomaly",
+      "confidence": "low",
+      "location": "",
+      "materiality": "material",
+      "observation": "",
+      "recommended_action": ""
+    }
+  ],
+  "source_pages": [],
+  "table_complete": true,
+  "table_id": "",
+  "verdict": "needs_human_review"
+}

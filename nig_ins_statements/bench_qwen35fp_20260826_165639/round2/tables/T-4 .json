@@ -1,0 +1,139 @@
+{
+  "cell_flags": [
+    {
+      "candidate_readings": [
+        "-"
+      ],
+      "column_index": 1,
+      "confidence": "high",
+      "inferred_value": null,
+      "normalized_value": null,
+      "printed_value": "-",
+      "reason": "",
+      "row_index": 8,
+      "source_pdf_page": 9,
+      "status": "dash"
+    },
+    {
+      "candidate_readings": [],
+      "column_index": 1,
+      "confidence": "high",
+      "inferred_value": "-",
+      "normalized_value": "-",
+      "printed_value": "-",
+      "reason": "",
+      "row_index": 9,
+      "source_pdf_page": 9,
+      "status": "inferred_not_inserted"
+    }
+  ],
+  "concerns": [],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "footnotes_raw": [
+    "Source: Figures in the tables were taken from Sterling Premium Production Data"
+  ],
+  "headers_raw": [
+    "Average Premium (NGN'000)",
+    "2020",
+    "2021",
+    "2022",
+    "2023"
+  ],
+  "normalized_rows": [
+    [
+      "General Accident",
+      388.0,
+      353.0,
+      315.0,
+      377.0
+    ],
+    [
+      "Motor",
+      298.0,
+      187.0,
+      224.0,
+      301.0
+    ],
+    [
+      "Marine",
+      660.0,
+      448.0,
+      365.0,
+      339.0
+    ],
+    [
+      "Engineering",
+      1737.0,
+      "9",
+      "1",
+      "14",
+      "4",
+      "659"
+    ],
+    [
+      "Bonds",
+      114.0,
+      "8",
+      "8",
+      "5",
+      "4"
+    ],
+    [
+      "Fire",
+      62,
+      "4",
+      "5",
+      "5"
+    ],
+    [
+      "Oil & Gas",
+      3,
+      "8.",
+      "7.",
+      "6.",
+      "6."
+    ],
+    [
+      "Agriculture",
+      -9,
+      "-"
+    ],
+    [
+      "Aviation",
+      -9,
+      -9
+    ]
+  ],
+  "pages_seen": [],
+  "rows_raw": [
+    [
+      "Average Premium (NGN'',''''''',),'''','''','''','''','''','''','''','''','''','''','''','''','''','''','''','''','''','''','''','''','''','''','''],[General Accident'',,''',,''',,''',,''',,''],[Motor,,,''',,''',,''',,''],[Marine,,,'','',,,,],'Engineering,,,''','','','','','','','','','','','','','','','','','','','','','',',,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,],[Bonds,,,''','',,,,],[Fire,,,''','',,,,],[Oil & Gas,,,''','',,,,],[Agriculture,,,''','',,,,],[Aviation,,,''','',,,,],[Total,,,''','',,,,] ],[source_pdf_pages]: [9] } } } } } } } } } } ]} ]} ]} ]} ]} ]} ]} ]} ]} ]} ]} ]} ]} ]}}}}}}}}}}}}}}}}}]]]]]]]]]]]]]]]}}}]}]}]}]}]}]}]}]}]}]}]}}}{}{}{}{}{}{}{}{}{}}}{{}}{{}}{{}}{{}}{{}}{{}}{{}}{{}}{{}{}}}{{}{}}}{{}{}}}{{}{}}}{{}{}}}{{}{}}}{{}{}}}{{}{}}}{{}{}}}{{}{}}}{{}{}}{}}{}}{}}{}}{}}{}}{}}{}}",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "source_pages": [
+    {
+      "pdf_page": -1,
+      "printed_page": ""
+    }
+  ],
+  "table_complete": true,
+  "table_id": "T-4 ",
+  "table_number_raw": "",
+  "title_raw": "",
+  "units_raw": "",
+  "_header_width": 5,
+  "_row_width": 13
+}

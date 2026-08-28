@@ -1,0 +1,84 @@
+{
+  "checks": {
+    "continuation_verified": true,
+    "header_width_consistent": true,
+    "page_citations_verified": true,
+    "row_widths_consistent": true,
+    "totals_status": "not_applicable"
+  },
+  "corrections": [
+    {
+      "column_index": 0,
+      "confidence": "high",
+      "reason": "pages_seen corrected from [41, 42, 43] to [42, 43] as table starts on pdf_page 42.",
+      "round2_value": "[42, 43]",
+      "row_index": 0,
+      "source_pdf_page": 42,
+      "validated_value": "[42, 43]"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "normalized_rows Layer 1 Annual Aggregate Limit corrected from 10000000 to 100000000 (100mn).",
+      "round2_value": "100000000",
+      "row_index": 0,
+      "source_pdf_page": 42,
+      "validated_value": "100000000"
+    }
+  ],
+  "final_headers_raw": [
+    "",
+    "Coverage",
+    "Excess of loss",
+    "Annual Aggregate Limit"
+  ],
+  "final_normalized_rows": [
+    [
+      "Layer 1",
+      "NGN10mn for motor, including RIOT General Third-Party Liability/ Public Liability, Workmen's Compensation/Employer's Liability",
+      5000000,
+      100000000
+    ],
+    [
+      "Layer 2",
+      "a. NGN15mn for motor, including RIOT General Third-Party Liability/Public Liability, Workmen's Compensation/Employer's Liability",
+      15000000,
+      100000000
+    ],
+    [
+      null,
+      "b. NGN60mn for Motor, Third-party Bodily Injury and/or Death (and Third-Party property damage for ECOWAS BROWN CARD only) and Workmen's Compensation.",
+      15000000,
+      60000000
+    ]
+  ],
+  "final_rows_raw": [
+    [
+      "Layer 1",
+      "NGN10mn for motor, including RIOT General Third-Party Liability/ Public Liability, Workmen's Compensation/Employer's Liability",
+      "NGN5mn",
+      "NGN100mn"
+    ],
+    [
+      "Layer 2",
+      "a. NGN15mn for motor, including RIOT General Third-Party Liability/Public Liability, Workmen's Compensation/Employer's Liability",
+      "NGN15mn",
+      "NGN100mn"
+    ],
+    [
+      null,
+      "b. NGN60mn for Motor, Third-party Bodily Injury and/or Death (and Third-Party property damage for ECOWAS BROWN CARD only) and Workmen's Compensation.",
+      "NGN15mn",
+      "NGN60mn"
+    ]
+  ],
+  "final_title_raw": "The Motor XL treaty has two layers, as follows:",
+  "issues": [],
+  "source_pages": [
+    42,
+    43
+  ],
+  "table_complete": true,
+  "table_id": "T35",
+  "verdict": "corrected"
+}

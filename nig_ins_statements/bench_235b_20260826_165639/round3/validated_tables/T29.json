@@ -1,0 +1,443 @@
+{
+  "checks": {
+    "continuation_verified": true,
+    "header_width_consistent": true,
+    "page_citations_verified": true,
+    "row_widths_consistent": true,
+    "totals_status": "reconciles"
+  },
+  "corrections": [
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '948.317' not '948,317'",
+      "round2_value": "948.317",
+      "row_index": 1,
+      "source_pdf_page": 31,
+      "validated_value": "948.317"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '442.353' not '442,353'",
+      "round2_value": "442.353",
+      "row_index": 5,
+      "source_pdf_page": 31,
+      "validated_value": "442.353"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '387.306' not '387,306'",
+      "round2_value": "387.306",
+      "row_index": 6,
+      "source_pdf_page": 31,
+      "validated_value": "387.306"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '246.320' not '246,320'",
+      "round2_value": "246.320",
+      "row_index": 8,
+      "source_pdf_page": 31,
+      "validated_value": "246.320"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '440.090' not '440,090'",
+      "round2_value": "440.090",
+      "row_index": 10,
+      "source_pdf_page": 31,
+      "validated_value": "440.090"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '944.701' not '944,701'",
+      "round2_value": "944.701",
+      "row_index": 11,
+      "source_pdf_page": 31,
+      "validated_value": "944.701"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '2,516.567' as '2.516.567' \u2014 corrected to standard format with single decimal point",
+      "round2_value": "2516.567",
+      "row_index": 12,
+      "source_pdf_page": 31,
+      "validated_value": "2516.567"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '5,925.654' as '5.925.654' \u2014 corrected to standard format with single decimal point",
+      "round2_value": "5925.654",
+      "row_index": 13,
+      "source_pdf_page": 31,
+      "validated_value": "5925.654"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '6,122.004' as '6.122.004' \u2014 corrected to standard format with single decimal point",
+      "round2_value": "6122.004",
+      "row_index": 15,
+      "source_pdf_page": 31,
+      "validated_value": "6122.004"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '767.655' not '767,655'",
+      "round2_value": "767.655",
+      "row_index": 1,
+      "source_pdf_page": 31,
+      "validated_value": "767.655"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '355.014' not '355,014'",
+      "round2_value": "355.014",
+      "row_index": 5,
+      "source_pdf_page": 31,
+      "validated_value": "355.014"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '352.399' not '352,399'",
+      "round2_value": "352.399",
+      "row_index": 6,
+      "source_pdf_page": 31,
+      "validated_value": "352.399"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '260.241' not '260,241'",
+      "round2_value": "260.241",
+      "row_index": 8,
+      "source_pdf_page": 31,
+      "validated_value": "260.241"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '394.577' not '394,577'",
+      "round2_value": "394.577",
+      "row_index": 10,
+      "source_pdf_page": 31,
+      "validated_value": "394.577"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '687.248' not '687,248'",
+      "round2_value": "687.248",
+      "row_index": 11,
+      "source_pdf_page": 31,
+      "validated_value": "687.248"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '2,054.282' as '2.054.282' \u2014 corrected to standard format with single decimal point",
+      "round2_value": "2054.282",
+      "row_index": 12,
+      "source_pdf_page": 31,
+      "validated_value": "2054.282"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '4,871.416' as '4.871.416' \u2014 corrected to standard format with single decimal point",
+      "round2_value": "4871.416",
+      "row_index": 13,
+      "source_pdf_page": 31,
+      "validated_value": "4871.416"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '5,076.416' as '5.076.416' \u2014 corrected to standard format with single decimal point",
+      "round2_value": "5076.416",
+      "row_index": 15,
+      "source_pdf_page": 31,
+      "validated_value": "5076.416"
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '2,282.000' as '2.282.000' \u2014 corrected to standard format with single decimal point",
+      "round2_value": "2282.0",
+      "row_index": 13,
+      "source_pdf_page": 31,
+      "validated_value": "2282.0"
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '2,487.000' as '2.487.000' \u2014 corrected to standard format with single decimal point",
+      "round2_value": "2487.0",
+      "row_index": 15,
+      "source_pdf_page": 31,
+      "validated_value": "2487.0"
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '0,385105167' as '0,385105167' \u2014 corrected to use period as decimal separator",
+      "round2_value": "0.385105167",
+      "row_index": 16,
+      "source_pdf_page": 31,
+      "validated_value": "0.385105167"
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misread percentage; image shows '40,62%' as '40,62%' \u2014 corrected to use period as decimal separator and remove comma",
+      "round2_value": "0.4062",
+      "row_index": 17,
+      "source_pdf_page": 31,
+      "validated_value": "0.4062"
+    }
+  ],
+  "final_headers_raw": [
+    "As at 31 December ......",
+    "EPI AS AT 31/12/2021 NGN'000",
+    "GWP AS AT 31/12/2023 NGN'000",
+    "GWP AS AT 31/12/2022 NGN'000"
+  ],
+  "final_normalized_rows": [
+    [
+      "Surplus",
+      null,
+      null,
+      0
+    ],
+    [
+      "Fire Surplus",
+      null,
+      948.317,
+      767.655
+    ],
+    [
+      "Fire WXL (net retained)",
+      200.0,
+      null,
+      null
+    ],
+    [
+      "Fire",
+      200.0,
+      null,
+      null
+    ],
+    [
+      "Terrorism",
+      5.0,
+      null,
+      null
+    ],
+    [
+      "Engineering",
+      75.0,
+      442.353,
+      355.014
+    ],
+    [
+      "Bond (Quota Share)",
+      45.0,
+      387.306,
+      352.399
+    ],
+    [
+      "Marine Cargo",
+      30.0,
+      null,
+      null
+    ],
+    [
+      "Marine Hull",
+      50.0,
+      246.32,
+      260.241
+    ],
+    [
+      "Excess of Loss",
+      null,
+      null,
+      null
+    ],
+    [
+      "General Accident XL",
+      200.0,
+      440.09,
+      394.577
+    ],
+    [
+      "Motor XL",
+      750.0,
+      944.701,
+      687.248
+    ],
+    [
+      "Oil & Gas XL",
+      927.0,
+      2516.567,
+      2054.282
+    ],
+    [
+      "TOTAL",
+      2282.0,
+      5925.654,
+      4871.416
+    ],
+    [
+      "Facultative",
+      205.0,
+      196.35,
+      205.0
+    ],
+    [
+      "Grand Total",
+      2487.0,
+      6122.004,
+      5076.416
+    ],
+    [
+      "Treaty/GWP",
+      0.385105167,
+      null,
+      null
+    ],
+    [
+      "(Treaty+ FAC)/GWP",
+      0.4062,
+      null,
+      null
+    ]
+  ],
+  "final_rows_raw": [
+    [
+      "Surplus",
+      "",
+      "",
+      "0"
+    ],
+    [
+      "Fire Surplus",
+      "",
+      "948.317",
+      "767.655"
+    ],
+    [
+      "Fire WXL (net retained)",
+      "200.000",
+      "",
+      ""
+    ],
+    [
+      "Fire",
+      "200.000",
+      "",
+      ""
+    ],
+    [
+      "Terrorism",
+      "5.000",
+      "",
+      ""
+    ],
+    [
+      "Engineering",
+      "75.000",
+      "442.353",
+      "355.014"
+    ],
+    [
+      "Bond (Quota Share)",
+      "45.000",
+      "387.306",
+      "352.399"
+    ],
+    [
+      "Marine Cargo",
+      "30.000",
+      "",
+      ""
+    ],
+    [
+      "Marine Hull",
+      "50.000",
+      "246.320",
+      "260.241"
+    ],
+    [
+      "Excess of Loss",
+      "",
+      "",
+      ""
+    ],
+    [
+      "General Accident XL",
+      "200.000",
+      "440.090",
+      "394.577"
+    ],
+    [
+      "Motor XL",
+      "750.000",
+      "944.701",
+      "687.248"
+    ],
+    [
+      "Oil & Gas XL",
+      "927.000",
+      "2516.567",
+      "2054.282"
+    ],
+    [
+      "TOTAL",
+      "2282.000",
+      "5925.654",
+      "4871.416"
+    ],
+    [
+      "Facultative",
+      "205.000",
+      "196.350",
+      "205.000"
+    ],
+    [
+      "Grand Total",
+      "2487.000",
+      "6122.004",
+      "5076.416"
+    ],
+    [
+      "Treaty/GWP",
+      "0.385105167",
+      "",
+      ""
+    ],
+    [
+      "(Treaty+ FAC)/GWP",
+      "0.4062",
+      "",
+      ""
+    ]
+  ],
+  "final_title_raw": "Analysis",
+  "issues": [],
+  "source_pages": [
+    31
+  ],
+  "table_complete": true,
+  "table_id": "T29",
+  "verdict": "corrected"
+}

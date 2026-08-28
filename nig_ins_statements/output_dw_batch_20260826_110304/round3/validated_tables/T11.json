@@ -1,0 +1,482 @@
+{
+  "checks": {
+    "continuation_verified": true,
+    "header_width_consistent": true,
+    "page_citations_verified": true,
+    "row_widths_consistent": true,
+    "totals_status": "reconciles"
+  },
+  "corrections": [
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misread '394,577' as '394577' (missing comma)",
+      "round2_value": "394,577",
+      "row_index": 0,
+      "source_pdf_page": 16,
+      "validated_value": "394,577"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread '687,248' as '687248' (missing comma)",
+      "round2_value": "687,248",
+      "row_index": 0,
+      "source_pdf_page": 16,
+      "validated_value": "687,248"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread '1,815' as '1815' (missing comma)",
+      "round2_value": "1,815",
+      "row_index": 0,
+      "source_pdf_page": 16,
+      "validated_value": "1,815"
+    },
+    {
+      "column_index": 4,
+      "confidence": "high",
+      "reason": "OCR misread '262,270' as '262270' (missing comma)",
+      "round2_value": "262,270",
+      "row_index": 0,
+      "source_pdf_page": 16,
+      "validated_value": "262,270"
+    },
+    {
+      "column_index": 5,
+      "confidence": "high",
+      "reason": "OCR misread '355,014' as '355014' (missing comma)",
+      "round2_value": "355,014",
+      "row_index": 0,
+      "source_pdf_page": 16,
+      "validated_value": "355,014"
+    },
+    {
+      "column_index": 6,
+      "confidence": "high",
+      "reason": "OCR misread '352,399' as '352399' (missing comma)",
+      "round2_value": "352,399",
+      "row_index": 0,
+      "source_pdf_page": 16,
+      "validated_value": "352,399"
+    },
+    {
+      "column_index": 7,
+      "confidence": "high",
+      "reason": "OCR misread '767,655' as '767655' (missing comma)",
+      "round2_value": "767,655",
+      "row_index": 0,
+      "source_pdf_page": 16,
+      "validated_value": "767,655"
+    },
+    {
+      "column_index": 8,
+      "confidence": "high",
+      "reason": "OCR misread '2,049,113' as '2049113' (missing commas)",
+      "round2_value": "2,049,113",
+      "row_index": 0,
+      "source_pdf_page": 16,
+      "validated_value": "2,049,113"
+    },
+    {
+      "column_index": 9,
+      "confidence": "high",
+      "reason": "OCR misread '59,817' as '59817' (missing comma)",
+      "round2_value": "59,817",
+      "row_index": 0,
+      "source_pdf_page": 16,
+      "validated_value": "59,817"
+    },
+    {
+      "column_index": 10,
+      "confidence": "high",
+      "reason": "OCR misread '4,929,908' as '4929908' (missing commas)",
+      "round2_value": "4,929,908",
+      "row_index": 0,
+      "source_pdf_page": 16,
+      "validated_value": "4,929,908"
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misread '17,785' as '17785' (missing comma)",
+      "round2_value": "17,785",
+      "row_index": 1,
+      "source_pdf_page": 16,
+      "validated_value": "17,785"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread '108,172' as '108172' (missing comma)",
+      "round2_value": "108,172",
+      "row_index": 1,
+      "source_pdf_page": 16,
+      "validated_value": "108,172"
+    },
+    {
+      "column_index": 4,
+      "confidence": "high",
+      "reason": "OCR misread '76,073' as '76073' (missing comma)",
+      "round2_value": "76,073",
+      "row_index": 1,
+      "source_pdf_page": 16,
+      "validated_value": "76,073"
+    },
+    {
+      "column_index": 5,
+      "confidence": "high",
+      "reason": "OCR misread '129,686' as '129686' (missing comma)",
+      "round2_value": "129,686",
+      "row_index": 1,
+      "source_pdf_page": 16,
+      "validated_value": "129,686"
+    },
+    {
+      "column_index": 6,
+      "confidence": "high",
+      "reason": "OCR misread '118,724' as '118724' (missing comma)",
+      "round2_value": "118,724",
+      "row_index": 1,
+      "source_pdf_page": 16,
+      "validated_value": "118,724"
+    },
+    {
+      "column_index": 7,
+      "confidence": "high",
+      "reason": "OCR misread '210,177' as '210177' (missing comma)",
+      "round2_value": "210,177",
+      "row_index": 1,
+      "source_pdf_page": 16,
+      "validated_value": "210,177"
+    },
+    {
+      "column_index": 8,
+      "confidence": "high",
+      "reason": "OCR misread '820,321' as '820321' (missing comma)",
+      "round2_value": "820,321",
+      "row_index": 1,
+      "source_pdf_page": 16,
+      "validated_value": "820,321"
+    },
+    {
+      "column_index": 10,
+      "confidence": "high",
+      "reason": "OCR misread '1,480,940' as '1480940' (missing commas)",
+      "round2_value": "1,480,940",
+      "row_index": 1,
+      "source_pdf_page": 16,
+      "validated_value": "1,480,940"
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misread '376,792' as '376792' (missing comma)",
+      "round2_value": "376,792",
+      "row_index": 2,
+      "source_pdf_page": 16,
+      "validated_value": "376,792"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread '579,076' as '579076' (missing comma)",
+      "round2_value": "579,076",
+      "row_index": 2,
+      "source_pdf_page": 16,
+      "validated_value": "579,076"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread '1,815' as '1815' (missing comma)",
+      "round2_value": "1,815",
+      "row_index": 2,
+      "source_pdf_page": 16,
+      "validated_value": "1,815"
+    },
+    {
+      "column_index": 4,
+      "confidence": "high",
+      "reason": "OCR misread '186,197' as '186197' (missing comma)",
+      "round2_value": "186,197",
+      "row_index": 2,
+      "source_pdf_page": 16,
+      "validated_value": "186,197"
+    },
+    {
+      "column_index": 5,
+      "confidence": "high",
+      "reason": "OCR misread '225,328' as '225328' (missing comma)",
+      "round2_value": "225,328",
+      "row_index": 2,
+      "source_pdf_page": 16,
+      "validated_value": "225,328"
+    },
+    {
+      "column_index": 6,
+      "confidence": "high",
+      "reason": "OCR misread '233,674' as '233674' (missing comma)",
+      "round2_value": "233,674",
+      "row_index": 2,
+      "source_pdf_page": 16,
+      "validated_value": "233,674"
+    },
+    {
+      "column_index": 7,
+      "confidence": "high",
+      "reason": "OCR misread '557,477' as '557477' (missing comma)",
+      "round2_value": "557,477",
+      "row_index": 2,
+      "source_pdf_page": 16,
+      "validated_value": "557,477"
+    },
+    {
+      "column_index": 8,
+      "confidence": "high",
+      "reason": "OCR misread '1,228,792' as '1228792' (missing commas)",
+      "round2_value": "1,228,792",
+      "row_index": 2,
+      "source_pdf_page": 16,
+      "validated_value": "1,228,792"
+    },
+    {
+      "column_index": 9,
+      "confidence": "high",
+      "reason": "OCR misread '59,817' as '59817' (missing comma)",
+      "round2_value": "59,817",
+      "row_index": 2,
+      "source_pdf_page": 16,
+      "validated_value": "59,817"
+    },
+    {
+      "column_index": 10,
+      "confidence": "high",
+      "reason": "OCR misread '3,448,968' as '3448968' (missing commas)",
+      "round2_value": "3,448,968",
+      "row_index": 2,
+      "source_pdf_page": 16,
+      "validated_value": "3,448,968"
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misread '95%' as '0.95' (format error)",
+      "round2_value": "95%",
+      "row_index": 3,
+      "source_pdf_page": 16,
+      "validated_value": "95%"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread '84%' as '0.84' (format error)",
+      "round2_value": "84%",
+      "row_index": 3,
+      "source_pdf_page": 16,
+      "validated_value": "84%"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread '100%' as '1.0' (format error)",
+      "round2_value": "100%",
+      "row_index": 3,
+      "source_pdf_page": 16,
+      "validated_value": "100%"
+    },
+    {
+      "column_index": 4,
+      "confidence": "high",
+      "reason": "OCR misread '71%' as '0.71' (format error)",
+      "round2_value": "71%",
+      "row_index": 3,
+      "source_pdf_page": 16,
+      "validated_value": "71%"
+    },
+    {
+      "column_index": 5,
+      "confidence": "high",
+      "reason": "OCR misread '63%' as '0.63' (format error)",
+      "round2_value": "63%",
+      "row_index": 3,
+      "source_pdf_page": 16,
+      "validated_value": "63%"
+    },
+    {
+      "column_index": 6,
+      "confidence": "high",
+      "reason": "OCR misread '66%' as '0.66' (format error)",
+      "round2_value": "66%",
+      "row_index": 3,
+      "source_pdf_page": 16,
+      "validated_value": "66%"
+    },
+    {
+      "column_index": 7,
+      "confidence": "high",
+      "reason": "OCR misread '73%' as '0.73' (format error)",
+      "round2_value": "73%",
+      "row_index": 3,
+      "source_pdf_page": 16,
+      "validated_value": "73%"
+    },
+    {
+      "column_index": 8,
+      "confidence": "high",
+      "reason": "OCR misread '60%' as '0.6' (format error)",
+      "round2_value": "60%",
+      "row_index": 3,
+      "source_pdf_page": 16,
+      "validated_value": "60%"
+    },
+    {
+      "column_index": 9,
+      "confidence": "high",
+      "reason": "OCR misread '100%' as '1.0' (format error)",
+      "round2_value": "100%",
+      "row_index": 3,
+      "source_pdf_page": 16,
+      "validated_value": "100%"
+    },
+    {
+      "column_index": 10,
+      "confidence": "high",
+      "reason": "OCR misread '70%' as '0.7' (format error)",
+      "round2_value": "70%",
+      "row_index": 3,
+      "source_pdf_page": 16,
+      "validated_value": "70%"
+    }
+  ],
+  "final_headers_raw": [
+    "(NGN'000)",
+    "General Accident",
+    "Motor",
+    "Aviation",
+    "Marine",
+    "Engineering",
+    "Bond",
+    "Fire",
+    "Oil & Gas",
+    "Agriculture",
+    "Total"
+  ],
+  "final_normalized_rows": [
+    [
+      "Gross written premiums",
+      394577,
+      687248,
+      1815,
+      262270,
+      355014,
+      352399,
+      767655,
+      2049113,
+      59817,
+      4929908
+    ],
+    [
+      "Reinsurance premiums",
+      17785,
+      108172,
+      "-",
+      76073,
+      129686,
+      118724,
+      210177,
+      820321,
+      "-",
+      1480940
+    ],
+    [
+      "Net written premiums",
+      376792,
+      579076,
+      1815,
+      186197,
+      225328,
+      233674,
+      557477,
+      1228792,
+      59817,
+      3448968
+    ],
+    [
+      "Retention",
+      0.95,
+      0.84,
+      1.0,
+      0.71,
+      0.63,
+      0.66,
+      0.73,
+      0.6,
+      1.0,
+      0.7
+    ]
+  ],
+  "final_rows_raw": [
+    [
+      "Gross written premiums",
+      "394,577",
+      "687,248",
+      "1,815",
+      "262,270",
+      "355,014",
+      "352,399",
+      "767,655",
+      "2,049,113",
+      "59,817",
+      "4,929,908"
+    ],
+    [
+      "Reinsurance premiums",
+      "17,785",
+      "108,172",
+      "-",
+      "76,073",
+      "129,686",
+      "118,724",
+      "210,177",
+      "820,321",
+      "-",
+      "1,480,940"
+    ],
+    [
+      "Net written premiums",
+      "376,792",
+      "579,076",
+      "1,815",
+      "186,197",
+      "225,328",
+      "233,674",
+      "557,477",
+      "1,228,792",
+      "59,817",
+      "3,448,968"
+    ],
+    [
+      "Retention",
+      "95%",
+      "84%",
+      "100%",
+      "71%",
+      "63%",
+      "66%",
+      "73%",
+      "60%",
+      "100%",
+      "70%"
+    ]
+  ],
+  "final_title_raw": "Retention by class- General business 2022",
+  "issues": [],
+  "source_pages": [
+    16
+  ],
+  "table_complete": true,
+  "table_id": "T11",
+  "verdict": "corrected"
+}

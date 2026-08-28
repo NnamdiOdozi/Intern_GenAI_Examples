@@ -1,0 +1,247 @@
+{
+  "cell_flags": [],
+  "concerns": [],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "footnotes_raw": [
+    "Source: valuation report and company accounts"
+  ],
+  "headers_raw": [
+    "In NGN'000",
+    "2019",
+    "2020",
+    "2021",
+    "2022",
+    "2023"
+  ],
+  "normalized_rows": [],
+  "pages_seen": [
+    23
+  ],
+  "rows_raw": [
+    [
+      "Total Insurance Revenue",
+      "3,569,060",
+      "4,097,311",
+      "4,646,308",
+      "4,966,566",
+      "5,041,051"
+    ],
+    [
+      "Total Admissible assets",
+      "5,889,750",
+      "5,745,687",
+      "4,881,036",
+      "5,428,290",
+      "7,109,012"
+    ],
+    [
+      "Insurance Contract Liabilities:",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "General Accident",
+      "196,226",
+      "114,526",
+      "118,705",
+      "115,144",
+      "172,171"
+    ],
+    [
+      "Motor",
+      "34,306",
+      "51,842",
+      "87,848",
+      "37,775",
+      "99,856"
+    ],
+    [
+      "Marine",
+      "98,270",
+      "44,485",
+      "24,358",
+      "99,082",
+      "14,699"
+    ],
+    [
+      "Aviation",
+      "-",
+      "-",
+      "-",
+      "59.28",
+      "56.22"
+    ],
+    [
+      "Engineering",
+      "31,310",
+      "40,941",
+      "18,492",
+      "12,020",
+      "111,445"
+    ],
+    [
+      "Bond",
+      "7,301",
+      "18,112",
+      "12,224",
+      "4,423",
+      "16,295"
+    ],
+    [
+      "Fire & other damage to property",
+      "112,953",
+      "225,534",
+      "186,425",
+      "66,844",
+      "173,315"
+    ],
+    [
+      "Oil & Gas",
+      "101,955",
+      "24,461",
+      "17,706",
+      "15,869",
+      "18,110"
+    ],
+    [
+      "Agriculture",
+      "-",
+      "-",
+      "6,490",
+      "21,529",
+      "46,456"
+    ],
+    [
+      "Risk Adjustment",
+      "",
+      "",
+      "61,468",
+      "28144.23",
+      "130,155"
+    ],
+    [
+      "Total",
+      "582,321",
+      "519,901",
+      "533,715",
+      "400,889",
+      "782,558"
+    ],
+    [
+      "Total Liability for Remaining Coverage",
+      "783,277",
+      "783,277",
+      "815,523",
+      "665,746",
+      "623,547"
+    ],
+    [
+      "Net Insurance Acquisition Cashflows",
+      "",
+      "",
+      "0",
+      "(417,245)",
+      "(72,550)"
+    ],
+    [
+      "Loss Component",
+      "",
+      "",
+      "",
+      "41.40",
+      "4,650"
+    ],
+    [
+      "Total gross non-life insurance contract liabilities",
+      "1,365,598",
+      "1,365,598",
+      "1,335,423",
+      "782,216",
+      "951,927"
+    ],
+    [
+      "Less Asset for Reinsurance on Incurred Claims",
+      "",
+      "",
+      "",
+      "214715",
+      "149,328.10"
+    ],
+    [
+      "Less Asset for Remaining Coverage reinsurance",
+      "433,596",
+      "433,596",
+      "471,314",
+      "545,009",
+      "221,829.38"
+    ],
+    [
+      "*Net non-life insurance contract liabilities",
+      "932,002",
+      "932,002",
+      "864,110",
+      "22,491",
+      "580,770"
+    ],
+    [
+      "Other Admissible liabilities",
+      "384,384",
+      "422,121",
+      "635,095",
+      "517,849",
+      "585,692"
+    ],
+    [
+      "Total net Liabilities",
+      "1,316,386",
+      "1,286,231",
+      "657,586",
+      "1,098,619",
+      "1,752,651"
+    ],
+    [
+      "Net Admissible assets value",
+      "4,139,768",
+      "3,988,143",
+      "3,463,725",
+      "3,958,514",
+      "4,346,721"
+    ],
+    [
+      "Minimum Required Capital",
+      "3,000,000",
+      "3,000,000",
+      "3,000,000",
+      "3,000,000",
+      "3,000,000"
+    ],
+    [
+      "Solvency Margin",
+      "4,139,768",
+      "3,988,143",
+      "3,463,725",
+      "3,958,514",
+      "4,346,721"
+    ],
+    [
+      "Solvency Capital Ratio*",
+      "137.99%",
+      "132.94%",
+      "115.46%",
+      "131.95%",
+      "144.89%"
+    ]
+  ],
+  "source_pages": [],
+  "table_complete": true,
+  "table_id": "T21",
+  "table_number_raw": "Table 1",
+  "title_raw": "Non-life Life insurance contract liabilities and net asset value",
+  "units_raw": "In NGN'000",
+  "_header_width": 6,
+  "_row_width": 6
+}

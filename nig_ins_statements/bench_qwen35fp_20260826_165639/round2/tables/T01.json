@@ -1,0 +1,101 @@
+{
+  "cell_flags": [],
+  "concerns": [],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "footnotes_raw": [
+    "Source: Actuarial valuation reports and Sterling Audited Accounts"
+  ],
+  "headers_raw": [
+    "",
+    "2021",
+    "2022",
+    "2023"
+  ],
+  "normalized_rows": [
+    [
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Total Insurance Revenue",
+      4646308,
+      4966566,
+      5041051
+    ],
+    [
+      "Total Admissible assets",
+      4881036,
+      5428290,
+      7109012
+    ],
+    [
+      "Insurance Contract Liabilities:",
+      null,
+      null,
+      null
+    ],
+    [
+      "General Accident",
+      118705,
+      115144,
+      172171
+    ],
+    [
+      "Motor",
+      87848,
+      37775,
+      99856
+    ],
+    [
+      "Marine",
+      24358,
+      99082,
+      -99.3
+    ],
+    [
+      null
+    ]
+  ],
+  "pages_seen": [
+    3
+  ],
+  "rows_raw": [
+    [
+      null
+    ],
+    [
+      "Total Insurance Revenue"
+    ],
+    [
+      "Total Admissible assets"
+    ],
+    [
+      "Insurance Contract Liabilities:"
+    ],
+    [
+      "General Accident"
+    ],
+    [
+      "Motor"
+    ],
+    [
+      "Marine"
+    ]
+  ],
+  "source_pages": [
+    {
+      "pdf_page": 3,
+      "printed_page": "N/A"
+    }
+  ],
+  "table_complete": true,
+  "table_id": "T01",
+  "table_number_raw": "Table I",
+  "title_raw": "Non-life Life insurance contract liabilities and net asset value",
+  "units_raw": "In NGN'000",
+  "_header_width": 4,
+  "_row_width": 1
+}

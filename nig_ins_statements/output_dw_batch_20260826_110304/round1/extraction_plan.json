@@ -1,0 +1,527 @@
+[
+  {
+    "table_id": "T01",
+    "title_raw": "Table 1: Non-life Life insurance contract liabilities and net asset value",
+    "units_raw": "In NGN'000",
+    "source_pages": [
+      3
+    ],
+    "complexity": "high",
+    "possible_repeat_of": "Table 1"
+  },
+  {
+    "table_id": "T02",
+    "title_raw": "Trend of Key Non-life written Business Statistics\nGeneral Insurance business - direct",
+    "units_raw": "Number of policies written\nGross written premiums (NGN'000)",
+    "source_pages": [
+      8
+    ],
+    "complexity": "high",
+    "possible_repeat_of": null
+  },
+  {
+    "table_id": "T03",
+    "title_raw": "Average Premium (NGN'000)",
+    "units_raw": "NGN'000",
+    "source_pages": [
+      9
+    ],
+    "complexity": "medium",
+    "possible_repeat_of": null
+  },
+  {
+    "table_id": "T04",
+    "title_raw": "General business revenue account",
+    "units_raw": "NGN'000",
+    "source_pages": [
+      11,
+      12
+    ],
+    "complexity": "low",
+    "possible_repeat_of": null
+  },
+  {
+    "table_id": "T05",
+    "title_raw": "Net Insurance Revenue",
+    "units_raw": "NGN (in millions)",
+    "source_pages": [
+      12
+    ],
+    "complexity": "high",
+    "possible_repeat_of": null
+  },
+  {
+    "table_id": "T06",
+    "title_raw": "Table 3a : - Key figures by class- General business - 2023",
+    "units_raw": "NGN'000",
+    "source_pages": [
+      13
+    ],
+    "complexity": "high",
+    "possible_repeat_of": "Table 3a - Key figures by class - General business - 2023"
+  },
+  {
+    "table_id": "T07",
+    "title_raw": "Table 3a : - Key figures by class- General business - 2022",
+    "units_raw": "NGN'000",
+    "source_pages": [
+      13
+    ],
+    "complexity": "high",
+    "possible_repeat_of": "Table 3a - Key figures by class - General business - 2022"
+  },
+  {
+    "table_id": "T08",
+    "title_raw": "Key figures by class- General business - 2023",
+    "units_raw": "(NGN'000)",
+    "source_pages": [
+      14
+    ],
+    "complexity": "medium",
+    "possible_repeat_of": null
+  },
+  {
+    "table_id": "T09",
+    "title_raw": "Proportion of ultimate claims paid as at 31 December 2023",
+    "units_raw": "NGN'000 and days/years",
+    "source_pages": [
+      15
+    ],
+    "complexity": "high",
+    "possible_repeat_of": null
+  },
+  {
+    "table_id": "T10",
+    "title_raw": "Table 6a: Retention by class- General business 2023",
+    "units_raw": "NGN'000",
+    "source_pages": [
+      16
+    ],
+    "complexity": "high",
+    "possible_repeat_of": "Table 6a"
+  },
+  {
+    "table_id": "T11",
+    "title_raw": "Table 6b: Retention by class- General business 2022",
+    "units_raw": "NGN'000",
+    "source_pages": [
+      16
+    ],
+    "complexity": "high",
+    "possible_repeat_of": "Table 6b"
+  },
+  {
+    "table_id": "T12",
+    "title_raw": "Table 6c: Retention by class- General business 2021",
+    "units_raw": "NGN'000",
+    "source_pages": [
+      16
+    ],
+    "complexity": "high",
+    "possible_repeat_of": "Table 6c"
+  },
+  {
+    "table_id": "T13",
+    "title_raw": "Table 7: General insurance claims paid",
+    "units_raw": "NGN'000",
+    "source_pages": [
+      16,
+      17
+    ],
+    "complexity": "high",
+    "possible_repeat_of": "Table 7"
+  },
+  {
+    "table_id": "T14",
+    "title_raw": "Ultimate Loss Ratio by class of General Insurance Business",
+    "units_raw": "NGN'000",
+    "source_pages": [
+      17
+    ],
+    "complexity": "high",
+    "possible_repeat_of": "Table 8"
+  },
+  {
+    "table_id": "T15",
+    "title_raw": "Gross loss ratio by class of general insurance business: 2023 Accident Year",
+    "units_raw": "NGN'000",
+    "source_pages": [
+      17,
+      18
+    ],
+    "complexity": "high",
+    "possible_repeat_of": "Table 8"
+  },
+  {
+    "table_id": "T16",
+    "title_raw": "Table 10: Accident Year 2023 as reported",
+    "units_raw": "NGN'000",
+    "source_pages": [
+      20
+    ],
+    "complexity": "medium",
+    "possible_repeat_of": null
+  },
+  {
+    "table_id": "T17",
+    "title_raw": "Table 11: Trend in Solvency cover in each year 2019 to 2023 statements",
+    "units_raw": "NGN'000",
+    "source_pages": [
+      20
+    ],
+    "complexity": "low",
+    "possible_repeat_of": null
+  },
+  {
+    "table_id": "T18",
+    "title_raw": "Table 12: Measures of financial strength",
+    "units_raw": "NGN'000",
+    "source_pages": [
+      21
+    ],
+    "complexity": "high",
+    "possible_repeat_of": null
+  },
+  {
+    "table_id": "T19",
+    "title_raw": "Table 12: Measures of financial strength",
+    "units_raw": "NGN'000",
+    "source_pages": [
+      21
+    ],
+    "complexity": "high",
+    "possible_repeat_of": "table_1"
+  },
+  {
+    "table_id": "T20",
+    "title_raw": "The table above shows return on capital deployed may have been stable over the last 3 recent years remaining around average of 10% after falling to a negative of 176% in 2020. A reduction in return on capital would be expected to cause some corresponding effect on the company's retained earnings. However, the cover provided by the shareholders fund on the company's net premiums as a measure of financial strength show some protection for policyholders with a ratio of around 2.07 multiple in 2022 and 1.44 multiple in 2023.",
+    "units_raw": "Percentages and currency (NGN)",
+    "source_pages": [
+      22
+    ],
+    "complexity": "high",
+    "possible_repeat_of": null
+  },
+  {
+    "table_id": "T21",
+    "title_raw": "Recent history of non-Life insurance contract liabilities",
+    "units_raw": "Currency (NGN)",
+    "source_pages": [
+      22,
+      23,
+      24
+    ],
+    "complexity": "low",
+    "possible_repeat_of": null
+  },
+  {
+    "table_id": "T22",
+    "title_raw": "Capital Management and capital adequacy",
+    "units_raw": "Naira",
+    "source_pages": [
+      27
+    ],
+    "complexity": "medium",
+    "possible_repeat_of": "Table 9"
+  },
+  {
+    "table_id": "T23",
+    "title_raw": "Projected Cashflows",
+    "units_raw": "Naira",
+    "source_pages": [
+      27
+    ],
+    "complexity": "medium",
+    "possible_repeat_of": "None"
+  },
+  {
+    "table_id": "T24",
+    "title_raw": "Table 14: Non-life Statement of Financial Position as at 31 December ....",
+    "units_raw": "NGN'000",
+    "source_pages": [
+      28
+    ],
+    "complexity": "high",
+    "possible_repeat_of": "Table 14"
+  },
+  {
+    "table_id": "T25",
+    "title_raw": "Table 15: Estimated yield on non-life fund assets\nTable 17: Estimated yield on Non - life fund assets",
+    "units_raw": "NGN'000",
+    "source_pages": [
+      29
+    ],
+    "complexity": "high",
+    "possible_repeat_of": null
+  },
+  {
+    "table_id": "T26",
+    "title_raw": "Quality of assets backing the general business fund",
+    "units_raw": "NGN'000",
+    "source_pages": [
+      29
+    ],
+    "complexity": "medium",
+    "possible_repeat_of": null
+  },
+  {
+    "table_id": "T27",
+    "title_raw": "Sterling Assurance Nigeria General Business Assets Grouping as at December 2023",
+    "units_raw": "Percentages",
+    "source_pages": [
+      30
+    ],
+    "complexity": "medium",
+    "possible_repeat_of": "None"
+  },
+  {
+    "table_id": "T28",
+    "title_raw": "Reinsurance Documents Provided",
+    "units_raw": "NGN'000",
+    "source_pages": [
+      31
+    ],
+    "complexity": "medium",
+    "possible_repeat_of": "table_1"
+  },
+  {
+    "table_id": "T29",
+    "title_raw": "Analysis",
+    "units_raw": "NGN'000",
+    "source_pages": [
+      31
+    ],
+    "complexity": "high",
+    "possible_repeat_of": "table_2"
+  },
+  {
+    "table_id": "T30",
+    "title_raw": "Treaty retention and capacity per risk",
+    "units_raw": "NGN (billion) and NGN (million)",
+    "source_pages": [
+      32
+    ],
+    "complexity": "medium",
+    "possible_repeat_of": null
+  },
+  {
+    "table_id": "T31",
+    "title_raw": "Reinsurer",
+    "units_raw": "Proportion Shared (percentage)",
+    "source_pages": [
+      34
+    ],
+    "complexity": "medium",
+    "possible_repeat_of": "The table 'Reinsurer' appears to be a continuation of a table from the previous page, likely detailing the same treaty reinsurance arrangement."
+  },
+  {
+    "table_id": "T32",
+    "title_raw": "The treaty has two layers:",
+    "units_raw": "Nigerian Naira (NGN) and lines",
+    "source_pages": [
+      34
+    ],
+    "complexity": "medium",
+    "possible_repeat_of": "The table 'The treaty has two layers:' is a new table and does not appear to be a repeat of any other table on the page."
+  },
+  {
+    "table_id": "T33",
+    "title_raw": "Reinsurer Proportion Shared Rating",
+    "units_raw": "Proportion Shared: %, Rating: A by A.M Best and A- by S&P, B+ by A.M Best, B by A.M Best",
+    "source_pages": [
+      36
+    ],
+    "complexity": "high",
+    "possible_repeat_of": "Table 1"
+  },
+  {
+    "table_id": "T34",
+    "title_raw": "ENGINEERING",
+    "units_raw": "Largest gross claims (NGN), Largest net claims (NGN), Proportion recovered: %, Net Claims as % of S/H Funds: %, Sum of Five Largest Claims (NGN)",
+    "source_pages": [
+      36
+    ],
+    "complexity": "high",
+    "possible_repeat_of": "Table 2"
+  },
+  {
+    "table_id": "T35",
+    "title_raw": "Excess of Loss (XL) Treaty - A summary of the overall one-layer XL cover is set out below:",
+    "units_raw": "NGNmn",
+    "source_pages": [
+      37
+    ],
+    "complexity": "medium",
+    "possible_repeat_of": null
+  },
+  {
+    "table_id": "T36",
+    "title_raw": "The reinsurers take 100% of this treaty, as follows:",
+    "units_raw": "%",
+    "source_pages": [
+      38
+    ],
+    "complexity": "low",
+    "possible_repeat_of": null
+  },
+  {
+    "table_id": "T37",
+    "title_raw": "From the data on the largest claims in the General Accident branch since 2015, the following can be seen: General Accident",
+    "units_raw": "NGN",
+    "source_pages": [
+      38
+    ],
+    "complexity": "medium",
+    "possible_repeat_of": null
+  },
+  {
+    "table_id": "T38",
+    "title_raw": "Treaty retention and capacity",
+    "units_raw": null,
+    "source_pages": [
+      38
+    ],
+    "complexity": "low",
+    "possible_repeat_of": null
+  },
+  {
+    "table_id": "T39",
+    "title_raw": "Reinsurer Proportion Shared",
+    "units_raw": "%",
+    "source_pages": [
+      39
+    ],
+    "complexity": "high",
+    "possible_repeat_of": null
+  },
+  {
+    "table_id": "T40",
+    "title_raw": "Marine Hull Surplus Treaty",
+    "units_raw": "NGN",
+    "source_pages": [
+      40
+    ],
+    "complexity": "high",
+    "possible_repeat_of": null
+  },
+  {
+    "table_id": "T41",
+    "title_raw": "Reinsurer\nProportion Shared",
+    "units_raw": "%",
+    "source_pages": [
+      41
+    ],
+    "complexity": "medium",
+    "possible_repeat_of": null
+  },
+  {
+    "table_id": "T42",
+    "title_raw": "Marine Cargo Insurance\nMarine Cargo Surplus Treaty",
+    "units_raw": "NGN",
+    "source_pages": [
+      41
+    ],
+    "complexity": "medium",
+    "possible_repeat_of": null
+  },
+  {
+    "table_id": "T43",
+    "title_raw": "Reinsurer\nProportion Shared",
+    "units_raw": "%",
+    "source_pages": [
+      41
+    ],
+    "complexity": "medium",
+    "possible_repeat_of": "table_1"
+  },
+  {
+    "table_id": "T44",
+    "title_raw": "Motor XL treaty has two layers, as follows:",
+    "units_raw": "NGN",
+    "source_pages": [
+      42
+    ],
+    "complexity": "medium",
+    "possible_repeat_of": "Table 10.1"
+  },
+  {
+    "table_id": "T45",
+    "title_raw": "Layer 2",
+    "units_raw": "NGN",
+    "source_pages": [
+      43
+    ],
+    "complexity": "high",
+    "possible_repeat_of": "Table 1"
+  },
+  {
+    "table_id": "T46",
+    "title_raw": "Reinsurer Proportion shared",
+    "units_raw": "%",
+    "source_pages": [
+      43
+    ],
+    "complexity": "medium",
+    "possible_repeat_of": "Table 2"
+  },
+  {
+    "table_id": "T47",
+    "title_raw": "From the data on the largest claims in the MOTOR branch since 2015, the following can be seen:",
+    "units_raw": "NGN",
+    "source_pages": [
+      43
+    ],
+    "complexity": "high",
+    "possible_repeat_of": "Table 3"
+  },
+  {
+    "table_id": "T48",
+    "title_raw": "Excess of Loss treaty",
+    "units_raw": "USD, NGN, %",
+    "source_pages": [
+      45
+    ],
+    "complexity": "high",
+    "possible_repeat_of": "table_1"
+  },
+  {
+    "table_id": "T49",
+    "title_raw": "Excess of Loss treaty",
+    "units_raw": "USD, NGN, %",
+    "source_pages": [
+      45
+    ],
+    "complexity": "high",
+    "possible_repeat_of": "table_1"
+  },
+  {
+    "table_id": "T50",
+    "title_raw": "Panel of Reinsurer",
+    "units_raw": "N/A",
+    "source_pages": [
+      46
+    ],
+    "complexity": "high",
+    "possible_repeat_of": "Table 1"
+  },
+  {
+    "table_id": "T51",
+    "title_raw": "Facultative Obligatory Treaty Reinsurers",
+    "units_raw": "N/A",
+    "source_pages": [
+      46
+    ],
+    "complexity": "high",
+    "possible_repeat_of": "Table 2"
+  },
+  {
+    "table_id": "T52",
+    "title_raw": "Agriculture class",
+    "units_raw": "Percentages (%)",
+    "source_pages": [
+      48
+    ],
+    "complexity": "medium",
+    "possible_repeat_of": null
+  }
+]

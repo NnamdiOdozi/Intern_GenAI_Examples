@@ -1,0 +1,47 @@
+{
+  "checks": {
+    "continuation_verified": true,
+    "header_width_consistent": true,
+    "page_citations_verified": true,
+    "row_widths_consistent": true,
+    "totals_status": "reconciles"
+  },
+  "corrections": [],
+  "final_headers_raw": [
+    "Retention",
+    "Surplus",
+    "Treaty totalCapacity"
+  ],
+  "final_normalized_rows": [
+    [
+      "Maximum line NGN50mn",
+      "NGN1,000mn for 20 lines",
+      "NGN1,050mn"
+    ],
+    [
+      "Facultative inwards Retrocession- Property All Risks: NGN25mn any one risk",
+      "NGN500mn 10 lines",
+      "NGN525mn"
+    ]
+  ],
+  "final_rows_raw": [
+    [
+      "Maximum line NGN50mn",
+      "NGN1,000mn for 20 lines",
+      "NGN1,050mn"
+    ],
+    [
+      "Facultative inwards Retrocession- Property All Risks: NGN25mn any one risk",
+      "NGN500mn 10 lines",
+      "NGN525mn"
+    ]
+  ],
+  "final_title_raw": "Marine Cargo Insurance Marine Cargo Surplus Treaty",
+  "issues": [],
+  "source_pages": [
+    41
+  ],
+  "table_complete": true,
+  "table_id": "T33",
+  "verdict": "accepted"
+}

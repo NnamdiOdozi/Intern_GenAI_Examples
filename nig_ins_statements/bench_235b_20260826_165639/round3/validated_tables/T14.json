@@ -1,0 +1,1266 @@
+{
+  "checks": {
+    "continuation_verified": true,
+    "header_width_consistent": true,
+    "page_citations_verified": true,
+    "row_widths_consistent": true,
+    "totals_status": "reconciles"
+  },
+  "corrections": [
+    {
+      "column_index": 0,
+      "confidence": "high",
+      "reason": "Header 'Class of Insurance' was correctly extracted from page 17.",
+      "round2_value": "Class of Insurance",
+      "row_index": 0,
+      "source_pdf_page": 17,
+      "validated_value": "Class of Insurance"
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "Header 'Claims Paid (NGN'000)' matches the header on page 17, which reads 'Claims Paid (NGN'000)'.",
+      "round2_value": "Claims Paid (NGN'000)",
+      "row_index": 0,
+      "source_pdf_page": 17,
+      "validated_value": "Claims Paid (NGN'000)"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "Header '2023 Reported Reserves (NGN'000)' matches the header on page 17, which reads '2023 Reported Reserves (NGN'000)'.",
+      "round2_value": "2023 Reported Reserves (NGN'000)",
+      "row_index": 0,
+      "source_pdf_page": 17,
+      "validated_value": "2023 Reported Reserves (NGN'000)"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "Header 'IBNR (NGN'000)' matches the header on page 17, which reads 'IBNR (NGN'000)'.",
+      "round2_value": "IBNR (NGN'000)",
+      "row_index": 0,
+      "source_pdf_page": 17,
+      "validated_value": "IBNR (NGN'000)"
+    },
+    {
+      "column_index": 4,
+      "confidence": "high",
+      "reason": "Header 'Incurred Claims (N'00)' matches the header on page 17, which reads 'Incurred Claims (N'00)'.",
+      "round2_value": "Incurred Claims (N'00)",
+      "row_index": 0,
+      "source_pdf_page": 17,
+      "validated_value": "Incurred Claims (N'00)"
+    },
+    {
+      "column_index": 5,
+      "confidence": "high",
+      "reason": "Header 'Earned Premium (NGN'00)' matches the header on page 17, which reads 'Earned Premium (NGN'00)'.",
+      "round2_value": "Earned Premium (NGN'00)",
+      "row_index": 0,
+      "source_pdf_page": 17,
+      "validated_value": "Earned Premium (NGN'00)"
+    },
+    {
+      "column_index": 6,
+      "confidence": "high",
+      "reason": "Header '2023 Estimated loss ratio' matches the header on page 17, which reads '2023 Estimated loss ratio'.",
+      "round2_value": "2023 Estimated loss ratio",
+      "row_index": 0,
+      "source_pdf_page": 17,
+      "validated_value": "2023 Estimated loss ratio"
+    },
+    {
+      "column_index": 7,
+      "confidence": "high",
+      "reason": "Header 'Management and Other expenses' matches the header on page 17, which reads 'Management and Other expenses'.",
+      "round2_value": "Management and Other expenses",
+      "row_index": 0,
+      "source_pdf_page": 17,
+      "validated_value": "Management and Other expenses"
+    },
+    {
+      "column_index": 8,
+      "confidence": "high",
+      "reason": "Header '2023 Estimated combined ratio' matches the header on page 17, which reads '2023 Estimated combined ratio'.",
+      "round2_value": "2023 Estimated combined ratio",
+      "row_index": 0,
+      "source_pdf_page": 17,
+      "validated_value": "2023 Estimated combined ratio"
+    },
+    {
+      "column_index": 9,
+      "confidence": "high",
+      "reason": "Header '2022 Estimated ultimate loss ratio' matches the header on page 17, which reads '2022 Estimated ultimate loss ratio'.",
+      "round2_value": "2022 Estimated ultimate loss ratio",
+      "row_index": 0,
+      "source_pdf_page": 17,
+      "validated_value": "2022 Estimated ultimate loss ratio"
+    },
+    {
+      "column_index": 0,
+      "confidence": "high",
+      "reason": "Row value 'General Accident' matches the row label on page 18.",
+      "round2_value": "General Accident",
+      "row_index": 1,
+      "source_pdf_page": 18,
+      "validated_value": "General Accident"
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "Value '148.061' for General Accident under 'Claims Paid (NGN'000)' matches the value on page 18.",
+      "round2_value": "148.061",
+      "row_index": 1,
+      "source_pdf_page": 18,
+      "validated_value": "148.061"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "Value '118.444' for General Accident under '2023 Reported Reserves (NGN'000)' matches the value on page 18.",
+      "round2_value": "118.444",
+      "row_index": 1,
+      "source_pdf_page": 18,
+      "validated_value": "118.444"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "Value '53.727' for General Accident under 'IBNR (NGN'000)' matches the value on page 18.",
+      "round2_value": "53.727",
+      "row_index": 1,
+      "source_pdf_page": 18,
+      "validated_value": "53.727"
+    },
+    {
+      "column_index": 4,
+      "confidence": "high",
+      "reason": "Value '320.231' for General Accident under 'Incurred Claims (N'00)' matches the value on page 18.",
+      "round2_value": "320.231",
+      "row_index": 1,
+      "source_pdf_page": 18,
+      "validated_value": "320.231"
+    },
+    {
+      "column_index": 5,
+      "confidence": "high",
+      "reason": "Value '421.200' for General Accident under 'Earned Premium (NGN'00)' matches the value on page 18.",
+      "round2_value": "421.200",
+      "row_index": 1,
+      "source_pdf_page": 18,
+      "validated_value": "421.200"
+    },
+    {
+      "column_index": 6,
+      "confidence": "high",
+      "reason": "Value '76,0%' for General Accident under '2023 Estimated loss ratio' matches the value on page 18.",
+      "round2_value": "76,0%",
+      "row_index": 1,
+      "source_pdf_page": 18,
+      "validated_value": "76,0%"
+    },
+    {
+      "column_index": 7,
+      "confidence": "high",
+      "reason": "Value '160.092' for General Accident under 'Management and Other expenses' matches the value on page 18.",
+      "round2_value": "160.092",
+      "row_index": 1,
+      "source_pdf_page": 18,
+      "validated_value": "160.092"
+    },
+    {
+      "column_index": 8,
+      "confidence": "high",
+      "reason": "Value '114,0%' for General Accident under '2023 Estimated combined ratio' matches the value on page 18.",
+      "round2_value": "114,0%",
+      "row_index": 1,
+      "source_pdf_page": 18,
+      "validated_value": "114,0%"
+    },
+    {
+      "column_index": 9,
+      "confidence": "high",
+      "reason": "Value '97,6%' for General Accident under '2022 Estimated ultimate loss ratio' matches the value on page 18.",
+      "round2_value": "97,6%",
+      "row_index": 1,
+      "source_pdf_page": 18,
+      "validated_value": "97,6%"
+    },
+    {
+      "column_index": 0,
+      "confidence": "high",
+      "reason": "Row value 'Motor' matches the row label on page 18.",
+      "round2_value": "Motor",
+      "row_index": 2,
+      "source_pdf_page": 18,
+      "validated_value": "Motor"
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "Value '217.859' for Motor under 'Claims Paid (NGN'000)' matches the value on page 18.",
+      "round2_value": "217.859",
+      "row_index": 2,
+      "source_pdf_page": 18,
+      "validated_value": "217.859"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "Value '51.195' for Motor under '2023 Reported Reserves (NGN'000)' matches the value on page 18.",
+      "round2_value": "51.195",
+      "row_index": 2,
+      "source_pdf_page": 18,
+      "validated_value": "51.195"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "Value '48.661' for Motor under 'IBNR (NGN'000)' matches the value on page 18.",
+      "round2_value": "48.661",
+      "row_index": 2,
+      "source_pdf_page": 18,
+      "validated_value": "48.661"
+    },
+    {
+      "column_index": 4,
+      "confidence": "high",
+      "reason": "Value '317.715' for Motor under 'Incurred Claims (N'00)' matches the value on page 18.",
+      "round2_value": "317.715",
+      "row_index": 2,
+      "source_pdf_page": 18,
+      "validated_value": "317.715"
+    },
+    {
+      "column_index": 5,
+      "confidence": "high",
+      "reason": "Value '617.361' for Motor under 'Earned Premium (NGN'00)' matches the value on page 18.",
+      "round2_value": "617.361",
+      "row_index": 2,
+      "source_pdf_page": 18,
+      "validated_value": "617.361"
+    },
+    {
+      "column_index": 6,
+      "confidence": "high",
+      "reason": "Value '51,5%' for Motor under '2023 Estimated loss ratio' matches the value on page 18.",
+      "round2_value": "51,5%",
+      "row_index": 2,
+      "source_pdf_page": 18,
+      "validated_value": "51,5%"
+    },
+    {
+      "column_index": 7,
+      "confidence": "high",
+      "reason": "Value '275.232' for Motor under 'Management and Other expenses' matches the value on page 18.",
+      "round2_value": "275.232",
+      "row_index": 2,
+      "source_pdf_page": 18,
+      "validated_value": "275.232"
+    },
+    {
+      "column_index": 8,
+      "confidence": "high",
+      "reason": "Value '96,0%' for Motor under '2023 Estimated combined ratio' matches the value on page 18.",
+      "round2_value": "96,0%",
+      "row_index": 2,
+      "source_pdf_page": 18,
+      "validated_value": "96,0%"
+    },
+    {
+      "column_index": 9,
+      "confidence": "high",
+      "reason": "Value '102,8%' for Motor under '2022 Estimated ultimate loss ratio' matches the value on page 18.",
+      "round2_value": "102,8%",
+      "row_index": 2,
+      "source_pdf_page": 18,
+      "validated_value": "102,8%"
+    },
+    {
+      "column_index": 0,
+      "confidence": "high",
+      "reason": "Row value 'Aviation' matches the row label on page 18.",
+      "round2_value": "Aviation",
+      "row_index": 3,
+      "source_pdf_page": 18,
+      "validated_value": "Aviation"
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "Value '-' for Aviation under 'Claims Paid (NGN'000)' matches the value on page 18.",
+      "round2_value": "-",
+      "row_index": 3,
+      "source_pdf_page": 18,
+      "validated_value": "-"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "Value '-' for Aviation under '2023 Reported Reserves (NGN'000)' matches the value on page 18.",
+      "round2_value": "-",
+      "row_index": 3,
+      "source_pdf_page": 18,
+      "validated_value": "-"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "Value '-' for Aviation under 'IBNR (NGN'000)' matches the value on page 18.",
+      "round2_value": "-",
+      "row_index": 3,
+      "source_pdf_page": 18,
+      "validated_value": "-"
+    },
+    {
+      "column_index": 4,
+      "confidence": "high",
+      "reason": "Value '-' for Aviation under 'Incurred Claims (N'00)' matches the value on page 18.",
+      "round2_value": "-",
+      "row_index": 3,
+      "source_pdf_page": 18,
+      "validated_value": "-"
+    },
+    {
+      "column_index": 5,
+      "confidence": "high",
+      "reason": "Value '-' for Aviation under 'Earned Premium (NGN'00)' matches the value on page 18.",
+      "round2_value": "-",
+      "row_index": 3,
+      "source_pdf_page": 18,
+      "validated_value": "-"
+    },
+    {
+      "column_index": 6,
+      "confidence": "high",
+      "reason": "Value '0,0%' for Aviation under '2023 Estimated loss ratio' matches the value on page 18.",
+      "round2_value": "0,0%",
+      "row_index": 3,
+      "source_pdf_page": 18,
+      "validated_value": "0,0%"
+    },
+    {
+      "column_index": 7,
+      "confidence": "high",
+      "reason": "Value '-' for Aviation under 'Management and Other expenses' matches the value on page 18.",
+      "round2_value": "-",
+      "row_index": 3,
+      "source_pdf_page": 18,
+      "validated_value": "-"
+    },
+    {
+      "column_index": 8,
+      "confidence": "high",
+      "reason": "Value '0,0%' for Aviation under '2023 Estimated combined ratio' matches the value on page 18.",
+      "round2_value": "0,0%",
+      "row_index": 3,
+      "source_pdf_page": 18,
+      "validated_value": "0,0%"
+    },
+    {
+      "column_index": 9,
+      "confidence": "high",
+      "reason": "Value '0,0%' for Aviation under '2022 Estimated ultimate loss ratio' matches the value on page 18.",
+      "round2_value": "0,0%",
+      "row_index": 3,
+      "source_pdf_page": 18,
+      "validated_value": "0,0%"
+    },
+    {
+      "column_index": 0,
+      "confidence": "high",
+      "reason": "Row value 'Marine' matches the row label on page 18.",
+      "round2_value": "Marine",
+      "row_index": 4,
+      "source_pdf_page": 18,
+      "validated_value": "Marine"
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "Value '83.894' for Marine under 'Claims Paid (NGN'000)' matches the value on page 18.",
+      "round2_value": "83.894",
+      "row_index": 4,
+      "source_pdf_page": 18,
+      "validated_value": "83.894"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "Value '10.335' for Marine under '2023 Reported Reserves (NGN'000)' matches the value on page 18.",
+      "round2_value": "10.335",
+      "row_index": 4,
+      "source_pdf_page": 18,
+      "validated_value": "10.335"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "Value '4.364' for Marine under 'IBNR (NGN'000)' matches the value on page 18.",
+      "round2_value": "4.364",
+      "row_index": 4,
+      "source_pdf_page": 18,
+      "validated_value": "4.364"
+    },
+    {
+      "column_index": 4,
+      "confidence": "high",
+      "reason": "Value '98.592' for Marine under 'Incurred Claims (N'00)' matches the value on page 18.",
+      "round2_value": "98.592",
+      "row_index": 4,
+      "source_pdf_page": 18,
+      "validated_value": "98.592"
+    },
+    {
+      "column_index": 5,
+      "confidence": "high",
+      "reason": "Value '240.081' for Marine under 'Earned Premium (NGN'00)' matches the value on page 18.",
+      "round2_value": "240.081",
+      "row_index": 4,
+      "source_pdf_page": 18,
+      "validated_value": "240.081"
+    },
+    {
+      "column_index": 6,
+      "confidence": "high",
+      "reason": "Value '41,1%' for Marine under '2023 Estimated loss ratio' matches the value on page 18.",
+      "round2_value": "41,1%",
+      "row_index": 4,
+      "source_pdf_page": 18,
+      "validated_value": "41,1%"
+    },
+    {
+      "column_index": 7,
+      "confidence": "high",
+      "reason": "Value '91.006' for Marine under 'Management and Other expenses' matches the value on page 18.",
+      "round2_value": "91.006",
+      "row_index": 4,
+      "source_pdf_page": 18,
+      "validated_value": "91.006"
+    },
+    {
+      "column_index": 8,
+      "confidence": "high",
+      "reason": "Value '79,0%' for Marine under '2023 Estimated combined ratio' matches the value on page 18.",
+      "round2_value": "79,0%",
+      "row_index": 4,
+      "source_pdf_page": 18,
+      "validated_value": "79,0%"
+    },
+    {
+      "column_index": 9,
+      "confidence": "high",
+      "reason": "Value '121,5%' for Marine under '2022 Estimated ultimate loss ratio' matches the value on page 18.",
+      "round2_value": "121,5%",
+      "row_index": 4,
+      "source_pdf_page": 18,
+      "validated_value": "121,5%"
+    },
+    {
+      "column_index": 0,
+      "confidence": "high",
+      "reason": "Row value 'Engineering' matches the row label on page 18.",
+      "round2_value": "Engineering",
+      "row_index": 5,
+      "source_pdf_page": 18,
+      "validated_value": "Engineering"
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "Value '166.005' for Engineering under 'Claims Paid (NGN'000)' matches the value on page 18.",
+      "round2_value": "166.005",
+      "row_index": 5,
+      "source_pdf_page": 18,
+      "validated_value": "166.005"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "Value '62.000' for Engineering under '2023 Reported Reserves (NGN'000)' matches the value on page 18.",
+      "round2_value": "62.000",
+      "row_index": 5,
+      "source_pdf_page": 18,
+      "validated_value": "62.000"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "Value '49.445' for Engineering under 'IBNR (NGN'000)' matches the value on page 18.",
+      "round2_value": "49.445",
+      "row_index": 5,
+      "source_pdf_page": 18,
+      "validated_value": "49.445"
+    },
+    {
+      "column_index": 4,
+      "confidence": "high",
+      "reason": "Value '277.450' for Engineering under 'Incurred Claims (N'00)' matches the value on page 18.",
+      "round2_value": "277.450",
+      "row_index": 5,
+      "source_pdf_page": 18,
+      "validated_value": "277.450"
+    },
+    {
+      "column_index": 5,
+      "confidence": "high",
+      "reason": "Value '352.027' for Engineering under 'Earned Premium (NGN'00)' matches the value on page 18.",
+      "round2_value": "352.027",
+      "row_index": 5,
+      "source_pdf_page": 18,
+      "validated_value": "352.027"
+    },
+    {
+      "column_index": 6,
+      "confidence": "high",
+      "reason": "Value '78,8%' for Engineering under '2023 Estimated loss ratio' matches the value on page 18.",
+      "round2_value": "78,8%",
+      "row_index": 5,
+      "source_pdf_page": 18,
+      "validated_value": "78,8%"
+    },
+    {
+      "column_index": 7,
+      "confidence": "high",
+      "reason": "Value '162.515' for Engineering under 'Management and Other expenses' matches the value on page 18.",
+      "round2_value": "162.515",
+      "row_index": 5,
+      "source_pdf_page": 18,
+      "validated_value": "162.515"
+    },
+    {
+      "column_index": 8,
+      "confidence": "high",
+      "reason": "Value '125,0%' for Engineering under '2023 Estimated combined ratio' matches the value on page 18.",
+      "round2_value": "125,0%",
+      "row_index": 5,
+      "source_pdf_page": 18,
+      "validated_value": "125,0%"
+    },
+    {
+      "column_index": 9,
+      "confidence": "high",
+      "reason": "Value '43,2%' for Engineering under '2022 Estimated ultimate loss ratio' matches the value on page 18.",
+      "round2_value": "43,2%",
+      "row_index": 5,
+      "source_pdf_page": 18,
+      "validated_value": "43,2%"
+    },
+    {
+      "column_index": 0,
+      "confidence": "high",
+      "reason": "Row value 'Bond' matches the row label on page 18.",
+      "round2_value": "Bond",
+      "row_index": 6,
+      "source_pdf_page": 18,
+      "validated_value": "Bond"
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "Value '38.490' for Bond under 'Claims Paid (NGN'000)' matches the value on page 18.",
+      "round2_value": "38.490",
+      "row_index": 6,
+      "source_pdf_page": 18,
+      "validated_value": "38.490"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "Value '10.250' for Bond under '2023 Reported Reserves (NGN'000)' matches the value on page 18.",
+      "round2_value": "10.250",
+      "row_index": 6,
+      "source_pdf_page": 18,
+      "validated_value": "10.250"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "Value '6.045' for Bond under 'IBNR (NGN'000)' matches the value on page 18.",
+      "round2_value": "6.045",
+      "row_index": 6,
+      "source_pdf_page": 18,
+      "validated_value": "6.045"
+    },
+    {
+      "column_index": 4,
+      "confidence": "high",
+      "reason": "Value '54.785' for Bond under 'Incurred Claims (N'00)' matches the value on page 18.",
+      "round2_value": "54.785",
+      "row_index": 6,
+      "source_pdf_page": 18,
+      "validated_value": "54.785"
+    },
+    {
+      "column_index": 5,
+      "confidence": "high",
+      "reason": "Value '237.526' for Bond under 'Earned Premium (NGN'00)' matches the value on page 18.",
+      "round2_value": "237.526",
+      "row_index": 6,
+      "source_pdf_page": 18,
+      "validated_value": "237.526"
+    },
+    {
+      "column_index": 6,
+      "confidence": "high",
+      "reason": "Value '23,1%' for Bond under '2023 Estimated loss ratio' matches the value on page 18.",
+      "round2_value": "23,1%",
+      "row_index": 6,
+      "source_pdf_page": 18,
+      "validated_value": "23,1%"
+    },
+    {
+      "column_index": 7,
+      "confidence": "high",
+      "reason": "Value '141.887' for Bond under 'Management and Other expenses' matches the value on page 18.",
+      "round2_value": "141.887",
+      "row_index": 6,
+      "source_pdf_page": 18,
+      "validated_value": "141.887"
+    },
+    {
+      "column_index": 8,
+      "confidence": "high",
+      "reason": "Value '82,8%' for Bond under '2023 Estimated combined ratio' matches the value on page 18.",
+      "round2_value": "82,8%",
+      "row_index": 6,
+      "source_pdf_page": 18,
+      "validated_value": "82,8%"
+    },
+    {
+      "column_index": 9,
+      "confidence": "high",
+      "reason": "Value '50,3%' for Bond under '2022 Estimated ultimate loss ratio' matches the value on page 18.",
+      "round2_value": "50,3%",
+      "row_index": 6,
+      "source_pdf_page": 18,
+      "validated_value": "50,3%"
+    },
+    {
+      "column_index": 0,
+      "confidence": "high",
+      "reason": "Row value 'Fire' matches the row label on page 18.",
+      "round2_value": "Fire",
+      "row_index": 7,
+      "source_pdf_page": 18,
+      "validated_value": "Fire"
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "Value '299.818' for Fire under 'Claims Paid (NGN'000)' matches the value on page 18.",
+      "round2_value": "299.818",
+      "row_index": 7,
+      "source_pdf_page": 18,
+      "validated_value": "299.818"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "Value '131.914' for Fire under '2023 Reported Reserves (NGN'000)' matches the value on page 18.",
+      "round2_value": "131.914",
+      "row_index": 7,
+      "source_pdf_page": 18,
+      "validated_value": "131.914"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "Value '41.401' for Fire under 'IBNR (NGN'000)' matches the value on page 18.",
+      "round2_value": "41.401",
+      "row_index": 7,
+      "source_pdf_page": 18,
+      "validated_value": "41.401"
+    },
+    {
+      "column_index": 4,
+      "confidence": "high",
+      "reason": "Value '473.133' for Fire under 'Incurred Claims (N'00)' matches the value on page 18.",
+      "round2_value": "473.133",
+      "row_index": 7,
+      "source_pdf_page": 18,
+      "validated_value": "473.133"
+    },
+    {
+      "column_index": 5,
+      "confidence": "high",
+      "reason": "Value '804.912' for Fire under 'Earned Premium (NGN'00)' matches the value on page 18.",
+      "round2_value": "804.912",
+      "row_index": 7,
+      "source_pdf_page": 18,
+      "validated_value": "804.912"
+    },
+    {
+      "column_index": 6,
+      "confidence": "high",
+      "reason": "Value '58,8%' for Fire under '2023 Estimated loss ratio' matches the value on page 18.",
+      "round2_value": "58,8%",
+      "row_index": 7,
+      "source_pdf_page": 18,
+      "validated_value": "58,8%"
+    },
+    {
+      "column_index": 7,
+      "confidence": "high",
+      "reason": "Value '348.055' for Fire under 'Management and Other expenses' matches the value on page 18.",
+      "round2_value": "348.055",
+      "row_index": 7,
+      "source_pdf_page": 18,
+      "validated_value": "348.055"
+    },
+    {
+      "column_index": 8,
+      "confidence": "high",
+      "reason": "Value '102,0%' for Fire under '2023 Estimated combined ratio' matches the value on page 18.",
+      "round2_value": "102,0%",
+      "row_index": 7,
+      "source_pdf_page": 18,
+      "validated_value": "102,0%"
+    },
+    {
+      "column_index": 9,
+      "confidence": "high",
+      "reason": "Value '111,3%' for Fire under '2022 Estimated ultimate loss ratio' matches the value on page 18.",
+      "round2_value": "111,3%",
+      "row_index": 7,
+      "source_pdf_page": 18,
+      "validated_value": "111,3%"
+    },
+    {
+      "column_index": 0,
+      "confidence": "high",
+      "reason": "Row value 'Oil and Gas' matches the row label on page 18.",
+      "round2_value": "Oil and Gas",
+      "row_index": 8,
+      "source_pdf_page": 18,
+      "validated_value": "Oil and Gas"
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "Value '512.349' for Oil and Gas under 'Claims Paid (NGN'000)' matches the value on page 18.",
+      "round2_value": "512.349",
+      "row_index": 8,
+      "source_pdf_page": 18,
+      "validated_value": "512.349"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "Value '12.920' for Oil and Gas under '2023 Reported Reserves (NGN'000)' matches the value on page 18.",
+      "round2_value": "12.920",
+      "row_index": 8,
+      "source_pdf_page": 18,
+      "validated_value": "12.920"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "Value '5.190' for Oil and Gas under 'IBNR (NGN'000)' matches the value on page 18.",
+      "round2_value": "5.190",
+      "row_index": 8,
+      "source_pdf_page": 18,
+      "validated_value": "5.190"
+    },
+    {
+      "column_index": 4,
+      "confidence": "high",
+      "reason": "Value '530.460' for Oil and Gas under 'Incurred Claims (N'00)' matches the value on page 18.",
+      "round2_value": "530.460",
+      "row_index": 8,
+      "source_pdf_page": 18,
+      "validated_value": "530.460"
+    },
+    {
+      "column_index": 5,
+      "confidence": "high",
+      "reason": "Value '1.959.802' for Oil and Gas under 'Earned Premium (NGN'00)' matches the value on page 18.",
+      "round2_value": "1.959.802",
+      "row_index": 8,
+      "source_pdf_page": 18,
+      "validated_value": "1.959.802"
+    },
+    {
+      "column_index": 6,
+      "confidence": "high",
+      "reason": "Value '27,1%' for Oil and Gas under '2023 Estimated loss ratio' matches the value on page 18.",
+      "round2_value": "27,1%",
+      "row_index": 8,
+      "source_pdf_page": 18,
+      "validated_value": "27,1%"
+    },
+    {
+      "column_index": 7,
+      "confidence": "high",
+      "reason": "Value '1.003.959' for Oil and Gas under 'Management and Other expenses' matches the value on page 18.",
+      "round2_value": "1.003.959",
+      "row_index": 8,
+      "source_pdf_page": 18,
+      "validated_value": "1.003.959"
+    },
+    {
+      "column_index": 8,
+      "confidence": "high",
+      "reason": "Value '78,3%' for Oil and Gas under '2023 Estimated combined ratio' matches the value on page 18.",
+      "round2_value": "78,3%",
+      "row_index": 8,
+      "source_pdf_page": 18,
+      "validated_value": "78,3%"
+    },
+    {
+      "column_index": 9,
+      "confidence": "high",
+      "reason": "Value '41,7%' for Oil and Gas under '2022 Estimated ultimate loss ratio' matches the value on page 18.",
+      "round2_value": "41,7%",
+      "row_index": 8,
+      "source_pdf_page": 18,
+      "validated_value": "41,7%"
+    },
+    {
+      "column_index": 0,
+      "confidence": "high",
+      "reason": "Row value 'Agriculture' matches the row label on page 18.",
+      "round2_value": "Agriculture",
+      "row_index": 9,
+      "source_pdf_page": 18,
+      "validated_value": "Agriculture"
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "Value '-' for Agriculture under 'Claims Paid (NGN'000)' matches the value on page 18.",
+      "round2_value": "-",
+      "row_index": 9,
+      "source_pdf_page": 18,
+      "validated_value": "-"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "Value '19.000' for Agriculture under '2023 Reported Reserves (NGN'000)' matches the value on page 18.",
+      "round2_value": "19.000",
+      "row_index": 9,
+      "source_pdf_page": 18,
+      "validated_value": "19.000"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "Value '27.456' for Agriculture under 'IBNR (NGN'000)' matches the value on page 18.",
+      "round2_value": "27.456",
+      "row_index": 9,
+      "source_pdf_page": 18,
+      "validated_value": "27.456"
+    },
+    {
+      "column_index": 4,
+      "confidence": "high",
+      "reason": "Value '46.456' for Agriculture under 'Incurred Claims (N'00)' matches the value on page 18.",
+      "round2_value": "46.456",
+      "row_index": 9,
+      "source_pdf_page": 18,
+      "validated_value": "46.456"
+    },
+    {
+      "column_index": 5,
+      "confidence": "high",
+      "reason": "Value '6.684' for Agriculture under 'Earned Premium (NGN'00)' matches the value on page 18.",
+      "round2_value": "6.684",
+      "row_index": 9,
+      "source_pdf_page": 18,
+      "validated_value": "6.684"
+    },
+    {
+      "column_index": 6,
+      "confidence": "high",
+      "reason": "Value '695,1%' for Agriculture under '2023 Estimated loss ratio' matches the value on page 18.",
+      "round2_value": "695,1%",
+      "row_index": 9,
+      "source_pdf_page": 18,
+      "validated_value": "695,1%"
+    },
+    {
+      "column_index": 7,
+      "confidence": "high",
+      "reason": "Value '2.859' for Agriculture under 'Management and Other expenses' matches the value on page 18.",
+      "round2_value": "2.859",
+      "row_index": 9,
+      "source_pdf_page": 18,
+      "validated_value": "2.859"
+    },
+    {
+      "column_index": 8,
+      "confidence": "high",
+      "reason": "Value '737,9%' for Agriculture under '2023 Estimated combined ratio' matches the value on page 18.",
+      "round2_value": "737,9%",
+      "row_index": 9,
+      "source_pdf_page": 18,
+      "validated_value": "737,9%"
+    },
+    {
+      "column_index": 9,
+      "confidence": "high",
+      "reason": "Value '301,5%' for Agriculture under '2022 Estimated ultimate loss ratio' matches the value on page 18.",
+      "round2_value": "301,5%",
+      "row_index": 9,
+      "source_pdf_page": 18,
+      "validated_value": "301,5%"
+    },
+    {
+      "column_index": 0,
+      "confidence": "high",
+      "reason": "Row value 'Total business' matches the row label on page 18.",
+      "round2_value": "Total business",
+      "row_index": 10,
+      "source_pdf_page": 18,
+      "validated_value": "Total business"
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "Value '1.466.476' for Total business under 'Claims Paid (NGN'000)' matches the value on page 18.",
+      "round2_value": "1.466.476",
+      "row_index": 10,
+      "source_pdf_page": 18,
+      "validated_value": "1.466.476"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "Value '416.058' for Total business under '2023 Reported Reserves (NGN'000)' matches the value on page 18.",
+      "round2_value": "416.058",
+      "row_index": 10,
+      "source_pdf_page": 18,
+      "validated_value": "416.058"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "Value '236.288' for Total business under 'IBNR (NGN'000)' matches the value on page 18.",
+      "round2_value": "236.288",
+      "row_index": 10,
+      "source_pdf_page": 18,
+      "validated_value": "236.288"
+    },
+    {
+      "column_index": 4,
+      "confidence": "high",
+      "reason": "Value '2.118.822' for Total business under 'Incurred Claims (N'00)' matches the value on page 18.",
+      "round2_value": "2.118.822",
+      "row_index": 10,
+      "source_pdf_page": 18,
+      "validated_value": "2.118.822"
+    },
+    {
+      "column_index": 5,
+      "confidence": "high",
+      "reason": "Value '4.639.593' for Total business under 'Earned Premium (NGN'00)' matches the value on page 18.",
+      "round2_value": "4.639.593",
+      "row_index": 10,
+      "source_pdf_page": 18,
+      "validated_value": "4.639.593"
+    },
+    {
+      "column_index": 6,
+      "confidence": "high",
+      "reason": "Value '45,67%' for Total business under '2023 Estimated loss ratio' matches the value on page 18.",
+      "round2_value": "45,67%",
+      "row_index": 10,
+      "source_pdf_page": 18,
+      "validated_value": "45,67%"
+    },
+    {
+      "column_index": 7,
+      "confidence": "high",
+      "reason": "Value '2.185.605' for Total business under 'Management and Other expenses' matches the value on page 18.",
+      "round2_value": "2.185.605",
+      "row_index": 10,
+      "source_pdf_page": 18,
+      "validated_value": "2.185.605"
+    },
+    {
+      "column_index": 8,
+      "confidence": "high",
+      "reason": "Value '92,78%' for Total business under '2023 Estimated combined ratio' matches the value on page 18.",
+      "round2_value": "92,78%",
+      "row_index": 10,
+      "source_pdf_page": 18,
+      "validated_value": "92,78%"
+    },
+    {
+      "column_index": 9,
+      "confidence": "high",
+      "reason": "Value '57,93%' for Total business under '2022 Estimated ultimate loss ratio' matches the value on page 18.",
+      "round2_value": "57,93%",
+      "row_index": 10,
+      "source_pdf_page": 18,
+      "validated_value": "57,93%"
+    }
+  ],
+  "final_headers_raw": [
+    "Class of Insurance",
+    "Claims Paid (NGN'000)",
+    "2023 Reported Reserves (NGN'000)",
+    "IBNR (NGN'000)",
+    "Incurred Claims (N'00)",
+    "Earned Premium (NGN'00)",
+    "2023 Estimated loss ratio",
+    "Management and Other expenses",
+    "2023 Estimated combined ratio",
+    "2022 Estimated ultimate loss ratio"
+  ],
+  "final_normalized_rows": [
+    [
+      "General Accident",
+      148061,
+      118444,
+      53727,
+      320231,
+      421200,
+      76.0,
+      160092,
+      114.0,
+      97.6
+    ],
+    [
+      "Motor",
+      217859,
+      51195,
+      48661,
+      317715,
+      617361,
+      51.5,
+      275232,
+      96.0,
+      102.8
+    ],
+    [
+      "Aviation",
+      null,
+      null,
+      null,
+      null,
+      null,
+      0.0,
+      null,
+      0.0,
+      0.0
+    ],
+    [
+      "Marine",
+      83894,
+      10335,
+      4364,
+      98592,
+      240081,
+      41.1,
+      91006,
+      79.0,
+      121.5
+    ],
+    [
+      "Engineering",
+      166005,
+      62000,
+      49445,
+      277450,
+      352027,
+      78.8,
+      162515,
+      125.0,
+      43.2
+    ],
+    [
+      "Bond",
+      38490,
+      10250,
+      6045,
+      54785,
+      237526,
+      23.1,
+      141887,
+      82.8,
+      50.3
+    ],
+    [
+      "Fire",
+      299818,
+      131914,
+      41401,
+      473133,
+      804912,
+      58.8,
+      348055,
+      102.0,
+      111.3
+    ],
+    [
+      "Oil and Gas",
+      512349,
+      12920,
+      5190,
+      530460,
+      1959802,
+      27.1,
+      1003959,
+      78.3,
+      41.7
+    ],
+    [
+      "Agriculture",
+      null,
+      19000,
+      27456,
+      46456,
+      6684,
+      695.1,
+      2859,
+      737.9,
+      301.5
+    ],
+    [
+      "Total business",
+      1466476,
+      416058,
+      236288,
+      2118822,
+      4639593,
+      45.67,
+      2185605,
+      92.78,
+      57.93
+    ]
+  ],
+  "final_rows_raw": [
+    [
+      "General Accident",
+      "148.061",
+      "118.444",
+      "53.727",
+      "320.231",
+      "421.200",
+      "76,0%",
+      "160.092",
+      "114,0%",
+      "97,6%"
+    ],
+    [
+      "Motor",
+      "217.859",
+      "51.195",
+      "48.661",
+      "317.715",
+      "617.361",
+      "51,5%",
+      "275.232",
+      "96,0%",
+      "102,8%"
+    ],
+    [
+      "Aviation",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "0,0%",
+      "-",
+      "0,0%",
+      "0,0%"
+    ],
+    [
+      "Marine",
+      "83.894",
+      "10.335",
+      "4.364",
+      "98.592",
+      "240.081",
+      "41,1%",
+      "91.006",
+      "79,0%",
+      "121,5%"
+    ],
+    [
+      "Engineering",
+      "166.005",
+      "62.000",
+      "49.445",
+      "277.450",
+      "352.027",
+      "78,8%",
+      "162.515",
+      "125,0%",
+      "43,2%"
+    ],
+    [
+      "Bond",
+      "38.490",
+      "10.250",
+      "6.045",
+      "54.785",
+      "237.526",
+      "23,1%",
+      "141.887",
+      "82,8%",
+      "50,3%"
+    ],
+    [
+      "Fire",
+      "299.818",
+      "131.914",
+      "41.401",
+      "473.133",
+      "804.912",
+      "58,8%",
+      "348.055",
+      "102,0%",
+      "111,3%"
+    ],
+    [
+      "Oil and Gas",
+      "512.349",
+      "12.920",
+      "5.190",
+      "530.460",
+      "1.959.802",
+      "27,1%",
+      "1.003.959",
+      "78,3%",
+      "41,7%"
+    ],
+    [
+      "Agriculture",
+      "-",
+      "19.000",
+      "27.456",
+      "46.456",
+      "6.684",
+      "695,1%",
+      "2.859",
+      "737,9%",
+      "301,5%"
+    ],
+    [
+      "Total business",
+      "1.466.476",
+      "416.058",
+      "236.288",
+      "2.118.822",
+      "4.639.593",
+      "45,67%",
+      "2.185.605",
+      "92,78%",
+      "57,93%"
+    ]
+  ],
+  "final_title_raw": "Ultimate Loss Ratio by class of General Insurance Business",
+  "issues": [],
+  "source_pages": [
+    17,
+    18
+  ],
+  "table_complete": true,
+  "table_id": "T14",
+  "verdict": "corrected"
+}

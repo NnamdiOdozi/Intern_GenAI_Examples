@@ -1,0 +1,175 @@
+{
+  "checks": {
+    "continuation_verified": true,
+    "header_width_consistent": false,
+    "page_citations_verified": true,
+    "row_widths_consistent": true,
+    "totals_status": "not_applicable"
+  },
+  "corrections": [
+    {
+      "column_index": 0,
+      "confidence": "high",
+      "reason": "Header row first cell is empty in image, but provisional extraction has null. However, the header row in the image clearly shows '2021', '2022', '2023' as column headers for the data columns. The provisional extraction missed the first column header 'Year' or similar, and incorrectly repeated the title in columns 1-3. The first column is actually the label column. The header row should be: [null, '2021', '2022', '2023']. The provisional extraction has [null, 'Estimated yield...', 'Estimated yield...', 'Estimated yield...']. This is a major header error.",
+      "round2_value": null,
+      "row_index": 0,
+      "source_pdf_page": 29,
+      "validated_value": null
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "Header cell content is incorrect. Image shows '2021'. Provisional has 'Estimated yield on Non - life fund assets'.",
+      "round2_value": null,
+      "row_index": 0,
+      "source_pdf_page": 29,
+      "validated_value": null
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "Header cell content is incorrect. Image shows '2022'. Provisional has 'Estimated yield on Non - life fund assets'.",
+      "round2_value": null,
+      "row_index": 0,
+      "source_pdf_page": 29,
+      "validated_value": null
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "Header cell content is incorrect. Image shows '2023'. Provisional has 'Estimated yield on Non - life fund assets'.",
+      "round2_value": null,
+      "row_index": 0,
+      "source_pdf_page": 29,
+      "validated_value": null
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "'Actual rate of return from investments' row: Cell value in image is '3.3%'. Provisional extraction has '3.3%'. This is correct.",
+      "round2_value": null,
+      "row_index": 5,
+      "source_pdf_page": 29,
+      "validated_value": null
+    },
+    {
+      "column_index": -1,
+      "confidence": "low",
+      "reason": "The OCR extraction for the last cell in the last row (Expected rate of return for year ending Dec-31-2017) is completely garbled (' , %'). The image shows a value that appears to be a percentage (likely around 13% or similar based on context of other years), but it is not clearly legible due to blurring or printing quality. Cannot resolve without human review.",
+      "round2_value": null,
+      "row_index": 6,
+      "source_pdf_page": 45,
+      "validated_value": null
+    }
+  ],
+  "final_headers_raw": [
+    "Year",
+    "Estimated yield on Non-life fund assets",
+    "Estimated yield on Non-life fund assets",
+    "Estimated yield on Non-life fund assets"
+  ],
+  "final_normalized_rows": [
+    [
+      "Year",
+      "Estimated yield on Non-life fund assets",
+      "Estimated yield on Non-life fund assets",
+      "Estimated yield on Non-life fund assets"
+    ],
+    [
+      "Total investment income plus net gains",
+      161.31,
+      "567.13",
+      "567.13"
+    ],
+    [
+      "Opening asset value",
+      "5.053.99",
+      "4.935.83",
+      "5.835.45"
+    ],
+    [
+      "Closing asset value",
+      "4.935.83",
+      "5.835.45",
+      "5.835.99"
+    ],
+    [
+      "Mean fund",
+      "4.914.25",
+      "5.102.07",
+      "5.552.16"
+    ],
+    [
+      "Actual rate of return from investments",
+      "3%",
+      "11%",
+      "10%"
+    ],
+    [
+      "Expected rate of return from investments",
+      "7%",
+      "9%"
+    ]
+  ],
+  "final_rows_raw": [
+    [
+      "Year",
+      "Estimated yield on Non-life fund assets",
+      "Estimated yield on Non-life fund assets",
+      "Estimated yield on Non-life fund assets"
+    ],
+    [
+      "Total investment income plus net gains",
+      null,
+      null,
+      null
+    ],
+    [
+      "Opening asset value",
+      null,
+      null,
+      null
+    ],
+    [
+      "Closing asset value",
+      null,
+      null,
+      null
+    ],
+    [
+      "Mean fund",
+      null,
+      null,
+      null
+    ],
+    [
+      "Actual rate of return from investments",
+      null,
+      null,
+      null
+    ],
+    [
+      "Expected rate of return from investments",
+      null,
+      null,
+      null
+    ]
+  ],
+  "final_title_raw": "Table X: Estimated Yield on Non-Life Fund Assets (in millions)",
+  "issues": [
+    {
+      "category": "ocr_uncertainty",
+      "confidence": "low",
+      "location": "Row: Expected rate of return from investments; Column: Year ending Dec-31-2017; Reason: Value is illegible due to printing quality/blur.",
+      "materiality": "material",
+      "observation": "The value for Expected rate of return for year ending Dec-31-2017 cannot be determined with high confidence.",
+      "recommended_action": "Human review required to read the value."
+    }
+  ],
+  "source_pages": [
+    45
+  ],
+  "table_complete": false,
+  "table_id": "T_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ ",
+  "verdict": "needs_human_review"
+}

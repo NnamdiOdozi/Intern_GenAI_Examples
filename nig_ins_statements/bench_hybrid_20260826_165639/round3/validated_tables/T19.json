@@ -1,0 +1,92 @@
+{
+  "checks": {
+    "continuation_verified": true,
+    "header_width_consistent": true,
+    "page_citations_verified": true,
+    "row_widths_consistent": true,
+    "totals_status": "not_applicable"
+  },
+  "corrections": [
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misread '1,365,598' as '1365598' \u2014 comma separator missing in provisional extraction.",
+      "round2_value": 1365598,
+      "row_index": 0,
+      "source_pdf_page": 20,
+      "validated_value": 1365598
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread '1,335,423' as '1335423' \u2014 comma separator missing in provisional extraction.",
+      "round2_value": 1335423,
+      "row_index": 0,
+      "source_pdf_page": 20,
+      "validated_value": 1335423
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread '782,216' as '782216' \u2014 comma separator missing in provisional extraction.",
+      "round2_value": 782216,
+      "row_index": 0,
+      "source_pdf_page": 20,
+      "validated_value": 782216
+    },
+    {
+      "column_index": 4,
+      "confidence": "high",
+      "reason": "OCR misread '951,927' as '951927' \u2014 comma separator missing in provisional extraction.",
+      "round2_value": 951927,
+      "row_index": 0,
+      "source_pdf_page": 20,
+      "validated_value": 951927
+    },
+    {
+      "column_index": 5,
+      "confidence": "high",
+      "reason": "OCR misread '2,176,599' as '2176599' \u2014 comma separator missing in provisional extraction.",
+      "round2_value": 2176599,
+      "row_index": 0,
+      "source_pdf_page": 20,
+      "validated_value": 2176599
+    }
+  ],
+  "final_headers_raw": [
+    "NGN'000",
+    "2019",
+    "2020",
+    "2021",
+    "2022",
+    "2023"
+  ],
+  "final_normalized_rows": [
+    [
+      "Gross Technical Best Estimate Liabilities (BEL)",
+      1365598,
+      1335423,
+      782216,
+      951927,
+      2176599
+    ]
+  ],
+  "final_rows_raw": [
+    [
+      "Gross Technical Best Estimate Liabilities (BEL)",
+      "1,365,598",
+      "1,335,423",
+      "782,216",
+      "951,927",
+      "2,176,599"
+    ]
+  ],
+  "final_title_raw": "Solvency level on Balance sheet basis\nTable 11: Trend in Solvency cover in each year 2019 to 2023 statements",
+  "issues": [],
+  "source_pages": [
+    20
+  ],
+  "table_complete": true,
+  "table_id": "T19",
+  "verdict": "corrected"
+}

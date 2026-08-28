@@ -1,0 +1,621 @@
+{
+  "checks": {
+    "continuation_verified": true,
+    "header_width_consistent": true,
+    "page_citations_verified": true,
+    "row_widths_consistent": true,
+    "totals_status": "reconciles"
+  },
+  "corrections": [
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as period; corrected to match image.",
+      "round2_value": "164,197",
+      "row_index": 0,
+      "source_pdf_page": 17,
+      "validated_value": "164.197"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as period; corrected to match image.",
+      "round2_value": "141,124",
+      "row_index": 0,
+      "source_pdf_page": 17,
+      "validated_value": "141.124"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as period; corrected to match image.",
+      "round2_value": "446,475",
+      "row_index": 0,
+      "source_pdf_page": 17,
+      "validated_value": "446.475"
+    },
+    {
+      "column_index": 4,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as period; corrected to match image.",
+      "round2_value": "120,342",
+      "row_index": 0,
+      "source_pdf_page": 17,
+      "validated_value": "120.342"
+    },
+    {
+      "column_index": 5,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as period; corrected to match image.",
+      "round2_value": "148,061",
+      "row_index": 0,
+      "source_pdf_page": 17,
+      "validated_value": "148.061"
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as period; corrected to match image.",
+      "round2_value": "276,391",
+      "row_index": 1,
+      "source_pdf_page": 17,
+      "validated_value": "276.391"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as period; corrected to match image.",
+      "round2_value": "212,814",
+      "row_index": 1,
+      "source_pdf_page": 17,
+      "validated_value": "212.814"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as period; corrected to match image.",
+      "round2_value": "246,817",
+      "row_index": 1,
+      "source_pdf_page": 17,
+      "validated_value": "246.817"
+    },
+    {
+      "column_index": 4,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as period; corrected to match image.",
+      "round2_value": "245,524",
+      "row_index": 1,
+      "source_pdf_page": 17,
+      "validated_value": "245.524"
+    },
+    {
+      "column_index": 5,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as period; corrected to match image.",
+      "round2_value": "217,859",
+      "row_index": 1,
+      "source_pdf_page": 17,
+      "validated_value": "217.859"
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as period; corrected to match image.",
+      "round2_value": "55,318",
+      "row_index": 2,
+      "source_pdf_page": 17,
+      "validated_value": "55.318"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as period; corrected to match image.",
+      "round2_value": "243,452",
+      "row_index": 2,
+      "source_pdf_page": 17,
+      "validated_value": "243.452"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as period; corrected to match image.",
+      "round2_value": "23,512",
+      "row_index": 2,
+      "source_pdf_page": 17,
+      "validated_value": "23.512"
+    },
+    {
+      "column_index": 4,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as period; corrected to match image.",
+      "round2_value": "130,627",
+      "row_index": 2,
+      "source_pdf_page": 17,
+      "validated_value": "130.627"
+    },
+    {
+      "column_index": 5,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as period; corrected to match image.",
+      "round2_value": "83,894",
+      "row_index": 2,
+      "source_pdf_page": 17,
+      "validated_value": "83.894"
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as period; corrected to match image.",
+      "round2_value": "49,614",
+      "row_index": 3,
+      "source_pdf_page": 17,
+      "validated_value": "49.614"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as period; corrected to match image.",
+      "round2_value": "36,403",
+      "row_index": 3,
+      "source_pdf_page": 17,
+      "validated_value": "36.403"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as period; corrected to match image.",
+      "round2_value": "54,716",
+      "row_index": 3,
+      "source_pdf_page": 17,
+      "validated_value": "54.716"
+    },
+    {
+      "column_index": 4,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as period; corrected to match image.",
+      "round2_value": "23,985",
+      "row_index": 3,
+      "source_pdf_page": 17,
+      "validated_value": "23.985"
+    },
+    {
+      "column_index": 5,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as period; corrected to match image.",
+      "round2_value": "166,005",
+      "row_index": 3,
+      "source_pdf_page": 17,
+      "validated_value": "166.005"
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as period; corrected to match image.",
+      "round2_value": "1,172",
+      "row_index": 4,
+      "source_pdf_page": 17,
+      "validated_value": "1.172"
+    },
+    {
+      "column_index": 4,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as period; corrected to match image.",
+      "round2_value": "24,950",
+      "row_index": 4,
+      "source_pdf_page": 17,
+      "validated_value": "24.950"
+    },
+    {
+      "column_index": 5,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as period; corrected to match image.",
+      "round2_value": "38,490",
+      "row_index": 4,
+      "source_pdf_page": 17,
+      "validated_value": "38.490"
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as period; corrected to match image.",
+      "round2_value": "717,698",
+      "row_index": 5,
+      "source_pdf_page": 17,
+      "validated_value": "717.698"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as period; corrected to match image.",
+      "round2_value": "461,244",
+      "row_index": 5,
+      "source_pdf_page": 17,
+      "validated_value": "461.244"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as period; corrected to match image.",
+      "round2_value": "254,864",
+      "row_index": 5,
+      "source_pdf_page": 17,
+      "validated_value": "254.864"
+    },
+    {
+      "column_index": 4,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as period; corrected to match image.",
+      "round2_value": "340,051",
+      "row_index": 5,
+      "source_pdf_page": 17,
+      "validated_value": "340.051"
+    },
+    {
+      "column_index": 5,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as period; corrected to match image.",
+      "round2_value": "299,818",
+      "row_index": 5,
+      "source_pdf_page": 17,
+      "validated_value": "299.818"
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as period; corrected to match image.",
+      "round2_value": "160,850",
+      "row_index": 6,
+      "source_pdf_page": 17,
+      "validated_value": "160.850"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as period; corrected to match image.",
+      "round2_value": "734,060",
+      "row_index": 6,
+      "source_pdf_page": 17,
+      "validated_value": "734.060"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as period; corrected to match image.",
+      "round2_value": "273,400",
+      "row_index": 6,
+      "source_pdf_page": 17,
+      "validated_value": "273.400"
+    },
+    {
+      "column_index": 4,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as period; corrected to match image.",
+      "round2_value": "45,500",
+      "row_index": 6,
+      "source_pdf_page": 17,
+      "validated_value": "45.500"
+    },
+    {
+      "column_index": 5,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as period; corrected to match image.",
+      "round2_value": "512,349",
+      "row_index": 6,
+      "source_pdf_page": 17,
+      "validated_value": "512.349"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as period; corrected to match image.",
+      "round2_value": "13,417",
+      "row_index": 7,
+      "source_pdf_page": 17,
+      "validated_value": "13.417"
+    },
+    {
+      "column_index": 4,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as period; corrected to match image.",
+      "round2_value": "94,888",
+      "row_index": 7,
+      "source_pdf_page": 17,
+      "validated_value": "94.888"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread '0' as '-' in Aviation row for 2020; corrected to match image.",
+      "round2_value": "-",
+      "row_index": 8,
+      "source_pdf_page": 17,
+      "validated_value": "0"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread '0' as '-' in Aviation row for 2021; corrected to match image.",
+      "round2_value": "-",
+      "row_index": 8,
+      "source_pdf_page": 17,
+      "validated_value": "0"
+    },
+    {
+      "column_index": 4,
+      "confidence": "high",
+      "reason": "OCR misread '0' as '-' in Aviation row for 2022; corrected to match image.",
+      "round2_value": "-",
+      "row_index": 8,
+      "source_pdf_page": 17,
+      "validated_value": "0"
+    },
+    {
+      "column_index": 5,
+      "confidence": "high",
+      "reason": "OCR misread '0,0' as '0,0'; corrected to '0' to match image and context (should be numeric zero).",
+      "round2_value": "0,0",
+      "row_index": 8,
+      "source_pdf_page": 17,
+      "validated_value": "0"
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as period; corrected to match image.",
+      "round2_value": "1,425,239",
+      "row_index": 9,
+      "source_pdf_page": 17,
+      "validated_value": "1.425.239"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as period; corrected to match image.",
+      "round2_value": "1,829,098",
+      "row_index": 9,
+      "source_pdf_page": 17,
+      "validated_value": "1.829.098"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as period; corrected to match image.",
+      "round2_value": "1,313,202",
+      "row_index": 9,
+      "source_pdf_page": 17,
+      "validated_value": "1.313.202"
+    },
+    {
+      "column_index": 4,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as period; corrected to match image.",
+      "round2_value": "1,025,865",
+      "row_index": 9,
+      "source_pdf_page": 17,
+      "validated_value": "1.025.865"
+    },
+    {
+      "column_index": 5,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as period; corrected to match image.",
+      "round2_value": "1,466,476",
+      "row_index": 9,
+      "source_pdf_page": 17,
+      "validated_value": "1.466.476"
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as period; corrected to match image.",
+      "round2_value": "48,981",
+      "row_index": 10,
+      "source_pdf_page": 17,
+      "validated_value": "48.981"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as period; corrected to match image.",
+      "round2_value": "659,347",
+      "row_index": 10,
+      "source_pdf_page": 17,
+      "validated_value": "659.347"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as period; corrected to match image.",
+      "round2_value": "340,230",
+      "row_index": 10,
+      "source_pdf_page": 17,
+      "validated_value": "340.230"
+    },
+    {
+      "column_index": 4,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as period; corrected to match image.",
+      "round2_value": "415,449",
+      "row_index": 10,
+      "source_pdf_page": 17,
+      "validated_value": "415.449"
+    },
+    {
+      "column_index": 5,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as period; corrected to match image.",
+      "round2_value": "484,170",
+      "row_index": 10,
+      "source_pdf_page": 17,
+      "validated_value": "484.170"
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as period; corrected to match image.",
+      "round2_value": "1,376,258",
+      "row_index": 11,
+      "source_pdf_page": 17,
+      "validated_value": "1.376.258"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as period; corrected to match image.",
+      "round2_value": "1,169,751",
+      "row_index": 11,
+      "source_pdf_page": 17,
+      "validated_value": "1.169.751"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as period; corrected to match image.",
+      "round2_value": "972,972",
+      "row_index": 11,
+      "source_pdf_page": 17,
+      "validated_value": "972.972"
+    },
+    {
+      "column_index": 4,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as period; corrected to match image.",
+      "round2_value": "610,416",
+      "row_index": 11,
+      "source_pdf_page": 17,
+      "validated_value": "610.416"
+    },
+    {
+      "column_index": 5,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as period; corrected to match image.",
+      "round2_value": "982,306",
+      "row_index": 11,
+      "source_pdf_page": 17,
+      "validated_value": "982.306"
+    }
+  ],
+  "final_headers_raw": [
+    "(NGN'000)",
+    "2019",
+    "2020",
+    "2021",
+    "2022",
+    "2023"
+  ],
+  "final_normalized_rows": [],
+  "final_rows_raw": [
+    [
+      "General Accident",
+      "164.197",
+      "141.124",
+      "446.475",
+      "120.342",
+      "148.061"
+    ],
+    [
+      "Motor",
+      "276.391",
+      "212.814",
+      "246.817",
+      "245.524",
+      "217.859"
+    ],
+    [
+      "Marine",
+      "55.318",
+      "243.452",
+      "23.512",
+      "130.627",
+      "83.894"
+    ],
+    [
+      "Engineering",
+      "49.614",
+      "36.403",
+      "54.716",
+      "23.985",
+      "166.005"
+    ],
+    [
+      "Bond",
+      "1.172",
+      "-",
+      "-",
+      "24.950",
+      "38.490"
+    ],
+    [
+      "Fire",
+      "717.698",
+      "461.244",
+      "254.864",
+      "340.051",
+      "299.818"
+    ],
+    [
+      "Oil & Gas",
+      "160.850",
+      "734.060",
+      "273.400",
+      "45.500",
+      "512.349"
+    ],
+    [
+      "AGRIC",
+      "-",
+      "-",
+      "13.417",
+      "94.888",
+      "-"
+    ],
+    [
+      "Aviation",
+      "-",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    [
+      "Total gross*",
+      "1.425.239",
+      "1.829.098",
+      "1.313.202",
+      "1.025.865",
+      "1.466.476"
+    ],
+    [
+      "Less reinsurance recoveries",
+      "48.981",
+      "659.347",
+      "340.230",
+      "415.449",
+      "484.170"
+    ],
+    [
+      "Total net claims paid",
+      "1.376.258",
+      "1.169.751",
+      "972.972",
+      "610.416",
+      "982.306"
+    ],
+    [
+      "Reinsurer's share of paid claims",
+      "3%",
+      "36%",
+      "26%",
+      "40%",
+      "33%"
+    ]
+  ],
+  "final_title_raw": "General insurance claims paid",
+  "issues": [],
+  "source_pages": [
+    16,
+    17
+  ],
+  "table_complete": true,
+  "table_id": "T13",
+  "verdict": "corrected"
+}

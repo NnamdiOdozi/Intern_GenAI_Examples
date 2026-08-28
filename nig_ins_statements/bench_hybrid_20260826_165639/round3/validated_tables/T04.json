@@ -1,0 +1,256 @@
+{
+  "checks": {
+    "continuation_verified": true,
+    "header_width_consistent": true,
+    "page_citations_verified": true,
+    "row_widths_consistent": true,
+    "totals_status": "reconciles"
+  },
+  "corrections": [
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as comma; corrected '1.737' to '1737' for Engineering 2020",
+      "round2_value": 1737,
+      "row_index": 4,
+      "source_pdf_page": 9,
+      "validated_value": 1737
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as comma; corrected '13.787' to '13787' for Oil & Gas 2021",
+      "round2_value": 13787,
+      "row_index": 7,
+      "source_pdf_page": 9,
+      "validated_value": 13787
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as comma; corrected '16.659' to '16659' for Oil & Gas 2022",
+      "round2_value": 16659,
+      "row_index": 7,
+      "source_pdf_page": 9,
+      "validated_value": 16659
+    },
+    {
+      "column_index": 4,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as comma; corrected '20.460' to '20460' for Oil & Gas 2023",
+      "round2_value": 20460,
+      "row_index": 7,
+      "source_pdf_page": 9,
+      "validated_value": 20460
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as comma; corrected '21.127' to '21127' for Agriculture 2021",
+      "round2_value": 21127,
+      "row_index": 8,
+      "source_pdf_page": 9,
+      "validated_value": 21127
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as comma; corrected '5.438' to '5438' for Agriculture 2022",
+      "round2_value": 5438,
+      "row_index": 8,
+      "source_pdf_page": 9,
+      "validated_value": 5438
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as comma; corrected '1.006' to '1006' for Engineering 2022",
+      "round2_value": 1006,
+      "row_index": 4,
+      "source_pdf_page": 9,
+      "validated_value": 1006
+    },
+    {
+      "column_index": 4,
+      "confidence": "high",
+      "reason": "OCR misread decimal point as comma; corrected '1.422' to '1422' for Engineering 2023",
+      "round2_value": 1422,
+      "row_index": 4,
+      "source_pdf_page": 9,
+      "validated_value": 1422
+    }
+  ],
+  "final_headers_raw": [
+    "Average Premium (NGN'000)",
+    "2020",
+    "2021",
+    "2022",
+    "2023"
+  ],
+  "final_normalized_rows": [
+    [
+      "General Accident",
+      388,
+      353,
+      315,
+      377
+    ],
+    [
+      "Motor",
+      298,
+      187,
+      224,
+      301
+    ],
+    [
+      "Marine",
+      660,
+      448,
+      365,
+      339
+    ],
+    [
+      "Engineering",
+      1737,
+      906,
+      1006,
+      1422
+    ],
+    [
+      "Bonds",
+      114,
+      88,
+      134,
+      219
+    ],
+    [
+      "Fire",
+      620,
+      439,
+      512,
+      589
+    ],
+    [
+      "Oil & Gas",
+      30814,
+      13787,
+      16659,
+      20460
+    ],
+    [
+      "Agriculture",
+      null,
+      21127,
+      5438,
+      913
+    ],
+    [
+      "Aviation",
+      null,
+      null,
+      227,
+      599
+    ],
+    [
+      "Total",
+      643,
+      471,
+      510,
+      680
+    ],
+    [
+      "",
+      0.68,
+      -0.27,
+      0.08,
+      0.33
+    ]
+  ],
+  "final_rows_raw": [
+    [
+      "General Accident",
+      "388",
+      "353",
+      "315",
+      "377"
+    ],
+    [
+      "Motor",
+      "298",
+      "187",
+      "224",
+      "301"
+    ],
+    [
+      "Marine",
+      "660",
+      "448",
+      "365",
+      "339"
+    ],
+    [
+      "Engineering",
+      "1,737",
+      "906",
+      "1,006",
+      "1,422"
+    ],
+    [
+      "Bonds",
+      "114",
+      "88",
+      "134",
+      "219"
+    ],
+    [
+      "Fire",
+      "620",
+      "439",
+      "512",
+      "589"
+    ],
+    [
+      "Oil & Gas",
+      "30,814",
+      "13,787",
+      "16,659",
+      "20,460"
+    ],
+    [
+      "Agriculture",
+      "-",
+      "21,127",
+      "5,438",
+      "913"
+    ],
+    [
+      "Aviation",
+      "-",
+      "-",
+      "227",
+      "599"
+    ],
+    [
+      "Total",
+      "643",
+      "471",
+      "510",
+      "680"
+    ],
+    [
+      "",
+      "68%",
+      "-27%",
+      "8%",
+      "33%"
+    ]
+  ],
+  "final_title_raw": "Average Premium (NGN'000)",
+  "issues": [],
+  "source_pages": [
+    9
+  ],
+  "table_complete": true,
+  "table_id": "T04",
+  "verdict": "corrected"
+}

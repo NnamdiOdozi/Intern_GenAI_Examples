@@ -1,0 +1,505 @@
+{
+  "checks": {
+    "continuation_verified": true,
+    "header_width_consistent": true,
+    "page_citations_verified": true,
+    "row_widths_consistent": true,
+    "totals_status": "not_applicable"
+  },
+  "corrections": [
+    {
+      "column_index": 0,
+      "confidence": "high",
+      "reason": "OCR misread '384,384' as '384384' \u2014 comma missing in provisional extraction.",
+      "round2_value": "384,384",
+      "row_index": 0,
+      "source_pdf_page": 21,
+      "validated_value": "384,384"
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misread '422,121' as '422121' \u2014 comma missing in provisional extraction.",
+      "round2_value": "422,121",
+      "row_index": 0,
+      "source_pdf_page": 21,
+      "validated_value": "422,121"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread '635,095' as '635095' \u2014 comma missing in provisional extraction.",
+      "round2_value": "635,095",
+      "row_index": 0,
+      "source_pdf_page": 21,
+      "validated_value": "635,095"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread '517,849' as '517849' \u2014 comma missing in provisional extraction.",
+      "round2_value": "517,849",
+      "row_index": 0,
+      "source_pdf_page": 21,
+      "validated_value": "517,849"
+    },
+    {
+      "column_index": 4,
+      "confidence": "high",
+      "reason": "OCR misread '585,692' as '585692' \u2014 comma missing in provisional extraction.",
+      "round2_value": "585,692",
+      "row_index": 0,
+      "source_pdf_page": 21,
+      "validated_value": "585,692"
+    },
+    {
+      "column_index": 0,
+      "confidence": "high",
+      "reason": "OCR misread '1,749,982' as '1749982' \u2014 commas missing in provisional extraction.",
+      "round2_value": "1,749,982",
+      "row_index": 1,
+      "source_pdf_page": 21,
+      "validated_value": "1,749,982"
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misread '1,757,545' as '1757545' \u2014 commas missing in provisional extraction.",
+      "round2_value": "1,757,545",
+      "row_index": 1,
+      "source_pdf_page": 21,
+      "validated_value": "1,757,545"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread '1,417,311' as '1417311' \u2014 commas missing in provisional extraction.",
+      "round2_value": "1,417,311",
+      "row_index": 1,
+      "source_pdf_page": 21,
+      "validated_value": "1,417,311"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread '1,469,776' as '1469776' \u2014 commas missing in provisional extraction.",
+      "round2_value": "1,469,776",
+      "row_index": 1,
+      "source_pdf_page": 21,
+      "validated_value": "1,469,776"
+    },
+    {
+      "column_index": 4,
+      "confidence": "high",
+      "reason": "OCR misread '2,762,292' as '2762292' \u2014 commas missing in provisional extraction.",
+      "round2_value": "2,762,292",
+      "row_index": 1,
+      "source_pdf_page": 21,
+      "validated_value": "2,762,292"
+    },
+    {
+      "column_index": 0,
+      "confidence": "high",
+      "reason": "OCR misread '5,889,750' as '5889750' \u2014 commas missing in provisional extraction.",
+      "round2_value": "5,889,750",
+      "row_index": 2,
+      "source_pdf_page": 21,
+      "validated_value": "5,889,750"
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misread '5,745,687' as '5745687' \u2014 commas missing in provisional extraction.",
+      "round2_value": "5,745,687",
+      "row_index": 2,
+      "source_pdf_page": 21,
+      "validated_value": "5,745,687"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread '4,881,036' as '4881036' \u2014 commas missing in provisional extraction.",
+      "round2_value": "4,881,036",
+      "row_index": 2,
+      "source_pdf_page": 21,
+      "validated_value": "4,881,036"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread '5,428,290' as '5428290' \u2014 commas missing in provisional extraction.",
+      "round2_value": "5,428,290",
+      "row_index": 2,
+      "source_pdf_page": 21,
+      "validated_value": "5,428,290"
+    },
+    {
+      "column_index": 4,
+      "confidence": "high",
+      "reason": "OCR misread '7,109,012' as '7109012' \u2014 commas missing in provisional extraction.",
+      "round2_value": "7,109,012",
+      "row_index": 2,
+      "source_pdf_page": 21,
+      "validated_value": "7,109,012"
+    },
+    {
+      "column_index": 0,
+      "confidence": "high",
+      "reason": "OCR misread '4,139,768' as '4139768' \u2014 commas missing in provisional extraction.",
+      "round2_value": "4,139,768",
+      "row_index": 3,
+      "source_pdf_page": 21,
+      "validated_value": "4,139,768"
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misread '3,988,143' as '3988143' \u2014 commas missing in provisional extraction.",
+      "round2_value": "3,988,143",
+      "row_index": 3,
+      "source_pdf_page": 21,
+      "validated_value": "3,988,143"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread '3,463,725' as '3463725' \u2014 commas missing in provisional extraction.",
+      "round2_value": "3,463,725",
+      "row_index": 3,
+      "source_pdf_page": 21,
+      "validated_value": "3,463,725"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread '3,958,514' as '3958514' \u2014 commas missing in provisional extraction.",
+      "round2_value": "3,958,514",
+      "row_index": 3,
+      "source_pdf_page": 21,
+      "validated_value": "3,958,514"
+    },
+    {
+      "column_index": 4,
+      "confidence": "high",
+      "reason": "OCR misread '4,346,721' as '4346721' \u2014 commas missing in provisional extraction.",
+      "round2_value": "4,346,721",
+      "row_index": 3,
+      "source_pdf_page": 21,
+      "validated_value": "4,346,721"
+    },
+    {
+      "column_index": 0,
+      "confidence": "high",
+      "reason": "OCR misread '3,325,715' as '3325715' \u2014 commas missing in provisional extraction.",
+      "round2_value": "3,325,715",
+      "row_index": 4,
+      "source_pdf_page": 21,
+      "validated_value": "3,325,715"
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misread '3,209,116' as '3209116' \u2014 commas missing in provisional extraction.",
+      "round2_value": "3,209,116",
+      "row_index": 4,
+      "source_pdf_page": 21,
+      "validated_value": "3,209,116"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread '3,404,340' as '3404340' \u2014 commas missing in provisional extraction.",
+      "round2_value": "3,404,340",
+      "row_index": 4,
+      "source_pdf_page": 21,
+      "validated_value": "3,404,340"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread '3,448,968' as '3448968' \u2014 commas missing in provisional extraction.",
+      "round2_value": "3,448,968",
+      "row_index": 4,
+      "source_pdf_page": 21,
+      "validated_value": "3,448,968"
+    },
+    {
+      "column_index": 4,
+      "confidence": "high",
+      "reason": "OCR misread '4,254,964' as '4254964' \u2014 commas missing in provisional extraction.",
+      "round2_value": "4,254,964",
+      "row_index": 4,
+      "source_pdf_page": 21,
+      "validated_value": "4,254,964"
+    },
+    {
+      "column_index": 0,
+      "confidence": "high",
+      "reason": "OCR misread '3,000,000' as '3000000' \u2014 commas missing in provisional extraction.",
+      "round2_value": "3,000,000",
+      "row_index": 5,
+      "source_pdf_page": 21,
+      "validated_value": "3,000,000"
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misread '3,000,000' as '3000000' \u2014 commas missing in provisional extraction.",
+      "round2_value": "3,000,000",
+      "row_index": 5,
+      "source_pdf_page": 21,
+      "validated_value": "3,000,000"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread '3,000,000' as '3000000' \u2014 commas missing in provisional extraction.",
+      "round2_value": "3,000,000",
+      "row_index": 5,
+      "source_pdf_page": 21,
+      "validated_value": "3,000,000"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread '3,000,000' as '3000000' \u2014 commas missing in provisional extraction.",
+      "round2_value": "3,000,000",
+      "row_index": 5,
+      "source_pdf_page": 21,
+      "validated_value": "3,000,000"
+    },
+    {
+      "column_index": 4,
+      "confidence": "high",
+      "reason": "OCR misread '3,000,000' as '3000000' \u2014 commas missing in provisional extraction.",
+      "round2_value": "3,000,000",
+      "row_index": 5,
+      "source_pdf_page": 21,
+      "validated_value": "3,000,000"
+    },
+    {
+      "column_index": 0,
+      "confidence": "high",
+      "reason": "OCR misread '3,000,000' as '3000000' \u2014 commas missing in provisional extraction.",
+      "round2_value": "3,000,000",
+      "row_index": 6,
+      "source_pdf_page": 21,
+      "validated_value": "3,000,000"
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misread '3,000,000' as '3000000' \u2014 commas missing in provisional extraction.",
+      "round2_value": "3,000,000",
+      "row_index": 6,
+      "source_pdf_page": 21,
+      "validated_value": "3,000,000"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread '3,000,000' as '3000000' \u2014 commas missing in provisional extraction.",
+      "round2_value": "3,000,000",
+      "row_index": 6,
+      "source_pdf_page": 21,
+      "validated_value": "3,000,000"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread '3,000,000' as '3000000' \u2014 commas missing in provisional extraction.",
+      "round2_value": "3,000,000",
+      "row_index": 6,
+      "source_pdf_page": 21,
+      "validated_value": "3,000,000"
+    },
+    {
+      "column_index": 4,
+      "confidence": "high",
+      "reason": "OCR misread '3,000,000' as '3000000' \u2014 commas missing in provisional extraction.",
+      "round2_value": "3,000,000",
+      "row_index": 6,
+      "source_pdf_page": 21,
+      "validated_value": "3,000,000"
+    },
+    {
+      "column_index": 0,
+      "confidence": "high",
+      "reason": "OCR misread '137.99%' as '1.3799' \u2014 decimal point and percent sign misplaced in provisional extraction.",
+      "round2_value": "137.99%",
+      "row_index": 7,
+      "source_pdf_page": 21,
+      "validated_value": "137.99%"
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misread '132.94%' as '1.3294' \u2014 decimal point and percent sign misplaced in provisional extraction.",
+      "round2_value": "132.94%",
+      "row_index": 7,
+      "source_pdf_page": 21,
+      "validated_value": "132.94%"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread '115.46%' as '1.1546' \u2014 decimal point and percent sign misplaced in provisional extraction.",
+      "round2_value": "115.46%",
+      "row_index": 7,
+      "source_pdf_page": 21,
+      "validated_value": "115.46%"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread '131.95%' as '1.3195' \u2014 decimal point and percent sign misplaced in provisional extraction.",
+      "round2_value": "131.95%",
+      "row_index": 7,
+      "source_pdf_page": 21,
+      "validated_value": "131.95%"
+    },
+    {
+      "column_index": 4,
+      "confidence": "high",
+      "reason": "OCR misread '144.89%' as '1.4489' \u2014 decimal point and percent sign misplaced in provisional extraction.",
+      "round2_value": "144.89%",
+      "row_index": 7,
+      "source_pdf_page": 21,
+      "validated_value": "144.89%"
+    }
+  ],
+  "final_headers_raw": [
+    "Other Admissible Liabilities",
+    "Gross Admissible liabilities",
+    "Admissible Assets",
+    "Net total Admissible Assets",
+    "Net written Premium",
+    "Required Paid-up Capital for Non-life",
+    "Required minimum solvency margin Capital cover for non-life",
+    "Solvency margin capital Cover ratio"
+  ],
+  "final_normalized_rows": [
+    [
+      384384,
+      422121,
+      635095,
+      517849,
+      585692
+    ],
+    [
+      1749982,
+      1757545,
+      1417311,
+      1469776,
+      2762292
+    ],
+    [
+      5889750,
+      5745687,
+      4881036,
+      5428290,
+      7109012
+    ],
+    [
+      4139768,
+      3988143,
+      3463725,
+      3958514,
+      4346721
+    ],
+    [
+      3325715,
+      3209116,
+      3404340,
+      3448968,
+      4254964
+    ],
+    [
+      3000000,
+      3000000,
+      3000000,
+      3000000,
+      3000000
+    ],
+    [
+      3000000,
+      3000000,
+      3000000,
+      3000000,
+      3000000
+    ],
+    [
+      1.3799,
+      1.3294,
+      1.1546,
+      1.3195,
+      1.4489
+    ]
+  ],
+  "final_rows_raw": [
+    [
+      "384,384",
+      "422,121",
+      "635,095",
+      "517,849",
+      "585,692"
+    ],
+    [
+      "1,749,982",
+      "1,757,545",
+      "1,417,311",
+      "1,469,776",
+      "2,762,292"
+    ],
+    [
+      "5,889,750",
+      "5,745,687",
+      "4,881,036",
+      "5,428,290",
+      "7,109,012"
+    ],
+    [
+      "4,139,768",
+      "3,988,143",
+      "3,463,725",
+      "3,958,514",
+      "4,346,721"
+    ],
+    [
+      "3,325,715",
+      "3,209,116",
+      "3,404,340",
+      "3,448,968",
+      "4,254,964"
+    ],
+    [
+      "3,000,000",
+      "3,000,000",
+      "3,000,000",
+      "3,000,000",
+      "3,000,000"
+    ],
+    [
+      "3,000,000",
+      "3,000,000",
+      "3,000,000",
+      "3,000,000",
+      "3,000,000"
+    ],
+    [
+      "137.99%",
+      "132.94%",
+      "115.46%",
+      "131.95%",
+      "144.89%"
+    ]
+  ],
+  "final_title_raw": "Other Admissible Liabilities to Solvency margin capital Cover ratio (implied title from content)",
+  "issues": [],
+  "source_pages": [
+    21
+  ],
+  "table_complete": true,
+  "table_id": "T20",
+  "verdict": "corrected"
+}

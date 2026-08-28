@@ -1,0 +1,28 @@
+{
+  "cell_flags": [],
+  "concerns": [],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "footnotes_raw": [],
+  "headers_raw": [
+    "NGN'000",
+    "2021",
+    "2022",
+    "2023",
+    "Percentage change",
+    "Change in total incurred claims."
+  ],
+  "normalized_rows": [],
+  "pages_seen": [
+    20
+  ],
+  "rows_raw": [],
+  "source_pages": [],
+  "table_complete": true,
+  "table_id": "T18",
+  "table_number_raw": "Table 10",
+  "title_raw": "Accident Year 2023 as reported Source: Valuation Report",
+  "units_raw": "NGN'000",
+  "_header_width": 6,
+  "_row_width": 0
+}

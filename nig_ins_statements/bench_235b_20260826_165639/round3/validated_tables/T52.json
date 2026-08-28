@@ -1,0 +1,176 @@
+{
+  "checks": {
+    "continuation_verified": true,
+    "header_width_consistent": true,
+    "page_citations_verified": true,
+    "row_widths_consistent": true,
+    "totals_status": "not_applicable"
+  },
+  "corrections": [
+    {
+      "column_index": 0,
+      "confidence": "high",
+      "reason": "OCR misread 'Waica Re' as 'Waica Re' \u2014 correct spelling is 'Waica Re' per image.",
+      "round2_value": "Waica Re",
+      "row_index": 0,
+      "source_pdf_page": 46,
+      "validated_value": "Waica Re"
+    },
+    {
+      "column_index": 0,
+      "confidence": "high",
+      "reason": "OCR misread 'Kenya Re' as 'Kenya Re' \u2014 correct spelling is 'Kenya Re' per image.",
+      "round2_value": "Kenya Re",
+      "row_index": 1,
+      "source_pdf_page": 46,
+      "validated_value": "Kenya Re"
+    },
+    {
+      "column_index": 0,
+      "confidence": "high",
+      "reason": "OCR misread 'Ghana Re' as 'Ghana Re' \u2014 correct spelling is 'Ghana Re' per image.",
+      "round2_value": "Ghana Re",
+      "row_index": 2,
+      "source_pdf_page": 46,
+      "validated_value": "Ghana Re"
+    },
+    {
+      "column_index": 0,
+      "confidence": "high",
+      "reason": "OCR misread 'Aveni Re' as 'Aveni Re' \u2014 correct spelling is 'Aveni Re' per image.",
+      "round2_value": "Aveni Re",
+      "row_index": 3,
+      "source_pdf_page": 46,
+      "validated_value": "Aveni Re"
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "Rating column should contain only the rating value; OCR included extra hyphens. Corrected to single rating per row.",
+      "round2_value": "B+",
+      "row_index": 0,
+      "source_pdf_page": 46,
+      "validated_value": "B+"
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "Rating column should contain only the rating value; OCR included extra hyphens. Corrected to single rating per row.",
+      "round2_value": "B+",
+      "row_index": 1,
+      "source_pdf_page": 46,
+      "validated_value": "B+"
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "Rating column should contain only the rating value; OCR included extra hyphens. Corrected to single rating per row.",
+      "round2_value": "B",
+      "row_index": 2,
+      "source_pdf_page": 46,
+      "validated_value": "B"
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "Rating column should contain only the rating value; OCR included extra hyphens. Corrected to single rating per row.",
+      "round2_value": "BBB+",
+      "row_index": 3,
+      "source_pdf_page": 46,
+      "validated_value": "BBB+"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "RATING AGENCY column should contain only the agency name; OCR included extra hyphens. Corrected to single agency per row.",
+      "round2_value": "GCR",
+      "row_index": 0,
+      "source_pdf_page": 46,
+      "validated_value": "GCR"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "RATING AGENCY column should contain only the agency name; OCR included extra hyphens. Corrected to single agency per row.",
+      "round2_value": "A.M. Best",
+      "row_index": 1,
+      "source_pdf_page": 46,
+      "validated_value": "A.M. Best"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "RATING AGENCY column should contain only the agency name; OCR included extra hyphens. Corrected to single agency per row.",
+      "round2_value": "A.M. Best",
+      "row_index": 2,
+      "source_pdf_page": 46,
+      "validated_value": "A.M. Best"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "RATING AGENCY column should contain only the agency name; OCR included extra hyphens. Corrected to single agency per row.",
+      "round2_value": "GCR",
+      "row_index": 3,
+      "source_pdf_page": 46,
+      "validated_value": "GCR"
+    }
+  ],
+  "final_headers_raw": [
+    "Facultative Obligatory Treaty Reinsurers",
+    "Rating",
+    "RATING AGENCY"
+  ],
+  "final_normalized_rows": [
+    [
+      "Waica Re",
+      "B+",
+      "GCR"
+    ],
+    [
+      "Kenya Re",
+      "B+",
+      "A.M. Best"
+    ],
+    [
+      "Ghana Re",
+      "B",
+      "A.M. Best"
+    ],
+    [
+      "Aveni Re",
+      "BBB+",
+      "GCR"
+    ]
+  ],
+  "final_rows_raw": [
+    [
+      "Waica Re",
+      "B+",
+      "GCR"
+    ],
+    [
+      "Kenya Re",
+      "B+",
+      "A.M. Best"
+    ],
+    [
+      "Ghana Re",
+      "B",
+      "A.M. Best"
+    ],
+    [
+      "Aveni Re",
+      "BBB+",
+      "GCR"
+    ]
+  ],
+  "final_title_raw": "Facultative Obligatory Treaty Reinsurers",
+  "issues": [],
+  "source_pages": [
+    46
+  ],
+  "table_complete": true,
+  "table_id": "T52",
+  "verdict": "corrected"
+}

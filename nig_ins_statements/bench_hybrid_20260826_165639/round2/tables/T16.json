@@ -1,0 +1,34 @@
+{
+  "cell_flags": [],
+  "concerns": [],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "footnotes_raw": [],
+  "headers_raw": [
+    "Class of Insurance",
+    "Claims Paid (NGN'000)",
+    "2023 Reported Reserves (NGN'000)",
+    "IBNR (NGN'000)",
+    "Incurred Claims (N'00)",
+    "Earned Premium (NGN'00)",
+    "2023 Estimated loss ratio",
+    "Management and Other expenses",
+    "2023 Estimated combined ratio",
+    "2022 Estimated ultimate loss ratio"
+  ],
+  "normalized_rows": [],
+  "pages_seen": [
+    16,
+    17,
+    18
+  ],
+  "rows_raw": [],
+  "source_pages": [],
+  "table_complete": true,
+  "table_id": "T16",
+  "table_number_raw": "Table 8",
+  "title_raw": "Gross loss ratio by class of general insurance business: 2023 Accident Year",
+  "units_raw": null,
+  "_header_width": 10,
+  "_row_width": 0
+}

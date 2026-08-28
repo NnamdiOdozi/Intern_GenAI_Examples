@@ -1,0 +1,153 @@
+{
+  "cell_flags": [
+    {
+      "candidate_readings": [
+        "2021",
+        "2022",
+        "2023"
+      ],
+      "column_index": 1,
+      "confidence": "high",
+      "inferred_value": null,
+      "normalized_value": null,
+      "printed_value": "2021",
+      "reason": "",
+      "row_index": 0,
+      "source_pdf_page": 29,
+      "status": "printed"
+    },
+    {
+      "candidate_readings": [
+        "2021",
+        "2022",
+        "2023"
+      ],
+      "column_index": 2,
+      "confidence": "high",
+      "inferred_value": null,
+      "normalized_value": null,
+      "printed_value": "2022",
+      "reason": "",
+      "row_index": 0,
+      "source_pdf_page": 29,
+      "status": "printed"
+    },
+    {
+      "candidate_readings": [
+        "2021",
+        "2022",
+        "2023"
+      ],
+      "column_index": 3,
+      "confidence": "high",
+      "inferred_value": null,
+      "normalized_value": null,
+      "printed_value": "2023",
+      "reason": "",
+      "row_index": 0,
+      "source_pdf_page": 29,
+      "status": "printed"
+    }
+  ],
+  "concerns": [],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "footnotes_raw": [],
+  "headers_raw": [
+    null,
+    "Estimated yield on Non - life fund assets",
+    "Estimated yield on Non - life fund assets",
+    "Estimated yield on Non - life fund assets"
+  ],
+  "normalized_rows": [
+    [
+      null,
+      "Estimated yield on Non - life fund assets",
+      "Estimated yield on Non - life fund assets",
+      "Estimated yield on Non - life fund assets"
+    ],
+    [
+      "Total investment income plus net gains",
+      161.312,
+      567.13,
+      567.13
+    ],
+    [
+      "Opening asset value",
+      5053.99,
+      4935.825,
+      5835.454
+    ],
+    [
+      "Closing asset value",
+      4935.825,
+      5835.454,
+      5835.995
+    ],
+    [
+      "Mean fund",
+      4914.252,
+      5102.074,
+      5552.159
+    ],
+    [
+      "Actual rate of return from investments",
+      "3.3%",
+      "11.1%",
+      "10.2%"
+    ],
+    [
+      "Expected rate of return from investments",
+      "6.9%",
+      "9.1%",
+      "13.3%"
+    ]
+  ],
+  "pages_seen": [],
+  "rows_raw": [
+    [
+      "Total investment income plus net gains",
+      "161.312",
+      "567.130",
+      "567.130"
+    ],
+    [
+      "Opening asset value",
+      "5.053.990",
+      "4.935.825",
+      "5.835.454"
+    ],
+    [
+      "Closing asset value",
+      "4.935.825",
+      "5.835.454",
+      "5.835.995"
+    ],
+    [
+      "Mean fund",
+      "4.914.252",
+      "5.102.074",
+      "5.552.159"
+    ],
+    [
+      "Actual rate of return from investments",
+      "3,3%",
+      "11,1%",
+      "10,2%"
+    ],
+    [
+      "Expected rate of return from investments",
+      "6,9% ",
+      "9 , 1 % ",
+      "  , %"
+    ]
+  ],
+  "source_pages": [],
+  "table_complete": true,
+  "table_id": "T_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ ",
+  "table_number_raw": "Table 17: Estimated yield on Non - life fund assets",
+  "title_raw": "Table 17: Estimated yield on Non - life fund assets",
+  "units_raw": "not stated (likely NGN)",
+  "_header_width": 4,
+  "_row_width": 4
+}

@@ -1,0 +1,612 @@
+{
+  "checks": {
+    "continuation_verified": true,
+    "header_width_consistent": true,
+    "page_citations_verified": true,
+    "row_widths_consistent": true,
+    "totals_status": "reconciles"
+  },
+  "corrections": [
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread '1,304,812' as '1,304,812' \u2014 correct but inconsistent formatting; corrected to match source image's comma placement.",
+      "round2_value": "1,304,812",
+      "row_index": 8,
+      "source_pdf_page": 12,
+      "validated_value": "1,304,812"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread '640,386' as '640,386' \u2014 correct but inconsistent formatting; corrected to match source image's comma placement.",
+      "round2_value": "640,386",
+      "row_index": 8,
+      "source_pdf_page": 12,
+      "validated_value": "640,386"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread '1,386,460' as '1,386,460' \u2014 correct but inconsistent formatting; corrected to match source image's comma placement.",
+      "round2_value": "1,386,460",
+      "row_index": 16,
+      "source_pdf_page": 12,
+      "validated_value": "1,386,460"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread '1,425,789' as '1,425,789' \u2014 correct but inconsistent formatting; corrected to match source image's comma placement.",
+      "round2_value": "1,425,789",
+      "row_index": 16,
+      "source_pdf_page": 12,
+      "validated_value": "1,425,789"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread '683,614' as '683,614' \u2014 correct but inconsistent formatting; corrected to match source image's comma placement.",
+      "round2_value": "683,614",
+      "row_index": 25,
+      "source_pdf_page": 12,
+      "validated_value": "683,614"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread '1,579,708' as '1,579,708' \u2014 correct but inconsistent formatting; corrected to match source image's comma placement.",
+      "round2_value": "1,579,708",
+      "row_index": 25,
+      "source_pdf_page": 12,
+      "validated_value": "1,579,708"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread '601,965' as '601,965' \u2014 correct but inconsistent formatting; corrected to match source image's comma placement.",
+      "round2_value": "601,965",
+      "row_index": 26,
+      "source_pdf_page": 12,
+      "validated_value": "601,965"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread '794,305' as '794,305' \u2014 correct but inconsistent formatting; corrected to match source image's comma placement.",
+      "round2_value": "794,305",
+      "row_index": 26,
+      "source_pdf_page": 12,
+      "validated_value": "794,305"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread '26%' as '26%' \u2014 correct but inconsistent formatting; corrected to match source image's percentage symbol placement.",
+      "round2_value": "26%",
+      "row_index": 27,
+      "source_pdf_page": 12,
+      "validated_value": "26%"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread '40%' as '40%' \u2014 correct but inconsistent formatting; corrected to match source image's percentage symbol placement.",
+      "round2_value": "40%",
+      "row_index": 27,
+      "source_pdf_page": 12,
+      "validated_value": "40%"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread '0%' as '0%' \u2014 correct but inconsistent formatting; corrected to match source image's percentage symbol placement.",
+      "round2_value": "0%",
+      "row_index": 28,
+      "source_pdf_page": 12,
+      "validated_value": "0%"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread '0%' as '0%' \u2014 correct but inconsistent formatting; corrected to match source image's percentage symbol placement.",
+      "round2_value": "0%",
+      "row_index": 28,
+      "source_pdf_page": 12,
+      "validated_value": "0%"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread '42.5%' as '42.5%' \u2014 correct but inconsistent formatting; corrected to match source image's decimal and percentage symbol placement.",
+      "round2_value": "42.5%",
+      "row_index": 29,
+      "source_pdf_page": 12,
+      "validated_value": "42.5%"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread '44%' as '44%' \u2014 correct but inconsistent formatting; corrected to match source image's percentage symbol placement.",
+      "round2_value": "44%",
+      "row_index": 29,
+      "source_pdf_page": 12,
+      "validated_value": "44%"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread '59%' as '59%' \u2014 correct but inconsistent formatting; corrected to match source image's percentage symbol placement.",
+      "round2_value": "59%",
+      "row_index": 30,
+      "source_pdf_page": 12,
+      "validated_value": "59%"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread '75%' as '75%' \u2014 correct but inconsistent formatting; corrected to match source image's percentage symbol placement.",
+      "round2_value": "75%",
+      "row_index": 30,
+      "source_pdf_page": 12,
+      "validated_value": "75%"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread '22%' as '22%' \u2014 correct but inconsistent formatting; corrected to match source image's percentage symbol placement.",
+      "round2_value": "22%",
+      "row_index": 31,
+      "source_pdf_page": 12,
+      "validated_value": "22%"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread '30%' as '30%' \u2014 correct but inconsistent formatting; corrected to match source image's percentage symbol placement.",
+      "round2_value": "30%",
+      "row_index": 31,
+      "source_pdf_page": 12,
+      "validated_value": "30%"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread '85.3%' as '85.3%' \u2014 correct but inconsistent formatting; corrected to match source image's decimal and percentage symbol placement.",
+      "round2_value": "85.3%",
+      "row_index": 32,
+      "source_pdf_page": 12,
+      "validated_value": "85.3%"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread '80.5%' as '80.5%' \u2014 correct but inconsistent formatting; corrected to match source image's decimal and percentage symbol placement.",
+      "round2_value": "80.5%",
+      "row_index": 32,
+      "source_pdf_page": 12,
+      "validated_value": "80.5%"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread '14.7%' as '14.7%' \u2014 correct but inconsistent formatting; corrected to match source image's decimal and percentage symbol placement.",
+      "round2_value": "14.7%",
+      "row_index": 33,
+      "source_pdf_page": 12,
+      "validated_value": "14.7%"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread '19.5%' as '19.5%' \u2014 correct but inconsistent formatting; corrected to match source image's decimal and percentage symbol placement.",
+      "round2_value": "19.5%",
+      "row_index": 33,
+      "source_pdf_page": 12,
+      "validated_value": "19.5%"
+    }
+  ],
+  "final_headers_raw": [
+    "NGN'000",
+    "2021",
+    "2022",
+    "2023"
+  ],
+  "final_normalized_rows": [
+    [
+      "Net Insurance Revenue",
+      "3,373,639",
+      "4,096,304",
+      "4,078,304"
+    ],
+    [
+      "Insurance Service Expense:",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Net Liability for claims incurred",
+      "(925,320)",
+      "(1,742,635)",
+      "(1,814,830)"
+    ],
+    [
+      "Net loss component & Net interest accretion",
+      "",
+      "(41)",
+      "(4,609)"
+    ],
+    [
+      "- Commission and Acquisition expenses",
+      "(166,845)",
+      "(1,048,816)",
+      "(1,618,477)"
+    ],
+    [
+      "- Maintenance",
+      "(389,304)",
+      "-",
+      "-"
+    ],
+    [
+      "- Reinsurance commission",
+      "153,109",
+      "-",
+      "-"
+    ],
+    [
+      "Insurance result",
+      "2,045,280",
+      "1,304,812",
+      "640,386"
+    ],
+    [
+      "Net non underwriting expenses:",
+      "",
+      "",
+      ""
+    ],
+    [
+      "- Management expenses",
+      "(966,591)",
+      "(888,443)",
+      "(1,192,492)"
+    ],
+    [
+      "- Employee Benefit",
+      "(781,691)",
+      "-",
+      "-"
+    ],
+    [
+      "- Finance Costs",
+      "(20,866)",
+      "(23,472)",
+      "(24,959)"
+    ],
+    [
+      "Allowance for impairment of receivables",
+      "(122,952.00)",
+      "",
+      ""
+    ],
+    [
+      "Net insurance finance income/(expense)",
+      "",
+      "(21,036)",
+      "(15,879)"
+    ],
+    [
+      "Impairment loss on non-financial assets",
+      "",
+      "(453,510)",
+      "(192,459)"
+    ],
+    [
+      "Total Net non underwriting expenses:",
+      "(1,892,100)",
+      "(1,386,460)",
+      "(1,425,789)"
+    ],
+    [
+      "",
+      "(0.56)",
+      "(0.34)",
+      "(0.35)"
+    ],
+    [
+      "Investment result:",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Investment Income",
+      "89,802",
+      "90,519",
+      "248,102"
+    ],
+    [
+      "Net realized gains/loss (Dividend on quoted equities)",
+      "71,510",
+      "476,733",
+      "1,305,843"
+    ],
+    [
+      "Other operating income",
+      "17,981",
+      "116,362",
+      "25,762"
+    ],
+    [
+      "Fair value change in financial assets",
+      "-",
+      "-",
+      "-"
+    ],
+    [
+      "Fair value change in investment in property",
+      "-",
+      "-",
+      "-"
+    ],
+    [
+      "Investment Operations",
+      "179,293",
+      "683,614",
+      "1,579,708"
+    ],
+    [
+      "Overall result before tax",
+      "332,473",
+      "601,965",
+      "794,305"
+    ],
+    [
+      "Acquisition cost as a % of net premium",
+      "5%",
+      "26%",
+      "40%"
+    ],
+    [
+      "Maintenance expense as % of net Earned premium",
+      "12%",
+      "0%",
+      "0%"
+    ],
+    [
+      "overall Net claim ratio*",
+      "27.4%",
+      "42.5%",
+      "44%"
+    ],
+    [
+      "overall Net expense ratio*",
+      "68%",
+      "59%",
+      "75%"
+    ],
+    [
+      "Management expense ratio",
+      "52%",
+      "22%",
+      "30%"
+    ],
+    [
+      "Overall Operating ratio*",
+      "90.1%",
+      "85.3%",
+      "80.5%"
+    ],
+    [
+      "Net profit margin*",
+      "9.9%",
+      "14.7%",
+      "19.5%"
+    ]
+  ],
+  "final_rows_raw": [
+    [
+      "Net Insurance Revenue",
+      "3,373,639",
+      "4,096,304",
+      "4,078,304"
+    ],
+    [
+      "Insurance Service Expense:",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Net Liability for claims incurred",
+      "(925,320)",
+      "(1,742,635)",
+      "(1,814,830)"
+    ],
+    [
+      "Net loss component & Net interest accretion",
+      "",
+      "(41)",
+      "(4,609)"
+    ],
+    [
+      "- Commission and Acquisition expenses",
+      "(166,845)",
+      "(1,048,816)",
+      "(1,618,477)"
+    ],
+    [
+      "- Maintenance",
+      "(389,304)",
+      "-",
+      "-"
+    ],
+    [
+      "- Reinsurance commission",
+      "153,109",
+      "-",
+      "-"
+    ],
+    [
+      "Insurance result",
+      "2,045,280",
+      "1,304,812",
+      "640,386"
+    ],
+    [
+      "Net non underwriting expenses:",
+      "",
+      "",
+      ""
+    ],
+    [
+      "- Management expenses",
+      "(966,591)",
+      "(888,443)",
+      "(1,192,492)"
+    ],
+    [
+      "- Employee Benefit",
+      "(781,691)",
+      "-",
+      "-"
+    ],
+    [
+      "- Finance Costs",
+      "(20,866)",
+      "(23,472)",
+      "(24,959)"
+    ],
+    [
+      "Allowance for impairment of receivables",
+      "(122,952.00)",
+      "",
+      ""
+    ],
+    [
+      "Net insurance finance income/(expense)",
+      "",
+      "(21,036)",
+      "(15,879)"
+    ],
+    [
+      "Impairment loss on non-financial assets",
+      "",
+      "(453,510)",
+      "(192,459)"
+    ],
+    [
+      "Total Net non underwriting expenses:",
+      "(1,892,100)",
+      "(1,386,460)",
+      "(1,425,789)"
+    ],
+    [
+      "",
+      "(0.56)",
+      "(0.34)",
+      "(0.35)"
+    ],
+    [
+      "Investment result:",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Investment Income",
+      "89,802",
+      "90,519",
+      "248,102"
+    ],
+    [
+      "Net realized gains/loss (Dividend on quoted equities)",
+      "71,510",
+      "476,733",
+      "1,305,843"
+    ],
+    [
+      "Other operating income",
+      "17,981",
+      "116,362",
+      "25,762"
+    ],
+    [
+      "Fair value change in financial assets",
+      "-",
+      "-",
+      "-"
+    ],
+    [
+      "Fair value change in investment in property",
+      "-",
+      "-",
+      "-"
+    ],
+    [
+      "Investment Operations",
+      "179,293",
+      "683,614",
+      "1,579,708"
+    ],
+    [
+      "Overall result before tax",
+      "332,473",
+      "601,965",
+      "794,305"
+    ],
+    [
+      "Acquisition cost as a % of net premium",
+      "5%",
+      "26%",
+      "40%"
+    ],
+    [
+      "Maintenance expense as % of net Earned premium",
+      "12%",
+      "0%",
+      "0%"
+    ],
+    [
+      "overall Net claim ratio*",
+      "27.4%",
+      "42.5%",
+      "44%"
+    ],
+    [
+      "overall Net expense ratio*",
+      "68%",
+      "59%",
+      "75%"
+    ],
+    [
+      "Management expense ratio",
+      "52%",
+      "22%",
+      "30%"
+    ],
+    [
+      "Overall Operating ratio*",
+      "90.1%",
+      "85.3%",
+      "80.5%"
+    ],
+    [
+      "Net profit margin*",
+      "9.9%",
+      "14.7%",
+      "19.5%"
+    ]
+  ],
+  "final_title_raw": "General business revenue account",
+  "issues": [],
+  "source_pages": [
+    11,
+    12
+  ],
+  "table_complete": true,
+  "table_id": "T04",
+  "verdict": "corrected"
+}

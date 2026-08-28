@@ -1,0 +1,102 @@
+[
+  {
+    "table_id": "T01",
+    "title_raw": null,
+    "units_raw": null,
+    "source_pages": [
+      14
+    ],
+    "complexity": "low",
+    "possible_repeat_of": null
+  },
+  {
+    "table_id": "T02",
+    "title_raw": "Key figures by class- General business \u2013 2021 (printed); Key figures by class- General business - 2023 (embedded)",
+    "units_raw": "(NGN'000)",
+    "source_pages": [
+      14
+    ],
+    "complexity": "medium",
+    "possible_repeat_of": null
+  },
+  {
+    "table_id": "T03",
+    "title_raw": "Retention by class- General business 2023",
+    "units_raw": "(NGN'000)",
+    "source_pages": [
+      16
+    ],
+    "complexity": "medium",
+    "possible_repeat_of": null
+  },
+  {
+    "table_id": "T04",
+    "title_raw": "Retention by class- General business 2022",
+    "units_raw": "(NGN'000)",
+    "source_pages": [
+      16
+    ],
+    "complexity": "medium",
+    "possible_repeat_of": null
+  },
+  {
+    "table_id": "T05",
+    "title_raw": "Retention by class- General business 2021",
+    "units_raw": "(NGN'000)",
+    "source_pages": [
+      16
+    ],
+    "complexity": "medium",
+    "possible_repeat_of": null
+  },
+  {
+    "table_id": "T06",
+    "title_raw": "General insurance claims paid",
+    "units_raw": "(NGN'000)",
+    "source_pages": [
+      16
+    ],
+    "complexity": "low",
+    "possible_repeat_of": null
+  },
+  {
+    "table_id": "T07",
+    "title_raw": "Marine Hull Surplus Treaty",
+    "units_raw": null,
+    "source_pages": [
+      40
+    ],
+    "complexity": "low",
+    "possible_repeat_of": null
+  },
+  {
+    "table_id": "T08",
+    "title_raw": "The reinsurers take 65% share of the Marine Hull treaty, as follows:",
+    "units_raw": null,
+    "source_pages": [
+      41
+    ],
+    "complexity": "low",
+    "possible_repeat_of": null
+  },
+  {
+    "table_id": "T09",
+    "title_raw": "Marine Cargo Insurance Marine Cargo SurplusTreaty",
+    "units_raw": "NGN",
+    "source_pages": [
+      41
+    ],
+    "complexity": "low",
+    "possible_repeat_of": null
+  },
+  {
+    "table_id": "T10",
+    "title_raw": "The reinsurers take 100% share of the Marine Cargo treaty, as follows:",
+    "units_raw": null,
+    "source_pages": [
+      41
+    ],
+    "complexity": "low",
+    "possible_repeat_of": null
+  }
+]

@@ -1,0 +1,106 @@
+{
+  "cell_flags": [],
+  "concerns": [],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "footnotes_raw": [],
+  "headers_raw": [
+    "Reinsurer",
+    "Proportion Shared"
+  ],
+  "normalized_rows": [
+    [
+      "African Re:",
+      0.4
+    ],
+    [
+      "Continental Re:",
+      0.1
+    ],
+    [
+      "FBS Re:",
+      0.1
+    ],
+    [
+      "Aveni Re:",
+      0.05
+    ],
+    [
+      "WAICA Re:",
+      0.1
+    ],
+    [
+      "NCA Re:",
+      0.05
+    ],
+    [
+      "OMAN Re:",
+      0.05
+    ],
+    [
+      "GHANA Re:",
+      0.05
+    ],
+    [
+      "ARB/WAICA Re, SIERRA LEONE",
+      0.1
+    ],
+    [
+      "Total",
+      1.0
+    ]
+  ],
+  "pages_seen": [
+    39
+  ],
+  "rows_raw": [
+    [
+      "African Re:",
+      "40%"
+    ],
+    [
+      "Continental Re:",
+      "10%"
+    ],
+    [
+      "FBS Re:",
+      "10%"
+    ],
+    [
+      "Aveni Re:",
+      "5%"
+    ],
+    [
+      "WAICA Re:",
+      "10%"
+    ],
+    [
+      "NCA Re:",
+      "5%"
+    ],
+    [
+      "OMAN Re:",
+      "5%"
+    ],
+    [
+      "GHANA Re:",
+      "5%"
+    ],
+    [
+      "ARB/WAICA Re, SIERRA LEONE",
+      "10%"
+    ],
+    [
+      "Total",
+      "100%"
+    ]
+  ],
+  "source_pages": [],
+  "table_complete": true,
+  "table_id": "T42",
+  "table_number_raw": "",
+  "title_raw": "The reinsurers take 100% share of the treaty, as follows:",
+  "units_raw": "N/A",
+  "_header_width": 2,
+  "_row_width": 2
+}

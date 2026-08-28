@@ -1,0 +1,763 @@
+{
+  "checks": {
+    "continuation_verified": true,
+    "header_width_consistent": true,
+    "page_citations_verified": true,
+    "row_widths_consistent": true,
+    "totals_status": "reconciles"
+  },
+  "corrections": [
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '8.153.826' which is 8,153,826 in NGN format.",
+      "round2_value": 8153826,
+      "row_index": 0,
+      "source_pdf_page": 38,
+      "validated_value": 8153826
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '2.000.000' which is 2,000,000 in NGN format.",
+      "round2_value": 2000000,
+      "row_index": 0,
+      "source_pdf_page": 38,
+      "validated_value": 2000000
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread percentage; image shows '75%' which should be 0.75 as decimal proportion.",
+      "round2_value": 0.75,
+      "row_index": 0,
+      "source_pdf_page": 38,
+      "validated_value": 0.75
+    },
+    {
+      "column_index": 4,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '0,10%' which is 0.001 in decimal.",
+      "round2_value": 0.001,
+      "row_index": 0,
+      "source_pdf_page": 38,
+      "validated_value": 0.001
+    },
+    {
+      "column_index": 5,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '31.892.853' which is 31,892,853 in NGN format.",
+      "round2_value": 31892853,
+      "row_index": 0,
+      "source_pdf_page": 38,
+      "validated_value": 31892853
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '16.921.181' which is 16,921,181 in NGN format.",
+      "round2_value": 16921181,
+      "row_index": 1,
+      "source_pdf_page": 38,
+      "validated_value": 16921181
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '6.622.442' which is 6,622,442 in NGN format.",
+      "round2_value": 6622442,
+      "row_index": 1,
+      "source_pdf_page": 38,
+      "validated_value": 6622442
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread percentage; image shows '61%' which should be 0.61 as decimal proportion.",
+      "round2_value": 0.61,
+      "row_index": 1,
+      "source_pdf_page": 38,
+      "validated_value": 0.61
+    },
+    {
+      "column_index": 4,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '0,20%' which is 0.002 in decimal.",
+      "round2_value": 0.002,
+      "row_index": 1,
+      "source_pdf_page": 38,
+      "validated_value": 0.002
+    },
+    {
+      "column_index": 5,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '56.257.264' which is 56,257,264 in NGN format.",
+      "round2_value": 56257264,
+      "row_index": 1,
+      "source_pdf_page": 38,
+      "validated_value": 56257264
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '12.096.059' which is 12,096,059 in NGN format.",
+      "round2_value": 12096059,
+      "row_index": 2,
+      "source_pdf_page": 38,
+      "validated_value": 12096059
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '5.917.860' which is 5,917,860 in NGN format.",
+      "round2_value": 5917860,
+      "row_index": 2,
+      "source_pdf_page": 38,
+      "validated_value": 5917860
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread percentage; image shows '51%' which should be 0.51 as decimal proportion.",
+      "round2_value": 0.51,
+      "row_index": 2,
+      "source_pdf_page": 38,
+      "validated_value": 0.51
+    },
+    {
+      "column_index": 4,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '0,20%' which is 0.002 in decimal.",
+      "round2_value": 0.002,
+      "row_index": 2,
+      "source_pdf_page": 38,
+      "validated_value": 0.002
+    },
+    {
+      "column_index": 5,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '33.903.975' which is 33,903,975 in NGN format.",
+      "round2_value": 33903975,
+      "row_index": 2,
+      "source_pdf_page": 38,
+      "validated_value": 33903975
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '8.812.595' which is 8,812,595 in NGN format.",
+      "round2_value": 8812595,
+      "row_index": 3,
+      "source_pdf_page": 38,
+      "validated_value": 8812595
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '5.741.406' which is 5,741,406 in NGN format.",
+      "round2_value": 5741406,
+      "row_index": 3,
+      "source_pdf_page": 38,
+      "validated_value": 5741406
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread percentage; image shows '35%' which should be 0.35 as decimal proportion.",
+      "round2_value": 0.35,
+      "row_index": 3,
+      "source_pdf_page": 38,
+      "validated_value": 0.35
+    },
+    {
+      "column_index": 4,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '0,20%' which is 0.002 in decimal.",
+      "round2_value": 0.002,
+      "row_index": 3,
+      "source_pdf_page": 38,
+      "validated_value": 0.002
+    },
+    {
+      "column_index": 5,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '21.445.448' which is 21,445,448 in NGN format.",
+      "round2_value": 21445448,
+      "row_index": 3,
+      "source_pdf_page": 38,
+      "validated_value": 21445448
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '8.109.000' which is 8,109,000 in NGN format.",
+      "round2_value": 8109000,
+      "row_index": 4,
+      "source_pdf_page": 38,
+      "validated_value": 8109000
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '8.109.000' which is 8,109,000 in NGN format.",
+      "round2_value": 8109000,
+      "row_index": 4,
+      "source_pdf_page": 38,
+      "validated_value": 8109000
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread percentage; image shows '0%' which should be 0.0 as decimal proportion.",
+      "round2_value": 0.0,
+      "row_index": 4,
+      "source_pdf_page": 38,
+      "validated_value": 0.0
+    },
+    {
+      "column_index": 4,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '0,20%' which is 0.002 in decimal.",
+      "round2_value": 0.002,
+      "row_index": 4,
+      "source_pdf_page": 38,
+      "validated_value": 0.002
+    },
+    {
+      "column_index": 5,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '20.506.003' which is 20,506,003 in NGN format.",
+      "round2_value": 20506003,
+      "row_index": 4,
+      "source_pdf_page": 38,
+      "validated_value": 20506003
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '8.678.177' which is 8,678,177 in NGN format.",
+      "round2_value": 8678177,
+      "row_index": 5,
+      "source_pdf_page": 38,
+      "validated_value": 8678177
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '8.678.177' which is 8,678,177 in NGN format.",
+      "round2_value": 8678177,
+      "row_index": 5,
+      "source_pdf_page": 38,
+      "validated_value": 8678177
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread percentage; image shows '0%' which should be 0.0 as decimal proportion.",
+      "round2_value": 0.0,
+      "row_index": 5,
+      "source_pdf_page": 38,
+      "validated_value": 0.0
+    },
+    {
+      "column_index": 4,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '0,20%' which is 0.002 in decimal.",
+      "round2_value": 0.002,
+      "row_index": 5,
+      "source_pdf_page": 38,
+      "validated_value": 0.002
+    },
+    {
+      "column_index": 5,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '16.449.524' which is 16,449,524 in NGN format.",
+      "round2_value": 16449524,
+      "row_index": 5,
+      "source_pdf_page": 38,
+      "validated_value": 16449524
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '11.829.477' which is 11,829,477 in NGN format.",
+      "round2_value": 11829477,
+      "row_index": 6,
+      "source_pdf_page": 38,
+      "validated_value": 11829477
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '11.829.477' which is 11,829,477 in NGN format.",
+      "round2_value": 11829477,
+      "row_index": 6,
+      "source_pdf_page": 38,
+      "validated_value": 11829477
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread percentage; image shows '0%' which should be 0.0 as decimal proportion.",
+      "round2_value": 0.0,
+      "row_index": 6,
+      "source_pdf_page": 38,
+      "validated_value": 0.0
+    },
+    {
+      "column_index": 4,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '0,24%' which is 0.0024 in decimal.",
+      "round2_value": 0.0024,
+      "row_index": 6,
+      "source_pdf_page": 38,
+      "validated_value": 0.0024
+    },
+    {
+      "column_index": 5,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '37.438.769' which is 37,438,769 in NGN format.",
+      "round2_value": 37438769,
+      "row_index": 6,
+      "source_pdf_page": 38,
+      "validated_value": 37438769
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '39.531.863' which is 39,531,863 in NGN format.",
+      "round2_value": 39531863,
+      "row_index": 7,
+      "source_pdf_page": 38,
+      "validated_value": 39531863
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '6.124.908' which is 6,124,908 in NGN format.",
+      "round2_value": 6124908,
+      "row_index": 7,
+      "source_pdf_page": 38,
+      "validated_value": 6124908
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread percentage; image shows '85%' which should be 0.85 as decimal proportion.",
+      "round2_value": 0.85,
+      "row_index": 7,
+      "source_pdf_page": 38,
+      "validated_value": 0.85
+    },
+    {
+      "column_index": 4,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '0,12%' which is 0.0012 in decimal.",
+      "round2_value": 0.0012,
+      "row_index": 7,
+      "source_pdf_page": 38,
+      "validated_value": 0.0012
+    },
+    {
+      "column_index": 5,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '62.670.557' which is 62,670,557 in NGN format.",
+      "round2_value": 62670557,
+      "row_index": 7,
+      "source_pdf_page": 38,
+      "validated_value": 62670557
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '38.176.613' which is 38,176,613 in NGN format.",
+      "round2_value": 38176613,
+      "row_index": 8,
+      "source_pdf_page": 38,
+      "validated_value": 38176613
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '5.000.000' which is 5,000,000 in NGN format.",
+      "round2_value": 5000000,
+      "row_index": 8,
+      "source_pdf_page": 38,
+      "validated_value": 5000000
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread percentage; image shows '87%' which should be 0.87 as decimal proportion.",
+      "round2_value": 0.87,
+      "row_index": 8,
+      "source_pdf_page": 38,
+      "validated_value": 0.87
+    },
+    {
+      "column_index": 4,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '0,09%' which is 0.0009 in decimal.",
+      "round2_value": 0.0009,
+      "row_index": 8,
+      "source_pdf_page": 38,
+      "validated_value": 0.0009
+    },
+    {
+      "column_index": 5,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '68.843.221' which is 68,843,221 in NGN format.",
+      "round2_value": 68843221,
+      "row_index": 8,
+      "source_pdf_page": 38,
+      "validated_value": 68843221
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '40.184.466' which is 40,184,466 in NGN format.",
+      "round2_value": 40184466,
+      "row_index": 9,
+      "source_pdf_page": 38,
+      "validated_value": 40184466
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '40.184.466' which is 40,184,466 in NGN format.",
+      "round2_value": 40184466,
+      "row_index": 9,
+      "source_pdf_page": 38,
+      "validated_value": 40184466
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread percentage; image shows '0%' which should be 0.0 as decimal proportion.",
+      "round2_value": 0.0,
+      "row_index": 9,
+      "source_pdf_page": 38,
+      "validated_value": 0.0
+    },
+    {
+      "column_index": 4,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '0,68%' which is 0.0068 in decimal.",
+      "round2_value": 0.0068,
+      "row_index": 9,
+      "source_pdf_page": 38,
+      "validated_value": 0.0068
+    },
+    {
+      "column_index": 5,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '66.952.249' which is 66,952,249 in NGN format.",
+      "round2_value": 66952249,
+      "row_index": 9,
+      "source_pdf_page": 38,
+      "validated_value": 66952249
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '44.000.000' which is 44,000,000 in NGN format.",
+      "round2_value": 44000000,
+      "row_index": 10,
+      "source_pdf_page": 38,
+      "validated_value": 44000000
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '14.860.336' which is 14,860,336 in NGN format.",
+      "round2_value": 14860336,
+      "row_index": 10,
+      "source_pdf_page": 38,
+      "validated_value": 14860336
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread percentage; image shows '66%' which should be 0.66 as decimal proportion.",
+      "round2_value": 0.66,
+      "row_index": 10,
+      "source_pdf_page": 38,
+      "validated_value": 0.66
+    },
+    {
+      "column_index": 4,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '0,25%' which is 0.0025 in decimal.",
+      "round2_value": 0.0025,
+      "row_index": 10,
+      "source_pdf_page": 38,
+      "validated_value": 0.0025
+    },
+    {
+      "column_index": 5,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '43.587.413' which is 43,587,413 in NGN format.",
+      "round2_value": 43587413,
+      "row_index": 10,
+      "source_pdf_page": 38,
+      "validated_value": 43587413
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '23.490.917' which is 23,490,917 in NGN format.",
+      "round2_value": 23490917,
+      "row_index": 11,
+      "source_pdf_page": 38,
+      "validated_value": 23490917
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '11.827.292' which is 11,827,292 in NGN format.",
+      "round2_value": 11827292,
+      "row_index": 11,
+      "source_pdf_page": 38,
+      "validated_value": 11827292
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread percentage; image shows '36%' which should be 0.36 as decimal proportion.",
+      "round2_value": 0.36,
+      "row_index": 11,
+      "source_pdf_page": 38,
+      "validated_value": 0.36
+    },
+    {
+      "column_index": 4,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '0,24%' which is 0.0024 in decimal.",
+      "round2_value": 0.0024,
+      "row_index": 11,
+      "source_pdf_page": 38,
+      "validated_value": 0.0024
+    },
+    {
+      "column_index": 5,
+      "confidence": "high",
+      "reason": "OCR misread decimal separator; image shows '41.310.795' which is 41,310,795 in NGN format.",
+      "round2_value": 41310795,
+      "row_index": 11,
+      "source_pdf_page": 38,
+      "validated_value": 41310795
+    }
+  ],
+  "final_headers_raw": [
+    "Accident Year",
+    "Largest gross claim in Year (NGN)",
+    "Largest net claim in Year (NGN)",
+    "Proportion recovered",
+    "Net Claims as % of S/H Funds",
+    "Sum of Five Largest Claims in Year (NGN)"
+  ],
+  "final_normalized_rows": [
+    [
+      2013,
+      8153826,
+      2000000,
+      0.75,
+      0.001,
+      31892853
+    ],
+    [
+      2014,
+      16921181,
+      6622442,
+      0.61,
+      0.002,
+      56257264
+    ],
+    [
+      2015,
+      12096059,
+      5917860,
+      0.51,
+      0.002,
+      33903975
+    ],
+    [
+      2016,
+      8812595,
+      5741406,
+      0.35,
+      0.002,
+      21445448
+    ],
+    [
+      2017,
+      8109000,
+      8109000,
+      0.0,
+      0.002,
+      20506003
+    ],
+    [
+      2018,
+      8678177,
+      8678177,
+      0.0,
+      0.002,
+      16449524
+    ],
+    [
+      2019,
+      11829477,
+      11829477,
+      0.0,
+      0.0024,
+      37438769
+    ],
+    [
+      2020,
+      39531863,
+      6124908,
+      0.85,
+      0.0012,
+      62670557
+    ],
+    [
+      2021,
+      38176613,
+      5000000,
+      0.87,
+      0.0009,
+      68843221
+    ],
+    [
+      2022,
+      40184466,
+      40184466,
+      0.0,
+      0.0068,
+      66952249
+    ],
+    [
+      2023,
+      44000000,
+      14860336,
+      0.66,
+      0.0025,
+      43587413
+    ],
+    [
+      "Average",
+      23490917,
+      11827292,
+      0.36,
+      0.0024,
+      41310795
+    ]
+  ],
+  "final_rows_raw": [
+    [
+      "2013",
+      "8.153.826",
+      "2.000.000",
+      "75%",
+      "0,10%",
+      "31.892.853"
+    ],
+    [
+      "2014",
+      "16.921.181",
+      "6.622.442",
+      "61%",
+      "0,20%",
+      "56.257.264"
+    ],
+    [
+      "2015",
+      "12.096.059",
+      "5.917.860",
+      "51%",
+      "0,20%",
+      "33.903.975"
+    ],
+    [
+      "2016",
+      "8.812.595",
+      "5.741.406",
+      "35%",
+      "0,20%",
+      "21.445.448"
+    ],
+    [
+      "2017",
+      "8.109.000",
+      "8.109.000",
+      "0%",
+      "0,20%",
+      "20.506.003"
+    ],
+    [
+      "2018",
+      "8.678.177",
+      "8.678.177",
+      "0%",
+      "0,20%",
+      "16.449.524"
+    ],
+    [
+      "2019",
+      "11.829.477",
+      "11.829.477",
+      "0%",
+      "0,24%",
+      "37.438.769"
+    ],
+    [
+      "2020",
+      "39.531.863",
+      "6.124.908",
+      "85%",
+      "0,12%",
+      "62.670.557"
+    ],
+    [
+      "2021",
+      "38.176.613",
+      "5.000.000",
+      "87%",
+      "0,09%",
+      "68.843.221"
+    ],
+    [
+      "2022",
+      "40.184.466",
+      "40.184.466",
+      "0%",
+      "0,68%",
+      "66.952.249"
+    ],
+    [
+      "2023",
+      "44.000.000",
+      "14.860.336",
+      "66%",
+      "0,25%",
+      "43.587.413"
+    ],
+    [
+      "Average",
+      "23.490.917",
+      "11.827.292",
+      "36%",
+      "0,24%",
+      "41.310.795"
+    ]
+  ],
+  "final_title_raw": "From the data on the largest claims in the General Accident branch since 2015, the following can be seen:",
+  "issues": [],
+  "source_pages": [
+    38
+  ],
+  "table_complete": true,
+  "table_id": "T40",
+  "verdict": "corrected"
+}

@@ -1,0 +1,472 @@
+{
+  "checks": {
+    "continuation_verified": true,
+    "header_width_consistent": true,
+    "page_citations_verified": true,
+    "row_widths_consistent": true,
+    "totals_status": "reconciles"
+  },
+  "corrections": [
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread negative value as positive; image shows (396,149) for Insurance acquisition cashflows in 2023.",
+      "round2_value": "-396149",
+      "row_index": 4,
+      "source_pdf_page": 28,
+      "validated_value": "-396149"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread 130,155 as 1785539 for Risk Adjustment in 2023; image clearly shows 130,155.",
+      "round2_value": "130155",
+      "row_index": 5,
+      "source_pdf_page": 28,
+      "validated_value": "130155"
+    },
+    {
+      "column_index": 6,
+      "confidence": "high",
+      "reason": "OCR misread 899,097 as 899097 without comma; corrected to match image format and value.",
+      "round2_value": "899097",
+      "row_index": 2,
+      "source_pdf_page": 28,
+      "validated_value": "899097"
+    },
+    {
+      "column_index": 6,
+      "confidence": "high",
+      "reason": "OCR misread 760,726 as 760726 without comma; corrected to match image format and value.",
+      "round2_value": "760726",
+      "row_index": 2,
+      "source_pdf_page": 28,
+      "validated_value": "760726"
+    },
+    {
+      "column_index": 6,
+      "confidence": "high",
+      "reason": "OCR misread 1,120,394 as 1120394 without commas; corrected to match image format and value.",
+      "round2_value": "1120394",
+      "row_index": 3,
+      "source_pdf_page": 28,
+      "validated_value": "1120394"
+    },
+    {
+      "column_index": 6,
+      "confidence": "high",
+      "reason": "OCR misread 1,430,000 as 1430000 without commas; corrected to match image format and value.",
+      "round2_value": "1430000",
+      "row_index": 5,
+      "source_pdf_page": 28,
+      "validated_value": "1430000"
+    },
+    {
+      "column_index": 6,
+      "confidence": "high",
+      "reason": "OCR misread 938,797 as 938797 without comma; corrected to match image format and value.",
+      "round2_value": "938797",
+      "row_index": 7,
+      "source_pdf_page": 28,
+      "validated_value": "938797"
+    },
+    {
+      "column_index": 6,
+      "confidence": "high",
+      "reason": "OCR misread 176,915 as 176915 without comma; corrected to match image format and value.",
+      "round2_value": "176915",
+      "row_index": 12,
+      "source_pdf_page": 28,
+      "validated_value": "176915"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread 2,872,291 as 2872291 without commas; corrected to match image format and value.",
+      "round2_value": "2872291",
+      "row_index": 14,
+      "source_pdf_page": 28,
+      "validated_value": "2872291"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread 6,049,819 as 6049819 without commas; corrected to match image format and value.",
+      "round2_value": "6049819",
+      "row_index": 15,
+      "source_pdf_page": 28,
+      "validated_value": "6049819"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread 8,922,110 as 8922110 without commas; corrected to match image format and value.",
+      "round2_value": "8922110",
+      "row_index": 16,
+      "source_pdf_page": 28,
+      "validated_value": "8922110"
+    }
+  ],
+  "final_headers_raw": [
+    "Liabilities (NGN'000)",
+    "2021",
+    "2022",
+    "2023",
+    "Assets (NGN'000)",
+    "2021",
+    "2022",
+    "2023"
+  ],
+  "final_normalized_rows": [
+    [
+      "Gross technical reserves for general business:",
+      null,
+      null,
+      null,
+      "Cash and Cash Equivalent",
+      733593,
+      1103840,
+      1507989
+    ],
+    [
+      "- Provision for Liability for Remaining Coverage,",
+      222376,
+      502797,
+      1785539,
+      "Financial Assets",
+      1403281,
+      1532451,
+      2687139
+    ],
+    [
+      "- outstanding claims & IBNR",
+      472248,
+      372745,
+      652403,
+      "Other receivable & prepayment",
+      1024374,
+      899097,
+      760726
+    ],
+    [
+      "Provision Loss Component",
+      0,
+      41,
+      4650,
+      "Reinsurance assets",
+      550728,
+      333698,
+      1120394
+    ],
+    [
+      "Insurance acquisition cashflows",
+      61468,
+      28144,
+      -396149,
+      "Deferred Acquisition costs",
+      0,
+      0,
+      0
+    ],
+    [
+      "Risk Adjustment",
+      null,
+      null,
+      130155,
+      "Investment properties",
+      1430000,
+      1430000,
+      1430000
+    ],
+    [
+      "- other",
+      null,
+      null,
+      null,
+      "Investment in subsidiaries",
+      null,
+      null,
+      null
+    ],
+    [
+      "Total gross technical reserves",
+      756092,
+      903727,
+      2176599,
+      "Property plant & equipment",
+      724595,
+      880529,
+      938797
+    ],
+    [
+      "Current Income Tax Liabilities",
+      79414,
+      89660,
+      234825,
+      "Intangible assets",
+      null,
+      null,
+      null
+    ],
+    [
+      "Insurance creditors (trade payable)",
+      "-",
+      "-",
+      "-",
+      "Deferred taxes",
+      null,
+      null,
+      null
+    ],
+    [
+      "Loans from credit institutions",
+      "-",
+      "-",
+      "-",
+      "Statutory deposits",
+      300150,
+      300150,
+      300150
+    ],
+    [
+      "Other Creditors/payable",
+      210732,
+      127589,
+      95976,
+      "Other assets",
+      null,
+      null,
+      null
+    ],
+    [
+      "Deferred tax liabilities",
+      86738,
+      89784,
+      110000,
+      "Trade Receivables",
+      275537,
+      223559,
+      176915
+    ],
+    [
+      "Other liabilities-employees retirement obligation",
+      227048,
+      226790,
+      254892,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Total liabilities",
+      1360024,
+      1437550,
+      2872291,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Surplus assets",
+      5082234,
+      5265774,
+      6049819,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Total liabilities and equity",
+      6442258,
+      6703324,
+      8922110,
+      "Total assets",
+      6442258,
+      6703324,
+      8922110
+    ]
+  ],
+  "final_rows_raw": [
+    [
+      "Gross technical reserves for general business:",
+      "",
+      "",
+      "",
+      "Cash and Cash Equivalent",
+      "733,593",
+      "1,103,840",
+      "1,507,989"
+    ],
+    [
+      "- Provision for Liability for Remaining Coverage,",
+      "222,376",
+      "502,797",
+      "1,785,539",
+      "Financial Assets",
+      "1,403,281",
+      "1,532,451",
+      "2,687,139"
+    ],
+    [
+      "- outstanding claims & IBNR",
+      "472,248",
+      "372,745",
+      "652,403",
+      "Other receivable & prepayment",
+      "1,024,374",
+      "899,097",
+      "760,726"
+    ],
+    [
+      "Provision Loss Component",
+      "0",
+      "41",
+      "4,650",
+      "Reinsurance assets",
+      "550,728",
+      "333,698",
+      "1,120,394"
+    ],
+    [
+      "Insurance acquisition cashflows",
+      "61,468",
+      "28,144",
+      "(396,149)",
+      "Deferred Acquisition costs",
+      "0",
+      "0",
+      "0"
+    ],
+    [
+      "Risk Adjustment",
+      "",
+      "",
+      "130,155",
+      "Investment properties",
+      "1,430,000",
+      "1,430,000",
+      "1,430,000"
+    ],
+    [
+      "- other",
+      "",
+      "",
+      "",
+      "Investment in subsidiaries",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Total gross technical reserves",
+      "756,092",
+      "903,727",
+      "2,176,599",
+      "Property plant & equipment",
+      "724,595",
+      "880,529",
+      "938,797"
+    ],
+    [
+      "Current Income Tax Liabilities",
+      "79,414",
+      "89,660",
+      "234,825",
+      "Intangible assets",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Insurance creditors (trade payable)",
+      "-",
+      "-",
+      "-",
+      "Deferred taxes",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Loans from credit institutions",
+      "-",
+      "-",
+      "-",
+      "Statutory deposits",
+      "300,150",
+      "300,150",
+      "300,150"
+    ],
+    [
+      "Other Creditors/payable",
+      "210,732",
+      "127,589",
+      "95,976",
+      "Other assets",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Deferred tax liabilities",
+      "86,738",
+      "89,784",
+      "110,000",
+      "Trade Receivables",
+      "275,537",
+      "223,559",
+      "176,915"
+    ],
+    [
+      "Other liabilities-employees retirement obligation",
+      "227,048",
+      "226,790",
+      "254,892",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Total liabilities",
+      "1,360,024",
+      "1,437,550",
+      "2,872,291",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Surplus assets",
+      "5,082,234",
+      "5,265,774",
+      "6,049,819",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Total liabilities and equity",
+      "6,442,258",
+      "6,703,324",
+      "8,922,110",
+      "Total assets",
+      "6,442,258",
+      "6,703,324",
+      "8,922,110"
+    ]
+  ],
+  "final_title_raw": "Table 14: Non-life Statement of Financial Position as at 31 December ....",
+  "issues": [],
+  "source_pages": [
+    28
+  ],
+  "table_complete": true,
+  "table_id": "T24",
+  "verdict": "corrected"
+}

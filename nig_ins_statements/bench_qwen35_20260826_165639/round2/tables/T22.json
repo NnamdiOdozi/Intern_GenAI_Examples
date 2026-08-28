@@ -1,0 +1,156 @@
+{
+  "cell_flags": [
+    {
+      "candidate_readings": [],
+      "column_index": 0,
+      "confidence": "high",
+      "inferred_value": null,
+      "normalized_value": "All Assets",
+      "printed_value": "All Assets",
+      "reason": "ok",
+      "row_index": 1,
+      "source_pdf_page": 27,
+      "status": "printed"
+    },
+    {
+      "candidate_readings": [],
+      "column_index": 1,
+      "confidence": "high",
+      "inferred_value": null,
+      "normalized_value": 2396820061,
+      "printed_value": "2.396.820.061",
+      "reason": "ok",
+      "row_index": 1,
+      "source_pdf_page": 27,
+      "status": "printed"
+    },
+    {
+      "candidate_readings": [],
+      "column_index": 2,
+      "confidence": "high",
+      "inferred_value": null,
+      "normalized_value": 2.05,
+      "printed_value": "2,05",
+      "reason": "ok",
+      "row_index": 1,
+      "source_pdf_page": 27,
+      "status": "printed"
+    },
+    {
+      "candidate_readings": [],
+      "column_index": 3,
+      "confidence": "high",
+      "inferred_value": null,
+      "normalized_value": 5.79,
+      "printed_value": "5,79",
+      "reason": "ok",
+      "row_index": 1,
+      "source_pdf_page": 27,
+      "status": "printed"
+    },
+    {
+      "candidate_readings": [],
+      "column_index": 0,
+      "confidence": "high",
+      "inferred_value": null,
+      "normalized_value": "All Liabilities",
+      "printed_value": "All Liabilities",
+      "reason": "ok",
+      "row_index": 2,
+      "source_pdf_page": 27,
+      "status": "printed"
+    },
+    {
+      "candidate_readings": [],
+      "column_index": 1,
+      "confidence": "high",
+      "inferred_value": null,
+      "normalized_value": 744834892,
+      "printed_value": "744.834.892",
+      "reason": "ok",
+      "row_index": 2,
+      "source_pdf_page": 27,
+      "status": "printed"
+    },
+    {
+      "candidate_readings": [],
+      "column_index": 2,
+      "confidence": "high",
+      "inferred_value": null,
+      "normalized_value": 1.48,
+      "printed_value": "1,48",
+      "reason": "ok",
+      "row_index": 2,
+      "source_pdf_page": 27,
+      "status": "printed"
+    },
+    {
+      "candidate_readings": [],
+      "column_index": 3,
+      "confidence": "high",
+      "inferred_value": null,
+      "normalized_value": 5.49,
+      "printed_value": "5,49",
+      "reason": "ok",
+      "row_index": 2,
+      "source_pdf_page": 27,
+      "status": "printed"
+    }
+  ],
+  "concerns": [],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "footnotes_raw": [
+    "Average spread of the assets is broadly consistent with that of the liabilities. Level of mismatching observed for the duration could be reviewed by the company and we do not consider this to be a serious issue for a short-term business company."
+  ],
+  "headers_raw": [
+    "Scenario 1:",
+    "NPV",
+    "Duration:",
+    "Convexity:"
+  ],
+  "normalized_rows": [
+    [
+      "All Assets",
+      2396820061,
+      2.05,
+      5.79
+    ],
+    [
+      "All Liabilities",
+      744834892,
+      1.48,
+      5.49
+    ]
+  ],
+  "pages_seen": [
+    27
+  ],
+  "rows_raw": [
+    [
+      "All Assets",
+      "2.396.820.061",
+      "2,05",
+      "5,79"
+    ],
+    [
+      "All Liabilities",
+      "744.834.892",
+      "1,48",
+      "5,49"
+    ]
+  ],
+  "source_pages": [
+    {
+      "pdf_page": 27,
+      "printed_page": "26"
+    }
+  ],
+  "table_complete": true,
+  "table_id": "T22",
+  "table_number_raw": "T22",
+  "title_raw": "Scenario 1: NPV Duration Convexity",
+  "units_raw": "Naira (implied from chart above)",
+  "_header_width": 4,
+  "_row_width": 4
+}

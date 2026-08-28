@@ -1,0 +1,965 @@
+[
+  {
+    "table_id": "T01",
+    "title_raw": "Table 1: Non-life Life insurance contract liabilities and net asset value",
+    "table_number_raw": "1",
+    "units_raw": "In NGN'000",
+    "source_pages": [
+      3
+    ],
+    "printed_pages": [
+      "2"
+    ],
+    "complexity": "medium",
+    "possible_repeat_of": null,
+    "appearances": [
+      {
+        "pdf_page": 3,
+        "appearance_id": "table_1",
+        "visible_row_count": 28,
+        "visible_column_count": 4,
+        "concerns": [
+          {
+            "category": "ocr_uncertainty",
+            "confidence": "high",
+            "location": "title",
+            "observation": "Title reads 'Non-life Life insurance' which is contradictory; content is clearly Non-life (General) lines like Motor, Marine, Fire."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "table_id": "T02",
+    "title_raw": "Trend of Key Non-life written Business Statistics General Insurance business \u2013 direct",
+    "table_number_raw": "2",
+    "units_raw": "Number of policies written; Gross written premiums (NGN'000)",
+    "source_pages": [
+      8
+    ],
+    "printed_pages": [
+      "7"
+    ],
+    "complexity": "medium",
+    "possible_repeat_of": null,
+    "appearances": [
+      {
+        "pdf_page": 8,
+        "appearance_id": "table_1",
+        "visible_row_count": 25,
+        "visible_column_count": 5,
+        "concerns": []
+      }
+    ]
+  },
+  {
+    "table_id": "T03",
+    "title_raw": "Average Premium (NGN'000)",
+    "table_number_raw": null,
+    "units_raw": "NGN'000",
+    "source_pages": [
+      9
+    ],
+    "printed_pages": [
+      "8"
+    ],
+    "complexity": "low",
+    "possible_repeat_of": null,
+    "appearances": [
+      {
+        "pdf_page": 9,
+        "appearance_id": "table_1",
+        "visible_row_count": 12,
+        "visible_column_count": 5,
+        "concerns": []
+      }
+    ]
+  },
+  {
+    "table_id": "T04",
+    "title_raw": "Table 3 : General business revenue account",
+    "table_number_raw": "Table 3",
+    "units_raw": "NGN'000",
+    "source_pages": [
+      11
+    ],
+    "printed_pages": [
+      "tables"
+    ],
+    "complexity": "low",
+    "possible_repeat_of": null,
+    "appearances": [
+      {
+        "pdf_page": 11,
+        "appearance_id": "table_1",
+        "visible_row_count": 1,
+        "visible_column_count": 4,
+        "concerns": [
+          {
+            "category": "continuation_uncertainty",
+            "confidence": "high",
+            "location": "bottom",
+            "observation": "Table appears to be cut off at the bottom of the page; data rows are not visible."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "table_id": "T05",
+    "title_raw": "Financial Performance Summary",
+    "table_number_raw": null,
+    "units_raw": null,
+    "source_pages": [
+      12
+    ],
+    "printed_pages": [
+      "11"
+    ],
+    "complexity": "medium",
+    "possible_repeat_of": null,
+    "appearances": [
+      {
+        "pdf_page": 12,
+        "appearance_id": "table_1",
+        "visible_row_count": 34,
+        "visible_column_count": 4,
+        "concerns": []
+      }
+    ]
+  },
+  {
+    "table_id": "T06",
+    "title_raw": "Table 3a :- Key figures by class- General business - 2023",
+    "table_number_raw": "Table 3a",
+    "units_raw": "(NGN'000)",
+    "source_pages": [
+      13
+    ],
+    "printed_pages": [
+      "12"
+    ],
+    "complexity": "medium",
+    "possible_repeat_of": null,
+    "appearances": [
+      {
+        "pdf_page": 13,
+        "appearance_id": "1",
+        "visible_row_count": 5,
+        "visible_column_count": 11,
+        "concerns": []
+      }
+    ]
+  },
+  {
+    "table_id": "T07",
+    "title_raw": "Table 3a :- Key figures by class- General business - 2022",
+    "table_number_raw": "Table 3a",
+    "units_raw": "(NGN'000)",
+    "source_pages": [
+      13
+    ],
+    "printed_pages": [
+      "12"
+    ],
+    "complexity": "medium",
+    "possible_repeat_of": null,
+    "appearances": [
+      {
+        "pdf_page": 13,
+        "appearance_id": "2",
+        "visible_row_count": 1,
+        "visible_column_count": 11,
+        "concerns": [
+          {
+            "category": "layout_ambiguity",
+            "confidence": "high",
+            "location": "bottom",
+            "observation": "Table is cut off at the bottom of the page. Only header row is visible."
+          },
+          {
+            "category": "ocr_uncertainty",
+            "confidence": "medium",
+            "location": "table_number",
+            "observation": "Table number 'Table 3a' is repeated for the 2022 table, while the section heading above refers to '3a Table b'. Likely a typo in the document."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "table_id": "T08",
+    "title_raw": "Table 5: Proportion of ultimate claims paid as at 31 December 2023",
+    "table_number_raw": "Table 5",
+    "units_raw": "NGN'000, days, years",
+    "source_pages": [
+      15
+    ],
+    "printed_pages": [
+      "14"
+    ],
+    "complexity": "medium",
+    "possible_repeat_of": null,
+    "appearances": [
+      {
+        "pdf_page": 15,
+        "appearance_id": "table_1",
+        "visible_row_count": 10,
+        "visible_column_count": 8,
+        "concerns": []
+      }
+    ]
+  },
+  {
+    "table_id": "T09",
+    "title_raw": "Table 6a: Retention by class- General business 2023",
+    "table_number_raw": "6a",
+    "units_raw": "(NGN'000)",
+    "source_pages": [
+      16
+    ],
+    "printed_pages": [
+      "15"
+    ],
+    "complexity": "medium",
+    "possible_repeat_of": null,
+    "appearances": [
+      {
+        "pdf_page": 16,
+        "appearance_id": "table_1",
+        "visible_row_count": 4,
+        "visible_column_count": 11,
+        "concerns": []
+      }
+    ]
+  },
+  {
+    "table_id": "T10",
+    "title_raw": "Table 6b: Retention by class- General business 2022",
+    "table_number_raw": "6b",
+    "units_raw": "(NGN'000)",
+    "source_pages": [
+      16
+    ],
+    "printed_pages": [
+      "15"
+    ],
+    "complexity": "medium",
+    "possible_repeat_of": null,
+    "appearances": [
+      {
+        "pdf_page": 16,
+        "appearance_id": "table_2",
+        "visible_row_count": 4,
+        "visible_column_count": 11,
+        "concerns": []
+      }
+    ]
+  },
+  {
+    "table_id": "T11",
+    "title_raw": "Table 6c: Retention by class- General business 2021",
+    "table_number_raw": "6c",
+    "units_raw": "(NGN'000)",
+    "source_pages": [
+      16
+    ],
+    "printed_pages": [
+      "15"
+    ],
+    "complexity": "medium",
+    "possible_repeat_of": null,
+    "appearances": [
+      {
+        "pdf_page": 16,
+        "appearance_id": "table_3",
+        "visible_row_count": 4,
+        "visible_column_count": 11,
+        "concerns": []
+      }
+    ]
+  },
+  {
+    "table_id": "T12",
+    "title_raw": "Table 7 : General insurance claims paid",
+    "table_number_raw": "7",
+    "units_raw": "(NGN'000)",
+    "source_pages": [
+      16
+    ],
+    "printed_pages": [
+      "15"
+    ],
+    "complexity": "low",
+    "possible_repeat_of": null,
+    "appearances": [
+      {
+        "pdf_page": 16,
+        "appearance_id": "table_4",
+        "visible_row_count": 1,
+        "visible_column_count": 6,
+        "concerns": [
+          {
+            "category": "layout_ambiguity",
+            "confidence": "high",
+            "location": "bottom",
+            "observation": "Table header is visible but data rows are cut off at the bottom of the page."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "table_id": "T13",
+    "title_raw": null,
+    "table_number_raw": null,
+    "units_raw": "Mixed (Currency, %)",
+    "source_pages": [
+      18
+    ],
+    "printed_pages": [
+      "17"
+    ],
+    "complexity": "medium",
+    "possible_repeat_of": null,
+    "appearances": [
+      {
+        "pdf_page": 18,
+        "appearance_id": "title",
+        "visible_row_count": 10,
+        "visible_column_count": 10,
+        "concerns": []
+      }
+    ]
+  },
+  {
+    "table_id": "T14",
+    "title_raw": "Historical Combined ratio in each accident year",
+    "table_number_raw": "9",
+    "units_raw": "%",
+    "source_pages": [
+      18
+    ],
+    "printed_pages": [
+      "17"
+    ],
+    "complexity": "low",
+    "possible_repeat_of": null,
+    "appearances": [
+      {
+        "pdf_page": 18,
+        "appearance_id": "title",
+        "visible_row_count": 8,
+        "visible_column_count": 6,
+        "concerns": []
+      }
+    ]
+  },
+  {
+    "table_id": "T15",
+    "title_raw": "Table 10: Accident Year 2023 as reported",
+    "table_number_raw": "10",
+    "units_raw": "NGN'000",
+    "source_pages": [
+      20
+    ],
+    "printed_pages": [
+      "19"
+    ],
+    "complexity": "medium",
+    "possible_repeat_of": null,
+    "appearances": [
+      {
+        "pdf_page": 20,
+        "appearance_id": "1",
+        "visible_row_count": 10,
+        "visible_column_count": 6,
+        "concerns": []
+      }
+    ]
+  },
+  {
+    "table_id": "T16",
+    "title_raw": "Table 11: Solvency level on Balance sheet basis",
+    "table_number_raw": "11",
+    "units_raw": "NGN'000",
+    "source_pages": [
+      20
+    ],
+    "printed_pages": [
+      "19"
+    ],
+    "complexity": "low",
+    "possible_repeat_of": null,
+    "appearances": [
+      {
+        "pdf_page": 20,
+        "appearance_id": "2",
+        "visible_row_count": 1,
+        "visible_column_count": 6,
+        "concerns": [
+          {
+            "category": "layout_ambiguity",
+            "confidence": "high",
+            "location": "bottom",
+            "observation": "Table 11 appears truncated with only one data row visible."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "table_id": "T17",
+    "title_raw": "Unnumbered table (referenced in section 6.2)",
+    "table_number_raw": null,
+    "units_raw": "Not explicitly stated (likely NGN'000)",
+    "source_pages": [
+      21
+    ],
+    "printed_pages": [
+      "20"
+    ],
+    "complexity": "medium",
+    "possible_repeat_of": null,
+    "appearances": [
+      {
+        "pdf_page": 21,
+        "appearance_id": "table_1",
+        "visible_row_count": 8,
+        "visible_column_count": 6,
+        "concerns": []
+      }
+    ]
+  },
+  {
+    "table_id": "T18",
+    "title_raw": "Table 12: Measures of financial strength",
+    "table_number_raw": "12",
+    "units_raw": "NGN'000",
+    "source_pages": [
+      21
+    ],
+    "printed_pages": [
+      "20"
+    ],
+    "complexity": "low",
+    "possible_repeat_of": null,
+    "appearances": [
+      {
+        "pdf_page": 21,
+        "appearance_id": "table_2",
+        "visible_row_count": 7,
+        "visible_column_count": 6,
+        "concerns": []
+      }
+    ]
+  },
+  {
+    "table_id": "T19",
+    "title_raw": "",
+    "table_number_raw": null,
+    "units_raw": "NGN (rows 1-3), % (rows 4-12)",
+    "source_pages": [
+      22
+    ],
+    "printed_pages": [
+      "21"
+    ],
+    "complexity": "medium",
+    "possible_repeat_of": null,
+    "appearances": [
+      {
+        "pdf_page": 22,
+        "appearance_id": "table_1",
+        "visible_row_count": 12,
+        "visible_column_count": 6,
+        "concerns": [
+          {
+            "category": "layout_ambiguity",
+            "confidence": "high",
+            "location": "top",
+            "observation": "Column headers (years) are not visible in the grid, though context implies 5 years of data."
+          },
+          {
+            "category": "layout_ambiguity",
+            "confidence": "high",
+            "location": "top",
+            "observation": "Table title is not explicitly printed above the grid."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "table_id": "T20",
+    "title_raw": "Non-life Life insurance contract liabilities and net asset value",
+    "table_number_raw": "1",
+    "units_raw": "In NGN'000",
+    "source_pages": [
+      23
+    ],
+    "printed_pages": [
+      "tables"
+    ],
+    "complexity": "high",
+    "possible_repeat_of": null,
+    "appearances": [
+      {
+        "pdf_page": 23,
+        "appearance_id": "table_1",
+        "visible_row_count": 27,
+        "visible_column_count": 6,
+        "concerns": [
+          {
+            "category": "layout_ambiguity",
+            "confidence": "medium",
+            "location": "header",
+            "observation": "Title contains 'Non-life Life' which may be a typo"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "table_id": "T21",
+    "title_raw": "Historical Combined ratio in each accident year",
+    "table_number_raw": "9",
+    "units_raw": null,
+    "source_pages": [
+      23
+    ],
+    "printed_pages": [
+      "tables"
+    ],
+    "complexity": "low",
+    "possible_repeat_of": null,
+    "appearances": [
+      {
+        "pdf_page": 23,
+        "appearance_id": "table_9",
+        "visible_row_count": 1,
+        "visible_column_count": 6,
+        "concerns": [
+          {
+            "category": "continuation_uncertainty",
+            "confidence": "high",
+            "location": "footer",
+            "observation": "Table is cut off at the bottom of the page"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "table_id": "T22",
+    "title_raw": "Scenario 1: NPV Duration Convexity",
+    "table_number_raw": null,
+    "units_raw": "Naira (implied from chart above)",
+    "source_pages": [
+      27
+    ],
+    "printed_pages": [
+      "26"
+    ],
+    "complexity": "low",
+    "possible_repeat_of": null,
+    "appearances": [
+      {
+        "pdf_page": 27,
+        "appearance_id": "table_1",
+        "visible_row_count": 3,
+        "visible_column_count": 4,
+        "concerns": []
+      }
+    ]
+  },
+  {
+    "table_id": "T23",
+    "title_raw": "Non-life Statement of Financial Position as at 31 December .....",
+    "table_number_raw": "14",
+    "units_raw": "NGN'000",
+    "source_pages": [
+      28
+    ],
+    "printed_pages": [
+      "27"
+    ],
+    "complexity": "medium",
+    "possible_repeat_of": null,
+    "appearances": [
+      {
+        "pdf_page": 28,
+        "appearance_id": "table_1",
+        "visible_row_count": 18,
+        "visible_column_count": 8,
+        "concerns": []
+      }
+    ]
+  },
+  {
+    "table_id": "T24",
+    "title_raw": "Reinsurer / Proportion Shared",
+    "table_number_raw": null,
+    "units_raw": "%",
+    "source_pages": [
+      34
+    ],
+    "printed_pages": [
+      "33"
+    ],
+    "complexity": "low",
+    "possible_repeat_of": null,
+    "appearances": [
+      {
+        "pdf_page": 34,
+        "appearance_id": "table_1",
+        "visible_row_count": 7,
+        "visible_column_count": 2,
+        "concerns": []
+      }
+    ]
+  },
+  {
+    "table_id": "T25",
+    "title_raw": "The treaty has two layers:",
+    "table_number_raw": null,
+    "units_raw": "NGN",
+    "source_pages": [
+      34
+    ],
+    "printed_pages": [
+      "33"
+    ],
+    "complexity": "medium",
+    "possible_repeat_of": null,
+    "appearances": [
+      {
+        "pdf_page": 34,
+        "appearance_id": "table_2",
+        "visible_row_count": 9,
+        "visible_column_count": 3,
+        "concerns": []
+      }
+    ]
+  },
+  {
+    "table_id": "T26",
+    "title_raw": "Reinsurers share of Engineering Surplus treaty",
+    "table_number_raw": null,
+    "units_raw": "Percentage",
+    "source_pages": [
+      36
+    ],
+    "printed_pages": [
+      "35"
+    ],
+    "complexity": "low",
+    "possible_repeat_of": null,
+    "appearances": [
+      {
+        "pdf_page": 36,
+        "appearance_id": "table_1",
+        "visible_row_count": 11,
+        "visible_column_count": 3,
+        "concerns": []
+      }
+    ]
+  },
+  {
+    "table_id": "T27",
+    "title_raw": "ENGINEERING",
+    "table_number_raw": null,
+    "units_raw": "NGN",
+    "source_pages": [
+      36
+    ],
+    "printed_pages": [
+      "35"
+    ],
+    "complexity": "medium",
+    "possible_repeat_of": null,
+    "appearances": [
+      {
+        "pdf_page": 36,
+        "appearance_id": "table_2",
+        "visible_row_count": 10,
+        "visible_column_count": 6,
+        "concerns": []
+      }
+    ]
+  },
+  {
+    "table_id": "T28",
+    "title_raw": "Excess of Loss (XL) Treaty",
+    "table_number_raw": null,
+    "units_raw": "NGN",
+    "source_pages": [
+      37
+    ],
+    "printed_pages": [
+      "36"
+    ],
+    "complexity": "low",
+    "possible_repeat_of": null,
+    "appearances": [
+      {
+        "pdf_page": 37,
+        "appearance_id": "table_1",
+        "visible_row_count": 4,
+        "visible_column_count": 4,
+        "concerns": [
+          {
+            "category": "layout_ambiguity",
+            "confidence": "high",
+            "location": "text_above_table",
+            "observation": "Text states 'summary of the overall one-layer XL cover' but table lists 3 distinct layers (Layer 1, 2, 3)."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "table_id": "T29",
+    "title_raw": "Reinsurer / Proportion Shared",
+    "table_number_raw": null,
+    "units_raw": "Percentages (%)",
+    "source_pages": [
+      38
+    ],
+    "printed_pages": [
+      "37"
+    ],
+    "complexity": "low",
+    "possible_repeat_of": null,
+    "appearances": [
+      {
+        "pdf_page": 38,
+        "appearance_id": "table_1",
+        "visible_row_count": 7,
+        "visible_column_count": 2,
+        "concerns": []
+      }
+    ]
+  },
+  {
+    "table_id": "T30",
+    "title_raw": "General Accident",
+    "table_number_raw": null,
+    "units_raw": "NGN, Percentages (%)",
+    "source_pages": [
+      38
+    ],
+    "printed_pages": [
+      "37"
+    ],
+    "complexity": "medium",
+    "possible_repeat_of": null,
+    "appearances": [
+      {
+        "pdf_page": 38,
+        "appearance_id": "table_2",
+        "visible_row_count": 13,
+        "visible_column_count": 6,
+        "concerns": []
+      }
+    ]
+  },
+  {
+    "table_id": "T31",
+    "title_raw": "Treaty retention and capacity",
+    "table_number_raw": null,
+    "units_raw": "Unknown",
+    "source_pages": [
+      38
+    ],
+    "printed_pages": [
+      "37"
+    ],
+    "complexity": "low",
+    "possible_repeat_of": null,
+    "appearances": [
+      {
+        "pdf_page": 38,
+        "appearance_id": "table_3",
+        "visible_row_count": 1,
+        "visible_column_count": 3,
+        "concerns": [
+          {
+            "category": "layout_ambiguity",
+            "confidence": "high",
+            "location": "bottom",
+            "observation": "Table body is cut off; only header row is visible."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "table_id": "T32",
+    "title_raw": "The reinsurers take 65% share of the Marine Hull treaty, as follows:",
+    "table_number_raw": null,
+    "units_raw": "Percentage",
+    "source_pages": [
+      41
+    ],
+    "printed_pages": [
+      "40"
+    ],
+    "complexity": "low",
+    "possible_repeat_of": null,
+    "appearances": [
+      {
+        "pdf_page": 41,
+        "appearance_id": "table_1",
+        "visible_row_count": 10,
+        "visible_column_count": 2,
+        "concerns": []
+      }
+    ]
+  },
+  {
+    "table_id": "T33",
+    "title_raw": "Marine Cargo Insurance Marine Cargo Surplus Treaty",
+    "table_number_raw": null,
+    "units_raw": "NGN",
+    "source_pages": [
+      41
+    ],
+    "printed_pages": [
+      "40"
+    ],
+    "complexity": "low",
+    "possible_repeat_of": null,
+    "appearances": [
+      {
+        "pdf_page": 41,
+        "appearance_id": "table_2",
+        "visible_row_count": 2,
+        "visible_column_count": 3,
+        "concerns": []
+      }
+    ]
+  },
+  {
+    "table_id": "T34",
+    "title_raw": "The reinsurers take 100% share of the Marine Cargo treaty, as follows:",
+    "table_number_raw": null,
+    "units_raw": "Percentage",
+    "source_pages": [
+      41
+    ],
+    "printed_pages": [
+      "40"
+    ],
+    "complexity": "low",
+    "possible_repeat_of": "table_1",
+    "appearances": [
+      {
+        "pdf_page": 41,
+        "appearance_id": "table_3",
+        "visible_row_count": 10,
+        "visible_column_count": 2,
+        "concerns": []
+      }
+    ]
+  },
+  {
+    "table_id": "T35",
+    "title_raw": "The Motor XL treaty has two layers, as follows:",
+    "table_number_raw": null,
+    "units_raw": "NGN",
+    "source_pages": [
+      42
+    ],
+    "printed_pages": [
+      "41"
+    ],
+    "complexity": "low",
+    "possible_repeat_of": null,
+    "appearances": [
+      {
+        "pdf_page": 42,
+        "appearance_id": "table_1",
+        "visible_row_count": 2,
+        "visible_column_count": 4,
+        "concerns": [
+          {
+            "category": "continuation_uncertainty",
+            "confidence": "high",
+            "location": "bottom",
+            "observation": "Text states 'two layers' but only Layer 1 is visible."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "table_id": "T36",
+    "title_raw": "The treaty has one layer:",
+    "table_number_raw": null,
+    "units_raw": "USD",
+    "source_pages": [
+      45
+    ],
+    "printed_pages": [
+      "44"
+    ],
+    "complexity": "low",
+    "possible_repeat_of": null,
+    "appearances": [
+      {
+        "pdf_page": 45,
+        "appearance_id": "table_1",
+        "visible_row_count": 2,
+        "visible_column_count": 4,
+        "concerns": []
+      }
+    ]
+  },
+  {
+    "table_id": "T37",
+    "title_raw": "From the data on the largest claims in the Oil&Gas branch since 2015, the following can be seen:",
+    "table_number_raw": null,
+    "units_raw": "NGN",
+    "source_pages": [
+      45
+    ],
+    "printed_pages": [
+      "44"
+    ],
+    "complexity": "medium",
+    "possible_repeat_of": null,
+    "appearances": [
+      {
+        "pdf_page": 45,
+        "appearance_id": "table_2",
+        "visible_row_count": 10,
+        "visible_column_count": 6,
+        "concerns": []
+      }
+    ]
+  },
+  {
+    "table_id": "T38",
+    "title_raw": "Agriculture class",
+    "table_number_raw": null,
+    "units_raw": "Percentages (%)",
+    "source_pages": [
+      48
+    ],
+    "printed_pages": [
+      "47"
+    ],
+    "complexity": "low",
+    "possible_repeat_of": null,
+    "appearances": [
+      {
+        "pdf_page": 48,
+        "appearance_id": "table_1",
+        "visible_row_count": 4,
+        "visible_column_count": 4,
+        "concerns": []
+      }
+    ]
+  }
+]

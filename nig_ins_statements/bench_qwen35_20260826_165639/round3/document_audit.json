@@ -1,0 +1,199 @@
+{
+  "audit_complete": true,
+  "document_id": "sterling_fcr_2023",
+  "inventory_table_count": 38,
+  "issues": [
+    {
+      "category": "coverage_gap",
+      "confidence": "high",
+      "evidence": "T08, T12, T16, T20, T21, T23 inventoried but not in provisional",
+      "issue_id": "CG001",
+      "materiality": "material",
+      "observation": "Inventoried tables T08, T12, T16, T20, T21, T23 have no corresponding provisional extraction.",
+      "pdf_pages": [
+        15,
+        16,
+        20,
+        23,
+        28
+      ],
+      "recommended_action": "Re-extract tables from pages 15, 16, 20, 23, 28",
+      "status": "unresolved",
+      "table_ids": [
+        "T08",
+        "T12",
+        "T16",
+        "T20",
+        "T21",
+        "T23"
+      ]
+    },
+    {
+      "category": "repeated_version_difference",
+      "confidence": "high",
+      "evidence": "T04 and T05 contain identical data",
+      "issue_id": "RVD001",
+      "materiality": "informational",
+      "observation": "Table T04 and T05 contain identical data but are listed on different pages (11 and 12) with different titles.",
+      "pdf_pages": [
+        11,
+        12
+      ],
+      "recommended_action": "Verify if T05 is a duplicate or summary",
+      "status": "unresolved",
+      "table_ids": [
+        "T04",
+        "T05"
+      ]
+    },
+    {
+      "category": "repeated_version_difference",
+      "confidence": "high",
+      "evidence": "T01 and T20 share the same title",
+      "issue_id": "RVD002",
+      "materiality": "informational",
+      "observation": "Table T01 and T20 share the same title 'Non-life Life insurance contract liabilities and net asset value'. T20 is missing from provisional.",
+      "pdf_pages": [
+        3,
+        23
+      ],
+      "recommended_action": "Check if T20 is a duplicate of T01",
+      "status": "unresolved",
+      "table_ids": [
+        "T01",
+        "T20"
+      ]
+    },
+    {
+      "category": "repeated_version_difference",
+      "confidence": "high",
+      "evidence": "T14 and T21 share the same title",
+      "issue_id": "RVD003",
+      "materiality": "informational",
+      "observation": "Table T14 and T21 share the same title 'Historical Combined ratio in each accident year'. T21 is missing from provisional.",
+      "pdf_pages": [
+        18,
+        23
+      ],
+      "recommended_action": "Check if T21 is a duplicate of T14",
+      "status": "unresolved",
+      "table_ids": [
+        "T14",
+        "T21"
+      ]
+    },
+    {
+      "category": "arithmetic_anomaly",
+      "confidence": "medium",
+      "evidence": "T01 Revenue 5041051 vs T06 Revenue 5041050",
+      "issue_id": "AA001",
+      "materiality": "informational",
+      "observation": "Total Insurance Revenue in T01 (5041051) differs from Gross earned premiums in T06 (5041050) by 1 NGN'000.",
+      "pdf_pages": [
+        3,
+        13
+      ],
+      "recommended_action": "Verify revenue figures",
+      "status": "unresolved",
+      "table_ids": [
+        "T01",
+        "T06"
+      ]
+    },
+    {
+      "category": "cross_table_inconsistency",
+      "confidence": "high",
+      "evidence": "T01 Liabilities 172171 vs T15 Liabilities 172.171",
+      "issue_id": "CTI001",
+      "materiality": "material",
+      "observation": "Insurance Contract Liabilities for General Accident in T01 (172171) differs from T15 (172.171) by a factor of 1000, suggesting unit mismatch.",
+      "pdf_pages": [
+        3,
+        20
+      ],
+      "recommended_action": "Verify units for T15",
+      "status": "unresolved",
+      "table_ids": [
+        "T01",
+        "T15"
+      ]
+    },
+    {
+      "category": "cross_table_inconsistency",
+      "confidence": "high",
+      "evidence": "T01 Solvency 144.89% vs T19 Solvency 145%",
+      "issue_id": "CTI002",
+      "materiality": "informational",
+      "observation": "Solvency Capital Ratio in T01 (144.89%) differs from T19 (145%).",
+      "pdf_pages": [
+        3,
+        22
+      ],
+      "recommended_action": "Verify rounding",
+      "status": "unresolved",
+      "table_ids": [
+        "T01",
+        "T19"
+      ]
+    },
+    {
+      "category": "layout_ambiguity",
+      "confidence": "high",
+      "evidence": "T13 has no headers",
+      "issue_id": "LA001",
+      "materiality": "informational",
+      "observation": "Table T13 has no headers extracted.",
+      "pdf_pages": [
+        18
+      ],
+      "recommended_action": "Manually verify headers for T13",
+      "status": "unresolved",
+      "table_ids": [
+        "T13"
+      ]
+    },
+    {
+      "category": "extraction_uncertainty",
+      "confidence": "high",
+      "evidence": "T18 has no rows",
+      "issue_id": "EU001",
+      "materiality": "informational",
+      "observation": "Table T18 has no normalized rows extracted despite being inventoried.",
+      "pdf_pages": [
+        21
+      ],
+      "recommended_action": "Re-extract T18",
+      "status": "unresolved",
+      "table_ids": [
+        "T18"
+      ]
+    },
+    {
+      "category": "extraction_uncertainty",
+      "confidence": "high",
+      "evidence": "T05 and T19 have empty titles",
+      "issue_id": "EU002",
+      "materiality": "informational",
+      "observation": "Table T05 and T19 have empty titles in provisional extraction.",
+      "pdf_pages": [
+        12,
+        22
+      ],
+      "recommended_action": "Verify titles for T05 and T19",
+      "status": "unresolved",
+      "table_ids": [
+        "T05",
+        "T19"
+      ]
+    }
+  ],
+  "missing_pdf_pages": [
+    15,
+    16,
+    20,
+    23,
+    28
+  ],
+  "page_coverage_complete": false,
+  "provisional_table_count": 32
+}

@@ -1,0 +1,103 @@
+{
+  "cell_flags": [],
+  "concerns": [],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "footnotes_raw": [],
+  "headers_raw": [
+    "Class",
+    "2019",
+    "2020",
+    "2021",
+    "2022",
+    "2023"
+  ],
+  "normalized_rows": [],
+  "pages_seen": [
+    22,
+    23,
+    24
+  ],
+  "rows_raw": [
+    [
+      "General Accident",
+      "91%",
+      "58%",
+      "85%",
+      "75%",
+      "81%"
+    ],
+    [
+      "Motor",
+      "71%",
+      "61%",
+      "73%",
+      "92%",
+      "69%"
+    ],
+    [
+      "Marine",
+      "72%",
+      "53%",
+      "64%",
+      "92%",
+      "62%"
+    ],
+    [
+      "Engineering",
+      "60%",
+      "40%",
+      "60%",
+      "41%",
+      "63%"
+    ],
+    [
+      "Bond",
+      "56%",
+      "42%",
+      "48%",
+      "49%",
+      "49%"
+    ],
+    [
+      "Fire",
+      "96%",
+      "75%",
+      "97%",
+      "81%",
+      "80%"
+    ],
+    [
+      "Oil & Gas",
+      "63%",
+      "49%",
+      "75%",
+      "41%",
+      "54%"
+    ],
+    [
+      "Agriculture",
+      "0%",
+      "0%",
+      "0%",
+      "305%",
+      "451%"
+    ],
+    [
+      "Aviation",
+      "0%",
+      "0%",
+      "0%",
+      "0%",
+      "0%"
+    ]
+  ],
+  "source_pages": [],
+  "table_complete": true,
+  "table_id": "T24",
+  "table_number_raw": "Table 9",
+  "title_raw": "Historical Combined ratio in each accident year",
+  "units_raw": null,
+  "_header_width": 6,
+  "_row_width": 6
+}

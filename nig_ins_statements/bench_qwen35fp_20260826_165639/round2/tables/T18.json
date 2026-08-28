@@ -1,0 +1,145 @@
+{
+  "cell_flags": [
+    {
+      "candidate_readings": [
+        "General Accident",
+        "General Accident"
+      ],
+      "column_index": 0,
+      "confidence": "high",
+      "inferred_value": null,
+      "normalized_value": "General Accident",
+      "printed_value": "General Accident",
+      "reason": "",
+      "row_index": 1,
+      "source_pdf_page": 20,
+      "status": "printed"
+    },
+    {
+      "candidate_readings": [
+        "119.088",
+        "119.088"
+      ],
+      "column_index": 1,
+      "confidence": "high",
+      "inferred_value": null,
+      "normalized_value": 119088,
+      "printed_value": "119.088",
+      "reason": "",
+      "row_index": 1,
+      "source_pdf_page": 20,
+      "status": "printed"
+    },
+    {
+      "candidate_readings": [
+        "-572,454",
+        "-572,454"
+      ],
+      "column_index": 4,
+      "confidence": "high",
+      "inferred_value": null,
+      "normalized_value": -572454,
+      "printed_value": "-572,454",
+      "reason": "",
+      "row_index": 6,
+      "source_pdf_page": 21,
+      "status": "printed"
+    }
+  ],
+  "concerns": [],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "footnotes_raw": [],
+  "headers_raw": [
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "normalized_rows": [
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      -572454,
+      null,
+      -324352,
+      -324352
+    ]
+  ],
+  "pages_seen": [
+    19
+  ],
+  "rows_raw": [
+    [
+      ""
+    ],
+    [
+      ""
+    ],
+    [
+      ""
+    ],
+    [
+      ""
+    ],
+    [
+      ""
+    ],
+    [
+      ""
+    ],
+    [
+      ""
+    ]
+  ],
+  "source_pages": [],
+  "table_complete": true,
+  "table_id": "T18",
+  "table_number_raw": "Table 10",
+  "title_raw": "Table 10: Accident Year 2023 as reported Source: Valuation Report",
+  "units_raw": "NGN'000",
+  "_header_width": 5,
+  "_row_width": 1
+}

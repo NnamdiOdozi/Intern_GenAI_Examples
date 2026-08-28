@@ -1,0 +1,121 @@
+{
+  "checks": {
+    "continuation_verified": true,
+    "header_width_consistent": true,
+    "page_citations_verified": true,
+    "row_widths_consistent": true,
+    "totals_status": "reconciles"
+  },
+  "corrections": [
+    {
+      "column_index": 0,
+      "confidence": "high",
+      "reason": "OCR misread '1,365,598' as '1365598.0'. Comma separators were dropped and decimal point incorrectly added.",
+      "round2_value": "1,365,598",
+      "row_index": 2,
+      "source_pdf_page": 1,
+      "validated_value": "1,365,598"
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misread '1,335,423' as '1335423.0'. Comma separators were dropped and decimal point incorrectly added.",
+      "round2_value": "1,335,423",
+      "row_index": 2,
+      "source_pdf_page": 1,
+      "validated_value": "1,335,423"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread '782,216' as '782216.0'. Comma separator was dropped and decimal point incorrectly added.",
+      "round2_value": "782,216",
+      "row_index": 2,
+      "source_pdf_page": 1,
+      "validated_value": "782,216"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread '951,927' as '951927.0'. Comma separator was dropped and decimal point incorrectly added.",
+      "round2_value": "951,927",
+      "row_index": 2,
+      "source_pdf_page": 1,
+      "validated_value": "951,927"
+    },
+    {
+      "column_index": 4,
+      "confidence": "high",
+      "reason": "OCR misread '2 ,176 ,599' as '2 ,176 ,599 .0'. Comma separators were dropped and decimal point incorrectly added.",
+      "round2_value": "2 ,176 ,599",
+      "row_index": 2,
+      "source_pdf_page": 1,
+      "validated_value": "2 ,176 ,599"
+    }
+  ],
+  "final_headers_raw": [
+    "NGN'000",
+    "2019",
+    "2020",
+    "2021",
+    "2022",
+    "2023"
+  ],
+  "final_normalized_rows": [
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Gross Technical Best Estimate Liabilities (BEL)",
+      "1 ,365 ,598",
+      "1 ,335 ,423",
+      "782 ,216",
+      "951 ,927",
+      "2 ,176 ,599"
+    ]
+  ],
+  "final_rows_raw": [
+    [
+      "NGN'000",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Table 1 : Trend in Solvency cover in each year  to statements",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Gross Technical Best Estimate Liabilities (BEL)",
+      " ",
+      " ",
+      " ",
+      " ",
+      ""
+    ]
+  ],
+  "final_title_raw": "Table ",
+  "issues": [],
+  "source_pages": [],
+  "table_complete": true,
+  "table_id": "T ",
+  "verdict": "corrected"
+}

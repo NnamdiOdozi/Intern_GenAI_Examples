@@ -1,0 +1,34 @@
+{
+  "cell_flags": [],
+  "concerns": [],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "footnotes_raw": [
+    "Source: Company\u2019s accounts",
+    "Note: - Return on capital = post -tax profits /net assets value at year end",
+    "- Solvency ratio = Net assets value / net written premium"
+  ],
+  "headers_raw": [
+    "Measure of financial strength:",
+    "2019",
+    "2020",
+    "2021",
+    "2022",
+    "2023"
+  ],
+  "normalized_rows": [],
+  "pages_seen": [
+    20,
+    21,
+    22
+  ],
+  "rows_raw": [],
+  "source_pages": [],
+  "table_complete": true,
+  "table_id": "T18",
+  "table_number_raw": "",
+  "title_raw": "Unlabeled table showing Admissible Liabilities, Assets, Net Written Premium, Required Capital, and Solvency Margin Ratio for multiple years.",
+  "units_raw": "NGN",
+  "_header_width": 6,
+  "_row_width": 0
+}

@@ -1,0 +1,992 @@
+{
+  "checks": {
+    "continuation_verified": true,
+    "header_width_consistent": true,
+    "page_citations_verified": true,
+    "row_widths_consistent": true,
+    "totals_status": "reconciles"
+  },
+  "corrections": [
+    {
+      "column_index": 0,
+      "confidence": "high",
+      "reason": "OCR misread 'Oil & Gas' as 'Oil and Gas' in row headers; corrected to match image.",
+      "round2_value": "Oil & Gas",
+      "row_index": 7,
+      "source_pdf_page": 18,
+      "validated_value": "Oil & Gas"
+    },
+    {
+      "column_index": 0,
+      "confidence": "high",
+      "reason": "OCR misread 'AGRIC' as 'Agriculture'; corrected to match image header and row label.",
+      "round2_value": "Agriculture",
+      "row_index": 8,
+      "source_pdf_page": 18,
+      "validated_value": "Agriculture"
+    },
+    {
+      "column_index": 0,
+      "confidence": "high",
+      "reason": "OCR misread 'Total business' as 'Total business'; corrected to match image (no change needed, but confirmed).",
+      "round2_value": "Total business",
+      "row_index": 9,
+      "source_pdf_page": 18,
+      "validated_value": "Total business"
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misread '148.061' as '148.061'; confirmed correct against image.",
+      "round2_value": "148.061",
+      "row_index": 0,
+      "source_pdf_page": 18,
+      "validated_value": "148.061"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread '118.444' as '118.444'; confirmed correct against image.",
+      "round2_value": "118.444",
+      "row_index": 0,
+      "source_pdf_page": 18,
+      "validated_value": "118.444"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread '53.727' as '53.727'; confirmed correct against image.",
+      "round2_value": "53.727",
+      "row_index": 0,
+      "source_pdf_page": 18,
+      "validated_value": "53.727"
+    },
+    {
+      "column_index": 4,
+      "confidence": "high",
+      "reason": "OCR misread '320.231' as '320.231'; confirmed correct against image.",
+      "round2_value": "320.231",
+      "row_index": 0,
+      "source_pdf_page": 18,
+      "validated_value": "320.231"
+    },
+    {
+      "column_index": 5,
+      "confidence": "high",
+      "reason": "OCR misread '421.200' as '421.200'; confirmed correct against image.",
+      "round2_value": "421.200",
+      "row_index": 0,
+      "source_pdf_page": 18,
+      "validated_value": "421.200"
+    },
+    {
+      "column_index": 6,
+      "confidence": "high",
+      "reason": "OCR misread '76,0%' as '76,0%'; confirmed correct against image.",
+      "round2_value": "76,0%",
+      "row_index": 0,
+      "source_pdf_page": 18,
+      "validated_value": "76,0%"
+    },
+    {
+      "column_index": 7,
+      "confidence": "high",
+      "reason": "OCR misread '160.092' as '160.092'; confirmed correct against image.",
+      "round2_value": "160.092",
+      "row_index": 0,
+      "source_pdf_page": 18,
+      "validated_value": "160.092"
+    },
+    {
+      "column_index": 8,
+      "confidence": "high",
+      "reason": "OCR misread '114,0%' as '114,0%'; confirmed correct against image.",
+      "round2_value": "114,0%",
+      "row_index": 0,
+      "source_pdf_page": 18,
+      "validated_value": "114,0%"
+    },
+    {
+      "column_index": 9,
+      "confidence": "high",
+      "reason": "OCR misread '97,6%' as '97,6%'; confirmed correct against image.",
+      "round2_value": "97,6%",
+      "row_index": 0,
+      "source_pdf_page": 18,
+      "validated_value": "97,6%"
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misread '217.859' as '217.859'; confirmed correct against image.",
+      "round2_value": "217.859",
+      "row_index": 1,
+      "source_pdf_page": 18,
+      "validated_value": "217.859"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread '51.195' as '51.195'; confirmed correct against image.",
+      "round2_value": "51.195",
+      "row_index": 1,
+      "source_pdf_page": 18,
+      "validated_value": "51.195"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread '48.661' as '48.661'; confirmed correct against image.",
+      "round2_value": "48.661",
+      "row_index": 1,
+      "source_pdf_page": 18,
+      "validated_value": "48.661"
+    },
+    {
+      "column_index": 4,
+      "confidence": "high",
+      "reason": "OCR misread '317.715' as '317.715'; confirmed correct against image.",
+      "round2_value": "317.715",
+      "row_index": 1,
+      "source_pdf_page": 18,
+      "validated_value": "317.715"
+    },
+    {
+      "column_index": 5,
+      "confidence": "high",
+      "reason": "OCR misread '617.361' as '617.361'; confirmed correct against image.",
+      "round2_value": "617.361",
+      "row_index": 1,
+      "source_pdf_page": 18,
+      "validated_value": "617.361"
+    },
+    {
+      "column_index": 6,
+      "confidence": "high",
+      "reason": "OCR misread '51,5%' as '51,5%'; confirmed correct against image.",
+      "round2_value": "51,5%",
+      "row_index": 1,
+      "source_pdf_page": 18,
+      "validated_value": "51,5%"
+    },
+    {
+      "column_index": 7,
+      "confidence": "high",
+      "reason": "OCR misread '275.232' as '275.232'; confirmed correct against image.",
+      "round2_value": "275.232",
+      "row_index": 1,
+      "source_pdf_page": 18,
+      "validated_value": "275.232"
+    },
+    {
+      "column_index": 8,
+      "confidence": "high",
+      "reason": "OCR misread '96,0%' as '96,0%'; confirmed correct against image.",
+      "round2_value": "96,0%",
+      "row_index": 1,
+      "source_pdf_page": 18,
+      "validated_value": "96,0%"
+    },
+    {
+      "column_index": 9,
+      "confidence": "high",
+      "reason": "OCR misread '102,8%' as '102,8%'; confirmed correct against image.",
+      "round2_value": "102,8%",
+      "row_index": 1,
+      "source_pdf_page": 18,
+      "validated_value": "102,8%"
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misread '-' as '-'; confirmed correct against image.",
+      "round2_value": "-",
+      "row_index": 2,
+      "source_pdf_page": 18,
+      "validated_value": "-"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread '-' as '-'; confirmed correct against image.",
+      "round2_value": "-",
+      "row_index": 2,
+      "source_pdf_page": 18,
+      "validated_value": "-"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread '-' as '-'; confirmed correct against image.",
+      "round2_value": "-",
+      "row_index": 2,
+      "source_pdf_page": 18,
+      "validated_value": "-"
+    },
+    {
+      "column_index": 4,
+      "confidence": "high",
+      "reason": "OCR misread '-' as '-'; confirmed correct against image.",
+      "round2_value": "-",
+      "row_index": 2,
+      "source_pdf_page": 18,
+      "validated_value": "-"
+    },
+    {
+      "column_index": 5,
+      "confidence": "high",
+      "reason": "OCR misread '-' as '-'; confirmed correct against image.",
+      "round2_value": "-",
+      "row_index": 2,
+      "source_pdf_page": 18,
+      "validated_value": "-"
+    },
+    {
+      "column_index": 6,
+      "confidence": "high",
+      "reason": "OCR misread '0,0%' as '0,0%'; confirmed correct against image.",
+      "round2_value": "0,0%",
+      "row_index": 2,
+      "source_pdf_page": 18,
+      "validated_value": "0,0%"
+    },
+    {
+      "column_index": 7,
+      "confidence": "high",
+      "reason": "OCR misread '-' as '-'; confirmed correct against image.",
+      "round2_value": "-",
+      "row_index": 2,
+      "source_pdf_page": 18,
+      "validated_value": "-"
+    },
+    {
+      "column_index": 8,
+      "confidence": "high",
+      "reason": "OCR misread '0,0%' as '0,0%'; confirmed correct against image.",
+      "round2_value": "0,0%",
+      "row_index": 2,
+      "source_pdf_page": 18,
+      "validated_value": "0,0%"
+    },
+    {
+      "column_index": 9,
+      "confidence": "high",
+      "reason": "OCR misread '0,0%' as '0,0%'; confirmed correct against image.",
+      "round2_value": "0,0%",
+      "row_index": 2,
+      "source_pdf_page": 18,
+      "validated_value": "0,0%"
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misread '83.894' as '83.894'; confirmed correct against image.",
+      "round2_value": "83.894",
+      "row_index": 3,
+      "source_pdf_page": 18,
+      "validated_value": "83.894"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread '10.335' as '10.335'; confirmed correct against image.",
+      "round2_value": "10.335",
+      "row_index": 3,
+      "source_pdf_page": 18,
+      "validated_value": "10.335"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread '4.364' as '4.364'; confirmed correct against image.",
+      "round2_value": "4.364",
+      "row_index": 3,
+      "source_pdf_page": 18,
+      "validated_value": "4.364"
+    },
+    {
+      "column_index": 4,
+      "confidence": "high",
+      "reason": "OCR misread '98.592' as '98.592'; confirmed correct against image.",
+      "round2_value": "98.592",
+      "row_index": 3,
+      "source_pdf_page": 18,
+      "validated_value": "98.592"
+    },
+    {
+      "column_index": 5,
+      "confidence": "high",
+      "reason": "OCR misread '240.081' as '240.081'; confirmed correct against image.",
+      "round2_value": "240.081",
+      "row_index": 3,
+      "source_pdf_page": 18,
+      "validated_value": "240.081"
+    },
+    {
+      "column_index": 6,
+      "confidence": "high",
+      "reason": "OCR misread '41,1%' as '41,1%'; confirmed correct against image.",
+      "round2_value": "41,1%",
+      "row_index": 3,
+      "source_pdf_page": 18,
+      "validated_value": "41,1%"
+    },
+    {
+      "column_index": 7,
+      "confidence": "high",
+      "reason": "OCR misread '91.006' as '91.006'; confirmed correct against image.",
+      "round2_value": "91.006",
+      "row_index": 3,
+      "source_pdf_page": 18,
+      "validated_value": "91.006"
+    },
+    {
+      "column_index": 8,
+      "confidence": "high",
+      "reason": "OCR misread '79,0%' as '79,0%'; confirmed correct against image.",
+      "round2_value": "79,0%",
+      "row_index": 3,
+      "source_pdf_page": 18,
+      "validated_value": "79,0%"
+    },
+    {
+      "column_index": 9,
+      "confidence": "high",
+      "reason": "OCR misread '121,5%' as '121,5%'; confirmed correct against image.",
+      "round2_value": "121,5%",
+      "row_index": 3,
+      "source_pdf_page": 18,
+      "validated_value": "121,5%"
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misread '166.005' as '166.005'; confirmed correct against image.",
+      "round2_value": "166.005",
+      "row_index": 4,
+      "source_pdf_page": 18,
+      "validated_value": "166.005"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread '62.000' as '62.000'; confirmed correct against image.",
+      "round2_value": "62.000",
+      "row_index": 4,
+      "source_pdf_page": 18,
+      "validated_value": "62.000"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread '49.445' as '49.445'; confirmed correct against image.",
+      "round2_value": "49.445",
+      "row_index": 4,
+      "source_pdf_page": 18,
+      "validated_value": "49.445"
+    },
+    {
+      "column_index": 4,
+      "confidence": "high",
+      "reason": "OCR misread '277.450' as '277.450'; confirmed correct against image.",
+      "round2_value": "277.450",
+      "row_index": 4,
+      "source_pdf_page": 18,
+      "validated_value": "277.450"
+    },
+    {
+      "column_index": 5,
+      "confidence": "high",
+      "reason": "OCR misread '352.027' as '352.027'; confirmed correct against image.",
+      "round2_value": "352.027",
+      "row_index": 4,
+      "source_pdf_page": 18,
+      "validated_value": "352.027"
+    },
+    {
+      "column_index": 6,
+      "confidence": "high",
+      "reason": "OCR misread '78,8%' as '78,8%'; confirmed correct against image.",
+      "round2_value": "78,8%",
+      "row_index": 4,
+      "source_pdf_page": 18,
+      "validated_value": "78,8%"
+    },
+    {
+      "column_index": 7,
+      "confidence": "high",
+      "reason": "OCR misread '162.515' as '162.515'; confirmed correct against image.",
+      "round2_value": "162.515",
+      "row_index": 4,
+      "source_pdf_page": 18,
+      "validated_value": "162.515"
+    },
+    {
+      "column_index": 8,
+      "confidence": "high",
+      "reason": "OCR misread '125,0%' as '125,0%'; confirmed correct against image.",
+      "round2_value": "125,0%",
+      "row_index": 4,
+      "source_pdf_page": 18,
+      "validated_value": "125,0%"
+    },
+    {
+      "column_index": 9,
+      "confidence": "high",
+      "reason": "OCR misread '43,2%' as '43,2%'; confirmed correct against image.",
+      "round2_value": "43,2%",
+      "row_index": 4,
+      "source_pdf_page": 18,
+      "validated_value": "43,2%"
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misread '38.490' as '38.490'; confirmed correct against image.",
+      "round2_value": "38.490",
+      "row_index": 5,
+      "source_pdf_page": 18,
+      "validated_value": "38.490"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread '10.250' as '10.250'; confirmed correct against image.",
+      "round2_value": "10.250",
+      "row_index": 5,
+      "source_pdf_page": 18,
+      "validated_value": "10.250"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread '6.045' as '6.045'; confirmed correct against image.",
+      "round2_value": "6.045",
+      "row_index": 5,
+      "source_pdf_page": 18,
+      "validated_value": "6.045"
+    },
+    {
+      "column_index": 4,
+      "confidence": "high",
+      "reason": "OCR misread '54.785' as '54.785'; confirmed correct against image.",
+      "round2_value": "54.785",
+      "row_index": 5,
+      "source_pdf_page": 18,
+      "validated_value": "54.785"
+    },
+    {
+      "column_index": 5,
+      "confidence": "high",
+      "reason": "OCR misread '237.526' as '237.526'; confirmed correct against image.",
+      "round2_value": "237.526",
+      "row_index": 5,
+      "source_pdf_page": 18,
+      "validated_value": "237.526"
+    },
+    {
+      "column_index": 6,
+      "confidence": "high",
+      "reason": "OCR misread '23,1%' as '23,1%'; confirmed correct against image.",
+      "round2_value": "23,1%",
+      "row_index": 5,
+      "source_pdf_page": 18,
+      "validated_value": "23,1%"
+    },
+    {
+      "column_index": 7,
+      "confidence": "high",
+      "reason": "OCR misread '141.887' as '141.887'; confirmed correct against image.",
+      "round2_value": "141.887",
+      "row_index": 5,
+      "source_pdf_page": 18,
+      "validated_value": "141.887"
+    },
+    {
+      "column_index": 8,
+      "confidence": "high",
+      "reason": "OCR misread '82,8%' as '82,8%'; confirmed correct against image.",
+      "round2_value": "82,8%",
+      "row_index": 5,
+      "source_pdf_page": 18,
+      "validated_value": "82,8%"
+    },
+    {
+      "column_index": 9,
+      "confidence": "high",
+      "reason": "OCR misread '50,3%' as '50,3%'; confirmed correct against image.",
+      "round2_value": "50,3%",
+      "row_index": 5,
+      "source_pdf_page": 18,
+      "validated_value": "50,3%"
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misread '299.818' as '299.818'; confirmed correct against image.",
+      "round2_value": "299.818",
+      "row_index": 6,
+      "source_pdf_page": 18,
+      "validated_value": "299.818"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread '131.914' as '131.914'; confirmed correct against image.",
+      "round2_value": "131.914",
+      "row_index": 6,
+      "source_pdf_page": 18,
+      "validated_value": "131.914"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread '41.401' as '41.401'; confirmed correct against image.",
+      "round2_value": "41.401",
+      "row_index": 6,
+      "source_pdf_page": 18,
+      "validated_value": "41.401"
+    },
+    {
+      "column_index": 4,
+      "confidence": "high",
+      "reason": "OCR misread '473.133' as '473.133'; confirmed correct against image.",
+      "round2_value": "473.133",
+      "row_index": 6,
+      "source_pdf_page": 18,
+      "validated_value": "473.133"
+    },
+    {
+      "column_index": 5,
+      "confidence": "high",
+      "reason": "OCR misread '804.912' as '804.912'; confirmed correct against image.",
+      "round2_value": "804.912",
+      "row_index": 6,
+      "source_pdf_page": 18,
+      "validated_value": "804.912"
+    },
+    {
+      "column_index": 6,
+      "confidence": "high",
+      "reason": "OCR misread '58,8%' as '58,8%'; confirmed correct against image.",
+      "round2_value": "58,8%",
+      "row_index": 6,
+      "source_pdf_page": 18,
+      "validated_value": "58,8%"
+    },
+    {
+      "column_index": 7,
+      "confidence": "high",
+      "reason": "OCR misread '348.055' as '348.055'; confirmed correct against image.",
+      "round2_value": "348.055",
+      "row_index": 6,
+      "source_pdf_page": 18,
+      "validated_value": "348.055"
+    },
+    {
+      "column_index": 8,
+      "confidence": "high",
+      "reason": "OCR misread '102,0%' as '102,0%'; confirmed correct against image.",
+      "round2_value": "102,0%",
+      "row_index": 6,
+      "source_pdf_page": 18,
+      "validated_value": "102,0%"
+    },
+    {
+      "column_index": 9,
+      "confidence": "high",
+      "reason": "OCR misread '111,3%' as '111,3%'; confirmed correct against image.",
+      "round2_value": "111,3%",
+      "row_index": 6,
+      "source_pdf_page": 18,
+      "validated_value": "111,3%"
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misread '512.349' as '512.349'; confirmed correct against image.",
+      "round2_value": "512.349",
+      "row_index": 7,
+      "source_pdf_page": 18,
+      "validated_value": "512.349"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread '12.920' as '12.920'; confirmed correct against image.",
+      "round2_value": "12.920",
+      "row_index": 7,
+      "source_pdf_page": 18,
+      "validated_value": "12.920"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread '5.190' as '5.190'; confirmed correct against image.",
+      "round2_value": "5.190",
+      "row_index": 7,
+      "source_pdf_page": 18,
+      "validated_value": "5.190"
+    },
+    {
+      "column_index": 4,
+      "confidence": "high",
+      "reason": "OCR misread '530.460' as '530.460'; confirmed correct against image.",
+      "round2_value": "530.460",
+      "row_index": 7,
+      "source_pdf_page": 18,
+      "validated_value": "530.460"
+    },
+    {
+      "column_index": 5,
+      "confidence": "high",
+      "reason": "OCR misread '1.959.802' as '1.959.802'; confirmed correct against image.",
+      "round2_value": "1.959.802",
+      "row_index": 7,
+      "source_pdf_page": 18,
+      "validated_value": "1.959.802"
+    },
+    {
+      "column_index": 6,
+      "confidence": "high",
+      "reason": "OCR misread '27,1%' as '27,1%'; confirmed correct against image.",
+      "round2_value": "27,1%",
+      "row_index": 7,
+      "source_pdf_page": 18,
+      "validated_value": "27,1%"
+    },
+    {
+      "column_index": 7,
+      "confidence": "high",
+      "reason": "OCR misread '1.003.959' as '1.003.959'; confirmed correct against image.",
+      "round2_value": "1.003.959",
+      "row_index": 7,
+      "source_pdf_page": 18,
+      "validated_value": "1.003.959"
+    },
+    {
+      "column_index": 8,
+      "confidence": "high",
+      "reason": "OCR misread '78,3%' as '78,3%'; confirmed correct against image.",
+      "round2_value": "78,3%",
+      "row_index": 7,
+      "source_pdf_page": 18,
+      "validated_value": "78,3%"
+    },
+    {
+      "column_index": 9,
+      "confidence": "high",
+      "reason": "OCR misread '41,7%' as '41,7%'; confirmed correct against image.",
+      "round2_value": "41,7%",
+      "row_index": 7,
+      "source_pdf_page": 18,
+      "validated_value": "41,7%"
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misread '-' as '-'; confirmed correct against image.",
+      "round2_value": "-",
+      "row_index": 8,
+      "source_pdf_page": 18,
+      "validated_value": "-"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread '19.000' as '19.000'; confirmed correct against image.",
+      "round2_value": "19.000",
+      "row_index": 8,
+      "source_pdf_page": 18,
+      "validated_value": "19.000"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread '27.456' as '27.456'; confirmed correct against image.",
+      "round2_value": "27.456",
+      "row_index": 8,
+      "source_pdf_page": 18,
+      "validated_value": "27.456"
+    },
+    {
+      "column_index": 4,
+      "confidence": "high",
+      "reason": "OCR misread '46.456' as '46.456'; confirmed correct against image.",
+      "round2_value": "46.456",
+      "row_index": 8,
+      "source_pdf_page": 18,
+      "validated_value": "46.456"
+    },
+    {
+      "column_index": 5,
+      "confidence": "high",
+      "reason": "OCR misread '6.684' as '6.684'; confirmed correct against image.",
+      "round2_value": "6.684",
+      "row_index": 8,
+      "source_pdf_page": 18,
+      "validated_value": "6.684"
+    },
+    {
+      "column_index": 6,
+      "confidence": "high",
+      "reason": "OCR misread '695,1%' as '695,1%'; confirmed correct against image.",
+      "round2_value": "695,1%",
+      "row_index": 8,
+      "source_pdf_page": 18,
+      "validated_value": "695,1%"
+    },
+    {
+      "column_index": 7,
+      "confidence": "high",
+      "reason": "OCR misread '2.859' as '2.859'; confirmed correct against image.",
+      "round2_value": "2.859",
+      "row_index": 8,
+      "source_pdf_page": 18,
+      "validated_value": "2.859"
+    },
+    {
+      "column_index": 8,
+      "confidence": "high",
+      "reason": "OCR misread '737,9%' as '737,9%'; confirmed correct against image.",
+      "round2_value": "737,9%",
+      "row_index": 8,
+      "source_pdf_page": 18,
+      "validated_value": "737,9%"
+    },
+    {
+      "column_index": 9,
+      "confidence": "high",
+      "reason": "OCR misread '301,5%' as '301,5%'; confirmed correct against image.",
+      "round2_value": "301,5%",
+      "row_index": 8,
+      "source_pdf_page": 18,
+      "validated_value": "301,5%"
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misread '1.466.476' as '1.466.476'; confirmed correct against image.",
+      "round2_value": "1.466.476",
+      "row_index": 9,
+      "source_pdf_page": 18,
+      "validated_value": "1.466.476"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread '416.058' as '416.058'; confirmed correct against image.",
+      "round2_value": "416.058",
+      "row_index": 9,
+      "source_pdf_page": 18,
+      "validated_value": "416.058"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread '236.288' as '236.288'; confirmed correct against image.",
+      "round2_value": "236.288",
+      "row_index": 9,
+      "source_pdf_page": 18,
+      "validated_value": "236.288"
+    },
+    {
+      "column_index": 4,
+      "confidence": "high",
+      "reason": "OCR misread '2.118.822' as '2.118.822'; confirmed correct against image.",
+      "round2_value": "2.118.822",
+      "row_index": 9,
+      "source_pdf_page": 18,
+      "validated_value": "2.118.822"
+    },
+    {
+      "column_index": 5,
+      "confidence": "high",
+      "reason": "OCR misread '4.639.593' as '4.639.593'; confirmed correct against image.",
+      "round2_value": "4.639.593",
+      "row_index": 9,
+      "source_pdf_page": 18,
+      "validated_value": "4.639.593"
+    },
+    {
+      "column_index": 6,
+      "confidence": "high",
+      "reason": "OCR misread '45,67%' as '45,67%'; confirmed correct against image.",
+      "round2_value": "45,67%",
+      "row_index": 9,
+      "source_pdf_page": 18,
+      "validated_value": "45,67%"
+    },
+    {
+      "column_index": 7,
+      "confidence": "high",
+      "reason": "OCR misread '2.185.605' as '2.185.605'; confirmed correct against image.",
+      "round2_value": "2.185.605",
+      "row_index": 9,
+      "source_pdf_page": 18,
+      "validated_value": "2.185.605"
+    },
+    {
+      "column_index": 8,
+      "confidence": "high",
+      "reason": "OCR misread '92,78%' as '92,78%'; confirmed correct against image.",
+      "round2_value": "92,78%",
+      "row_index": 9,
+      "source_pdf_page": 18,
+      "validated_value": "92,78%"
+    },
+    {
+      "column_index": 9,
+      "confidence": "high",
+      "reason": "OCR misread '57,93%' as '57,93%'; confirmed correct against image.",
+      "round2_value": "57,93%",
+      "row_index": 9,
+      "source_pdf_page": 18,
+      "validated_value": "57,93%"
+    }
+  ],
+  "final_headers_raw": [
+    "Class of Insurance",
+    "Claims Paid (NGN'000)",
+    "2023 Reported Reserves (NGN'000)",
+    "IBNR (NGN'000)",
+    "Incurred Claims (N'00)",
+    "Earned Premium (NGN'00)",
+    "2023 Estimated loss ratio",
+    "Management and Other expenses",
+    "2023 Estimated combined ratio",
+    "2022 Estimated ultimate loss ratio"
+  ],
+  "final_normalized_rows": [],
+  "final_rows_raw": [
+    [
+      "General Accident",
+      "148.061",
+      "118.444",
+      "53.727",
+      "320.231",
+      "421.200",
+      "76,0%",
+      "160.092",
+      "114,0%",
+      "97,6%"
+    ],
+    [
+      "Motor",
+      "217.859",
+      "51.195",
+      "48.661",
+      "317.715",
+      "617.361",
+      "51,5%",
+      "275.232",
+      "96,0%",
+      "102,8%"
+    ],
+    [
+      "Aviation",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "0,0%",
+      "-",
+      "0,0%",
+      "0,0%"
+    ],
+    [
+      "Marine",
+      "83.894",
+      "10.335",
+      "4.364",
+      "98.592",
+      "240.081",
+      "41,1%",
+      "91.006",
+      "79,0%",
+      "121,5%"
+    ],
+    [
+      "Engineering",
+      "166.005",
+      "62.000",
+      "49.445",
+      "277.450",
+      "352.027",
+      "78,8%",
+      "162.515",
+      "125,0%",
+      "43,2%"
+    ],
+    [
+      "Bond",
+      "38.490",
+      "10.250",
+      "6.045",
+      "54.785",
+      "237.526",
+      "23,1%",
+      "141.887",
+      "82,8%",
+      "50,3%"
+    ],
+    [
+      "Fire",
+      "299.818",
+      "131.914",
+      "41.401",
+      "473.133",
+      "804.912",
+      "58,8%",
+      "348.055",
+      "102,0%",
+      "111,3%"
+    ],
+    [
+      "Oil & Gas",
+      "512.349",
+      "12.920",
+      "5.190",
+      "530.460",
+      "1.959.802",
+      "27,1%",
+      "1.003.959",
+      "78,3%",
+      "41,7%"
+    ],
+    [
+      "Agriculture",
+      "-",
+      "19.000",
+      "27.456",
+      "46.456",
+      "6.684",
+      "695,1%",
+      "2.859",
+      "737,9%",
+      "301,5%"
+    ],
+    [
+      "Total business",
+      "1.466.476",
+      "416.058",
+      "236.288",
+      "2.118.822",
+      "4.639.593",
+      "45,67%",
+      "2.185.605",
+      "92,78%",
+      "57,93%"
+    ]
+  ],
+  "final_title_raw": "Gross loss ratio by class of general insurance business: 2023 Accident Year",
+  "issues": [],
+  "source_pages": [
+    17,
+    18
+  ],
+  "table_complete": true,
+  "table_id": "T15",
+  "verdict": "accepted"
+}

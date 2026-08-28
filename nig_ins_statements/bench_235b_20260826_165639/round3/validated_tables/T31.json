@@ -1,0 +1,74 @@
+{
+  "checks": {
+    "continuation_verified": true,
+    "header_width_consistent": true,
+    "page_citations_verified": true,
+    "row_widths_consistent": true,
+    "totals_status": "reconciles"
+  },
+  "corrections": [],
+  "final_headers_raw": [
+    "Reinsurer",
+    "Proportion Shared"
+  ],
+  "final_normalized_rows": [
+    [
+      "African Re:",
+      0.5
+    ],
+    [
+      "Continental Re:",
+      0.25
+    ],
+    [
+      "WAICA Re:",
+      0.1
+    ],
+    [
+      "F&S Reinsurance Limited",
+      0.1
+    ],
+    [
+      "Nigeria Re:",
+      0.05
+    ],
+    [
+      "Total",
+      1.0
+    ]
+  ],
+  "final_rows_raw": [
+    [
+      "African Re:",
+      "50%"
+    ],
+    [
+      "Continental Re:",
+      "25%"
+    ],
+    [
+      "WAICA Re:",
+      "10%"
+    ],
+    [
+      "F&S Reinsurance Limited",
+      "10%"
+    ],
+    [
+      "Nigeria Re:",
+      "5%"
+    ],
+    [
+      "Total",
+      "100%"
+    ]
+  ],
+  "final_title_raw": "The Fire and Property reinsurance Treaty is provided by the following:",
+  "issues": [],
+  "source_pages": [
+    34
+  ],
+  "table_complete": true,
+  "table_id": "T31",
+  "verdict": "accepted"
+}

@@ -1,0 +1,67 @@
+{
+  "cell_flags": [],
+  "concerns": [],
+  "continues_from_previous": false,
+  "continues_to_next": false,
+  "footnotes_raw": [],
+  "headers_raw": [
+    "Retention",
+    "Treaty Capacity",
+    "Total Capacity"
+  ],
+  "normalized_rows": [
+    [
+      "Maximum per line N250m [22: NGN150m] (Material Damage and business Interruption combined on sum insured basis) or Probable Maximum Loss (PML)for best class risks",
+      5000000000,
+      5250000000
+    ],
+    [
+      "N50m for Terrorism (same in as 2022)",
+      300000000,
+      300000000
+    ],
+    [
+      "Facultative inward",
+      3300000000,
+      825000000
+    ],
+    [
+      "Gross Total",
+      null,
+      4475000000
+    ]
+  ],
+  "pages_seen": [
+    32
+  ],
+  "rows_raw": [
+    [
+      "Maximum per line N250m [2022: NGN150m] (Material Damage and business Interruption combined on sum insured basis) or Probable Maximum Loss (PML)for best class risks",
+      "NGN5.0bn [2022: NGN3.3bn] for 20 lines [2022:22]",
+      "NGN5.250bn [2022: NGN3.45bn]"
+    ],
+    [
+      "N50m for Terrorism (same in as 2022)",
+      "5lined [2022: 3 lines of NGN50m=NGN250m[2022: NGN150mn]",
+      "NGN300m"
+    ],
+    [
+      "Facultative inward",
+      "NGN3.3bn of 25% treaty capacity",
+      "NGN825mn"
+    ],
+    [
+      "Gross Total",
+      "",
+      "NGN4.475bn"
+    ]
+  ],
+  "source_pages": [],
+  "table_complete": true,
+  "table_id": "T33",
+  "table_number_raw": null,
+  "title_raw": "Treaty retention and capacity per risk",
+  "units_raw": "NGN (Nigerian Naira)",
+  "_header_width": 3,
+  "_row_width": 3
+}

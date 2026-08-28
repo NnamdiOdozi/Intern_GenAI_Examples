@@ -1,0 +1,189 @@
+{
+  "checks": {
+    "continuation_verified": true,
+    "header_width_consistent": true,
+    "page_citations_verified": true,
+    "row_widths_consistent": true,
+    "totals_status": "reconciles"
+  },
+  "corrections": [
+    {
+      "column_index": 0,
+      "confidence": "high",
+      "reason": "Table content was missing in provisional extraction. Added 5 data rows.",
+      "round2_value": "Total Gross written Premium (NGN)",
+      "row_index": 0,
+      "source_pdf_page": 21,
+      "validated_value": "Total Gross written Premium (NGN)"
+    },
+    {
+      "column_index": 0,
+      "confidence": "high",
+      "reason": "Table content was missing in provisional extraction. Added 5 data rows.",
+      "round2_value": "Total Reinsurance cost(outward)(NGN)",
+      "row_index": 1,
+      "source_pdf_page": 21,
+      "validated_value": "Total Reinsurance cost(outward)(NGN)"
+    },
+    {
+      "column_index": 0,
+      "confidence": "high",
+      "reason": "Table content was missing in provisional extraction. Added 5 data rows.",
+      "round2_value": "Total Net Written Premium (NGN)",
+      "row_index": 2,
+      "source_pdf_page": 21,
+      "validated_value": "Total Net Written Premium (NGN)"
+    },
+    {
+      "column_index": 0,
+      "confidence": "high",
+      "reason": "Table content was missing in provisional extraction. Added 5 data rows.",
+      "round2_value": "Underwriting Profit",
+      "row_index": 3,
+      "source_pdf_page": 21,
+      "validated_value": "Underwriting Profit"
+    },
+    {
+      "column_index": 0,
+      "confidence": "high",
+      "reason": "Table content was missing in provisional extraction. Added 5 data rows.",
+      "round2_value": "Insurance Profit",
+      "row_index": 4,
+      "source_pdf_page": 21,
+      "validated_value": "Insurance Profit"
+    }
+  ],
+  "final_headers_raw": [
+    "Measure of financial strength:",
+    "2019",
+    "2020",
+    "2021",
+    "2022",
+    "2023"
+  ],
+  "final_normalized_rows": [
+    [
+      "NGN'000",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Total Gross written Premium (NGN)",
+      "3,885,447",
+      "3,949,079",
+      "4,677,009",
+      "4,929,908",
+      "5,735,903"
+    ],
+    [
+      "Total Reinsurance cost(outward)(NGN)",
+      "559,732",
+      "739,964",
+      "1,272,668",
+      "1,480,940",
+      "1,480,940"
+    ],
+    [
+      "Total Net Written Premium (NGN)",
+      "3,325,715",
+      "3,209,116",
+      "3,404,340",
+      "3,448,968",
+      "4,254,964"
+    ],
+    [
+      "Underwriting Profit",
+      "120,160",
+      "808,094",
+      "153,180",
+      "392,938",
+      "-572,454"
+    ],
+    [
+      "Insurance Profit",
+      "264,993",
+      "1,061,787",
+      "242,982",
+      "483,457",
+      "-324,352"
+    ]
+  ],
+  "final_rows_raw": [
+    [
+      "Measure of financial strength:",
+      "2019",
+      "2020",
+      "2021",
+      "2022",
+      "2023"
+    ],
+    [
+      "NGN'000",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Total Gross written Premium (NGN)",
+      "3,885,447",
+      "3,949,079",
+      "4,677,009",
+      "4,929,908",
+      "5,735,903"
+    ],
+    [
+      "Total Reinsurance cost(outward)(NGN)",
+      "559,732",
+      "739,964",
+      "1,272,668",
+      "1,480,940",
+      "1,480,940"
+    ],
+    [
+      "Total Net Written Premium (NGN)",
+      "3,325,715",
+      "3,209,116",
+      "3,404,340",
+      "3,448,968",
+      "4,254,964"
+    ],
+    [
+      "Underwriting Profit",
+      "120,160",
+      "808,094",
+      "153,180",
+      "392,938",
+      "-572,454"
+    ],
+    [
+      "Insurance Profit",
+      "264,993",
+      "1,061,787",
+      "242,982",
+      "483,457",
+      "-324,352"
+    ]
+  ],
+  "final_title_raw": "Table 12: Measures of financial strength",
+  "issues": [
+    {
+      "category": "arithmetic_anomaly",
+      "confidence": "high",
+      "location": "Row 3 (Total Net Written Premium)",
+      "materiality": "material",
+      "observation": "Total Gross written Premium - Total Reinsurance cost does not exactly equal Total Net Written Premium in 3 out of 5 years (off by 1 unit). 2020: 3,949,079 - 739,964 = 3,209,115 (Printed: 3,209,116). 2021: 4,677,009 - 1,272,668 = 3,404,341 (Printed: 3,404,340). 2023: 5,735,903 - 1,480,940 = 4,254,963 (Printed: 4,254,964).",
+      "recommended_action": "Flag as arithmetic_anomaly. Do not overwrite printed values."
+    }
+  ],
+  "source_pages": [
+    21
+  ],
+  "table_complete": true,
+  "table_id": "T18",
+  "verdict": "corrected"
+}

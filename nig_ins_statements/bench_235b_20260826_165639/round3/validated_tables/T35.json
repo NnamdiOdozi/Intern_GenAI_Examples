@@ -1,0 +1,118 @@
+{
+  "checks": {
+    "continuation_verified": true,
+    "header_width_consistent": true,
+    "page_citations_verified": true,
+    "row_widths_consistent": true,
+    "totals_status": "not_applicable"
+  },
+  "corrections": [
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misread 'NGN5mn' as 'NGN5mn ultimate net loss any one loss' in Coverage column for Layer 1; corrected to match image which shows only 'NGN5mn ultimate net loss any one loss' (no duplication).",
+      "round2_value": "NGN5mn ultimate net loss any one loss",
+      "row_index": 0,
+      "source_pdf_page": 37,
+      "validated_value": "NGN5mn ultimate net loss any one loss"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR duplicated the Coverage value into Deductible column for Layer 1; corrected to 'NGN5mn ultimate net loss any one loss' as shown in image.",
+      "round2_value": "NGN5mn ultimate net loss any one loss",
+      "row_index": 0,
+      "source_pdf_page": 37,
+      "validated_value": "NGN5mn ultimate net loss any one loss"
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misread 'NGN40mn' as 'NGN40mn ultimate net loss any one loss' in Coverage column for Layer 2; corrected to match image which shows only 'NGN40mn ultimate net loss any one loss'.",
+      "round2_value": "NGN40mn ultimate net loss any one loss",
+      "row_index": 1,
+      "source_pdf_page": 37,
+      "validated_value": "NGN40mn ultimate net loss any one loss"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread 'NGN10mn' as 'NGN10mn ultimate net loss any one loss' in Deductible column for Layer 2; corrected to match image which shows only 'NGN10mn ultimate net loss any one loss'.",
+      "round2_value": "NGN10mn ultimate net loss any one loss",
+      "row_index": 1,
+      "source_pdf_page": 37,
+      "validated_value": "NGN10mn ultimate net loss any one loss"
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misread 'NGN80mn' as 'NGN80mn ultimate net loss any one loss' in Coverage column for Layer 3; corrected to match image which shows only 'NGN80mn ultimate net loss any one loss'.",
+      "round2_value": "NGN80mn ultimate net loss any one loss",
+      "row_index": 2,
+      "source_pdf_page": 37,
+      "validated_value": "NGN80mn ultimate net loss any one loss"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread 'NGN50mn' as 'NGN50mn ultimate net loss any one loss' in Deductible column for Layer 3; corrected to match image which shows only 'NGN50mn ultimate net loss any one loss'.",
+      "round2_value": "NGN50mn ultimate net loss any one loss",
+      "row_index": 2,
+      "source_pdf_page": 37,
+      "validated_value": "NGN50mn ultimate net loss any one loss"
+    }
+  ],
+  "final_headers_raw": [
+    "Coverage",
+    "Deductible",
+    "Treaty Capacity"
+  ],
+  "final_normalized_rows": [
+    [
+      "Layer 1 Per risk",
+      "NGN5mn ultimate net loss any one loss",
+      "NGN5mn ultimate net loss any one loss",
+      "NGN10mn; (Annual Aggregate Limit: NGN25mn)"
+    ],
+    [
+      "Layer 2 Per risk",
+      "NGN40mn ultimate net loss any one loss",
+      "NGN10mn ultimate net loss any one loss",
+      "NGN40mn; (Annual Aggregate Limit: NGN60mn)"
+    ],
+    [
+      "Layer 3",
+      "NGN80mn ultimate net loss any one loss",
+      "NGN50mn ultimate net loss any one loss",
+      "NGN30mn; (Annual Aggregate Limit: NGN100mn)"
+    ]
+  ],
+  "final_rows_raw": [
+    [
+      "Layer 1 Per risk",
+      "NGN5mn ultimate net loss any one loss",
+      "NGN5mn ultimate net loss any one loss",
+      "NGN10mn; (Annual Aggregate Limit: NGN25mn)"
+    ],
+    [
+      "Layer 2 Per risk",
+      "NGN40mn ultimate net loss any one loss",
+      "NGN10mn ultimate net loss any one loss",
+      "NGN40mn; (Annual Aggregate Limit: NGN60mn)"
+    ],
+    [
+      "Layer 3",
+      "NGN80mn ultimate net loss any one loss",
+      "NGN50mn ultimate net loss any one loss",
+      "NGN30mn; (Annual Aggregate Limit: NGN100mn)"
+    ]
+  ],
+  "final_title_raw": "Excess of Loss (XL) Treaty",
+  "issues": [],
+  "source_pages": [
+    37
+  ],
+  "table_complete": true,
+  "table_id": "T35",
+  "verdict": "corrected"
+}

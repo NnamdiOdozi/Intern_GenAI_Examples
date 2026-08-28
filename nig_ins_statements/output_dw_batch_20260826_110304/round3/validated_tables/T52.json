@@ -1,0 +1,49 @@
+{
+  "checks": {
+    "continuation_verified": true,
+    "header_width_consistent": true,
+    "page_citations_verified": true,
+    "row_widths_consistent": true,
+    "totals_status": "not_applicable"
+  },
+  "corrections": [
+    {
+      "column_index": 0,
+      "confidence": "high",
+      "reason": "Header 'Item' was not present in the image; corrected to match actual header 'Agriculture class' as context and table structure indicate it is a title, not a column header.",
+      "round2_value": "Agriculture class",
+      "row_index": 0,
+      "source_pdf_page": 48,
+      "validated_value": "Agriculture class"
+    }
+  ],
+  "final_headers_raw": [
+    "Agriculture class",
+    "Loss Ratio",
+    "Expense Ratio",
+    "Combined Ratio"
+  ],
+  "final_normalized_rows": [],
+  "final_rows_raw": [
+    [
+      "Agriculture (2022)",
+      "64%",
+      "58%",
+      "122%"
+    ],
+    [
+      "Agriculture (2021)",
+      "28%",
+      "4%",
+      "32%"
+    ]
+  ],
+  "final_title_raw": "Agriculture class",
+  "issues": [],
+  "source_pages": [
+    48
+  ],
+  "table_complete": true,
+  "table_id": "T52",
+  "verdict": "corrected"
+}

@@ -1,0 +1,142 @@
+{
+  "checks": {
+    "continuation_verified": true,
+    "header_width_consistent": true,
+    "page_citations_verified": true,
+    "row_widths_consistent": true,
+    "totals_status": "not_applicable"
+  },
+  "corrections": [],
+  "final_headers_raw": [
+    "Class",
+    "2019",
+    "2020",
+    "2021",
+    "2022",
+    "2023"
+  ],
+  "final_normalized_rows": [
+    [
+      "General Accident",
+      91,
+      58,
+      85,
+      75,
+      81
+    ],
+    [
+      "Motor",
+      71,
+      61,
+      73,
+      92,
+      69
+    ],
+    [
+      "Marine",
+      72,
+      53,
+      64,
+      92,
+      null
+    ],
+    [
+      "Engineering",
+      60,
+      40,
+      60,
+      41,
+      63
+    ],
+    [
+      "Bond",
+      56,
+      42,
+      48,
+      49,
+      49
+    ],
+    [
+      "Fire",
+      96,
+      75,
+      97,
+      81,
+      80
+    ],
+    [
+      "Oil & Gas",
+      63,
+      49,
+      75,
+      41,
+      54
+    ]
+  ],
+  "final_rows_raw": [
+    [
+      "General Accident",
+      "91%",
+      "58%",
+      "85%",
+      "75%",
+      "81%"
+    ],
+    [
+      "Motor",
+      "71%",
+      "61%",
+      "73%",
+      "92%",
+      "69%"
+    ],
+    [
+      "Marine",
+      "72%",
+      "53%",
+      "64%",
+      "92%",
+      ""
+    ],
+    [
+      "Engineering",
+      "60%",
+      "40%",
+      "60%",
+      "41%",
+      "63%"
+    ],
+    [
+      "Bond",
+      "56%",
+      "42%",
+      "48%",
+      "49%",
+      "49%"
+    ],
+    [
+      "Fire",
+      "96%",
+      "75%",
+      "97%",
+      "81%",
+      "80%"
+    ],
+    [
+      "Oil & Gas",
+      "63%",
+      "49%",
+      "75%",
+      "41%",
+      "54%"
+    ]
+  ],
+  "final_title_raw": "Historical Combined ratio in each accident year",
+  "issues": [],
+  "source_pages": [
+    17
+  ],
+  "table_complete": true,
+  "table_id": "T15",
+  "verdict": "accepted"
+}

@@ -1,0 +1,482 @@
+{
+  "checks": {
+    "continuation_verified": true,
+    "header_width_consistent": true,
+    "page_citations_verified": true,
+    "row_widths_consistent": true,
+    "totals_status": "reconciles"
+  },
+  "corrections": [
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misread '438,670' as '438670' \u2014 comma missing in provisional extraction; image shows comma.",
+      "round2_value": "438,670",
+      "row_index": 0,
+      "source_pdf_page": 16,
+      "validated_value": "438,670"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread '906,943' as '906943' \u2014 comma missing in provisional extraction; image shows comma.",
+      "round2_value": "906,943",
+      "row_index": 0,
+      "source_pdf_page": 16,
+      "validated_value": "906,943"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "OCR misread '599' as '599' \u2014 correct but should be string with no comma per image format; provisional used int. Also, image shows '-' for Reinsurance premiums row, not null.",
+      "round2_value": "599",
+      "row_index": 0,
+      "source_pdf_page": 16,
+      "validated_value": "599"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "Reinsurance premiums for Aviation is '-' in image, not null. Provisional used null \u2014 corrected to '-' to match source.",
+      "round2_value": "-",
+      "row_index": 1,
+      "source_pdf_page": 16,
+      "validated_value": "-"
+    },
+    {
+      "column_index": 4,
+      "confidence": "high",
+      "reason": "OCR misread '231,167' as '231167' \u2014 comma missing in provisional extraction; image shows comma.",
+      "round2_value": "231,167",
+      "row_index": 0,
+      "source_pdf_page": 16,
+      "validated_value": "231,167"
+    },
+    {
+      "column_index": 5,
+      "confidence": "high",
+      "reason": "OCR misread '433,715' as '433715' \u2014 comma missing in provisional extraction; image shows comma.",
+      "round2_value": "433,715",
+      "row_index": 0,
+      "source_pdf_page": 16,
+      "validated_value": "433,715"
+    },
+    {
+      "column_index": 6,
+      "confidence": "high",
+      "reason": "OCR misread '387,111' as '387111' \u2014 comma missing in provisional extraction; image shows comma.",
+      "round2_value": "387,111",
+      "row_index": 0,
+      "source_pdf_page": 16,
+      "validated_value": "387,111"
+    },
+    {
+      "column_index": 7,
+      "confidence": "high",
+      "reason": "OCR misread '819,265' as '819265' \u2014 comma missing in provisional extraction; image shows comma.",
+      "round2_value": "819,265",
+      "row_index": 0,
+      "source_pdf_page": 16,
+      "validated_value": "819,265"
+    },
+    {
+      "column_index": 8,
+      "confidence": "high",
+      "reason": "OCR misread '2,516,607' as '2516607' \u2014 commas missing in provisional extraction; image shows commas.",
+      "round2_value": "2,516,607",
+      "row_index": 0,
+      "source_pdf_page": 16,
+      "validated_value": "2,516,607"
+    },
+    {
+      "column_index": 9,
+      "confidence": "high",
+      "reason": "OCR misread '1,827' as '1827' \u2014 comma missing in provisional extraction; image shows comma.",
+      "round2_value": "1,827",
+      "row_index": 0,
+      "source_pdf_page": 16,
+      "validated_value": "1,827"
+    },
+    {
+      "column_index": 10,
+      "confidence": "high",
+      "reason": "OCR misread '5,735,903' as '5735903' \u2014 commas missing in provisional extraction; image shows commas.",
+      "round2_value": "5,735,903",
+      "row_index": 0,
+      "source_pdf_page": 16,
+      "validated_value": "5,735,903"
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misread '17,785' as '17785' \u2014 comma missing in provisional extraction; image shows comma.",
+      "round2_value": "17,785",
+      "row_index": 1,
+      "source_pdf_page": 16,
+      "validated_value": "17,785"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread '108,172' as '108172' \u2014 comma missing in provisional extraction; image shows comma.",
+      "round2_value": "108,172",
+      "row_index": 1,
+      "source_pdf_page": 16,
+      "validated_value": "108,172"
+    },
+    {
+      "column_index": 4,
+      "confidence": "high",
+      "reason": "OCR misread '76,073' as '76073' \u2014 comma missing in provisional extraction; image shows comma.",
+      "round2_value": "76,073",
+      "row_index": 1,
+      "source_pdf_page": 16,
+      "validated_value": "76,073"
+    },
+    {
+      "column_index": 5,
+      "confidence": "high",
+      "reason": "OCR misread '129,686' as '129686' \u2014 comma missing in provisional extraction; image shows comma.",
+      "round2_value": "129,686",
+      "row_index": 1,
+      "source_pdf_page": 16,
+      "validated_value": "129,686"
+    },
+    {
+      "column_index": 6,
+      "confidence": "high",
+      "reason": "OCR misread '118,724' as '118724' \u2014 comma missing in provisional extraction; image shows comma.",
+      "round2_value": "118,724",
+      "row_index": 1,
+      "source_pdf_page": 16,
+      "validated_value": "118,724"
+    },
+    {
+      "column_index": 7,
+      "confidence": "high",
+      "reason": "OCR misread '210,177' as '210177' \u2014 comma missing in provisional extraction; image shows comma.",
+      "round2_value": "210,177",
+      "row_index": 1,
+      "source_pdf_page": 16,
+      "validated_value": "210,177"
+    },
+    {
+      "column_index": 8,
+      "confidence": "high",
+      "reason": "OCR misread '820,321' as '820321' \u2014 comma missing in provisional extraction; image shows comma.",
+      "round2_value": "820,321",
+      "row_index": 1,
+      "source_pdf_page": 16,
+      "validated_value": "820,321"
+    },
+    {
+      "column_index": 10,
+      "confidence": "high",
+      "reason": "OCR misread '1,480,940' as '1480940' \u2014 commas missing in provisional extraction; image shows commas.",
+      "round2_value": "1,480,940",
+      "row_index": 1,
+      "source_pdf_page": 16,
+      "validated_value": "1,480,940"
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "OCR misread '420,885' as '420885' \u2014 comma missing in provisional extraction; image shows comma.",
+      "round2_value": "420,885",
+      "row_index": 2,
+      "source_pdf_page": 16,
+      "validated_value": "420,885"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "OCR misread '798,771' as '798771' \u2014 comma missing in provisional extraction; image shows comma.",
+      "round2_value": "798,771",
+      "row_index": 2,
+      "source_pdf_page": 16,
+      "validated_value": "798,771"
+    },
+    {
+      "column_index": 4,
+      "confidence": "high",
+      "reason": "OCR misread '155,093' as '155093' \u2014 comma missing in provisional extraction; image shows comma.",
+      "round2_value": "155,093",
+      "row_index": 2,
+      "source_pdf_page": 16,
+      "validated_value": "155,093"
+    },
+    {
+      "column_index": 5,
+      "confidence": "high",
+      "reason": "OCR misread '304,029' as '304029' \u2014 comma missing in provisional extraction; image shows comma.",
+      "round2_value": "304,029",
+      "row_index": 2,
+      "source_pdf_page": 16,
+      "validated_value": "304,029"
+    },
+    {
+      "column_index": 6,
+      "confidence": "high",
+      "reason": "OCR misread '268,387' as '268387' \u2014 comma missing in provisional extraction; image shows comma.",
+      "round2_value": "268,387",
+      "row_index": 2,
+      "source_pdf_page": 16,
+      "validated_value": "268,387"
+    },
+    {
+      "column_index": 7,
+      "confidence": "high",
+      "reason": "OCR misread '609,088' as '609088' \u2014 comma missing in provisional extraction; image shows comma.",
+      "round2_value": "609,088",
+      "row_index": 2,
+      "source_pdf_page": 16,
+      "validated_value": "609,088"
+    },
+    {
+      "column_index": 8,
+      "confidence": "high",
+      "reason": "OCR misread '1,696,286' as '1696286' \u2014 commas missing in provisional extraction; image shows commas.",
+      "round2_value": "1,696,286",
+      "row_index": 2,
+      "source_pdf_page": 16,
+      "validated_value": "1,696,286"
+    },
+    {
+      "column_index": 9,
+      "confidence": "high",
+      "reason": "OCR misread '1,827' as '1827' \u2014 comma missing in provisional extraction; image shows comma.",
+      "round2_value": "1,827",
+      "row_index": 2,
+      "source_pdf_page": 16,
+      "validated_value": "1,827"
+    },
+    {
+      "column_index": 10,
+      "confidence": "high",
+      "reason": "OCR misread '4,254,964' as '4254964' \u2014 commas missing in provisional extraction; image shows commas.",
+      "round2_value": "4,254,964",
+      "row_index": 2,
+      "source_pdf_page": 16,
+      "validated_value": "4,254,964"
+    },
+    {
+      "column_index": 1,
+      "confidence": "high",
+      "reason": "Retention value for General Accident is '96%' in image, not '0.96'. Provisional used decimal \u2014 corrected to percentage string to match source.",
+      "round2_value": "96%",
+      "row_index": 3,
+      "source_pdf_page": 16,
+      "validated_value": "96%"
+    },
+    {
+      "column_index": 2,
+      "confidence": "high",
+      "reason": "Retention value for Motor is '88%' in image, not '0.88'. Provisional used decimal \u2014 corrected to percentage string to match source.",
+      "round2_value": "88%",
+      "row_index": 3,
+      "source_pdf_page": 16,
+      "validated_value": "88%"
+    },
+    {
+      "column_index": 3,
+      "confidence": "high",
+      "reason": "Retention value for Aviation is '100%' in image, not '1.0'. Provisional used decimal \u2014 corrected to percentage string to match source.",
+      "round2_value": "100%",
+      "row_index": 3,
+      "source_pdf_page": 16,
+      "validated_value": "100%"
+    },
+    {
+      "column_index": 4,
+      "confidence": "high",
+      "reason": "Retention value for Marine is '67%' in image, not '0.67'. Provisional used decimal \u2014 corrected to percentage string to match source.",
+      "round2_value": "67%",
+      "row_index": 3,
+      "source_pdf_page": 16,
+      "validated_value": "67%"
+    },
+    {
+      "column_index": 5,
+      "confidence": "high",
+      "reason": "Retention value for Engineering is '70%' in image, not '0.7'. Provisional used decimal \u2014 corrected to percentage string to match source.",
+      "round2_value": "70%",
+      "row_index": 3,
+      "source_pdf_page": 16,
+      "validated_value": "70%"
+    },
+    {
+      "column_index": 6,
+      "confidence": "high",
+      "reason": "Retention value for Bond is '69%' in image, not '0.69'. Provisional used decimal \u2014 corrected to percentage string to match source.",
+      "round2_value": "69%",
+      "row_index": 3,
+      "source_pdf_page": 16,
+      "validated_value": "69%"
+    },
+    {
+      "column_index": 7,
+      "confidence": "high",
+      "reason": "Retention value for Fire is '74%' in image, not '0.74'. Provisional used decimal \u2014 corrected to percentage string to match source.",
+      "round2_value": "74%",
+      "row_index": 3,
+      "source_pdf_page": 16,
+      "validated_value": "74%"
+    },
+    {
+      "column_index": 8,
+      "confidence": "high",
+      "reason": "Retention value for Oil & Gas is '67%' in image, not '0.67'. Provisional used decimal \u2014 corrected to percentage string to match source.",
+      "round2_value": "67%",
+      "row_index": 3,
+      "source_pdf_page": 16,
+      "validated_value": "67%"
+    },
+    {
+      "column_index": 9,
+      "confidence": "high",
+      "reason": "Retention value for Agriculture is '100%' in image, not '1.0'. Provisional used decimal \u2014 corrected to percentage string to match source.",
+      "round2_value": "100%",
+      "row_index": 3,
+      "source_pdf_page": 16,
+      "validated_value": "100%"
+    },
+    {
+      "column_index": 10,
+      "confidence": "high",
+      "reason": "Retention value for Total is '74%' in image, not '0.74'. Provisional used decimal \u2014 corrected to percentage string to match source.",
+      "round2_value": "74%",
+      "row_index": 3,
+      "source_pdf_page": 16,
+      "validated_value": "74%"
+    }
+  ],
+  "final_headers_raw": [
+    "(NGN'000)",
+    "General Accident",
+    "Motor",
+    "Aviation",
+    "Marine",
+    "Engineering",
+    "Bond",
+    "Fire",
+    "Oil & Gas",
+    "Agriculture",
+    "Total"
+  ],
+  "final_normalized_rows": [
+    [
+      "Gross written premiums",
+      "438,670",
+      "906,943",
+      "599",
+      "231,167",
+      "433,715",
+      "387,111",
+      "819,265",
+      "2,516,607",
+      "1,827",
+      "5,735,903"
+    ],
+    [
+      "Reinsurance premiums",
+      "17,785",
+      "108,172",
+      "-",
+      "76,073",
+      "129,686",
+      "118,724",
+      "210,177",
+      "820,321",
+      "-",
+      "1,480,940"
+    ],
+    [
+      "Net written premiums",
+      "420,885",
+      "798,771",
+      "599",
+      "155,093",
+      "304,029",
+      "268,387",
+      "609,088",
+      "1,696,286",
+      "1,827",
+      "4,254,964"
+    ],
+    [
+      "Retention",
+      "96%",
+      "88%",
+      "100%",
+      "67%",
+      "70%",
+      "69%",
+      "74%",
+      "67%",
+      "100%",
+      "74%"
+    ]
+  ],
+  "final_rows_raw": [
+    [
+      "Gross written premiums",
+      "438,670",
+      "906,943",
+      "599",
+      "231,167",
+      "433,715",
+      "387,111",
+      "819,265",
+      "2,516,607",
+      "1,827",
+      "5,735,903"
+    ],
+    [
+      "Reinsurance premiums",
+      "17,785",
+      "108,172",
+      "-",
+      "76,073",
+      "129,686",
+      "118,724",
+      "210,177",
+      "820,321",
+      "-",
+      "1,480,940"
+    ],
+    [
+      "Net written premiums",
+      "420,885",
+      "798,771",
+      "599",
+      "155,093",
+      "304,029",
+      "268,387",
+      "609,088",
+      "1,696,286",
+      "1,827",
+      "4,254,964"
+    ],
+    [
+      "Retention",
+      "96%",
+      "88%",
+      "100%",
+      "67%",
+      "70%",
+      "69%",
+      "74%",
+      "67%",
+      "100%",
+      "74%"
+    ]
+  ],
+  "final_title_raw": "Retention by class- General business 2023",
+  "issues": [],
+  "source_pages": [
+    16
+  ],
+  "table_complete": true,
+  "table_id": "T09",
+  "verdict": "corrected"
+}
