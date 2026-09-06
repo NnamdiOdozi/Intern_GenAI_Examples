@@ -24,6 +24,8 @@ def app_summary(app):
         "appearance_id": app.get("appearance_id"),
         "visible_row_count": app.get("visible_row_count"),
         "visible_column_count": app.get("visible_column_count"),
+        "continues_from_previous": app.get("continues_from_previous", False),
+        "continues_to_next": app.get("continues_to_next", False),
         "concerns": app.get("concerns", []),
     }
 
@@ -88,7 +90,8 @@ for pg in range(1, EXPECTED_PAGES + 1):
     prev_open = open_by_page.get(pg - 1, [])
     cur_open = []
     for app in disc.get("tables", []):
-        linked = prev_open[-1] if (app.get("continues_from_previous") and prev_open) else None
+        # The earlier page saw the body in context, so its continuation signal is enough.
+        linked = prev_open.pop(0) if prev_open else None
         if linked:
             t = next(t for t in inventory if t["table_id"] == linked)
             t["source_pages"].append(pg)
@@ -113,12 +116,22 @@ for pg in range(1, EXPECTED_PAGES + 1):
             cur_open.append(linked)
     open_by_page[pg] = cur_open
 
+def _extraction_pages(table):
+    pages = set(table["source_pages"])
+    for app in table["appearances"]:
+        page = app["pdf_page"]
+        if app["continues_from_previous"] and page > 1:
+            pages.add(page - 1)
+        if app["continues_to_next"] and page < EXPECTED_PAGES:
+            pages.add(page + 1)
+    return sorted(pages)
+
 # ---- extraction plan (one entry per logical table) ----
 plan = [{
     "table_id": t["table_id"],
     "title_raw": t["title_raw"],
     "units_raw": t["units_raw"],
-    "source_pages": sorted(set(t["source_pages"])),
+    "source_pages": _extraction_pages(t),
     "complexity": t["complexity"],
     "possible_repeat_of": t["possible_repeat_of"],
 } for t in inventory]

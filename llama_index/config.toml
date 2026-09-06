@@ -1,0 +1,48 @@
+[document]
+id = "sterling_fcr_2023"
+source_pdf = "../nig_ins_statements/2023 sterling FCR FINAL.pdf"
+target_pages = "1-52"
+sample_pdf = "output/sample/sterling_fcr_first_10_table_pages.pdf"
+
+[prompts]
+table_fidelity = """
+Transcribe every visible table in full. Treat every distinct title or header as a separate logical table, including when multiple tables appear on the same page. Never merge adjacent tables merely because their rows or columns look similar.
+
+When a table header appears on one page and its rows continue on the next page, join the pages into one logical table. Carry forward the exact title, table number, units, and column headers. Do not drop header-only or continuation-only table fragments.
+
+Preserve repeated versions of a table separately, even when they have the same table number or title. Preserve printed values verbatim. Distinguish blank cells, dashes, explicit zeros, parentheses, decimal separators, percentages, and illegible cells. Never calculate, correct, infer, normalize, or shift values.
+
+Record every source PDF page used by each logical table. Before completing, verify that every visible table header and every visible table row has been represented.
+"""
+
+[parse]
+tier = "agentic"
+version = "latest"
+prompt = "table_fidelity"
+
+[extract]
+tier = "agentic"
+version = "latest"
+parse_tier = "agentic"
+target = "per_table_row"
+prompt = "table_fidelity"
+cite_sources = true
+confidence_scores = true
+
+[cloud]
+poll_seconds = 1.0
+max_poll_seconds = 5.0
+timeout_seconds = 7200
+download_timeout_seconds = 120
+
+[output]
+root = "output/full_document_20260901"
+
+[index]
+name = "sterling-fcr-first-10-table-pages"
+description = "Ten table-bearing pages from Sterling FCR 2023."
+query = "List every table, its title, units, and source page. Flag tables that continue across pages."
+poll_seconds = 5
+timeout_seconds = 600
+top_k = 10
+rerank_top_n = 5

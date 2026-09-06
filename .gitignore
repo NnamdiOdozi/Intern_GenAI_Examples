@@ -198,3 +198,8 @@ embedding_logs
 
 # output
 output/
+
+# fixed_income now lives in its own standalone repo at
+# /home/nodozi/projects/fixed_income. This copy stays on disk for the user
+# to clean up manually, but is no longer tracked here.
+fixed_income/

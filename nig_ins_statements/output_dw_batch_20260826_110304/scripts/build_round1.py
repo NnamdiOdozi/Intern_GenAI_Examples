@@ -1,10 +1,11 @@
 #!/usr/bin/env python3
 """Build Round 1 (page discovery) batch JSONL for the dw_async_scanned_tables pipeline.
 
-One request per PDF page. Model = Qwen3-VL-30B. Strict json_schema response_format.
+One request per target PDF page. The following page is supplied as continuation context.
 Saves an image-hash manifest for provenance.
 """
 import base64
+import copy
 import hashlib
 import json
 from datetime import datetime
@@ -20,7 +21,9 @@ schema = json.loads((SKILL_DIR / "schemas" / "round1-discovery.schema.json").rea
 
 SYSTEM = (
     "You are a meticulous financial-document analyst performing PAGE DISCOVERY on ONE scanned "
-    "page of a Nigerian insurance Financial Condition Report (FCR). Do NOT transcribe table "
+    "page of a Nigerian insurance Financial Condition Report (FCR). The first image is the "
+    "TARGET page. A following CONTEXT page may also be supplied; use it only to detect "
+    "continuations and do not inventory tables found solely on it. Do NOT transcribe table "
     "contents or cell values. Your job is only to INVENTORY what tables appear on THIS page: "
     "each table's printed title, table number, stated units, approximate visible row and column "
     "counts, whether it continues from the previous page or continues to the next, whether it "
@@ -31,13 +34,15 @@ SYSTEM = (
     "Prose paragraphs, charts, and images are NOT tables. Return ONLY JSON conforming to the "
     "provided schema. Set document_id and pdf_page EXACTLY to the provided values. Read the "
     "printed page number from the page header/footer if visible, else null. If there is no "
-    "tabular data, set page_status='no_table' and tables=[]."
+    "tabular data, set page_status='no_table' and tables=[]. If a target-page title or header "
+    "has no rows but its rows appear on the context page, set continues_to_next=true."
 )
 
 def encode(p: Path):
     raw = p.read_bytes()
     return base64.b64encode(raw).decode(), hashlib.sha256(raw).hexdigest()
 
+images_by_page = {int(p.stem.split("-")[1]): p for p in IMAGES}
 lines = []
 img_manifest = []
 for p in IMAGES:
@@ -51,17 +56,27 @@ for p in IMAGES:
         "Read the printed page number from the page itself if visible.\n"
         "Analyze the attached page image and return the discovery JSON."
     )
+    user_content = [
+        {"type": "text", "text": "[TARGET PAGE]"},
+        {"type": "image_url", "image_url": {"url": f"data:image/jpeg;base64,{b64}"}},
+    ]
+    context_path = images_by_page.get(pdf_page + 1)
+    if context_path:
+        context_b64, _ = encode(context_path)
+        user_content += [
+            {"type": "text", "text": f"[CONTEXT PAGE {pdf_page + 1}]"},
+            {"type": "image_url", "image_url": {"url": f"data:image/jpeg;base64,{context_b64}"}},
+        ]
+    request_schema = copy.deepcopy(schema)
+    request_schema["json_schema"]["schema"]["properties"]["pdf_page"]["enum"] = [pdf_page]
     body = {
         "model": MODEL,
         "max_tokens": 16000,
         "temperature": 0,
-        "response_format": schema,
+        "response_format": request_schema,
         "messages": [
             {"role": "system", "content": SYSTEM},
-            {"role": "user", "content": [
-                {"type": "text", "text": user_text},
-                {"type": "image_url", "image_url": {"url": f"data:image/jpeg;base64,{b64}"}},
-            ]},
+            {"role": "user", "content": [{"type": "text", "text": user_text}, *user_content]},
         ],
     }
     lines.append(json.dumps({

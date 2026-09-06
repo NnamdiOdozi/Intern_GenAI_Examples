@@ -12,7 +12,9 @@ from pathlib import Path
 RUN_DIR = Path(__file__).resolve().parent.parent
 R2 = RUN_DIR / "round2"
 plan = json.loads((RUN_DIR / "round1" / "extraction_plan.json").read_text())
+plan_by_id = {t["table_id"]: t for t in plan}
 plan_ids = {t["table_id"] for t in plan}
+expected_pages = json.loads((RUN_DIR / "round1" / "page_manifest.json").read_text())["expected_pages"]
 
 REQUIRED = {"table_id", "title_raw", "headers_raw", "rows_raw", "normalized_rows",
             "cell_flags", "footnotes_raw", "concerns", "continues_from_previous",
@@ -54,6 +56,13 @@ for line in raw_lines:
         fail_by_tid[tid] = f"missing_fields:{sorted(REQUIRED - set(data))}"
         continue
     rows = data["rows_raw"]
+    if not rows:
+        fail_by_tid[tid] = "header_only_missing_body" if data["headers_raw"] else "empty_table"
+        continue
+    planned_pages = set(plan_by_id[tid]["source_pages"])
+    if not planned_pages.issubset(data["pages_seen"]):
+        fail_by_tid[tid] = f"missing_planned_pages:{sorted(planned_pages - set(data['pages_seen']))}"
+        continue
     widths = Counter(len(r) for r in rows)
     if len(widths) > 1:
         fail_by_tid[tid] = f"ragged_rows:{dict(widths)}"
@@ -66,7 +75,18 @@ for line in raw_lines:
     accepted[data["table_id"]] = data
     (R2 / "tables" / f"{data['table_id']}.json").write_text(json.dumps(data, indent=2))
 
-rejections = [{"table_id": tid, "reason": r} for tid, r in fail_by_tid.items() if tid not in accepted]
+rejections = []
+for tid, reason in fail_by_tid.items():
+    if tid in accepted:
+        continue
+    retry_pages = list(plan_by_id[tid]["source_pages"])
+    if (
+        reason == "header_only_missing_body"
+        and len(retry_pages) == 1
+        and retry_pages[0] < expected_pages
+    ):
+        retry_pages.append(retry_pages[0] + 1)
+    rejections.append({"table_id": tid, "reason": reason, "retry_pages": retry_pages})
 no_disposition = sorted(plan_ids - set(accepted) - {r["table_id"] for r in rejections})
 
 (R2 / "rejections.json").write_text(json.dumps(rejections, indent=2))
