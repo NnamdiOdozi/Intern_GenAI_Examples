@@ -1,56 +1,67 @@
-# Generative AI in insurance claims: a pragmatic briefing
+# Generative AI in insurance claims: short briefing
+
+**Audience:** claims, risk, compliance and technology leaders  
+**Evidence checked:** February 2026
 
 ## Executive view
 
-A prudent near-term posture is to use generative AI (GenAI) primarily as a **claims-handler copilot and document-intelligence layer**, not as an autonomous decision-maker. Start with bounded, reversible tasks; retain accountable human judgment for coverage, liability, fraud, settlement and adverse-payment outcomes.
+The realistic near-term role for generative AI (GenAI) is a **claims-handler copilot**: it can find, extract, organise and draft information, while an accountable claims professional remains responsible for consequential decisions. Start with bounded, reversible workflows. Do not treat a fluent answer, fraud score or generated letter as evidence by itself.
 
-## Realistic uses and potential benefits
+## Practical uses and likely benefits
 
-- **FNOL and intake:** transcribe calls, extract structured fields, identify missing information, translate and draft claimant communications. Intended benefits are less manual rekeying and faster first response; these should be proven against a baseline.
-- **File understanding:** summarize chronologies across policies, correspondence, medical records, invoices and adjuster notes; retrieve relevant clauses and show supporting sources. This can reduce review time and help handlers spot open issues, but summaries may omit material facts.
-- **Triage and investigation support:** classify complexity, recommend routing, highlight inconsistencies, and generate fraud or subrogation leads. These are prioritization aids—not findings of fraud, liability or misrepresentation.
-- **Narrow workflows:** assist or automate tightly defined, low-complexity claims using deterministic rules and human approval. This is more defensible than open-ended autonomous adjustment.
-- **Customer communication:** draft plain-language status updates and evidence requests, with approval gates and accessibility options.
+| Claims activity | Sensible GenAI use | Benefit to test |
+|---|---|---|
+| First notice of loss (FNOL) | Transcribe and summarise calls, extract fields, identify missing information, translate and draft status requests | Less re-keying and faster first response |
+| File understanding | Build a chronology; summarise correspondence, invoices, repair estimates and medical records; retrieve applicable policy passages | Less search time and more complete preparation |
+| Adjuster support | Retrieve procedures, suggest next questions, draft routine correspondence and explain the evidence in a file | More consistent preparation and communication |
+| Triage and routing | Recommend complexity, urgency, specialist assignment or escalation | Earlier attention to severe or unusual claims |
+| Fraud and recovery support | Surface inconsistencies, relationships and possible subrogation opportunities for investigation | More productive investigative leads—not findings of fraud |
+| Customer service | Draft plain-language updates and evidence requests, with authentication and human escalation | Better access and fewer avoidable handoffs |
 
-Most of these workflows are **hybrid**: transcription, OCR, classification and rules may be conventional AI or software rather than GenAI. The model's exact role should be documented.
+These are usually **hybrid systems**: OCR, speech recognition, rules, computer vision and workflow automation may do much of the work. Attribute results to the whole process, not automatically to GenAI.
 
-### Current evidence (company-reported)
+### What current evidence says
 
-Public evidence demonstrates feasibility, not independent proof of fairer or more accurate claim outcomes:
+- **EIOPA’s February 2026 survey** of 347 insurers in 25 EU/EEA countries reported that 32% were already using GenAI in claims management, 9% planned to do so within three years and 59% had no current plans. This indicates adoption, not proven customer benefit.
+- **Swiss Re reported in June 2025** that its ClaimsGenAI platform, deployed in mid-2024, generated more than 1,000 potential-irregularity alerts and hundreds of third-party recovery opportunities in its first year. These are company-reported activity metrics, not independently audited fraud confirmations, realised savings or evidence of improved fairness.
+- The **NAIC Model Bulletin** recognises AI use in claim management, administration/payment and fraud detection, while making clear that existing unfair-claims, consumer-protection and discrimination obligations still apply. It is model guidance, not automatically binding law in every U.S. state.
 
-- **Prudential/Google Cloud (24 October 2024):** reported that a proof of concept doubled the automation rate for selected medical-claim reviews. This is not evidence of doubled end-to-end claims automation; baseline, sample and independent validation were not reported. [Source](https://www.prudentialplc.com/en/newsroom/company-news/2024/prudential-pioneers-use-of-generative-ai-for-faster-and-more-frictionless-medical-claims-in-global-first-partnership-with-google-cloud/)
-- **Swiss Re (20 June 2025):** reported ClaimsGenAI supporting more than 40,000 corporate claims annually, over 1,000 potential-irregularity alerts and hundreds of additional recovery opportunities. These are activity metrics, not confirmed fraud, recoveries, savings or accuracy improvements. [Source](https://www.swissre.com/risk-knowledge/advancing-societal-benefits-digitalisation/how-generative-ai-is-transforming-insurance-claims-claimsgenai.html)
-- **Allianz Australia (3 November 2025):** reported an 80% reduction in processing and settlement time for a narrowly defined food-spoilage workflow, with human payout approval. It is not an industry benchmark. [Source](https://www.allianz.com/en/mediacenter/news/articles/251103-when-the-storm-clears-so-should-the-claim-queue.html)
-- **Zurich:** reported that its hybrid CATIA system identified 500 additional catastrophe claims and approximately $1.4 million in savings. Because CATIA combines traditional AI and GenAI, the result should not be attributed solely to GenAI. [Source](https://www.zurich.com/commercial-insurance/sustainability-and-insights/commercial-insurance-risk-insights/how-accurate-data-and-ai-can-transform-claims-and-help-customers-build-resilience)
+The strongest value hypothesis is reduced reading, search and drafting time. Evidence is much weaker for GenAI alone improving settlement accuracy, reducing indemnity leakage or producing fairer outcomes. Measure benefits against a comparable non-AI process rather than relying on vendor or insurer case studies.
 
 ## Failure modes
 
-1. **Confabulation or omission:** invented or missing policy terms, endorsements, medical facts, dates, limits or claim history; incorrect citations; stale policy versions; bad OCR and poor scans.
-2. **Bad execution:** incorrect entity matching or duplicate files; wrong routing; payment, reserve or workflow-tool errors; unauthorized external actions.
-3. **Automation bias:** fluent recommendations are accepted without checking the underlying file, producing unsupported denials, payment reductions or fraud referrals.
-4. **Fairness and access:** historical labels and proxy variables can produce unequal triage or investigation; language, disability, sparse records or lack of a digital channel can disadvantage claimants.
-5. **Security and privacy:** PII/PHI leakage, excessive retention, insecure APIs, cross-claim disclosure, vendor training use, prompt injection through uploaded documents, and deepfake or manipulated evidence.
-6. **Change and feedback risks:** silent vendor/model/prompt updates, retrieval drift, delayed outcome labels, under-represented subgroups, and human-override feedback loops.
+1. **Confabulation or omission:** invented policy terms, dates, limits, medical conclusions or repair costs; omitted exclusions; incorrect citations; or the wrong policy version.
+2. **Automation bias:** handlers accept a persuasive summary or recommendation without checking the source file. A nominal human click is not meaningful review.
+3. **Unfair or inconsistent treatment:** historical labels and proxy variables can skew triage, investigation intensity, service quality or settlement recommendations by geography, language, disability or other characteristics.
+4. **Bad fraud signals:** a false positive can delay or stigmatise a legitimate claimant. Generated suspicion is not corroborating evidence.
+5. **Medical-data and privacy harm:** claims files may contain health, financial, identity and location data. Leakage can occur through prompts, logs, vendors, access-control errors or cross-claim disclosure.
+6. **Security and adversarial evidence:** uploaded documents may contain prompt injection; altered invoices, medical records or deepfake images can mislead models and investigators.
+7. **Operational drift:** model, prompt, retrieval-corpus or vendor changes can silently alter results; outages can interrupt claims handling and create an unreviewed backlog.
 
-NIST identifies GenAI confabulation, privacy, security and over-reliance risks in its [2024 GenAI profile](https://www.nist.gov/publications/artificial-intelligence-risk-management-framework-generative-artificial-intelligence). OWASP's [LLM risk guidance](https://genai.owasp.org/llmrisk/llm01-prompt-injection/) highlights prompt injection; uploaded claim documents must not be treated as trusted instructions.
+## Minimum control set
 
-## Controls that matter
+- **Risk-tier the use case.** Begin with internal search, extraction, summarisation and drafting. Require stronger approval for triage, fraud, medical or payment recommendations. As a default, prohibit autonomous denials, closures, payment reductions, coverage determinations and fraud findings unless a separately justified, validated and lawful use case is approved.
+- **Ground outputs in authoritative sources.** Use access-controlled retrieval from the applicable policy, endorsements, claim file and jurisdictional procedures. Show document identifiers and source spans (page references where available), validate effective dates, and abstain when evidence is missing or contradictory.
+- **Retain substantive human authority.** The reviewer must see underlying evidence, have time and authority to reject the output, record an independent rationale and escalate high-severity, vulnerable, exceptional or low-evidence cases. For medical claims, use a defined purpose and legal basis, restrict health-data access and require qualified review before an AI inference affects coverage, causation, necessity, reserves or payment.
+- **Treat fraud output only as a lead.** Never deny, delay, intensify investigation or impose adverse treatment solely because of a model score or generated suspicion; require corroboration and document the basis for action.
+- **Protect claimant interactions.** Authenticate before disclosing claim, medical, payment or policy information. Use controlled, verified templates and authorised review for denials, reservation-of-rights, settlement, limitation and deadline communications. Preserve complaint, appeal, correction and non-digital access routes.
+- **Validate and monitor outcomes.** Before launch and after material changes, test factual accuracy, omissions, similar-claim consistency, poor scans, languages, accessibility, rare/catastrophe cases, prompt injection and manipulated evidence. Monitor by product, jurisdiction, language, severity and vulnerability: errors, overrides, complaints, appeals, reopenings, payment/denial/delay/referral rates and disparate outcomes.
+- **Preserve evidence and resilience.** Log inputs, retrieved sources, model/prompt/workflow versions, output, human edits, rationale, overrides and timestamps under a documented retention schedule. Contract for confidentiality, no unauthorised training, audit rights, incident and model-change notification, rollback and exit. Maintain manual processing and a plan to identify and remediate claims affected during a defective model period.
 
-- **Risk-tier the inventory.** Begin with summarization, retrieval, extraction and drafting. Do not permit autonomous denials, claim closures, payment reductions or fraud determinations without a separately justified, validated and lawful use case.
-- **Ground and verify.** Restrict retrieval to current, authoritative policy and claim sources; display quoted/page-level evidence; verify citations; validate identities, dates, limits and calculations against systems of record; require abstention when evidence is missing or conflicting.
-- **Make human review substantive.** Reviewers must see the underlying evidence, have authority to override, record rationale and escalate high-severity, vulnerable, conflicting or low-confidence files. Audit for rubber-stamping; a human in the loop is not a safe harbor.
-- **Test outcomes, not just accuracy.** Before launch and after material changes, test known-outcome claims, ambiguity, poor scans, multilingual/accessibility cases, adversarial documents, prompt injection and manipulated images. Monitor hallucination and omission rates, false positives/negatives, overrides, delay, payment/reserve accuracy, complaints, appeals, reopened claims, settlement adequacy and subgroup disparities. Compare with a non-AI control group.
-- **Protect data and operations.** Use tenant isolation, claim-level authorization outside the model, minimization/redaction, encryption, retention limits, data-location and subprocessor controls, no-training terms, DLP, logging, incident response, rollback and a kill switch. Require vendor audit and model-change notification rights, not merely a “private deployment.”
-- **Preserve redress and auditability.** Retain model/prompt/retrieval versions, inputs, sources, outputs, edits, overrides, decisions and timestamps; provide appropriate notices, complaint/appeal routes, correction and non-digital access channels.
+## A sensible 90-day pilot
 
-## Regulatory anchors
+1. Inventory and risk-tier current experiments; name an accountable claims executive.
+2. Pilot one bounded internal workflow—such as policy retrieval or file summarisation—in shadow mode, with no write-back to coverage, fraud, medical or payment decisions.
+3. Use a holdout set containing complex, multilingual, vulnerable and poor-quality files. Set go/no-go thresholds in advance for accuracy, omissions, subgroup outcomes, overrides and complaints.
+4. Expand only when measured claimant and claims outcomes improve without unacceptable new risk.
 
-The **NAIC's 4 December 2023 model bulletin** covers claims, fraud and payment and says insurers remain responsible when third parties supply AI outputs; it is model guidance, not automatically binding law in every state. [NAIC bulletin](https://content.naic.org/sites/default/files/inline-files/2023-12-4%20Model%20Bulletin_Adopted_0.pdf)
+**Regulatory caveat:** requirements vary by jurisdiction and use. Assess applicable insurance, unfair-claims, prompt-payment, privacy, discrimination and recordkeeping rules. Where automated processing materially affects a person, assess applicable automated-decision, transparency, human-intervention, special-category-data and impact-assessment requirements; GDPR Article 22 may be relevant. In the EU, AI Act classification depends on the system’s actual function—claims involvement alone does not determine whether it is high-risk.
 
-The **UK FCA's 26 June 2024 Consumer Duty review** found insurers needed stronger monitoring of fair outcomes—not only timeliness and declined-claim rates—including settlement values, complaints and root causes. [FCA review](https://www.fca.org.uk/publications/multi-firm-reviews/insurance-multi-firm-review-outcomes-monitoring-under-consumer-duty)
+## Sources
 
-The **EU AI Act (2024)** expressly treats life/health insurance risk assessment and pricing as high-risk; claims handling is not automatically high-risk and must be classified by actual function, profiling and material influence. [EU AI Act](https://eur-lex.europa.eu/eli/reg/2024/1689/oj/eng/pdf)
-
-## Decision rule
-
-Approve a pilot only where the insurer can demonstrate, against a comparable non-AI process, faster handling **without worse accuracy, fairness or claimant outcomes**, traceable evidence for material recommendations, acceptable hallucination/override/complaint rates, and a reconstructable audit trail. Treat vendor case studies as feasibility signals—not proof of claimant benefit.
+- [EIOPA, *Generative AI Market Survey* (2 February 2026)](https://www.eiopa.europa.eu/publications/generative-ai-market-survey-outlook-use-cases-and-risk-management_en)
+- [Swiss Re, ClaimsGenAI case study (20 June 2025)](https://www.swissre.com/risk-knowledge/advancing-societal-benefits-digitalisation/how-generative-ai-is-transforming-insurance-claims-claimsgenai.html)
+- [NAIC, *Model Bulletin: Use of Artificial Intelligence Systems by Insurers* (4 December 2023)](https://content.naic.org/sites/default/files/inline-files/2023-12-4%20Model%20Bulletin_Adopted_0.pdf)
+- [EIOPA, Opinion on AI governance and risk management (6 August 2025)](https://www.eiopa.europa.eu/eiopa-publishes-opinion-ai-governance-and-risk-management-2025-08-06_en)
+- [NIST, *AI RMF Generative AI Profile* (2024)](https://www.nist.gov/publications/artificial-intelligence-risk-management-framework-generative-artificial-intelligence)
+- [IAIS, application paper on supervision of AI (2025)](https://www.iais.org/2025/07/the-iais-publishes-application-paper-on-the-supervision-of-artificial-intelligence/)
